@@ -2,9 +2,8 @@ name: Обновление фильтров Brave
 
 on:
   schedule:
-    # Запуск каждый день в 03:00 по UTC (глубокая ночь)
     - cron: '0 3 * * *'
-  workflow_dispatch: # Позволяет запускать скрипт вручную по кнопке
+  workflow_dispatch:
 
 jobs:
   build:
@@ -22,8 +21,6 @@ jobs:
           python-version: '3.x'
 
       - name: Запуск скрипта склейки фильтров
-        run: python update_filters.txt.py
-        # Обратите внимание, вызываем правильное имя файла
         run: python update_filters.py
 
       - name: Сохранение и пуш изменений
