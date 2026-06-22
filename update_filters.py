@@ -38,37 +38,41 @@ URLS = [
     "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt",
     "https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/adguard.txt",
     
-    # --- ТОП Косметические правила (Добавлены) ---
+    # --- ТОП Косметические правила ---
     "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt",
     "https://www.i-dont-care-about-cookies.eu/abp/",
     "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
     "https://raw.githubusercontent.com/bpc-clone/bypass-paywalls-clean-filters/main/bpc-paywall-filter.txt"
 ]
 
+# --- NoADS_RU (Загружается отдельно, чтобы полностью добавить его в Safari) ---
+NOADS_URL = [
+    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt"
+]
+
 # --- СПИСКИ ДЛЯ ИСКЛЮЧЕНИЯ ДУБЛИКАТОВ ИЗ SAFARI ---
-# Эти списки скачиваются только для того, чтобы вычесть их правила из файла для Safari, 
-# так как они уже работают внутри приложения AdGuard Pro.
+# NoADS_RU отсюда удален, так как теперь ты отключишь его в самом приложении
 ADGUARD_BUILTIN_URLS = [
-    "https://filters.adtidy.org/extension/chromium/filters/1.txt",  # Base
-    "https://filters.adtidy.org/extension/chromium/filters/2.txt",  # Russian
-    "https://filters.adtidy.org/extension/chromium/filters/3.txt",  # Tracking Protection
-    "https://filters.adtidy.org/extension/chromium/filters/4.txt",  # Social Media
-    "https://filters.adtidy.org/extension/chromium/filters/11.txt", # Mobile Ads
-    "https://filters.adtidy.org/extension/chromium/filters/13.txt", # Widgets
-    "https://filters.adtidy.org/extension/chromium/filters/14.txt", # Annoyances
-    "https://filters.adtidy.org/extension/chromium/filters/15.txt", # Mobile App Banners
-    "https://filters.adtidy.org/extension/chromium/filters/16.txt", # Popups
-    "https://filters.adtidy.org/extension/chromium/filters/17.txt", # Cookie Notices
-    "https://filters.adtidy.org/extension/chromium/filters/18.txt", # Other Annoyances
-    "https://easylist.to/easylist/easylist.txt",                    # EasyList
-    "https://easylist.to/easylist/easyprivacy.txt",                 # EasyPrivacy
-    "https://easylist-downloads.adblockplus.org/cntblock.txt",      # RU Adlist Counters
-    "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",         # EasyList Cookie/Fanboy
-    "https://raw.githubusercontent.com/easylist/ruadlist/master/advblock.txt" # RU Adlist
+    "https://filters.adtidy.org/extension/chromium/filters/1.txt",  
+    "https://filters.adtidy.org/extension/chromium/filters/2.txt",  
+    "https://filters.adtidy.org/extension/chromium/filters/3.txt",  
+    "https://filters.adtidy.org/extension/chromium/filters/4.txt",  
+    "https://filters.adtidy.org/extension/chromium/filters/11.txt", 
+    "https://filters.adtidy.org/extension/chromium/filters/13.txt", 
+    "https://filters.adtidy.org/extension/chromium/filters/14.txt", 
+    "https://filters.adtidy.org/extension/chromium/filters/15.txt", 
+    "https://filters.adtidy.org/extension/chromium/filters/16.txt", 
+    "https://filters.adtidy.org/extension/chromium/filters/17.txt", 
+    "https://filters.adtidy.org/extension/chromium/filters/18.txt", 
+    "https://easylist.to/easylist/easylist.txt",                    
+    "https://easylist.to/easylist/easyprivacy.txt",                 
+    "https://easylist-downloads.adblockplus.org/cntblock.txt",      
+    "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",         
+    "https://raw.githubusercontent.com/easylist/ruadlist/master/advblock.txt" 
 ]
 
 def fetch_rules(url_list, follow_includes=False):
-    rules = set() # Множество set() автоматически гарантирует 100% отсутствие дубликатов
+    rules = set() 
     urls_to_process = url_list.copy()
     processed_urls = set()
     
@@ -103,7 +107,7 @@ def fetch_rules(url_list, follow_includes=False):
                         if len(parts) >= 2:
                             line = f"||{parts[1]}^"
                             
-                    rules.add(line) # Добавляем правило (если оно уже есть, Python его пропустит)
+                    rules.add(line)
             print(f"Загружен: {url}")
         except Exception as e:
             print(f"Ошибка при загрузке {url}: {e}")
@@ -111,42 +115,51 @@ def fetch_rules(url_list, follow_includes=False):
     return rules
 
 def generate_custom_filter():
-    print("--- 1. СБОРКА ОСНОВНЫХ ПРАВИЛ ДЛЯ BRAVE ---")
-    brave_rules = fetch_rules(URLS, follow_includes=True)
+    print("--- 1. СБОРКА ОСНОВНЫХ ПРАВИЛ ---")
+    brave_base_rules = fetch_rules(URLS, follow_includes=True)
     
-    print("\n--- 2. СКАЧИВАНИЕ БАЗ ADGUARD ДЛЯ ИСКЛЮЧЕНИЯ ДУБЛИКАТОВ ---")
+    print("\n--- 2. ЗАГРУЗКА NOADS_RU (ДЛЯ SAFARI И BRAVE) ---")
+    noads_rules = fetch_rules(NOADS_URL, follow_includes=False)
+    
+    print("\n--- 3. СКАЧИВАНИЕ БАЗ ADGUARD ДЛЯ ИСКЛЮЧЕНИЯ ДУБЛИКАТОВ ---")
     adguard_existing_rules = fetch_rules(ADGUARD_BUILTIN_URLS, follow_includes=False)
 
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    # ЗАПИСЬ 1: Полный фильтр для Brave (Без дубликатов внутри себя)
+    # Сливаем базовые правила и NoADS_RU для Brave
+    brave_rules = brave_base_rules.union(noads_rules)
+
+    # ЗАПИСЬ 1: Полный фильтр для Brave
     with open('brave_ultimate_filter.txt', 'w', encoding='utf-8') as f:
         f.write("! Title: My Ultimate Brave Filter\n")
         f.write(f"! Updated: {timestamp} (Автоматическая сборка)\n\n")
         for rule in sorted(brave_rules):
             f.write(rule + '\n')
             
-    # ФИЛЬТРАЦИЯ 2: Отделяем косметику для Safari и вычитаем дубликаты
-    safari_cosmetic_rules = set()
-    for rule in brave_rules:
-        # Признаки косметического правила (сокрытие элементов, вставка стилей)
+    # ФИЛЬТРАЦИЯ 2: Собираем мощный файл для Safari
+    safari_rules = set()
+    
+    # Шаг А: Добавляем чистую косметику из основных баз (строго без дубликатов AdGuard)
+    for rule in brave_base_rules:
         if '##' in rule or '#?#' in rule or '#@#' in rule:
-            # Добавляем только если этого правила НЕТ в базах AdGuard
             if rule not in adguard_existing_rules:
-                safari_cosmetic_rules.add(rule)
+                safari_rules.add(rule)
+                
+    # Шаг Б: Добавляем NoADS_RU АБСОЛЮТНО ЦЕЛИКОМ (чтобы работала защита от всплывающих окон)
+    safari_rules.update(noads_rules)
 
-    # ЗАПИСЬ 2: Очищенная косметика для Safari (Без дубликатов внутри себя и без дублей AdGuard)
+    # ЗАПИСЬ 2: Мощный список для Safari
     with open('safari_cosmetic_filter.txt', 'w', encoding='utf-8') as f:
-        f.write("! Title: Safari Cosmetic (No AdGuard Duplicates)\n")
+        f.write("! Title: Safari Custom Filter (Cosmetics + NoADS_RU)\n")
         f.write(f"! Updated: {timestamp}\n")
-        f.write(f"! Косметических правил: {len(safari_cosmetic_rules)}\n\n")
-        for rule in sorted(safari_cosmetic_rules):
+        f.write(f"! Всего правил: {len(safari_rules)}\n\n")
+        for rule in sorted(safari_rules):
             f.write(rule + '\n')
 
     print(f"\n==============================================")
     print(f"ГОТОВО!")
     print(f"Всего уникальных правил для Brave: {len(brave_rules)}")
-    print(f"Косметических правил для Safari (строго без дубликатов): {len(safari_cosmetic_rules)}")
+    print(f"Всего правил для Safari (Косметика + Полный NoADS_RU): {len(safari_rules)}")
     print(f"==============================================")
 
 if __name__ == "__main__":
