@@ -36,10 +36,7 @@ URLS = [
     "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
     "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
     "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt",
-    "https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/adguard.txt",
-    
-    # --- Добавлено по запросу ---
-    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt"
+    "https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/adguard.txt"
 ]
 
 # --- СПИСКИ ДЛЯ ИСКЛЮЧЕНИЯ ДУБЛИКАТОВ ИЗ SAFARI ---
@@ -61,8 +58,7 @@ ADGUARD_BUILTIN_URLS = [
     "https://easylist.to/easylist/easyprivacy.txt",                 # EasyPrivacy
     "https://easylist-downloads.adblockplus.org/cntblock.txt",      # RU Adlist Counters
     "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",         # EasyList Cookie/Fanboy
-    "https://raw.githubusercontent.com/easylist/ruadlist/master/advblock.txt", # RU Adlist
-    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt" # Custom NoADS
+    "https://raw.githubusercontent.com/easylist/ruadlist/master/advblock.txt" # RU Adlist
 ]
 
 def fetch_rules(url_list, follow_includes=False):
@@ -102,7 +98,6 @@ def fetch_rules(url_list, follow_includes=False):
                             line = f"||{parts[1]}^"
                             
                     rules.add(line)
-            # При желании можно закомментировать print, чтобы не засорять консоль
             print(f"Загружен: {url}")
         except Exception as e:
             print(f"Ошибка при загрузке {url}: {e}")
