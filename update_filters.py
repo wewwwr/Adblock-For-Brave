@@ -36,7 +36,13 @@ URLS = [
     "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
     "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
     "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt",
-    "https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/adguard.txt"
+    "https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/adguard.txt",
+    
+    # --- ТОП Косметические правила (Добавлены) ---
+    "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt",
+    "https://www.i-dont-care-about-cookies.eu/abp/",
+    "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
+    "https://raw.githubusercontent.com/bpc-clone/bypass-paywalls-clean-filters/main/bpc-paywall-filter.txt"
 ]
 
 # --- СПИСКИ ДЛЯ ИСКЛЮЧЕНИЯ ДУБЛИКАТОВ ИЗ SAFARI ---
@@ -62,7 +68,7 @@ ADGUARD_BUILTIN_URLS = [
 ]
 
 def fetch_rules(url_list, follow_includes=False):
-    rules = set()
+    rules = set() # Множество set() автоматически гарантирует 100% отсутствие дубликатов
     urls_to_process = url_list.copy()
     processed_urls = set()
     
@@ -97,7 +103,7 @@ def fetch_rules(url_list, follow_includes=False):
                         if len(parts) >= 2:
                             line = f"||{parts[1]}^"
                             
-                    rules.add(line)
+                    rules.add(line) # Добавляем правило (если оно уже есть, Python его пропустит)
             print(f"Загружен: {url}")
         except Exception as e:
             print(f"Ошибка при загрузке {url}: {e}")
@@ -113,7 +119,7 @@ def generate_custom_filter():
 
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    # ЗАПИСЬ 1: Полный фильтр для Brave
+    # ЗАПИСЬ 1: Полный фильтр для Brave (Без дубликатов внутри себя)
     with open('brave_ultimate_filter.txt', 'w', encoding='utf-8') as f:
         f.write("! Title: My Ultimate Brave Filter\n")
         f.write(f"! Updated: {timestamp} (Автоматическая сборка)\n\n")
@@ -125,11 +131,11 @@ def generate_custom_filter():
     for rule in brave_rules:
         # Признаки косметического правила (сокрытие элементов, вставка стилей)
         if '##' in rule or '#?#' in rule or '#@#' in rule:
-            # Магия дедупликации: добавляем только если этого правила НЕТ в AdGuard
+            # Добавляем только если этого правила НЕТ в базах AdGuard
             if rule not in adguard_existing_rules:
                 safari_cosmetic_rules.add(rule)
 
-    # ЗАПИСЬ 2: Очищенная косметика для Safari
+    # ЗАПИСЬ 2: Очищенная косметика для Safari (Без дубликатов внутри себя и без дублей AdGuard)
     with open('safari_cosmetic_filter.txt', 'w', encoding='utf-8') as f:
         f.write("! Title: Safari Cosmetic (No AdGuard Duplicates)\n")
         f.write(f"! Updated: {timestamp}\n")
