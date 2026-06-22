@@ -45,13 +45,12 @@ URLS = [
     "https://raw.githubusercontent.com/bpc-clone/bypass-paywalls-clean-filters/main/bpc-paywall-filter.txt"
 ]
 
-# --- NoADS_RU (Загружается отдельно, чтобы полностью добавить его в Safari) ---
+# --- NoADS_RU (Грузим отдельно для умной фильтрации) ---
 NOADS_URL = [
     "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt"
 ]
 
 # --- СПИСКИ ДЛЯ ИСКЛЮЧЕНИЯ ДУБЛИКАТОВ ИЗ SAFARI ---
-# NoADS_RU отсюда удален, так как теперь ты отключишь его в самом приложении
 ADGUARD_BUILTIN_URLS = [
     "https://filters.adtidy.org/extension/chromium/filters/1.txt",  
     "https://filters.adtidy.org/extension/chromium/filters/2.txt",  
@@ -118,7 +117,7 @@ def generate_custom_filter():
     print("--- 1. СБОРКА ОСНОВНЫХ ПРАВИЛ ---")
     brave_base_rules = fetch_rules(URLS, follow_includes=True)
     
-    print("\n--- 2. ЗАГРУЗКА NOADS_RU (ДЛЯ SAFARI И BRAVE) ---")
+    print("\n--- 2. ЗАГРУЗКА NOADS_RU ---")
     noads_rules = fetch_rules(NOADS_URL, follow_includes=False)
     
     print("\n--- 3. СКАЧИВАНИЕ БАЗ ADGUARD ДЛЯ ИСКЛЮЧЕНИЯ ДУБЛИКАТОВ ---")
@@ -136,21 +135,28 @@ def generate_custom_filter():
         for rule in sorted(brave_rules):
             f.write(rule + '\n')
             
-    # ФИЛЬТРАЦИЯ 2: Собираем мощный файл для Safari
+    # ФИЛЬТРАЦИЯ 2: Собираем компактный и мощный файл для Safari
     safari_rules = set()
     
-    # Шаг А: Добавляем чистую косметику из основных баз (строго без дубликатов AdGuard)
+    # Шаг А: Базовая косметика (без дубликатов AdGuard)
     for rule in brave_base_rules:
         if '##' in rule or '#?#' in rule or '#@#' in rule:
             if rule not in adguard_existing_rules:
                 safari_rules.add(rule)
                 
-    # Шаг Б: Добавляем NoADS_RU АБСОЛЮТНО ЦЕЛИКОМ (чтобы работала защита от всплывающих окон)
-    safari_rules.update(noads_rules)
+    # Шаг Б: УМНАЯ ФИЛЬТРАЦИЯ NoADS_RU (Режем вес!)
+    for rule in noads_rules:
+        # 1. Забираем косметику (рамки, баннеры)
+        if '##' in rule or '#?#' in rule or '#@#' in rule:
+            safari_rules.add(rule)
+        # 2. Забираем правила с модификаторами (это те самые $popup, $redirect, $script)
+        elif '$' in rule:
+            safari_rules.add(rule)
+        # 3. Все простые домены (||bad-site.com^) ИГНОРИРУЮТСЯ! Их заблокирует твой Shadowrocket.
 
-    # ЗАПИСЬ 2: Мощный список для Safari
+    # ЗАПИСЬ 2: Мощный, но легкий список для Safari
     with open('safari_cosmetic_filter.txt', 'w', encoding='utf-8') as f:
-        f.write("! Title: Safari Custom Filter (Cosmetics + NoADS_RU)\n")
+        f.write("! Title: Safari Custom Filter (Cosmetics + Smart Popups)\n")
         f.write(f"! Updated: {timestamp}\n")
         f.write(f"! Всего правил: {len(safari_rules)}\n\n")
         for rule in sorted(safari_rules):
@@ -158,8 +164,8 @@ def generate_custom_filter():
 
     print(f"\n==============================================")
     print(f"ГОТОВО!")
-    print(f"Всего уникальных правил для Brave: {len(brave_rules)}")
-    print(f"Всего правил для Safari (Косметика + Полный NoADS_RU): {len(safari_rules)}")
+    print(f"Всего правил для Brave: {len(brave_rules)}")
+    print(f"Оптимизированных правил для Safari (без жира): {len(safari_rules)}")
     print(f"==============================================")
 
 if __name__ == "__main__":
