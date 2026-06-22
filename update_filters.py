@@ -1,6 +1,7 @@
 import urllib.request
 import datetime
 
+# --- ОСНОВНЫЕ СПИСКИ (Пойдут целиком в Brave) ---
 URLS = [
     # --- AdGuard & Regional (Рунет) ---
     "https://filters.adtidy.org/extension/chromium/filters/1.txt",
@@ -35,18 +36,42 @@ URLS = [
     "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
     "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
     "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt",
-    "https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/adguard.txt"
+    "https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/adguard.txt",
+    
+    # --- Добавлено по запросу ---
+    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt"
 ]
 
-def generate_custom_filter():
-    unique_rules = set()
-    urls_to_process = URLS.copy()
+# --- СПИСКИ ДЛЯ ИСКЛЮЧЕНИЯ ДУБЛИКАТОВ ИЗ SAFARI ---
+# Эти списки скачиваются только для того, чтобы вычесть их правила из файла для Safari, 
+# так как они уже работают внутри приложения AdGuard Pro.
+ADGUARD_BUILTIN_URLS = [
+    "https://filters.adtidy.org/extension/chromium/filters/1.txt",  # Base
+    "https://filters.adtidy.org/extension/chromium/filters/2.txt",  # Russian
+    "https://filters.adtidy.org/extension/chromium/filters/3.txt",  # Tracking Protection
+    "https://filters.adtidy.org/extension/chromium/filters/4.txt",  # Social Media
+    "https://filters.adtidy.org/extension/chromium/filters/11.txt", # Mobile Ads
+    "https://filters.adtidy.org/extension/chromium/filters/13.txt", # Widgets
+    "https://filters.adtidy.org/extension/chromium/filters/14.txt", # Annoyances
+    "https://filters.adtidy.org/extension/chromium/filters/15.txt", # Mobile App Banners
+    "https://filters.adtidy.org/extension/chromium/filters/16.txt", # Popups
+    "https://filters.adtidy.org/extension/chromium/filters/17.txt", # Cookie Notices
+    "https://filters.adtidy.org/extension/chromium/filters/18.txt", # Other Annoyances
+    "https://easylist.to/easylist/easylist.txt",                    # EasyList
+    "https://easylist.to/easylist/easyprivacy.txt",                 # EasyPrivacy
+    "https://easylist-downloads.adblockplus.org/cntblock.txt",      # RU Adlist Counters
+    "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",         # EasyList Cookie/Fanboy
+    "https://raw.githubusercontent.com/easylist/ruadlist/master/advblock.txt", # RU Adlist
+    "https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list_extended_plus.txt" # Custom NoADS
+]
+
+def fetch_rules(url_list, follow_includes=False):
+    rules = set()
+    urls_to_process = url_list.copy()
     processed_urls = set()
     
     while urls_to_process:
         url = urls_to_process.pop(0)
-        
-        # Защита от зацикливания, если файлы ссылаются друг на друга
         if url in processed_urls:
             continue
             
@@ -59,44 +84,69 @@ def generate_custom_filter():
                 for line in content.splitlines():
                     line = line.strip()
                     
-                    # Магия: Обработка скрытых ссылок uBlock Origin (!#include)
-                    if line.startswith('!#include'):
+                    if follow_includes and line.startswith('!#include'):
                         parts = line.split()
                         if len(parts) >= 2:
                             include_filename = parts[1].strip()
-                            # Формируем новую ссылку относительно текущей папки на GitHub
                             base_url = url.rsplit('/', 1)[0]
                             include_url = f"{base_url}/{include_filename}"
                             urls_to_process.append(include_url)
                         continue
 
-                    # Пропускаем обычные пустые строки и текстовые комментарии
                     if not line or line.startswith('!') or line.startswith('#'):
                         continue
                         
-                    # Конвертируем старый формат Hosts в формат AdBlock
                     if line.startswith('0.0.0.0 ') or line.startswith('127.0.0.1 '):
                         parts = line.split()
                         if len(parts) >= 2:
                             line = f"||{parts[1]}^"
                             
-                    unique_rules.add(line)
-            print(f"Успешно загружен: {url}")
+                    rules.add(line)
+            # При желании можно закомментировать print, чтобы не засорять консоль
+            print(f"Загружен: {url}")
         except Exception as e:
             print(f"Ошибка при загрузке {url}: {e}")
+            
+    return rules
 
-    # Запись итогового файла
-    output_filename = 'brave_ultimate_filter.txt'
-    with open(output_filename, 'w', encoding='utf-8') as f:
-        timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+def generate_custom_filter():
+    print("--- 1. СБОРКА ОСНОВНЫХ ПРАВИЛ ДЛЯ BRAVE ---")
+    brave_rules = fetch_rules(URLS, follow_includes=True)
+    
+    print("\n--- 2. СКАЧИВАНИЕ БАЗ ADGUARD ДЛЯ ИСКЛЮЧЕНИЯ ДУБЛИКАТОВ ---")
+    adguard_existing_rules = fetch_rules(ADGUARD_BUILTIN_URLS, follow_includes=False)
+
+    timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    # ЗАПИСЬ 1: Полный фильтр для Brave
+    with open('brave_ultimate_filter.txt', 'w', encoding='utf-8') as f:
         f.write("! Title: My Ultimate Brave Filter\n")
-        f.write(f"! Updated: {timestamp} (Автоматическая сборка)\n")
-        f.write(f"! Собрано из {len(processed_urls)} исходных файлов (включая скрытые под-списки uBlock).\n\n")
-        
-        for rule in sorted(unique_rules):
+        f.write(f"! Updated: {timestamp} (Автоматическая сборка)\n\n")
+        for rule in sorted(brave_rules):
             f.write(rule + '\n')
             
-    print(f"\nГотово! Обработано файлов: {len(processed_urls)}. Собрано уникальных правил: {len(unique_rules)}")
+    # ФИЛЬТРАЦИЯ 2: Отделяем косметику для Safari и вычитаем дубликаты
+    safari_cosmetic_rules = set()
+    for rule in brave_rules:
+        # Признаки косметического правила (сокрытие элементов, вставка стилей)
+        if '##' in rule or '#?#' in rule or '#@#' in rule:
+            # Магия дедупликации: добавляем только если этого правила НЕТ в AdGuard
+            if rule not in adguard_existing_rules:
+                safari_cosmetic_rules.add(rule)
+
+    # ЗАПИСЬ 2: Очищенная косметика для Safari
+    with open('safari_cosmetic_filter.txt', 'w', encoding='utf-8') as f:
+        f.write("! Title: Safari Cosmetic (No AdGuard Duplicates)\n")
+        f.write(f"! Updated: {timestamp}\n")
+        f.write(f"! Косметических правил: {len(safari_cosmetic_rules)}\n\n")
+        for rule in sorted(safari_cosmetic_rules):
+            f.write(rule + '\n')
+
+    print(f"\n==============================================")
+    print(f"ГОТОВО!")
+    print(f"Всего уникальных правил для Brave: {len(brave_rules)}")
+    print(f"Косметических правил для Safari (строго без дубликатов): {len(safari_cosmetic_rules)}")
+    print(f"==============================================")
 
 if __name__ == "__main__":
     generate_custom_filter()
