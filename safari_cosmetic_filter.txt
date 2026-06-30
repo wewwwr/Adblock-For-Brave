@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-06-29 08:18:50
-! Косметических правил: 50541
+! Updated: 2026-06-30 07:01:50
+! Косметических правил: 50568
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -1773,6 +1773,7 @@ advego.com,figshare.com#@#.share-block
 adventskalender-gewinnspiele.de,weihnachtsmarkt-finder.de##.shr
 adventurecorner.de###ac-consent-overlay
 adventuregamestudio.co.uk###cookies
+adventuregamestudio.co.uk,albertonrecord.co.za,app.deriv.com,artfund.org,asia.nikkei.com,banco.bradesco,barkeepersfriend.com,bedfordviewedenvalenews.co.za,bemyeyes.com,bodyscience.com,bookwhen.com,brasscom.org.br,buildpaste.net,bullionbypost.co.uk,businesscomparison.com,capitoltrades.com,citybuzz.co.za,clarksolutions.com.br,codashop.com,coinpaprika.com,comfrt.com,commonwealthfund.org,crumb.pet,cumlaudeimmobilia.com,cursos.io,cwi.nl,dagmersellen.ch,davistate.com,deezer.com,deltaco.com,depot.dev,developer.chrome.com,dictum.com,droptime.de,echr.coe.int,edera.dev,erieinsurance.com,etix.com,eyethunews.co.za,fansly.com,fex.plus,forja.ma,gatlinburg.com,gaultmillau.at,germistoncitynews.co.za,gosquared.com,guinyc.com,hck.hr,herning.dk,holidayworld.com,hsbc.com.sg,immigration.govt.nz,isciii.es,jolyn.com,kathorusmail.co.za,kemptonexpress.co.za,kenmei.co,kinescope.com,kormorant.co.za,ldminstitute.com,lensculture.com,letabaherald.co.za,libertas.software,liemobil.li,lifehacker.ru,liquid.ai,lokmat.com,massey.ac.nz,mcc-9.jp,medipolis.de,mega.io,mercadona.es,metroag.de,middelfart.dk,midrandreporter.co.za,mishloha.co.il,mmsports.fi,mmsports.no,mmsportsstore.dk,modworkshop.net,momentumdash.com,news.nntp4.net,news.ru,niche.com,northeasterntribune.co.za,oaic.gov.au,osthammar.se,overclock3d.net,overleaf.com,payroll.ca,peakstore.ru,pnherald.co.nz,poshmark.com,printful.com,privacy.com,prodoctorov.ru,promentesana.ch,protabletky.ru,publicdomainreview.org,raceroster.com,randburgsun.co.za,randfonteinherald.co.za,rawg.io,reseau-sante-haut-leman.ch,reseau-sante-nord-broye.ch,reseau-sante-region-lausanne.ch,rivistacontrasti.it,roodepoortnorthsider.co.za,roodepoortrecord.co.za,sedibengster.com,semanticscholar.org,sentosa.com.sg,signalbloom.ai,silpo.ua,smashingmagazine.com,sowetourban.co.za,sp-ps.ch,spar.co.za,stake.com,stjohneyehospital.org,store.fcm.ea.com,struer.dk,student.com,superbio.es,swissdevjobs.ch,t.co.il,taplink.cc,tc2000.com,thefly.com,tiktok.com,tudogostoso.com.br,tus.ac.jp,vangemert.dev,vangoghmuseum.nl,weather2day.co.il,welcome.brixen.it,witbanknews.co.za,zabars.com,zenodo.org##.cookie-banner
 adventureinsel.de##.infobox
 adventurespiele.net##+js(set-local-storage-item, dataProtectionInfoAccepted, true)
 adventuretime.ru,anime-free.ru,hardwareluxx.ru,internet-technologies.ru,kisameev.ru,nowa.cc,podolyaka.ru,trymobile.ru##iframe[src*="://yoomoney.ru/"]
@@ -1887,6 +1888,7 @@ affairenmarktplatz.com###overlay-content
 affaritaliani.it##.nl-bottom-content
 affbank.com##+js(set, canRunAds, true)
 affiliate.fc2.com##+js(nostif, checkFeed, 1000)
+affiliates.kayak.com,europeantechmap.eu##[aria-label="Cookie consent"]
 affittapresto.it###cookie-dett
 affordablemobiles.co.uk##+js(set-cookie, __a1cns, true)
 affordablemobiles.co.uk##+js(set-cookie, __a1cp, false)
@@ -2076,6 +2078,7 @@ ahchealthenews.com##.savicom-subscribe-widget
 aheadofthyme.com##.tasty-recipes-footer-content
 ahen.me##+js(remove-node-text, script, createAdblockBlock)
 ahen.me,doramatv.live,doramatv.one,doramatv.ru,ekabu.ru,findani.me,findanime.me,findanime.ru,grouple.co,librebook.me,livelib.ru,mintmanga.one,mose.su,online-mult.net,readmanga.io,selflib.me,selfmanga.live,soccer.ru,usagi.one#@#.twitter
+ahjucaf.org,apf-francophonie.org,arp.pl,banquedeluxembourg.com,bayonne.port.fr,bourgogne-wines.com,campusfrance.org,chablis-wines.com,chartediversite.lu,chequeenergie.gouv.fr,coldwellbanker.fr,competence.lu,cyprus-weather.com,diplomatie.gouv.fr,dupuis.com,emrlocal.com,fgirl.ch,forvia.com,guy-hoquet.com,havas.com,his-izz.be,infogreen.lu,inria.fr,ip-paris.fr,kameleoon.com,klepierre.it,klimabuendnis.lu,lassuranceretraite.fr,lechegaza.com,openedition.org,palais.mc,plazario2.com,portrevel.com,rosenbauer.com,rsf.org,sante.fr,scoop.it,smeg.mc,space-eye.ch,sprecher-automation.com,tenet.ac.za,tuttonatale.it,uclouvain.be###tarteaucitronRoot
 ahlens.se##.ah-warning
 ahliunited.com.kw##.greyCookie
 ahmedmode.*##+js(nostif, show)
@@ -7199,6 +7202,7 @@ brighteon.com##body,html:style(overflow: auto !important; position: initial !imp
 brighteon.com##body:style(overflow:auto !important)
 brighteon.com##div.overlay, .bottom-banner
 brighteon.com,cruxnow.com##.bottom-banner
+brightlands.com,cnmc.es,confea.org.br,cultura.gov.it,elbitsystems.com,frequentis.com,gmv.com,gogel.org,iucn.org,iucncongress2025.org,land.nrw,makingdiabeteseasier.com,mmkv.cz,nada.org,portdebarcelona.cat,puertos.es,red.es,sagemcom.com,santiagodecompostela.gal,srce.unizg.hr,stadtlandwirtschaft.wien,tecnoalarm.com,thecommonwealth.org,unifi.it,unirc.it###cookiesjsr
 brightonandhovealbion.com##+js(set-session-storage-item, cookie_reject, true)
 brightree.com##.notice
 brightygames.com,yoho.games##^html > head > meta[property="og:url"]:not([content*="/games/"], [content*="/play/"]):upward(1) > script:has-text(wgplayer)
@@ -8943,7 +8947,7 @@ chyoa.com##+js(aopw, ExoLoader)
 chyoa.com##.chyoa-banner
 chytomo.com##a[title="DONATE"]
 chytomo.com,texty.org.ua##div[class^="donate-"]
-chzzk.naver.com##+js(no-xhr-if, /veta.naver.com\/vas|veta.naver.com\/gfp|veta.naver.com\/call/ method:OPTIONS)
+chzzk.naver.com##+js(no-xhr-if, /(veta.naver.com\/vas|veta.naver.com\/gfp|veta.naver.com\/call)/ method:OPTIONS)
 chzzk.naver.com##+js(spoof-css, .banner_ad_wrapper, display, block)
 chzzkban.xyz##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js method:HEAD, emptyStr)
 chzzkban.xyz##+js(trusted-suppress-native-method, Node.prototype.contains, '{"className":"adsbygoogle"}', abort)
@@ -10627,6 +10631,7 @@ ctrlv.*##+js(set, uBlockOriginDetected, false)
 ctrlv.*##a.download[target="_blank"]:not(a[href*="ctrlv."]):remove()
 ctsbooks.org##.main-footer
 ctshop.rs##body > div:not([id]):not([class])
+ctt.de,fabricsandpapers.com,groomershop.pl,ironmaxx.de,johnsonsjewellers.co.uk,landyschemist.com,plaidonline.com,scienceinsport.com,sparkfun.com,theraband.com##.amgdprjs-bar-template
 ctv7.ru##body > .site:style(margin-top: 0 !important)
 ctv7.ru##footer .btn_soc
 ctvnews.ca##.bm-footer__wrapper__subscribeButton
@@ -11375,14 +11380,15 @@ decompiler.com###adblockWarning
 decompiler.com###artifactFileContent:style(display:block !important)
 decompiler.com##+js(aeld, error)
 decompiler.com##+js(aeld, load, img)
+decompiler.com##+js(prevent-canvas, 2d)
 decompiler.com##+js(prevent-fetch, /ethicalads\.io|nitropay\.com/)
 decompiler.com##+js(set, Element.prototype.getBoundingClientRect, undefined)
+decompiler.com##+js(set, HTMLImageElement.prototype.naturalWidth, 240)
 decompiler.com##+js(set, HTMLImageElement.prototype.onerror, undefined)
 decompiler.com##+js(set, HTMLImageElement.prototype.onload, undefined)
 decompiler.com##+js(set, Image.prototype.complete, false)
-decompiler.com##+js(set, Image.prototype.getBoundingClientRect, undefined)
-decompiler.com##+js(set-constant, ResizeObserver, undefined)
-decompiler.com##+js(trusted-replace-argument, document.getElementById, 0, json:"adblockWarning", condition, artifactFileContent)
+decompiler.com##+js(set, createImageBitmap, undefined)
+decompiler.com##+js(trusted-replace-argument, document.getElementsByTagName, 0, json:"adblockWarning", condition, pre)
 decompiler.com##body > div.container:has(#banner)
 decompiler.com##img[src*="media.ethicalads.io"]:style(width:240px !important;)
 decorativemodels.com,erowall.com,freyalist.com,guruofporn.com,jesseporn.xyz,kendralist.com,vipergirls.to,lizardporn.com,wantedbabes.com,bustybloom.com,exgirlfriendmarket.com,nakedneighbour.com##+js(aopr, loadTool)
@@ -12672,6 +12678,7 @@ draeger.com##globalnotification
 drafthound.com##+js(set-local-storage-item, acceptsAnalyticsCookies, false)
 drafthound.com##+js(set-local-storage-item, acceptsNecessaryCookies, true)
 draftium.com###cta ~ div, #cta ~ section
+drago.cz,efkoart.cz,ellexgk.cz,eltasat.cz,fizishop.cz,jagrteam.cz,kawio.cz,kniharina.cz,majkl3d.cz,majkl3d.sk,marusik.cz,niwa.cz,softcotton.pl,top-dent.cz,woolife.cz##.CA
 dragonnest.com##+js(rpnt, script, gtag != null, false)
 dragonpass.com.cn##.indexCookies
 dragonshop.gr##.header-banner
@@ -15077,6 +15084,7 @@ f1stream.*,fapptime.com,favoyeurtube.net,fbstream.*,fc2db.com,femdom-joi.com,fen
 f2movies.*##+js(aopr, AaDetector)
 f4wonline.com,fabeveryday.com,fabtcg.gg,fabulesslyfrugal.com,facilycasero.com,factsinstitute.com,factsjustforkids.com,fadeawayworld.net,fairygardendiy.com,fakeginger.com,falasteenifoodie.com,familiesgotravel.com,familyaroundthetable.com,familyfelicity.com,familyroadtrip.co,familysavvy.com,familyspice.com,familystylefood.com,familytravel-middleeast.com,familytreemagazine.com,familyvacationdesign.com,famivita.com,famivita.com.br,fanbuzz.com,fannetasticfood.com,fansfocus.com,fantabulosity.com,fantasticfunandlearning.com,fantasycalc.com,fantasydata.com,fantasyfootballcalculator.com,fantasyfootballranker.com,fantasyfootballreports.com,farmergrows.com,farmersalmanac.com,farmgirlgourmet.com,farmingbase.com,farmingshelter.com,farmlifediy.com,farmwifecooks.com,farmwifedrinks.com,fashionablefoods.com,fashionbeans.com,fastandslowcooking.com,fastfoodmenuprices.com,fastingwithlaura.com,fatcalc.com,fatforweightloss.com.au,fatgirlhedonist.com,fatherandus.com,fathermag.com,fatimacooks.net,fatimafarmer.com,fauxsho.org,favfamilyrecipes.com,favoritepaintcolorsblog.com,fearlessdining.com,feastandwest.com,feastforafraction.com,feastgood.com,feastingathome.com,feastingnotfasting.com,feastingonfruit.com,fedandfit.com,feedgrump.com,feedingourflamingos.com,feedingthefrasers.com,feedingtinybellies.com,feedmephoebe.com,feedthepudge.com,feelgoodfoodie.net,feelinfabulouswithkayla.com,feelingfoodish.com,feelslikehomeblog.com,femalefoodie.com,fermentingforfoodies.com,festivalguidesandreviews.com,ffxnow.com,fiatforum.com,fiberfluxblog.com,fiberglassrv.com,fictionhorizon.com,fictionlit.com,fierceboard.com,fifteenspatulas.com,fillingandfabulous.com,fillmyrecipebook.com,filmcolossus.com,filosofashion.com,financebuzz.com,financeformulas.net,financestrategists.com,financesuperhero.com,financialbestlife.com,financialpanther.com,financialsamurai.com,financillustrations.com,findcatnames.com,findingouradventure.com,findingseaturtles.com,findingtimetofly.com,findmyguitar.com,findtherun.com,finearttutorials.com,finishedwithsalt.com,finmasters.com,finurah.com,firefighterinsider.com,firefliesandmudpies.com,firstdayofhome.com,firstdown.studio,firstforwomen.com,firsthomelovelife.com,firstquarterfinance.com,firstsportz.com,firststepeurope.com,fishedthat.com,fisheries.co.uk,fishforums.net,fishlab.com,fishonfirst.com,fishtankreport.com,fitandfabliving.com,fitasamamabear.com,fitbottomedgirls.com,fitibility.com,fitmamarealfood.com,fitmittenkitchen.com,fitnessfooddiva.com,fitnessista.com,fitrays.com,fittoservegroup.com,fivebarks.com,fivehearthome.com,fixthisbuildthat.com,fjrforum.com,flabfix.com,flaggle.net,flagle-game.com,flamingotoes.com,flavcity.com,flavorfulife.com,flavormosaic.com,flawlessfood.co.uk,fliesonly.com,flightaware.com,flighthacks.com.au,flippedupsidedown.com,flipsimu.com,floandgrace.com,floorcritics.com,flooringforum.com,floralapron.com,florgeous.com,floridapanhandle.com,floridatravelwithkids.com,flouronmyfingers.com,flowerglossary.com,fluentin3months.com,fluentincoffee.com,fluxingwell.com,fmbrotherhood.com,fnafinsider.com,fnfmods.net,focusdailynews.com,fodmapeveryday.com,foldnfly.com,fontsforpeas.com,food-bites.com,foodal.com,foodandjourneys.net,foodbanjo.com,foodbloggersofcanada.com,foodbymaria.com,foodbymars.com,foodcrumbles.com,fooddoodles.com,foodess.com,foodfaithfitness.com,foodfolksandfun.net,foodforfitness.co.uk,foodforlifegarden.com,foodie.com,foodieaholic.com,foodieandwine.com,foodiecrush.com,foodiefiasco.com,foodieholly.com,foodiesterminal.com,foodiewithfamily.com,foodmetamorphosis.com,foodnetworkgossip.com,foodnouveau.com,foodnutters.com,foodologygeek.com,foodpleasureandhealth.com,foodrenegade.com,foodrepublic.com,foodsguy.com,foodsharingvegan.com,foodsharkmarfa.com,foodstoragemoms.com,foodstruct.com,foodtasia.com,foodtasticmom.com,foodtruckempire.com,foodwineandlove.com,foodwithfeeling.com,foolproofliving.com,footballgamingzone.com,footballrumors.me,footprinthero.com,foragersofhappiness.com,forbusybees.com,fordauthority.com,fordfullsize.com,fordraptor2.com,fordraptorforum.com,fordtremor.com,fordtruckfanatics.com,forensicfilesnow.com,forestriverforums.com,forevermillennials.com,forevertwentysomethings.com,foreverwingman.com,forgetfulmomma.com,forgetsugarfriday.com,forkinthekitchen.com,forkknifeswoon.com,forktospoon.com,formatlibrary.com,forscubadivers.com,forthefamily.org,forthefrills.com,forthepleasureofeating.com,fortniteinsider.com,fortressofsolitude.co.za,fortunly.com,forzafire.com,fosbasdesigns.com,fouraroundtheworld.com,fourwheeltrends.com,foxandbriar.com,foxandpinestitches.com,foxeslovelemons.com,foxestalk.co.uk,foxfarmhome.com,foxhollowcottage.com,foxyfolksy.com,fpl.team,fpsindex.com,fptrack.com,fractuslearning.com,fragrancereview.com,fragrancetoday.com,fraicheliving.com,framedcooks.com,frameratetest.com,franceadventurer.com,francevoyager.com,frearbroslabs.com,free-n8n-templates.com,freeairpump.com,freecrochettutorials.com,freedomcardboard.com,freedomresidence.com,freehomeschooldeals.com,freemonogrammaker.com,freeorganizingprintables.com,freeprettythingsforyou.com,freeride.com,freescrapbookfonts.com,freeslp.com,freestyletravelers.com,freethankyounotes.com,freetoursbyfoot.com,freezeit.co.uk,freezerfit.com,freezermeals101.com,freightcourse.com,frenchbulldogowner.com,frenchcountrycottage.net,freshaprilflours.com,freshapron.com,freshbeanbakery.com,freshcoasteats.com,freshoffthegrid.com,fridasofiaeats.com,fridaywereinlove.com,friendshipbreadkitchen.com,fromabcstoacts.com,fromachefskitchen.com,fromhousetohome.com,fromicecreamtosteak.com,frommybowl.com,fromscratchdaily.com,fromtheangels.com,fromthiskitchentable.com,fromvalerieskitchen.com,frondtech.com,front-porch-ideas-and-more.com,frontporchlifemagazine.com,frontrangefed.com,frugalcouponliving.com,frugalfanatic.com,frugalfarmwife.com,frugalforless.com,frugalfun4boys.com,frugalginger.com,frugallivingmom.com,frugallyblonde.com,frugalmomeh.com,frugalreality.com,frugalrules.com,frugalyabundante.com,frvr.com,fuelly.com,fufuskitchen.com,fullcoffeeroast.com,fullofplants.com,fullydriven.com,fun-a-day.com,fun-squared.com,funattic.com,funcheaporfree.com,funclothcrafts.com,funcraftskids.com,funfinderclub.com,funfoodfrolic.com,funhandprintartblog.com,funinfairfaxva.com,funinfirst.com,funintheyard.com,funktionalhome.com,funkyjunkinteriors.net,funlearningforkids.com,funmoneymom.com,funny-jokes.com,funthingsinhouston.com,funwithmama.com,funwithoutfodmaps.com,futmind.com,fynesdesigns.com##+js(rmnt, script, /"__adblocker"|"data-sdk"/)
 f51rm.com>>##+js(nowoif, /^ [-\d]/)
+f6s.com##+js(aeld, , redirect)
 f95zone.to.it##.ad-download
 faaduindia.com,fapfapgames.com,fastcars1.com,faqwiki.us,fattelodasolo.it,fchopin.net,felicetommasino.com,ferdroid.net,feyorra.top,ffcv.es,fhedits.in,fhmemorial.com,fibwatch.store,filmypoints.in,finalnews24.com,financeandinsurance.xyz,financeyogi.net,financid.com,finclub.in,findheman.com,findnewjobz.com,fine-wings.com,firescans.xyz,fitnesshealtharticles.com,fitnessscenz.com,fleamerica.com,flexamens.com,flixhub.*,flordeloto.site,flowsnet.com,folkmord.se,foodgustoso.it,foodiesjoy.com,footeuses.com,footyload.com,footymercato.com,forex-yours.com,forexcracked.com,forexrw7.com,former-railroad-worker.com,foxaholic.com,francaisfacile.net,free.7hd.club,free-3dtextureshd.com,free-wargamer.com,freebiesmockup.com,freecoursesonline.me,freedom3d.art,freefiremaxofficial.com,freefireupdate.com,freegetcoins.com,freelancerartistry.com,freemedicalbooks.org,freemockups.org,freemovies-download.com,freeoseocheck.com,freepasses.org,freescorespiano.com,freetarotonline.com,freetubetv.net,freevstplugins.*,freewoodworking.ca,freshersgold.com,friedrichshainblog.de,frpgods.com,ftuapps.*,fumettologica.it,funeral-memorial.com,funeralmemorialnews.com,funztv.com,futbolenlatelevision.com,fx-22.com##+js(noeval-if, /chp_?ad/)
 faanproj.com##.gmr-bannerpopup
@@ -16506,7 +16514,6 @@ football.ua,korrespondent.net,kp.ua###gdpr-disclaimer
 football24.ru##.tlgram
 football24.ua##.follow-us-under-news
 football24.ua##[onclick*="socialShareOpenWindow"]
-football24.ua##app-news-share
 football24.ua##app-socials
 footballhd.ru###footer > .right
 footballhd.ru##.mob_link_gl
@@ -16733,6 +16740,7 @@ forum.ru-board.com##.ny-lights:style(animation: none !important)
 forum.ru-board.com##.tpc > .post > a[href]:style(word-break: break-all)
 forum.ru-board.com##.tpc > .post > table[width] > tbody > tr > .lgf:style(word-break: break-word)
 forum.ru-board.com##:matches-path(topic=51666) .dats > a[href="javascript:pasteN('AlAvis')"] > b:style(color: #00bfff !important)
+forum.ru-board.com##body > .tb ~ .tb .tpc > span.post:style(word-break: break-word)
 forum.ru-board.com##body > form > p[align="center"]
 forum.ru-board.com##body > p[align="center"]
 forum.sbenny.com##.message-inner:has(.ads)
@@ -17630,10 +17638,11 @@ gamedrive.*##+js(aeld, click, preventDefault)
 gamedrive.*##+js(aopr, b2a)
 gamedrive.*##+js(aost, document.querySelector, /showModal|chooseAction|doAction|callbackAdsBlocked/)
 gamedrive.*##.code-block a[href][target="_blank"] > img[data-recalc-dims]
-gamedrive.*##.hbo-banner
+gamedrive.*##.hbu-banner
 gamedrive.*##.netflix-banner
 gamedrive.*##[id^="gridlove-module-"] > .gridlove-text-module-content > div:is(:has([data-format]), [onclick*='window.open'])
 gamedrive.*##a[href][target="_blank"][rel="noopener noreferrer"] > img
+gamedrive.*##div[class*="banner"][onclick]
 gamefound.com##div[data-qa*="cookie-policy-box"]
 gamefreak.gr##.notification-wrapper
 gamefront.com##+js(acs, $, AdBlock)
@@ -18080,6 +18089,7 @@ gelsia.it##.cao
 gem.cbc.ca##+js(set-cookie, gem_cookies_usage_production, 1)
 gemeinsam-klasse-sein.de,tk.de##.g-consentmanager
 gemeinsam-klasse-sein.de,tk.de##body,html:style(overflow: auto !important; position: initial !important;)
+gemfellowship.org##+js(rmnt, script, TextDecoder)
 gemini.google.com##.cdk-overlay-container:has(.get-app-mobile-dialog)
 gemini.google.com##.get-app-banner
 gemini.pl###modal-cookies
@@ -19129,6 +19139,7 @@ greekcitytimes.com##.adasprso-inline-container
 greekcitytimes.com##.mfp-bg
 greekcitytimes.com##.mfp-wrap
 greekfun.net,morencius.com##+js(nowoif, _blank)
+greeksubsmovies.net##+js(rmnt, script, offsetHeight)
 green-24.de##+js(set-cookie, cf4212_cn, 1)
 green-circle.co##body > [style*="fixed"]
 green.hr##.elementor-popup-modal
@@ -19375,6 +19386,9 @@ gunsamerica.com##.sticky-footer-overlay
 gunsamerica.com,ultra1plus.com##.overlay
 gunsandammo.com##.lity
 gupload.xyz##+js(acs, EventTarget.prototype.addEventListener, open)
+gupload.xyz##+js(aeld, click, adClickThrough)
+gupload.xyz##+js(rmnt, script, /document\.write|MouseEvent|z-index:9999/)
+gupload.xyz##+js(trusted-json-edit, ..showAds=false)
 gurock.com###gk-cookie-wrapper
 gurtshop.de##.sticky-wrapper
 guru3d.com##.content3 > div[style]:has-text(Advertisement)
@@ -19837,6 +19851,9 @@ hdrezka.inc,rezka.biz##.container > #content:style(margin-top: unset !important)
 hdrezka.inc,rezka.biz##.shareLabel
 hdrezka.it##.header-subscr
 hdrezka.my##.main-container:style(margin-top: 0 !important)
+hdrezka.pl##.header-subscr-btn
+hdrezka.pl##.wrap-main:style(margin-top: 0 !important)
+hdrezka.pl##.wrap:style(padding-top: 0 !important)
 hdru.net##.page:style(margin-top: 0 !important)
 hdru.net##.trailer > .leg
 hds-streaming.*###fakeplayer
@@ -25529,6 +25546,7 @@ linenbee.com##.newsletter__lightbox
 linenbee.com##body,html:style(overflow: auto !important; position: initial !important;)
 linenbee.com,nyspiceshop.com,thegame.cool##.newsletter_section
 linergy.de###linergy-cookie-accept
+lineup11.net##+js(aeld, visibilitychange, .value&&)
 lineup11.net##+js(nosiif, .value||)
 lineup11.net##+js(nostif, /\{[a-z]+\(\)\}/)
 lineupexperts.com##+js(rmnt, script, /account_ad_blocker|tmaAB/)
@@ -26022,6 +26040,10 @@ lojabuettner.com.br##.eula-bg
 lojasrenner.com.br##.notification
 lokercirebon.com##+js(aeld, /contextmenu|keydown|dragstart/)
 lokercirebon.com##style:has-text(::selection):remove()
+lokerwfh.net,app.khaddavi.net###verify, #second_open_placeholder:others()
+lokerwfh.net,app.khaddavi.net##+js(nano-stb, /.?/, *)
+lokerwfh.net,app.khaddavi.net##+js(no-fetch-if, googlesyn)
+lokerwfh.net,sfl.gl##.z-0.overflow-hidden.relative.w-full.rounded-lg.to-\[\#0948EA\].from-\[\#5597FF\].bg-gradient-to-r.p-8.min-h-\[189px\]
 lokhung888.com##+js(nowoif, _blank)
 lokhung888.com##+js(rmnt, script, /popup|arrDirectLink/)
 lokinn.com###toast-container
@@ -27171,6 +27193,7 @@ mash.ru##[class*="styles_shares_"]
 mash.ru##[class^="styles_socials_"]
 mash.ru##footer ~ div[class]
 mashable.com###peek > div:not([id]):not([class])
+mashable.com##+js(href-sanitizer, a[href^="https://zdcs.link/"], ?u)
 mashable.com##.border-secondary-300
 mashable.com##.border-warmgray-100
 mashable.com##.bx-impress
@@ -30449,6 +30472,7 @@ next-decision.fr##.activebar-container
 next-episode.net##[id=""]
 next-gamer.de###ingameCookie
 nextapro.hu###cookie
+nextbase.com##.nb-cookies-container
 nextbike.de##.nb-cookie
 nextchessmove.com,reneweconomy.com.au##+js(rmnt, script, HTMLIFrameElement)
 nextdoor.com##+js(json-prune, data.me.personalizedFeed.feedItems.[-].promo.creative.clickThroughUrl.adsTrackingMetadata.metadata.adRequestId)
@@ -34922,6 +34946,8 @@ pruefernavi.de##+js(set, elasticApm.init, noopFunc)
 pruefungshelden.de##.elo-btn
 prufy.ru##.podelitsa
 prufy.ru##.send_news
+prydwen.gg##+js(json-prune-fetch-response, ads, , propsToMatch, /runtime-config)
+prydwen.gg##div.custom-banner-header
 przegladpiaseczynski.pl##+js(set-cookie, cc, 1)
 przelewy24.pl###policy_container
 przemysl.pl##.page-cookie
@@ -48034,6 +48060,7 @@ www.ixbt.com##footer > .sm\:flex-row
 www.ixbt.com##nav div[class^="menu-"] ~ div.hidden
 www.khl.ru##.rep-o-share
 www.khl.ru##.sapCpRuntime
+www.kinopoisk.*##a[href^="https://books.yandex.ru/"][href*="=selfpromo_bookmate"]:style(pointer-events: none !important)
 www.kinopoisk.*##div[class^="styles_sidebarContainer_"] > div[style^="position: sticky; top:"]:style(top: 0 !important)
 www.kinopoisk.*##header[style*="--header-height:"][style*="px"] > .header-navigation:style(margin-top: 0 !important)
 www.kinopoisk.*##header[style*="--header-height:"][style*="px"] > div > img:style(display: none !important)
