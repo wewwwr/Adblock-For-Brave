@@ -1,5 +1,5 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-06-30 07:01:50
+! Updated: 2026-07-01 07:15:44
 ! Косметических правил: 50568
 
 *###credential_picker_iframe
@@ -1126,7 +1126,10 @@
 9gag.com##body:style(overflow: auto !important;)
 9gag.com,adrenaline.com.br,akinator.com,and-more.co,animalia.bio,astro-seek.com,augustacrime.com,automobile-catalog.com,bab.la,babla.*,boardingarea.com,buchstaben.com,calculatorsoup.com,canuckaudiomart.com,collinsdictionary.com,crosswordsolver.com,dict.cc,dictionary.cambridge.org,dictionnaire.lerobert.com,divinedaolibrary.com,doviz.com,egitim.net.tr,egolf.jp,euronews.com,exceljet.net,fandom.com,fossbytes.com,freemcserver.net,game8.jp,gamewith.jp,gerbeaud.com,gezondnu.nl,girlschannel.net,happyinshape.com,helpdeskgeek.com,hochi.news,hollywoodlife.com,houseandgarden.co,index.hr,itavisen.no,km77.com,kreuzwortraetsel.de,kuruma-news.jp,ldoceonline.com,lejdd.fr,livescience.com,lootlemon.com,magmix.jp,mamastar.jp,merinfo.se,motorbikecatalog.com,motscroises.fr,mrexcel.com,nemzetisport.hu,neoseeker.com,neowin.net,newatlas.com,oeffnungszeitenbuch.de,oraridiapertura24.it,otonanswer.jp,oxfordlearnersdictionaries.com,pakkotoisto.com,perezhilton.com,pinterpoin.com,pons.com,ppatour.com,razzball.com,rotowire.com,scribd.com,sinemalar.com,skinmc.net,slideshare.net,songfacts.com,the-crossword-solver.com,thelayoff.com,thetorquereport.com,thingiverse.com,timeful.app,torontosun.com,toyokeizai.net,trafficnews.jp,travelingformiles.com,trilltrill.jp,tvtv.ca,tvtv.us,ukaudiomart.com,urbandictionary.com,urldecoder.org,usaudiomart.com,vague.style,watchdocumentaries.com,welt.de,willyweather.*,word-grabber.com,wordshake.com,wort-suchen.de##^script[data-cfasync="false"][nowprocket]
 9gag.com,adrenaline.com.br,and-more.co,animalia.bio,astro-seek.com,augustacrime.com,autofrage.net,automobile-catalog.com,bab.la,babla.*,base64decode.org,boardingarea.com,buchstaben.com,businessua.com,calculatorsoup.com,canuckaudiomart.com,chloeting.com,collinsdictionary.com,computerfrage.net,convertcase.net,costcoinsider.com,crosswordsolver.com,daily.co.jp,dict.cc,dictionary.cambridge.org,dictionnaire.lerobert.com,dnevnik.hr,doviz.com,egitim.net.tr,egolf.jp,elnacional.cat,euronews.com,exceljet.net,fandom.com,finanzfrage.net,football-ukraine.com,fossbytes.com,freemcserver.net,gamewith.jp,gerbeaud.com,gesundheitsfrage.net,gezondnu.nl,girlschannel.net,glianec.com,greenwichmeantime.com,gutefrage.net,happyinshape.com,helpdeskgeek.com,higherorlowergame.com,hochi.news,hollywoodlife.com,houseandgarden.co,index.hr,infinityfree.com,inverse.com,itavisen.no,km77.com,kreuzwortraetsel.de,kurashiru.com,kuruma-news.jp,ldoceonline.com,leckerschmecker.me,lejdd.fr,lettersolver.com,liveandletsfly.com,livescience.com,lootlemon.com,magmix.jp,mamastar.jp,merinfo.se,moin.de,motorbikecatalog.com,motorradfrage.net,motscroises.fr,mrexcel.com,natalie.mu,nemzetisport.hu,neoseeker.com,netflixlife.com,newatlas.com,nextchessmove.com,nouvelobs.com,oeffnungszeitenbuch.de,omnicalculator.com,oraridiapertura24.it,oricon.co.jp,otonanswer.jp,oxfordlearnersdictionaries.com,pakkotoisto.com,perezhilton.com,picrew.me,pinterpoin.com,pons.com,popdaily.com.tw,reisefrage.net,rotowire.com,scribd.com,singjupost.com,skinmc.net,slideshare.net,songfacts.com,sourceforge.net,sportlerfrage.net,the-crossword-solver.com,thefirearmblog.com,thelayoff.com,thetorquereport.com,thetruthaboutcars.com,thingiverse.com,timeful.app,torontosun.com,toyokeizai.net,trafficnews.jp,travelingformiles.com,trilltrill.jp,tvtv.ca,tvtv.us,ukaudiomart.com,upgradedhome.com,urbandictionary.com,urldecoder.org,usaudiomart.com,vague.style,watchdocumentaries.com,weatherzone.com.au,welt.de,willyweather.*,winfuture.de,winteriscoming.net,word-grabber.com,wordshake.com,woxikon.de##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, , condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|\[0,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
+9gag.com,adrenaline.com.br,animalia.bio,augustacrime.com,automobile-catalog.com,base64decode.org,buchstaben.com,calculatorsoup.com,doviz.com,euronews.com,fandom.com,freemcserver.net,game8.jp,gamewith.jp,gerbeaud.com,greenwichmeantime.com,higherorlowergame.com,index.hr,itavisen.no,km77.com,livescience.com,mamastar.jp,merinfo.se,motorbikecatalog.com,mrexcel.com,nemzetisport.hu,pakkotoisto.com,ppatour.com,scribd.com,skinmc.net,thetorquereport.com,thingiverse.com,timeful.app,tvtv.ca,tvtv.us,urbandictionary.com,urldecoder.org,welt.de,willyweather.*,wordshake.com##^script[src*="html-load.com"]
 9gag.com,akinator.com,and-more.co,astro-seek.com,autofrage.net,bab.la,babla.*,badmouth1.com,boardingarea.com,businessua.com,canuckaudiomart.com,collinsdictionary.com,computerfrage.net,dict.cc,dictionnaire.lerobert.com,dictionary.cambridge.org,dnevnik.hr,doviz.com,egitim.net.tr,egolf.jp,eurointegration.com.ua,exceljet.net,finanzfrage.net,flatpanelshd.com,football-ukraine.com,footballtransfer.com.ua,footballtransfer.ru,fossbytes.com,freemcserver.net,gadgets360.com,gazetaprawna.pl,gesundheitsfrage.net,gezondnu.nl,girlschannel.net,glianec.com,gutefrage.net,happyinshape.com,helpdeskgeek.com,hoyme.jp,houseandgarden.co,infinityfree.com,issuya.com,iusm.co.kr,lamire.jp,ldoceonline.com,leckerschmecker.me,liveandletsfly.com,logicieleducatif.fr,lootlemon.com,missyusa.com,magmix.jp,mamastar.jp,moin.de,motorradfrage.net,motscroises.fr,neoseeker.com,neowin.net,newatlas.com,nextchessmove.com,onlinegdb.com,otonanswer.jp,oxfordlearnersdictionaries.com,palabr.as,perezhilton.com,picrew.me,pinterpoin.com,pons.com,pravda.com.ua,pressian.com,razzball.com,reisefrage.net,reportera.co.kr,rotowire.com,sinemalar.com,singjupost.com,sportanalytic.com,sportlerfrage.net,sportsrec.com,sportsseoul.com,text-compare.com,the-crossword-solver.com,thelayoff.com,torontosun.com,toyokeizai.net,trafficnews.jp,travelingformiles.com,tweaksforgeeks.com,tz.de,ukaudiomart.com,usaudiomart.com,vague.style,w.grapps.me,watchdocumentaries.com,welt.de,wfmz.com,winfuture.de,worldhistory.org##^script[onload*="error-report.com"]
+9gag.com,animalia.bio,doviz.com,pakkotoisto.com##+js(rmnt, script, void 0||window\,)
+9gag.com,animalia.bio,doviz.com,pakkotoisto.com##^script:has-text(void 0||window,)
 9gag.com,augustacrime.com,base64decode.org,calculatorsoup.com,canuckaudiomart.com,costcoinsider.com,crosswordsolver.com,dict.cc,elnacional.cat,girlschannel.net,itavisen.no,kreuzwortraetsel.de,lettersolver.com,livescience.com,lootlemon.com,merinfo.se,motscroises.fr,mrexcel.com,nemzetisport.hu,oeffnungszeitenbuch.de,oraridiapertura24.it,pinterpoin.com,ppatour.com,rotowire.com,the-crossword-solver.com,tvtv.ca,tvtv.us,ukaudiomart.com,urldecoder.org,watchdocumentaries.com,word-grabber.com,wort-suchen.de##+js(rmnt, script, ()=>eval)
 9gag.com,augustacrime.com,base64decode.org,calculatorsoup.com,canuckaudiomart.com,costcoinsider.com,crosswordsolver.com,dict.cc,elnacional.cat,girlschannel.net,itavisen.no,kreuzwortraetsel.de,livescience.com,lootlemon.com,merinfo.se,motscroises.fr,mrexcel.com,nemzetisport.hu,oeffnungszeitenbuch.de,oraridiapertura24.it,pinterpoin.com,ppatour.com,rotowire.com,the-crossword-solver.com,tvtv.ca,tvtv.us,ukaudiomart.com,urldecoder.org,watchdocumentaries.com,word-grabber.com,wort-suchen.de##^script:has-text(()=>eval)
 9hentai.*###ads
@@ -1167,7 +1170,7 @@ a-eroland.net,hhmanga.com,nyahentai.*##.__isboostReturnAd
 a-ha.io,cboard.net,joongdo.co.kr,viva100.com##+js(noeval-if, /content-loader\.com|css-load\.com|html-load\.com/)
 a-hentai.tv###text-2
 a-hentai.tv,ablefast.com,adslink.pw,adult-empire.com,adultporn.com.es,ahri8.*,akatsuki-no-yona.com,akutsu-san.com,al4a.com,algodaodocescan.com.br,allafricangirls.net,allcelebs.club,allclassic.porn,allporncartoons.com,allpussynow.com,allureamateurs.net,alotporn.com,amateur-mature.net,amateurfapper.com,amateurfun.net,amateurporn.co,amazingtrannies.com,amazon-love.com,animecast.net,animeidhentai.com,animesex.me,animetoast.cc,annoncesescorts.com,anusling.info,anybunny.com,aoashimanga.com,arabxforum.com,arabxnx.com,archivebate.com,arcjav.com,asiansex.life,asianpornfilms.com,asianstubefuck.com,asianteenagefucking.com,asiaon.*,asiaontop.com,asmroger.*,assesphoto.com,axporn.com,azmen.com##+js(acs, document.querySelectorAll, popMagic)
-a-love-of-rottweilers.com,abakingjourney.com,abcdeelearning.com,abcsofliteracy.com,abeautifulmess.com,aberdeenskitchen.com,abnormalreturns.com,aboderie.co.uk,aboutamom.com,abowlfulloflemons.net,abraskitchen.com,abroadwithash.com,abrotherabroad.com,abudhabitravelplanner.com,ac3filter.net,accidentalhappybaker.com,accordingtoelle.com,accountantforums.com,accuplacerpracticetest.com,acedarspoon.com,acharmingescape.com,aconsciousrethink.com,acooknamedmatt.com,acouplecooks.com,acousticbridge.com,acozykitchen.com,acraftedpassion.com,acraftyconcept.com,acrochetedsimplicity.com,acrylgiessen.com,acrylicpouring.com,activeweekender.com,activewild.com,actuallygoodteamnames.com,acultivatednest.com,acurazdxforum.com,adabofgluewilldo.com,adamantkitchen.com,adamtheautomator.com,adayinourshoes.com,adayinthekitchen.com,addapinch.com,addicted2decorating.com,addicted2diy.com,addictedtodates.com,addictedtovacation.com,addisonswonderland.com,addsaltandserve.com,adebtfreestressfreelife.com,adimesaved.com,adishofdailylife.com,advanced-astrology.com,adventourbegins.com,adventureinyou.com,adventuresbylana.com,adventuresofmel.com,adviceonlyfinancial.com,aeclectic.net,aerocorner.com,aestheticsmilereconstruction.com,afamuche.com,afarmgirlsdabbles.com,afewshortcuts.com,afk.global,aflavorfulbite.com,aflavorjournal.com,afrugalchick.com,againstallgrain.com,agirlandagluegun.com,aglassofbovino.com,agoudalife.com,agratefulmeal.com,agrillforallseasons.com,ahaparenting.com,aheadofthyme.com,ahnfiredigital.com,ahoramismo.com,aimlief.com,ainttooproudtomeg.com,aircondlounge.com,airforums.com,airfried.com,airfryerfanatics.com,airfryerlove.com,airfryermom.com,airfryerworld.com,airfryeryum.com,airfryingfoodie.com,airhostacademy.com,airoomplanner.com,aisleofshame.com,alandacraft.com,alattefood.com,aldireviewer.com,alecooks.com,alekasgettogether.com,alexandracooks.com,alexjessicamills.com,alexroblesmd.com,alexwongcopywriting.com,alicedias.com,alidaskitchen.com,aline-made.com,alisononfoot.com,alittleandalot.com,alittlebitofeverythingblog.com,alittleinsanity.com,alittlepinchofperfect.com,allaboutami.com,allaboutjazz.com,allaboutparrots.com,allaboutplanners.com.au,allabouttattoo.com,allaccordingtoplann.com,allairfryerrecipes.com,allcakeprices.com,alldayidreamaboutfood.com,allears.net,alleydog.com,allfortheboys.com,allhomerobotics.com,alliannaskitchen.com,alliecarte.com,allkpop.com,allmycravings.com,allnurses.com,allnutritious.com,allourway.com,allpurposeveggies.com,allsalonprices.com,allsides.com,allsoundlab.net,allthedifferences.com,allthehealthythings.com,allthenoodles.com,allthenourishingthings.com,allthepartyideas.com,allthesvgs.com,allthings.how,allthingsdogs.com,allthingsjewelryy.com,allthingsmamma.com,allthingstarget.com,allthingswithpurpose.com,alltopeverything.com,alluringsoul.com,allwaysdelicious.com,allwritealright.com,allyscooking.com,allyskitchen.com,allysonvanhouten.com,almanac.com,almarsguides.com,alonelylife.com,alphafoodie.com,alphahistory.com,alphamom.com,alphr.com,alpineella.com,alsothecrumbsplease.com,altarofgaming.com,altdriver.com,alternativedish.com,alwayseatdessert.com,alwaysfromscratch.com,alwaysusebutter.com,alxnow.com,amandacooksandstyles.com,amandascookin.com,amarcoplumbing.com,amateurprochef.com,amazingcharcuterieboards.com,amazingclassiccars.com,amazingfoodmadeeasy.com,amazingribs.com,ambereverywhere.com,amberskitchencooks.com,ambitiouskitchen.com,ambotv.com,american-rails.com,americanoceans.org,americanwx.com,amiablefoods.com,amindfullmom.com,amiraspantry.com,amish365.com,amishamerica.com,amodernhomestead.com,amomsimpression.com,amortization.org,amtraktrains.com,amybakesbread.com,amycakesbakes.com,amyinthekitchen.com,amylattacreations.com,amynewnostalgia.com,amytreasure.com,ana-white.com,anagrammer.com,ancestral-nutrition.com,andersonandgrant.com,andhereweare.net,andiemitchell.com,andreasnotebook.com,andrewzimmern.com,androidheadlines.com,anerdcooks.com,anestwithayard.com,anewwayforward.org,angelicalbalance.com,angrybbq.com,anightowlblog.com,anikasdiylife.com,animalcrossingworld.com,animalnerdz.com,animalspot.net,animated-teeth.com,anitalianinmykitchen.com,anniedesigncrochet.com,anoffgridlife.com,anorcadianabroad.com,anoregoncottage.com,anothercocktailblog.com,antennaland.com,antimaximalist.com,antique-bottles.net,antiqueradios.com,anysoftwaretools.com,anythingtranslate.com,anytimecocktails.com,apaigeofpositivity.com,apeachyplate.com,apetogentleman.com,apexbikes.com,apieceofrainbow.com,apieceoftravel.com,apistogramma.com,aplinsinthealps.com,appellationmountain.net,applegreencottage.com,appletoolbox.com,appliancerepairforums.com,appunwrapper.com,apracticalwedding.com,aprettylifeinthesuburbs.com,apumpkinandaprincess.com,aquariadise.com,aquariumadvice.com,aquariumgenius.com,aquariumsource.com,aquariumsphere.com,aquariustraveller.com,aquatic-eden.com,aquietrefuge.com,aquiltinglife.com,arabahjoy.com,arayofsunlight.com,arboristsite.com,arcaneeye.com,architecturelab.net,archtoolbox.com,areinventedmom.com,areweranked.com,areyouscreening.com,arizonasportsfans.com,arlnow.com,aroundthenook.com,aroundtheworldpluskids.com.au,arrestyourdebt.com,arrmaforum.com,artandthekitchen.com,artbarblog.com,artfrommytable.com,artfulhomemaking.com,artofmemory.com,artprojectsforkids.org,artsandclassy.com,artsy-traveler.com,artsychicksrule.com,artsyfartsymama.com,artsymomma.com,artycraftykids.com,arzyelbuilds.com,ascensionlogs.gg,aseaofred.com,aseasyasapplepie.com,ash-eats.com,ashadeofteal.com,ashandpri.com,ashbaber.com,ashcroftfamilytable.com,ashevilletrails.com,asianacircus.com,asimplepalate.com,asimplepantry.com,askannamoseley.com,askmormongirl.com,askpython.com,aslobcomesclean.com,asouthernsoul.com,aspdotnethelp.com,aspicyperspective.com,aspiringwinos.com,asprinklingofcayenne.com,assessmentcentrehq.com,astrology-seek.com,astrologyking.com,astrostyle.com,astyleset.com,asvabpracticetests.com,aswbpracticeexam.com,asweetalternative.com,asweetpeachef.com,at-my-table.com,at4forum.com,atablefullofjoy.com,atastefortravel.ca,atastykitchen.com,athletelunchbox.com,athomebyheather.com,athomewiththebarkers.com,athoughtfulplaceblog.com,atlantablackstar.com,atlantatrails.com,atlasandboots.com,atqa005.com,atraditionallife.com,atshq.org,atsloanestable.com,attagirlsays.com,attainable-sustainable.net,atthepicketfence.com,attractiondiary.com,attractionsmagazine.com,aturtleslifeforme.com,aubreyskitchen.com,audio-forums.com,audioassemble.com,audiolgy.com,audiotips.com,audreyslittlefarm.com,aussiegreenthumb.com,aussiehomebrewer.com,aussiepythons.com,authenticfoodquest.com,authority.pub,authoritytattoo.com,autismforums.com,automatedhome.com,automatelife.net,automaticwasher.org,automoblog.net,averagesocialite.com,averiecooks.com,avforums.com,aviationa2z.com,aviatorinsider.com,avidgamer.gg,avirtualvegan.com,avirtuouswoman.org,avocadopesto.com,avocadoskillet.com,avpcentral.com,awarenessdays.com,awaytothecity.com,awealthofcommonsense.com,awellstyledlife.com,awickedwhisk.com,awinterescape.com,awortheyread.com,axleandchassis.com,ayunaconlaura.com,ayurvedawithrebecca.com,az900practicetest.com,azlinamin.com,azmind.com,azurelessons.com##+js(rmnt, script, /"__adblocker"|"data-sdk"/)
+a-love-of-rottweilers.com,abakingjourney.com,abcdeelearning.com,abcsofliteracy.com,abeautifulmess.com,aberdeenskitchen.com,abnormalreturns.com,aboderie.co.uk,aboutamom.com,abowlfulloflemons.net,abraskitchen.com,abroadwithash.com,abrotherabroad.com,abudhabitravelplanner.com,ac3filter.net,accidentalhappybaker.com,accordingtoelle.com,accountantforums.com,accuplacerpracticetest.com,acedarspoon.com,acharmingescape.com,aconsciousrethink.com,acooknamedmatt.com,acouplecooks.com,acousticbridge.com,acozykitchen.com,acraftedpassion.com,acraftyconcept.com,acrochetedsimplicity.com,acrylgiessen.com,acrylicpouring.com,activeweekender.com,activewild.com,actuallygoodteamnames.com,acultivatednest.com,acurazdxforum.com,adabofgluewilldo.com,adamantkitchen.com,adamtheautomator.com,adayinourshoes.com,adayinthekitchen.com,addapinch.com,addicted2decorating.com,addicted2diy.com,addictedtodates.com,addictedtovacation.com,addisonswonderland.com,addsaltandserve.com,adebtfreestressfreelife.com,adimesaved.com,adishofdailylife.com,advanced-astrology.com,adventourbegins.com,adventureinyou.com,adventuresbylana.com,adventuresofmel.com,adviceonlyfinancial.com,aeclectic.net,aerocorner.com,aestheticsmilereconstruction.com,afamuche.com,afarmgirlsdabbles.com,afewshortcuts.com,afk.global,aflavorfulbite.com,aflavorjournal.com,afrugalchick.com,againstallgrain.com,agirlandagluegun.com,aglassofbovino.com,agoudalife.com,agratefulmeal.com,agrillforallseasons.com,ahaparenting.com,aheadofthyme.com,ahnfiredigital.com,ahoramismo.com,aimlief.com,ainttooproudtomeg.com,aircondlounge.com,airforums.com,airfried.com,airfryerfanatics.com,airfryerlove.com,airfryermom.com,airfryerworld.com,airfryeryum.com,airfryingfoodie.com,airhostacademy.com,airoomplanner.com,aisleofshame.com,alandacraft.com,alattefood.com,aldireviewer.com,alecooks.com,alekasgettogether.com,alexandracooks.com,alexjessicamills.com,alexroblesmd.com,alexwongcopywriting.com,alicedias.com,alidaskitchen.com,aline-made.com,alisononfoot.com,alittleandalot.com,alittlebitofeverythingblog.com,alittleinsanity.com,alittlepinchofperfect.com,allaboutami.com,allaboutjazz.com,allaboutparrots.com,allaboutplanners.com.au,allabouttattoo.com,allaccordingtoplann.com,allairfryerrecipes.com,allcakeprices.com,alldayidreamaboutfood.com,allears.net,alleydog.com,allfortheboys.com,allhomerobotics.com,alliannaskitchen.com,alliecarte.com,allkpop.com,allmycravings.com,allnurses.com,allnutritious.com,allourway.com,allpurposeveggies.com,allsalonprices.com,allsides.com,allsoundlab.net,allthedifferences.com,allthehealthythings.com,allthenoodles.com,allthenourishingthings.com,allthepartyideas.com,allthesvgs.com,allthings.how,allthingsdogs.com,allthingsjewelryy.com,allthingsmamma.com,allthingstarget.com,allthingswithpurpose.com,alltopeverything.com,alluringsoul.com,allwaysdelicious.com,allwritealright.com,allyscooking.com,allyskitchen.com,allysonvanhouten.com,almanac.com,almarsguides.com,alonelylife.com,alphafoodie.com,alphahistory.com,alphamom.com,alphr.com,alpineella.com,alsothecrumbsplease.com,altarofgaming.com,altdriver.com,alternativedish.com,alwayseatdessert.com,alwaysfromscratch.com,alwaysusebutter.com,alxnow.com,amandacooksandstyles.com,amandascookin.com,amarcoplumbing.com,amateurprochef.com,amazingcharcuterieboards.com,amazingclassiccars.com,amazingfoodmadeeasy.com,amazingribs.com,ambereverywhere.com,amberskitchencooks.com,ambitiouskitchen.com,ambotv.com,american-rails.com,americanoceans.org,americanwx.com,amiablefoods.com,amindfullmom.com,amiraspantry.com,amish365.com,amishamerica.com,amodernhomestead.com,amomsimpression.com,amortization.org,amtraktrains.com,amybakesbread.com,amycakesbakes.com,amyinthekitchen.com,amylattacreations.com,amynewnostalgia.com,amytreasure.com,ana-white.com,anagrammer.com,ancestral-nutrition.com,andersonandgrant.com,andhereweare.net,andiemitchell.com,andreasnotebook.com,andrewzimmern.com,androidheadlines.com,anerdcooks.com,anestwithayard.com,anewwayforward.org,angelicalbalance.com,angrybbq.com,anightowlblog.com,anikasdiylife.com,animalcrossingworld.com,animalnerdz.com,animalspot.net,animated-teeth.com,anitalianinmykitchen.com,anniedesigncrochet.com,anoffgridlife.com,anorcadianabroad.com,anoregoncottage.com,anothercocktailblog.com,antennaland.com,antimaximalist.com,antique-bottles.net,antiqueradios.com,anysoftwaretools.com,anythingtranslate.com,anytimecocktails.com,apaigeofpositivity.com,apeachyplate.com,apetogentleman.com,apexbikes.com,apieceofrainbow.com,apieceoftravel.com,apistogramma.com,aplinsinthealps.com,appellationmountain.net,applegreencottage.com,appletoolbox.com,appliancerepairforums.com,appunwrapper.com,apracticalwedding.com,aprettylifeinthesuburbs.com,apumpkinandaprincess.com,aquariadise.com,aquariumadvice.com,aquariumgenius.com,aquariumsource.com,aquariumsphere.com,aquariustraveller.com,aquatic-eden.com,aquietrefuge.com,aquiltinglife.com,arabahjoy.com,arayofsunlight.com,arboristsite.com,arcaneeye.com,architecturelab.net,archtoolbox.com,areinventedmom.com,areweranked.com,areyouscreening.com,arizonasportsfans.com,arlnow.com,aroundthenook.com,aroundtheworldpluskids.com.au,arrestyourdebt.com,arrmaforum.com,artandthekitchen.com,artbarblog.com,artfrommytable.com,artfulhomemaking.com,artofmemory.com,artprojectsforkids.org,artsandclassy.com,artsy-traveler.com,artsychicksrule.com,artsyfartsymama.com,artsymomma.com,artycraftykids.com,arzyelbuilds.com,ascensionlogs.gg,aseaofred.com,aseasyasapplepie.com,ash-eats.com,ashadeofteal.com,ashandpri.com,ashbaber.com,ashcroftfamilytable.com,ashevilletrails.com,asianacircus.com,asimplepalate.com,asimplepantry.com,askannamoseley.com,askmormongirl.com,askpython.com,aslobcomesclean.com,asouthernsoul.com,aspdotnethelp.com,aspicyperspective.com,aspiringwinos.com,asprinklingofcayenne.com,assessmentcentrehq.com,astrology-seek.com,astrologyking.com,astrostyle.com,astyleset.com,asvabpracticetests.com,aswbpracticeexam.com,asweetalternative.com,asweetpeachef.com,at-my-table.com,at4forum.com,atablefullofjoy.com,atastefortravel.ca,atastykitchen.com,athletelunchbox.com,athomebyheather.com,athomewiththebarkers.com,athoughtfulplaceblog.com,atlantablackstar.com,atlantatrails.com,atlasandboots.com,atqa005.com,atraditionallife.com,atshq.org,atsloanestable.com,attagirlsays.com,attainable-sustainable.net,atthepicketfence.com,attractiondiary.com,attractionsmagazine.com,aturtleslifeforme.com,aubreyskitchen.com,audio-forums.com,audioassemble.com,audiolgy.com,audiotips.com,audreyslittlefarm.com,aussiegreenthumb.com,aussiehomebrewer.com,aussiepythons.com,authenticfoodquest.com,authority.pub,authoritytattoo.com,autismforums.com,automatedhome.com,automatelife.net,automaticwasher.org,automoblog.net,averagesocialite.com,averiecooks.com,avforums.com,aviationa2z.com,aviatorinsider.com,avidgamer.gg,avirtualvegan.com,avirtuouswoman.org,avocadopesto.com,avocadoskillet.com,avpcentral.com,awarenessdays.com,awaytothecity.com,awealthofcommonsense.com,awellstyledlife.com,awfulannouncing.com,awickedwhisk.com,awinterescape.com,awortheyread.com,axleandchassis.com,ayunaconlaura.com,ayurvedawithrebecca.com,az900practicetest.com,azlinamin.com,azmind.com,azurelessons.com##+js(rmnt, script, /"__adblocker"|"data-sdk"/)
 a-o.ninja,anime-odcinki.pl##+js(set, showAds, true)
 a-spect.be,a2o-architecten.be,a2o-omgeving.be,a2o.be,abm-accountants.com,adlon.be,adtemptare.be,allimex.eu,antiek-albarello.com,aratina.com,atirio.be,avlwoningbouw.be,baeyens-l.be,barbecues.be,bartyde.be,bbcbb.be,browsbox.com,decoform.be,delbruyere.be,deregenboog.be,design-home.be,dewiekslag.be,dr-geeraerts-dermatologie.be,durocub.be,enib.be,eremex.be,granhold.com,gripsholm.be,groepmsi.be,hanssens.net,incadans.be,jagsonly.be,jbavicon.com,kwvanbladel.be,liswood-tache.com,marlou.be,medibe.be,microscope-shop.be,morphologicum.org,noorwegenhitravissers.be,nsi-be.com,o-f-s.eu,omerus.be,p-laser.com,royalcrown.be,rsc-slaapcomfort.com,sani-lux.net,sanik.be,scherpesteen.be,tri-active.be,tuincenterlissens.be,vaatkliniek.be,vado.be,visitatiebottelare.be,vivantia.be,vrijdagmarkt.net##.c-cookie-popup
 a-spect.be,a2o-architecten.be,a2o-omgeving.be,a2o.be,abm-accountants.com,adlon.be,adtemptare.be,allimex.eu,antiek-albarello.com,aratina.com,atirio.be,avlwoningbouw.be,baeyens-l.be,barbecues.be,bartyde.be,bbcbb.be,browsbox.com,decoform.be,delbruyere.be,deregenboog.be,design-home.be,dewiekslag.be,dr-geeraerts-dermatologie.be,durocub.be,enib.be,eremex.be,granhold.com,gripsholm.be,groepmsi.be,hanssens.net,incadans.be,jagsonly.be,jbavicon.com,kwvanbladel.be,liswood-tache.com,marlou.be,medibe.be,microscope-shop.be,morphologicum.org,noorwegenhitravissers.be,nsi-be.com,o-f-s.eu,omerus.be,p-laser.com,royalcrown.be,rsc-slaapcomfort.com,sani-lux.net,sanik.be,scherpesteen.be,tri-active.be,tuincenterlissens.be,vaatkliniek.be,vado.be,visitatiebottelare.be,vivantia.be,vrijdagmarkt.net##body,html:style(overflow: auto !important; position: initial !important;)
@@ -1662,7 +1665,6 @@ adotas.com,boldprogressives.org,drsinatra.com,hotscripts.com,mac-forums.com,merc
 adpres.ro##*:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
 adpres.ro##+js(aopw, stopPrntScr)
 adproceed.com##ins.adsbygoogle
-adrenaline.com.br,animalia.bio,augustacrime.com,automobile-catalog.com,base64decode.org,buchstaben.com,calculatorsoup.com,doviz.com,euronews.com,fandom.com,freemcserver.net,game8.jp,gamewith.jp,gerbeaud.com,greenwichmeantime.com,higherorlowergame.com,index.hr,itavisen.no,km77.com,livescience.com,mamastar.jp,merinfo.se,motorbikecatalog.com,mrexcel.com,nemzetisport.hu,pakkotoisto.com,ppatour.com,scribd.com,skinmc.net,thetorquereport.com,thingiverse.com,timeful.app,tvtv.ca,tvtv.us,urbandictionary.com,urldecoder.org,welt.de,willyweather.*,wordshake.com##^script[src*="html-load.com"]
 adrenaline.com.br,automobile-catalog.com,euronews.com,fandom.com,game8.jp,gerbeaud.com,gutefrage.net,motorbikecatalog.com,thetorquereport.com,urbandictionary.com,welt.de,wordshake.com##+js(rmnt, script, '/:\[?window,/')
 adrenaline.com.br,automobile-catalog.com,euronews.com,fandom.com,game8.jp,gerbeaud.com,gutefrage.net,motorbikecatalog.com,thetorquereport.com,urbandictionary.com,welt.de,wordshake.com##^script:has-text(/:\[?window,/)
 adrenaline.com.br,bonsfluidos.com.br,bossip.com,brasil.perfil.com,glamurama.com.br,insidehpc.com,maisnovela.com.br,manequim.com.br,marciapiovesan.com.br,mundoconectado.com.br,sportsbusinessjournal.com,vivasaudedigital.com.br##.social-networks
@@ -1773,7 +1775,6 @@ advego.com,figshare.com#@#.share-block
 adventskalender-gewinnspiele.de,weihnachtsmarkt-finder.de##.shr
 adventurecorner.de###ac-consent-overlay
 adventuregamestudio.co.uk###cookies
-adventuregamestudio.co.uk,albertonrecord.co.za,app.deriv.com,artfund.org,asia.nikkei.com,banco.bradesco,barkeepersfriend.com,bedfordviewedenvalenews.co.za,bemyeyes.com,bodyscience.com,bookwhen.com,brasscom.org.br,buildpaste.net,bullionbypost.co.uk,businesscomparison.com,capitoltrades.com,citybuzz.co.za,clarksolutions.com.br,codashop.com,coinpaprika.com,comfrt.com,commonwealthfund.org,crumb.pet,cumlaudeimmobilia.com,cursos.io,cwi.nl,dagmersellen.ch,davistate.com,deezer.com,deltaco.com,depot.dev,developer.chrome.com,dictum.com,droptime.de,echr.coe.int,edera.dev,erieinsurance.com,etix.com,eyethunews.co.za,fansly.com,fex.plus,forja.ma,gatlinburg.com,gaultmillau.at,germistoncitynews.co.za,gosquared.com,guinyc.com,hck.hr,herning.dk,holidayworld.com,hsbc.com.sg,immigration.govt.nz,isciii.es,jolyn.com,kathorusmail.co.za,kemptonexpress.co.za,kenmei.co,kinescope.com,kormorant.co.za,ldminstitute.com,lensculture.com,letabaherald.co.za,libertas.software,liemobil.li,lifehacker.ru,liquid.ai,lokmat.com,massey.ac.nz,mcc-9.jp,medipolis.de,mega.io,mercadona.es,metroag.de,middelfart.dk,midrandreporter.co.za,mishloha.co.il,mmsports.fi,mmsports.no,mmsportsstore.dk,modworkshop.net,momentumdash.com,news.nntp4.net,news.ru,niche.com,northeasterntribune.co.za,oaic.gov.au,osthammar.se,overclock3d.net,overleaf.com,payroll.ca,peakstore.ru,pnherald.co.nz,poshmark.com,printful.com,privacy.com,prodoctorov.ru,promentesana.ch,protabletky.ru,publicdomainreview.org,raceroster.com,randburgsun.co.za,randfonteinherald.co.za,rawg.io,reseau-sante-haut-leman.ch,reseau-sante-nord-broye.ch,reseau-sante-region-lausanne.ch,rivistacontrasti.it,roodepoortnorthsider.co.za,roodepoortrecord.co.za,sedibengster.com,semanticscholar.org,sentosa.com.sg,signalbloom.ai,silpo.ua,smashingmagazine.com,sowetourban.co.za,sp-ps.ch,spar.co.za,stake.com,stjohneyehospital.org,store.fcm.ea.com,struer.dk,student.com,superbio.es,swissdevjobs.ch,t.co.il,taplink.cc,tc2000.com,thefly.com,tiktok.com,tudogostoso.com.br,tus.ac.jp,vangemert.dev,vangoghmuseum.nl,weather2day.co.il,welcome.brixen.it,witbanknews.co.za,zabars.com,zenodo.org##.cookie-banner
 adventureinsel.de##.infobox
 adventurespiele.net##+js(set-local-storage-item, dataProtectionInfoAccepted, true)
 adventuretime.ru,anime-free.ru,hardwareluxx.ru,internet-technologies.ru,kisameev.ru,nowa.cc,podolyaka.ru,trymobile.ru##iframe[src*="://yoomoney.ru/"]
@@ -1888,7 +1889,6 @@ affairenmarktplatz.com###overlay-content
 affaritaliani.it##.nl-bottom-content
 affbank.com##+js(set, canRunAds, true)
 affiliate.fc2.com##+js(nostif, checkFeed, 1000)
-affiliates.kayak.com,europeantechmap.eu##[aria-label="Cookie consent"]
 affittapresto.it###cookie-dett
 affordablemobiles.co.uk##+js(set-cookie, __a1cns, true)
 affordablemobiles.co.uk##+js(set-cookie, __a1cp, false)
@@ -1953,11 +1953,6 @@ aftvnews.com,baptistnews.com,calmatters.org,cardinalnews.org,cartoonbrew.com,dai
 ag-visuell.de##.animating-screenIn-exit
 ag-vmeste.ru##+js(set-cookie, mos_cookie, true)
 ag-vmeste.ru,praca.by#@#.cookie-agreement
-ag.ru###header-links
-ag.ru###new_logo_helper01:style(top: 0 !important)
-ag.ru##.dropdown_sharing
-ag.ru##.game-social-links
-ag.ru##div[class="header__main-coin"]
 againstdata.com##+js(set-cookie, dad_consent, true)
 agame.com,flashgames.ru,games.co.id,games.co.uk,gamesgames.com,giochi.it,gioco.it,gry.pl,jetztspielen.de,jeu.fr,jeux.fr,juegos.com,ojogos.com.br,ourgames.ru,oyunskor.com,permainan.co.id,smart.com,spel.nl,spela.se,spelletjes.nl,spielen.com##+js(set-cookie, OptanonAlertBoxClosed, true)
 agar.io##.mc-cookiebar
@@ -2078,7 +2073,6 @@ ahchealthenews.com##.savicom-subscribe-widget
 aheadofthyme.com##.tasty-recipes-footer-content
 ahen.me##+js(remove-node-text, script, createAdblockBlock)
 ahen.me,doramatv.live,doramatv.one,doramatv.ru,ekabu.ru,findani.me,findanime.me,findanime.ru,grouple.co,librebook.me,livelib.ru,mintmanga.one,mose.su,online-mult.net,readmanga.io,selflib.me,selfmanga.live,soccer.ru,usagi.one#@#.twitter
-ahjucaf.org,apf-francophonie.org,arp.pl,banquedeluxembourg.com,bayonne.port.fr,bourgogne-wines.com,campusfrance.org,chablis-wines.com,chartediversite.lu,chequeenergie.gouv.fr,coldwellbanker.fr,competence.lu,cyprus-weather.com,diplomatie.gouv.fr,dupuis.com,emrlocal.com,fgirl.ch,forvia.com,guy-hoquet.com,havas.com,his-izz.be,infogreen.lu,inria.fr,ip-paris.fr,kameleoon.com,klepierre.it,klimabuendnis.lu,lassuranceretraite.fr,lechegaza.com,openedition.org,palais.mc,plazario2.com,portrevel.com,rosenbauer.com,rsf.org,sante.fr,scoop.it,smeg.mc,space-eye.ch,sprecher-automation.com,tenet.ac.za,tuttonatale.it,uclouvain.be###tarteaucitronRoot
 ahlens.se##.ah-warning
 ahliunited.com.kw##.greyCookie
 ahmedmode.*##+js(nostif, show)
@@ -2251,7 +2245,7 @@ akirabox.com,akirabox.to##+js(aeld, click, .href)
 akirabox.com,akirabox.to##+js(nowoif, _blank)
 akirabox.com,akirabox.to##+js(rmnt, script, (function(, excludes, document)
 akirabox.com,akirabox.to##[href*="nordvpn.net"]
-akirabox.com,akirabox.to,bowfile.com,buzzheavier.com,bzzhr.co,bzzhr.to,cg-gamespc.net,datavaults.co,dodi-repacks.site,file-me.top,filemirage.com,fuckingfast.*,fuckingfast.co,game-repack.site,gamedrive.*,getfreegames.net,go.zovo.ink,koramaup.com,multiup.io,ranoz.gg,reloadedsteam.com,rootz.so,steamgg.net,steamunderground.net,swiftuploads.com,usersdrive.com,vik1ngfile.site,worldofpcgames.com,zeilink.net,zovo2.top,zpaste.net##+js(remove-node-text, script, /"\\|\\[ux]|\+\[\]/, excludes, self.__next)
+akirabox.com,akirabox.to,bowfile.com,buzzheavier.com,bzzhr.co,bzzhr.to,cg-gamespc.net,datavaults.co,dodi-repacks.site,file-me.top,filemirage.com,fuckingfast.*,fuckingfast.co,game-repack.site,gamedrive.*,getfreegames.net,go.zovo.ink,koramaup.com,multiup.io,ranoz.gg,reloadedsteam.com,rootz.so,steamgg.net,steamunderground.net,usersdrive.com,vik1ngfile.site,worldofpcgames.com,zeilink.net,zovo2.top,zpaste.net##+js(remove-node-text, script, /"\\|\\[ux]|\+\[\]/, excludes, self.__next)
 akirabox.com,akirabox.to,bowfile.com,buzzheavier.com,bzzhr.co,bzzhr.to,datavaults.co,fuckingfast.*,multiup.io,rootz.so,usersdrive.com,vik1ngfile.site,zpaste.net#@#+js(set, Document.prototype.createElement.call, noopFunc)
 akkogear.com###newuser_promotion_ad
 akkogear.com.vn##.box_fixRight
@@ -3187,8 +3181,6 @@ animalchannel.co,homehacks.co,parentingisnteasy.co,relieved.co,seeitlive.co,spot
 animalchannel.co,homehacks.co,parentingisnteasy.co,relieved.co,seeitlive.co,spotlightstories.co,sweetandsavory.co##body:style(overflow: auto !important; position: initial !important;)
 animaldiversity.org##+js(set-cookie, cookie-settings, reject)
 animalia.bio##.s-ad-banner-horizontal
-animalia.bio,doviz.com,pakkotoisto.com##+js(rmnt, script, void 0||window\,)
-animalia.bio,doviz.com,pakkotoisto.com##^script:has-text(void 0||window,)
 animalreader.ru##.vk_widget_comments
 animationsource.org###cprv
 animaunt.org##.ft-feed-soc
@@ -3728,6 +3720,9 @@ apps.dirittopratico.it###contenitore:style(filter: none !important;)
 apps.jeurissen.co##.adsbygoogle:upward(1)
 apps.stratford.gov.uk,ecaytrade.com,midlands.englandhockey.co.uk,printscan.com,rapidonline.com##+js(set-cookie, .AspNet.Consent, yes, , reload, 1)
 apps112.com###s112_accept_cookies
+apps2app.com##+js(nowoif, _blank)
+apps2app.com##+js(rmnt, script, blur)
+apps2app.com##.ads
 appsbull.com,diudemy.com,maqal360.com###tristana, #_append, #myDiv:style(display: block !important;)
 appsbull.com,diudemy.com,maqal360.com##+js(aeld, load, htmls)
 appsbull.com,diudemy.com,maqal360.com##+js(nano-stb, div_form)
@@ -6607,6 +6602,7 @@ blogs.embarcadero.com,codeproject.com,reviewjournal.com##.signup-box
 blogs.nvidia.com###formWidget
 blogs.pravda.com.ua##body > .block0:style(margin-top: 0 !important)
 blogs.timesofisrael.com###message, .message
+blogspot.com###sticky-bottom-widget
 blogspot.com##.my-responsive-banner-container
 blogspot.com##.widget.HTML > .widget-content > #floating-footer.floating-footer
 blogterest.net##.blockSide > div.blockWrapper:has(> div > div.ninja-recommend-block)
@@ -7202,7 +7198,6 @@ brighteon.com##body,html:style(overflow: auto !important; position: initial !imp
 brighteon.com##body:style(overflow:auto !important)
 brighteon.com##div.overlay, .bottom-banner
 brighteon.com,cruxnow.com##.bottom-banner
-brightlands.com,cnmc.es,confea.org.br,cultura.gov.it,elbitsystems.com,frequentis.com,gmv.com,gogel.org,iucn.org,iucncongress2025.org,land.nrw,makingdiabeteseasier.com,mmkv.cz,nada.org,portdebarcelona.cat,puertos.es,red.es,sagemcom.com,santiagodecompostela.gal,srce.unizg.hr,stadtlandwirtschaft.wien,tecnoalarm.com,thecommonwealth.org,unifi.it,unirc.it###cookiesjsr
 brightonandhovealbion.com##+js(set-session-storage-item, cookie_reject, true)
 brightree.com##.notice
 brightygames.com,yoho.games##^html > head > meta[property="og:url"]:not([content*="/games/"], [content*="/play/"]):upward(1) > script:has-text(wgplayer)
@@ -10631,7 +10626,6 @@ ctrlv.*##+js(set, uBlockOriginDetected, false)
 ctrlv.*##a.download[target="_blank"]:not(a[href*="ctrlv."]):remove()
 ctsbooks.org##.main-footer
 ctshop.rs##body > div:not([id]):not([class])
-ctt.de,fabricsandpapers.com,groomershop.pl,ironmaxx.de,johnsonsjewellers.co.uk,landyschemist.com,plaidonline.com,scienceinsport.com,sparkfun.com,theraband.com##.amgdprjs-bar-template
 ctv7.ru##body > .site:style(margin-top: 0 !important)
 ctv7.ru##footer .btn_soc
 ctvnews.ca##.bm-footer__wrapper__subscribeButton
@@ -12678,7 +12672,6 @@ draeger.com##globalnotification
 drafthound.com##+js(set-local-storage-item, acceptsAnalyticsCookies, false)
 drafthound.com##+js(set-local-storage-item, acceptsNecessaryCookies, true)
 draftium.com###cta ~ div, #cta ~ section
-drago.cz,efkoart.cz,ellexgk.cz,eltasat.cz,fizishop.cz,jagrteam.cz,kawio.cz,kniharina.cz,majkl3d.cz,majkl3d.sk,marusik.cz,niwa.cz,softcotton.pl,top-dent.cz,woolife.cz##.CA
 dragonnest.com##+js(rpnt, script, gtag != null, false)
 dragonpass.com.cn##.indexCookies
 dragonshop.gr##.header-banner
@@ -21407,6 +21400,7 @@ ilfattonisseno.it,itacanotizie.it,qds.it,tempostretto.it,vistosulweb.com###blogu
 ilfattoquotidiano.it###glfb
 ilfattoquotidiano.it##.ifq-post__share
 ilforumdeibrutti.is##+js(nostif, AdBlock)
+ilforumdeibrutti.is##+js(rmnt, script, hidden';)
 ilfruttarolo.it###decretopr
 ilgazzettino.it,ilmessaggero.it##+js(set, jwDefaults.advertising, {})
 ilgeniodellostreaming.*##+js(aopr, AaDetector)
@@ -23155,7 +23149,6 @@ jori.com##.cc_container
 jornadaperfecta.com##+js(rmnt, script, ad-block-activated)
 jornaldacidadeonline.com.br##.main-nav__social-icon
 jornaldenegocios.pt##.col_partilhas
-jornaldenegocios.pt##.notificacao
 jornaldenegocios.pt##.shareModal
 jornaldocomercio.com##.barra-acoes-container
 jornalrazao.com##.bn-block-brand
@@ -29496,6 +29489,9 @@ mylivesignature.com##.topadscontainer
 mylivewallpapers.com##.group.posts > div.post
 mylivewallpapers.com,softfully.com##+js(no-fetch-if, ads)
 mylocal.co.uk##main > div > [id].scroll-mt-20:has(.items-center + div:has-text(/^Sponsored$/))
+mylondon.news##.sticky ~ header:style(top: 0 !important;)
+mylondon.news##div[class^="Header_mastheadwebstrip-container"]
+mylondon.news##div[data-testid^="commercial-"]
 mylove-mylife.at##+js(set-cookie, my-love-my-life-aut-cookie-categories, essential)
 mylust.com###main_video_fluid_html_on_pause
 mylust.com###wrapper > div[style*="height:18px"]
@@ -30472,7 +30468,6 @@ next-decision.fr##.activebar-container
 next-episode.net##[id=""]
 next-gamer.de###ingameCookie
 nextapro.hu###cookie
-nextbase.com##.nb-cookies-container
 nextbike.de##.nb-cookie
 nextchessmove.com,reneweconomy.com.au##+js(rmnt, script, HTMLIFrameElement)
 nextdoor.com##+js(json-prune, data.me.personalizedFeed.feedItems.[-].promo.creative.clickThroughUrl.adsTrackingMetadata.metadata.adRequestId)
@@ -40715,6 +40710,7 @@ subscribercounter.com##+js(set-local-storage-item, ytsc_accepted_cookies, true)
 substack.com##[class*="frontend-components-SubscribePrompt"]
 substack.com##article.post > div[class*="frontend-components-SubscribePrompt-module"]
 substack.com##body:style(cursor: initial !important;)
+substack.com,theshortcut.com##.container-jsOc9L
 subsvip.com###botaoBloqueio
 subsvip.com###botaoLink:style(display: block !important;)
 subsvip.com##+js(nano-stb, , 10000, 0)
@@ -41002,6 +40998,7 @@ swiftuploads.com##+js(aeld, DOMContentLoaded, length)
 swiftuploads.com##+js(aeld, click, clicksCount)
 swiftuploads.com##+js(nowoif)
 swiftuploads.com##+js(ra, onclick, button[onclick*="open"])
+swiftuploads.com##+js(rpnt, script, toUpperCase()+, toSomeCase()+)
 swiftuploads.com##+js(set, Element.prototype.closest, falseFunc)
 swiggle.org.uk###slide-out-div
 swiggy.com##[class^="styles_row"]:has([class^="styles_imgAd"])
@@ -42730,6 +42727,7 @@ thesun.co.uk##:is(html,body):style(overflow: unset !important)
 thesun.co.uk##dialog:remove()
 thesun.ie##+js(rmnt, script, globalThis.innerWidth)
 thesun.ie##.carousel__nav
+thetab.com##.custom-box-desktop
 thetablet.co.uk##.follow-the-tablet
 thetablet.co.uk##.next-article-btn
 thetablet.co.uk##.prev-article-btn
@@ -45425,6 +45423,7 @@ vaughn.live##+js(nosiif, header_menu_abvs, 10000)
 vaughn.live##.vs_v9_header_menu_abvs
 vaughn.live##.vs_v9_stream_content_abvs
 vaughn.live##.wrapper_content ~ .vs_modal_v9:style(opacity: 0 !important;)
+vaughn.live##.wrapper_content ~ .vs_modal_v9_background
 vaughn.live##div[id$="-ad"][id^="vs_v9_"]
 vavada5com.com##+js(set, adblockDetector, noopFunc)
 vax-before-travel.com###popupSurvey_background
@@ -48948,6 +48947,7 @@ xv-ru.com##+js(addEventListener-defuser, DOMContentLoaded, exo_tracker)
 xv-ru.com,xvideos.com##+js(set, xv.disclaimer.displayCookiePopup, noopFunc)
 xvideo.party##.pride.dump
 xvideos-full.com##+js(nowoif)
+xvideos.com##+js(set, xv.disclaimer.displayNewCookiePopup, noopFunc)
 xvideos.com##a[href*="/go.php?"][href*="&ad="]
 xvideos.com,xvideos2.com##+js(aeld, click, ShouldShow)
 xvideos.com,xvideos2.com##+js(nowoif)
