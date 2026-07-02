@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-07-01 07:15:44
-! Косметических правил: 50568
+! Updated: 2026-07-02 06:44:39
+! Косметических правил: 50564
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -427,7 +427,7 @@
 1tamilmv.*##+js(aopr, mm)
 1todaypk.*,todaypk.*##[href="/watchnow.php"]
 1tulatv.ru###slideout.dyes
-1tulatv.ru,anistar.org,astar.bz,gamer-info.com,help-wifi.com,intex-press.by,itweek.ru,online-star.org,online-stars.org,planetanovosti.com,regions.ru,tourpom.ru,vokrugsveta.ru##.soc
+1tulatv.ru,anistar.org,astar.bz,gamer-info.com,help-wifi.com,itweek.ru,online-star.org,online-stars.org,planetanovosti.com,regions.ru,tourpom.ru,vokrugsveta.ru##.soc
 1tv.ru##+js(set-constant, Object.prototype._currentAgeRestriction, null)
 1tv.ru##+js(set-constant, Object.prototype.disableSeek, noopFunc)
 1tv.ru##+js(set-constant, window.EUMP.plugins.antiblock, noopFunc)
@@ -888,7 +888,6 @@
 4webs.es###cookiesdiv
 4x4earth.com##+js(nostif, samOverlay)
 4x4earth.com##+js(set, adBlockDetected, false)
-5-tv.ru###Zakon
 5-tv.ru##._links
 5-tv.ru##.blockVk
 5-tv.ru##.fp-facebook
@@ -1013,7 +1012,6 @@
 7days.ru##.footer-7days__social
 7days.ru##.header-7days__recommendation_back
 7days.ru##.header-7days__recommendation_sticky
-7days.ru##.material-7days__button-max
 7days.ru##[class$="button-social-box"]
 7days.ru##[class*="button-social_telegramm"]
 7days.ru##body:style(margin-top: 0 !important)
@@ -3939,7 +3937,6 @@ argonauts.ca,cfl.ca##.footer1
 argos-tradein.co.uk##+js(set-cookie, AcceptCookieOnOff, 1)
 argos-tradein.co.uk##+js(set-cookie, GoogleAnalyticOnOff, 0)
 arguedas.es###barra
-argumenti.ru###left_social
 argumenti.ru###socnets
 argumenti.ru#?#li:-abp-has(> a[href^="https://t.me/"])
 argumenti.ru,cnews.ru,gta5-mods.com,thealphacentauri.net,tochka.net##.share-container
@@ -7271,7 +7268,7 @@ brother-usa.com##+js(set, utag, {})
 brother-usa.com##+js(set, utag.link, noopFunc)
 broughtons.com##.notice-wrap
 brouwland.com##.notification-top
-brovary.net.ua##.soc-ico
+brovary.net.ua,ecoaction.org.ua##.soc-ico
 browar.biz##.page > div > div[style*="gray"]
 browardpalmbeach.com###signup-modal
 browardpalmbeach.com##.site-header__social-link
@@ -13589,7 +13586,6 @@ eco-business.com##.eb-promotions--subscribe
 eco-sunglasses.com###first_visit_message
 eco-toimistotarvikkeet.fi,proficient.fi##+js(set-cookie, AcceptKeksit, 0, , reload, 1)
 eco07.com###SITE_ROOT ~ div[data-reactid*="siteAspectsContainer"]
-ecoaction.org.ua##[data-conversion-cookie-time]
 ecoaustral.com###inscription-hebdo
 ecodallecitta.it###consenso
 ecoints.com##+js(set-local-storage-item, allowed_cookies, true)
@@ -15577,7 +15573,7 @@ feld-eitorf.at##.feld-cookienotice
 feld-eitorf.de##.feld-cookienotice
 feldbusse.de##.show-cookie .footer
 felico.pl##+js(acs, document.oncontextmenu)
-felixbarbalet.com##.gh-button-share
+felixbarbalet.com,freshfromcache.com##.gh-button-share
 fellahe.com##.mh_share_footer
 fellow.pl##body > div:not([id]):not([class])
 fellowsfilm.com##+js(acs, document.querySelector, XF)
@@ -17185,6 +17181,8 @@ freshbooks.com##body,html:style(overflow: auto !important; position: initial !im
 freshchoice.co.nz##[data-broadcast-modal]:remove()
 freshersgold.com###main-container + div[id][class]
 freshersnow.com##.adsbygoogle
+freshfromcache.com###ffc-sticky
+freshfromcache.com##.ffc-inline-cta
 freshoffthegrid.com##.wp-block-kadence-rowlayout
 freshplaza.com##.grey_background
 freshplaza.com,hortidaily.com##+js(nosiif, banner)
@@ -19573,8 +19571,10 @@ handwerk-magazin.de###custom_html-5
 handwerk-magazin.de##.widget--sidebar-newsletter
 hanes.com,military1st.com,shop.ordnancesurvey.co.uk###_lpSurveyPopover
 hang-sluitwerk.nl##.ui-widget, .ui-widget-overlay
+hanime.tv##+js(aeld, click, /inter)
 hanime.tv##+js(set, ABLK, false)
 hanime.tv##+js(trusted-set-cookie, in_d4, 1, , , domain, hanime.tv)
+hanime.tv##.banner-ad
 hanime.tv##.htvad[style^="width: 300px; display: block"]
 hanime.tv##.htvnad
 hanime.tv##.htvnad1
@@ -19757,7 +19757,7 @@ hd-pornos.*##div[id="wrapper_content"] > aside
 hd-tch.com##+js(acs, addEventListener, nextFunction)
 hd-xxx.me##.videoOverAdBig
 hd.kinopoisk.ru##.ReactModalPortal > div[class*="styles_fixed_"]
-hd.kinopoisk.ru##div[class^="Footer_social-networks"]
+hd.kinopoisk.ru##div[class*="ooter_social-networks"]
 hd.se##.gdpr
 hd21.*##+js(nowoif)
 hd21.*##.aside_video
@@ -22149,9 +22149,6 @@ intersystems.com##.docscookie-notification
 interviewcake.com##.ic-alert-email-newsletter-signup
 interviewgig.com##+js(acs, document.onselectstart)
 interviewgig.com##+js(aeld, load, onload)
-intex-press.by###article > blockquote
-intex-press.by##.readalso
-intex-press.by##.to-share
 intexty.com##.cookie
 intezer.com##.site-notification-message
 inthesetimes.com##.bg-blackest
@@ -36214,7 +36211,6 @@ rems71.ru##body > div[id^="div"]
 ren.tv##+js(set-constant, Object.prototype.advert, undefined)
 ren.tv##.Footer_2LPPF > .news-delimiter
 ren.tv##.footer__body__social
-ren.tv##.video-player__sharing
 ren.tv##div[class*=" InformationBlockBtm_"]
 ren.tv##div[class*="dzenFoxButtonsContainer"]
 ren.tv##div[class*="dzenFoxButtonsContainer"] + .news-delimiter
@@ -36903,7 +36899,6 @@ rtings.com##+js(cookie-remover, product-previews)
 rtings.com##.insider_notice
 rtings.com##.newsletter_section
 rtings.com##.silo_page-newsletter
-rtl.de##+js(no-xhr-if, smartclip)
 rtl.de##+js(nostif, null, 10)
 rtl.de##[class*="superbanner"]:upward(article > div:not(#main))
 rtl.de##[class^="AdSlot_"]
@@ -49025,6 +49020,7 @@ ya.ru##.plus-link_inactive
 ya.ru##.reasoning-section
 ya.ru##.tooltip_theme_services
 ya.ru##.tooltip_theme_services-angle.popup2_direction_right-top
+ya.ru##[id^="r"][id*="ed"][id*="m"][id*="-"][id*="f"]
 ya.ru##[id^="r"][id*="et"][id*="m"][id*="-"][id*="f"]
 ya.ru##[id^="r"][id*="it"][id*="m"][id*="-"][id*="f"]
 ya.ru##[id^="r"][id*="yt"][id*="m"][id*="-"][id*="f"]
@@ -49033,8 +49029,8 @@ ya.ru##div[class^="body_"][class$="_feed_yes"]
 ya.ru##div[class^="search"][class$="_doodle"]
 ya.ru##div[style]:matches-prop(innerText="/РЕКЛАМА/")
 ya.ru##div[style]:matches-prop(innerText="/РЕКЛАМА/"):remove()
-ya.ru##html[class*="sektllion_top"] aside + div
-ya.ru##html[class*="sektllion_top"] main > div[class*="__"] ~ div[class*="__"] ~ div[class*="__"] > div
+ya.ru##html[class*="sectllion_top"] aside + div
+ya.ru##html[class*="sectllion_top"] main > div[class*="__"] ~ div[class*="__"] ~ div[class*="__"] > div
 ya.ru##main.body__wrapper > div[class*="__"] ~ div[class*="__"] ~ div[class*="__"] > div
 ya.ru#@#+js(remove-node-text, div, 'ad-mark__b-unit')
 ya.ru,yandex.*##+js(remove-node-text, script, DistributionLinkBro)
