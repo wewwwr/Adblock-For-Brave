@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-07-03 06:36:11
-! Косметических правил: 50570
+! Updated: 2026-07-04 06:24:25
+! Косметических правил: 50581
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -2829,6 +2829,7 @@ ambitiouskitchen.com##.sharewrap
 amboss.com##+js(set, ambossAnalytics, {})
 amboss.com##+js(set, ambossAnalytics.getUserAttribution, noopFunc)
 ambotv.com###post-nav
+ambrook.com##+js(set-cookie, ar-newsletter-promo-dismissed, 1)
 amcongmbh.de##.consent, #consent
 amcoustics.com##+js(set-cookie, amc-cookies-accepted, true, , reload, 1)
 amcrest.com##.wd1_nlpopup
@@ -3759,7 +3760,7 @@ aptekiplus.ru,blog.netcraze.ru,burninghut.ru,ecopolitic.com.ua,lifehacker.ru,mga
 aptnnews.ca##.contribute-box
 aptnnews.ca##.contribute-section
 aptnnews.ca##.your-story
-aptnnews.ca,awardswatch.com,businesspool.eu,gatewayhispanic.com,infodifesa.it,morbidology.com,revistaoilegasbrasil.com.br,rivanimation.com,spuf.org,stellenpool.eu,theoverclocker.com,uska.ch,wdet.org###scroll-up
+aptnnews.ca,awardswatch.com,businesspool.eu,gatewayhispanic.com,infodifesa.it,morbidology.com,news.exeter.ac.uk,revistaoilegasbrasil.com.br,rivanimation.com,spuf.org,stellenpool.eu,theoverclocker.com,uska.ch,wdet.org###scroll-up
 apuntmedia.es,bloomberg.com,forward.com,jns.org,northernvirginiamag.com,sandiegouniontribune.com,tvinsider.com,wamu.org##.newsletter-module
 apyhub.com,ilarahealth.com,ksaexpo2025.sa,paderborn.de##+js(set-cookie, cookies-accepted, true, , reload, 1)
 aqicn.org##+js(no-setTimeout-if, alert, 15000)
@@ -4537,6 +4538,8 @@ audi.ca##+js(set-cookie, AUDI_ENSIGHTEN_PRIVACY_BANNER_LOADED, 1)
 audi.ca##+js(set-cookie, AUDI_ENSIGHTEN_PRIVACY_BANNER_VIEWED, 1)
 audi.ca##+js(set-cookie, AUDI_ENSIGHTEN_PRIVACY_Functional, 0)
 audialab.com##+js(set-local-storage-item, user_closed_pop_up, true)
+audinifer.com,vibuxer.com##+js(rmnt, script, window.open)
+audinifer.com,vibuxer.com##body > div[style*="2147483647"]
 audio-joiner.com,convert.io,extract.me,online-voice-recorder.com,pdf.io,video-converter.com,webcamera.io##.extension-popup
 audio-parts.de##.popup_notification
 audioadvice.com##.white-bkg
@@ -15000,6 +15003,7 @@ expres.cz###main > table[id][class*=" "]:has(td > div[class] > div[id] > script)
 expres.cz##div[id][class*=" "]:has(> div[class]:not([id]) > span:empty)
 expres.cz,idnes.cz,lidovky.cz##a[href^="https://servix.idnes.cz/data.aspx?"]
 expres.cz,idnes.cz,lidovky.cz##div[id^="fix-block-"]
+expres.cz,lidovky.cz##+js(aeld, /click|mouse/, /scoreUrl|pingUrl/)
 expres.cz,lidovky.cz##+js(rmnt, script, pingUrl)
 expres.online##.author__icons
 express.24sata.hr##.article__top
@@ -23557,6 +23561,7 @@ kayak.com#?#.gkz0-toast:has-text(Get Price Alerts)
 kayifamilytv.com##+js(aeld, DOMContentLoaded, adsBlocked)
 kaystls.site##+js(nostif, AdDetect)
 kaystls.site##.code-block
+kazefuri.id##+js(rmnt, script, sessionStorage.getItem)
 kazefuri.net##+js(href-sanitizer, a[href^="https://www.adtival.network/"][href*="&url="], ?url)
 kb.arlo.com##+js(set, _vwo_code, {})
 kb.arlo.com##+js(set, _vwo_code.init, noopFunc)
@@ -25355,8 +25360,8 @@ liddread.com##*:style(-webkit-touch-callout: default !important; -webkit-user-se
 liddread.com##+js(rmnt, script, /wpcp|contextmenu|unselectable/)
 liddread.com##+js(rmnt, style, min-height:300px)
 lider.hr###notice
-lidovky.cz###content > div[id^="space-"]:has(> script)
 lidovky.cz###main > table
+lidovky.cz###selfart-box
 lidovky.cz##.s_nativ_advertorial
 liebl.de##.ish-global-notice-container
 liesegang-projects.com###lpcookies
@@ -25939,6 +25944,7 @@ lk.rt.ru##.application-footer_superfooter_social
 lk.rt.ru##.banner-carousel-style-header
 lk.rt.ru##.season_theme_after_mobile
 lk.rt.ru##[data-testid="SnowfallCanvas"]
+lk21official.*>>,noxx.to>>##+js(acs, EventTarget.prototype.addEventListener, delete window)
 lkc21.net##+js(aopr, AaDetector)
 lkc21.net##+js(nowoif)
 lkforum.ru##td[width="180"][align="right"]
@@ -26061,6 +26067,7 @@ lonelyplanet.com##html,body:style(overflow: auto !important; position: initial !
 long-covid.at###consent
 longecity.org##+js(set, abp, false)
 longevity.technology##.popup_bg
+longhall.consulting##+js(rmnt, script, /document\.currentScript\.remove|0x0/)
 longines.com##+js(set-cookie, longines-cookiesstatus-analytics, false)
 longines.com##+js(set-cookie, longines-cookiesstatus-functional, false)
 longines.com##+js(set-cookie, longines-cookiesstatus-necessary, true)
@@ -26635,8 +26642,11 @@ maginative.com##.sb-subscribe
 magio.tv###root > div[style]:not([class]):not([id])
 magiogo.sk##.headerMessages
 magix.info##.mgxCookieConsent
+magma.com##+js(set, Object.prototype.hasBottomPartnership, falseFunc)
+magma.com##+js(set, Object.prototype.hasLeftPartnership, falseFunc)
+magma.com##+js(set, Object.prototype.hasRightPartnership, falseFunc)
+magma.com##+js(set, Object.prototype.hasTopPartnership, falseFunc)
 magma.com##+js(trusted-json-edit-fetch-response, ..data.expectingAds=false, propsToMatch, /profile)
-magma.com##+js(trusted-set, Object.prototype.adsStrategy, 'json:{"tag":"","phase":0,"permaProvider":0,"tempoProvider":0,"buckets":[],"comment":"no-user","rotationPaused":true}', as, function)
 magnetdl.*##+js(nowoif, !magnetdl., 1)
 magnetdl.*##+js(rpnt, script, /window\.location\.replace\([^)]+\);?/g)
 magnetomagazine.com##.subcribe-banner
@@ -31032,7 +31042,6 @@ nowystylgroup.com##.nsg--notification.nsg--cookies
 nox-xtreme.com###root > div > div[class]:not([data-reactid])
 noxx.to##+js(aopr, AaDetector)
 noxx.to##+js(rmnt, script, window[_0x)
-noxx.to>>##+js(acs, EventTarget.prototype.addEventListener, delete window)
 noyb.eu###block-chives-shariff-share
 noyb.eu##.subscribe-cta-block
 nozomi.la##+js(aopw, __aaZoneid)
@@ -46207,13 +46216,12 @@ vk.com###public_market
 vk.com###pv_hh
 vk.com##.JoinForm__notNow:style(font-weight: bold !important; color: red !important; border: 3px solid red !important; padding: 6px !important)
 vk.com##.feed_groups_recomm
-vk.com##body.anonym div[class^="vkitTwoColumnLayoutNarrow__root"] > div > section:has(.vkuiHorizontalCell__host)
-vk.com##div[class^="vkitFooterBanner"]
 vk.com#@#.share_cont
 vk.com#@#.share_link
 vk.com,vk.ru###achievement_game.page_block
 vk.com,vk.ru###l_legal_recommendations
 vk.com,vk.ru##+js(abort-on-property-read, Groups.showDisclaimer)
+vk.com,vk.ru##+js(set-attr, html[lang], href-sanitizer, true)
 vk.com,vk.ru##+js(set-constant, Object.prototype.AdChoices, undefined)
 vk.com,vk.ru##+js(set-constant, PageBottomBanners, undefined)
 vk.com,vk.ru##+js(set-constant, Unauthorized2, undefined)
@@ -46227,6 +46235,7 @@ vk.com,vk.ru##[data-testid="channels-recommendation-block"]
 vk.com,vk.ru##[data-testid="groups-recommendation-block"]
 vk.com,vk.ru##[data-testid="videos_for_you_block_spa"]
 vk.com,vk.ru##div[class*="egalRecommendations"]
+vk.com,vk.ru##html[href-sanitizer] a[href*="/away.php?"][href*="to=http"]:style(pointer-events: none !important)
 vk.com,vk.ru##section[class*="vkitRecommendationBlock_"]
 vk.com,vk.ru,vkvideo.ru###old_browser_wrap
 vk.com,vk.ru,vkvideo.ru##+js(href-sanitizer, a[href*="/away.php?"], ?to -uricomponent)
@@ -47141,6 +47150,7 @@ weekday.com##.m-error-banner
 weekend-online.nl###reusableblockswidget-9
 weequizz.com##.bt_cookie
 weerg.com###blultpdfbanner
+weeronline.nl##+js(trusted-replace-argument, Range.prototype.createContextualFragment, 0, json:"<script></script>", condition, html-load.com)
 weerstatistieken.nl###ccWrapper
 weersvoorspelling.nl##body > div:not([id]):not([class])
 weespreventief.nl###popup, .popup
@@ -48032,6 +48042,7 @@ www.google.*,www.google.com##div[jscontroller="MaoVMd"][jsdata*="nTLyye;"]
 www.google.com##.QWEVge
 www.google.com##.tCroyc
 www.google.com##[jscontroller][data-limp] > .zQSHZb.cH2VZe[style^="right:"] > .gLpFG
+www.google.com##div:has(> div > div[data-hb="isv"])
 www.google.com##div[aria-label="Why this ad?"]:upward([data-pla="1"])
 www.google.com##div[aria-labelledby="promo_label_id"]
 www.google.com#?#[aria-describedby="promo_desc_id"]:has-text(/Time for a new laptop|Gemini, |Choose Chrome|built by Google|Search differently|Cherchez différemment|Search just got easier|Try more ways|Switch to Chrome|Keep things dark/)
