@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-07-09 06:49:32
-! Косметических правил: 50626
+! Updated: 2026-07-10 06:49:57
+! Косметических правил: 50620
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -437,7 +437,6 @@
 1tv.ru,mediavitrina.ru##.eump-share-social-items
 1ul.ru##.footerul_right
 1ul.ru##.socials_start
-1xanimes.in##+js(nostif, adsbygoogle)
 1xxx-tube.com###invideo_3
 1xxx-tube.com,asssex-hd.com,bigcockfreetube.com,bigdickwishes.com,enjoyfuck.com,freemomstube.com,fuckmonstercock.com,gobigtitsporn.com,gofetishsex.com,hard-tubesex.com,hd-analporn.com,hiddencamstube.com,kissmaturestube.com,lesbianfantasyxxx.com,modporntube.com,pornexpanse.com,pornokeep.com,pussytubeebony.com,tubesex.me,vintagesexpass.com,voyeur-pornvideos.com,voyeurspyporn.com,voyeurxxxfree.com,xxxtubenote.com,yummysextubes.com##+js(aopr, Aloader.serve)
 1xxx-tube.com,asssex-hd.com,bigcockfreetube.com,bigdickwishes.com,enjoyfuck.com,freemomstube.com,fuckmonstercock.com,gobigtitsporn.com,gofetishsex.com,hard-tubesex.com,hd-analporn.com,hiddencamstube.com,kissmaturestube.com,lesbianfantasyxxx.com,modporntube.com,pornexpanse.com,pornokeep.com,pussytubeebony.com,tubesex.me,vintagesexpass.com,voyeur-pornvideos.com,voyeurspyporn.com,voyeurxxxfree.com,xxxtubenote.com,yummysextubes.com##+js(noeval)
@@ -1024,10 +1023,10 @@
 7dneyleta.ru###html-header
 7dniv.rv.ua##.code-block-5[style*="clear:"]
 7dniv.rv.ua##.sticky-sidebar > .widget_custom_html:not(:last-child)
-7fractals.icu,alexsports.*,allevertakstream.space,brainknock.net,capo6play.com,capoplay.net,casthill.net,cdn256.xyz,courseleader.net,cr7-soccer.store,cracksports.me,cricwatch.io,dropbang.net,e2link.link,fsportshd.xyz,hornpot.net,ihdstreams.*,kakarotfoot.ru,meltol.net,mmastream.me,nativesurge.net,nbabox.co,powerover.site,qatarstreams.me,snapinstadownload.xyz,soccerworldcup.me,sportstohfa.online,sportzonline.site,stellarthread.com,sterham.net,stream.nflbox.me,streamcenter.xyz,streamshunters.eu,totalsportek1000.com,voodc.com,wavewalt.me,worldsports.*,ziggogratis.site##+js(rmnt, script, /delete window|popundersPerIP|var FingerprintJS|adserverDomain|globalThis;break;case|ai_adb|adContainer/)
-7fractals.icu,alexsports.*,allevertakstream.space,brainknock.net,capo6play.com,capoplay.net,casthill.net,cdn256.xyz,courseleader.net,cr7-soccer.store,cracksports.me,cricwatch.io,dropbang.net,e2link.link,fsportshd.xyz,hornpot.net,ihdstreams.*,kakarotfoot.ru,meltol.net,mmastream.me,nativesurge.net,nbabox.co,powerover.site,qatarstreams.me,snapinstadownload.xyz,soccerworldcup.me,sportstohfa.online,sportzonline.site,stellarthread.com,sterham.net,stream.nflbox.me,streamcenter.xyz,streamshunters.eu,totalsportek1000.com,voodc.com,wavewalt.me,worldsports.*,ziggogratis.site##^script:has-text(/delete window|popundersPerIP|var FingerprintJS|adserverDomain|globalThis;break;case|ai_adb|adContainer/)
-7fractals.icu,alexsports.*,allevertakstream.space,brainknock.net,capo6play.com,capoplay.net,casthill.net,cdn256.xyz,courseleader.net,cr7-soccer.store,cracksports.me,cricwatch.io,dropbang.net,e2link.link,fsportshd.xyz,hornpot.net,ihdstreams.*,kakarotfoot.ru,meltol.net,nativesurge.net,nbabox.co,powerover.site,qatarstreams.me,snapinstadownload.xyz,soccerworldcup.me,sportstohfa.online,sportzonline.site,stellarthread.com,sterham.net,stream.nflbox.me,streamcenter.xyz,streamshunters.eu,totalsportek1000.com,voodc.com,wavewalt.me,worldsports.*,ziggogratis.site##+js(aopr, aclib)
-7fractals.icu,alexsports.*,allevertakstream.space,brainknock.net,capo6play.com,capoplay.net,casthill.net,cdn256.xyz,courseleader.net,cracksports.me,cricwatch.io,dropbang.net,hornpot.net,meltol.net,nativesurge.net,nbabox.co,qatarstreams.me,snapinstadownload.xyz,soccerworldcup.me,sportzonline.site,stellarthread.com,sterham.net,stream.nflbox.me,streamcenter.xyz,wavewalt.me,ziggogratis.site##+js(nowoif, !/^\/|_self|alexsports|nativesurge/)
+7fractals.icu,alexsports.*,allevertakstream.space,brainknock.net,capo6play.com,capoplay.net,casthill.net,cdn256.xyz,courseleader.net,cr7-soccer.store,cracksports.me,cricwatch.io,dropbang.net,e2link.link,fsportshd.xyz,hornpot.net,ihdstreams.*,kakarotfoot.ru,meltol.net,mmastream.me,nativesurge.net,nbabox.co,powerover.site,qatarstreams.me,snapinstadownload.xyz,soccerworldcup.me,sportstohfa.online,sportzonline.site,stellarthread.com,sterham.net,stream.nflbox.me,streamcenter.xyz,streamshunters.eu,totalsportek1000.com,voodc.com,worldsports.*,ziggogratis.site##+js(rmnt, script, /delete window|popundersPerIP|var FingerprintJS|adserverDomain|globalThis;break;case|ai_adb|adContainer/)
+7fractals.icu,alexsports.*,allevertakstream.space,brainknock.net,capo6play.com,capoplay.net,casthill.net,cdn256.xyz,courseleader.net,cr7-soccer.store,cracksports.me,cricwatch.io,dropbang.net,e2link.link,fsportshd.xyz,hornpot.net,ihdstreams.*,kakarotfoot.ru,meltol.net,mmastream.me,nativesurge.net,nbabox.co,powerover.site,qatarstreams.me,snapinstadownload.xyz,soccerworldcup.me,sportstohfa.online,sportzonline.site,stellarthread.com,sterham.net,stream.nflbox.me,streamcenter.xyz,streamshunters.eu,totalsportek1000.com,voodc.com,worldsports.*,ziggogratis.site##^script:has-text(/delete window|popundersPerIP|var FingerprintJS|adserverDomain|globalThis;break;case|ai_adb|adContainer/)
+7fractals.icu,alexsports.*,allevertakstream.space,brainknock.net,capo6play.com,capoplay.net,casthill.net,cdn256.xyz,courseleader.net,cr7-soccer.store,cracksports.me,cricwatch.io,dropbang.net,e2link.link,fsportshd.xyz,hornpot.net,ihdstreams.*,kakarotfoot.ru,meltol.net,nativesurge.net,nbabox.co,powerover.site,qatarstreams.me,snapinstadownload.xyz,soccerworldcup.me,sportstohfa.online,sportzonline.site,stellarthread.com,sterham.net,stream.nflbox.me,streamcenter.xyz,streamshunters.eu,totalsportek1000.com,voodc.com,worldsports.*,ziggogratis.site##+js(aopr, aclib)
+7fractals.icu,alexsports.*,allevertakstream.space,brainknock.net,capo6play.com,capoplay.net,casthill.net,cdn256.xyz,courseleader.net,cracksports.me,cricwatch.io,dropbang.net,hornpot.net,meltol.net,nativesurge.net,nbabox.co,qatarstreams.me,snapinstadownload.xyz,soccerworldcup.me,sportzonline.site,stellarthread.com,sterham.net,stream.nflbox.me,streamcenter.xyz,ziggogratis.site##+js(nowoif, !/^\/|_self|alexsports|nativesurge/)
 7games.bet.br,betao.bet.br##.content-manager.popup-holder-f-bc.popup-holder-bc
 7iber.com,africanews.com,animefenix2.tv,dailycaller.com,dailydispatch.co.za,iservices.pt,motherjones.com,novabh.tv,onet.pl,online-convert.com,rbth.com,theherald.co.za,timeslive.co.za##.social-container
 7info.ru#?#p:-abp-has(> a[href^="https://news.google.com/publications/"])
@@ -1675,7 +1674,7 @@ adrenaline.com.br,bonsfluidos.com.br,bossip.com,brasil.perfil.com,glamurama.com.
 adrenaline.pl###tws_i_100000, #topLayerBackDrop
 adressit.com###share_buttons_top_of_petition_menu
 adressit.com##+js(rmnt, script, clipboard_disabled)
-adrianmissionminute.com,alejandrocenturyoil.com,alleneconomicmatter.com,bethshouldercan.com,bigclatterhomesguideservice.com,brittneystandardwestern.com,brookethoughi.com,brucevotewithin.com,bryantenunder.com,charlessheimprove.com,charlestoughrace.com,christopheruntilpoint.com,cindyeyefinal.com,denisegrowthwide.com,dianaavoidthey.com,diananatureforeign.com,donaldlineelse.com,edwardarriveoften.com,ericeastweight.com,erikcoldperson.com,evelynthankregion.com,garylargeavailable.com,graceaddresscommunity.com,heatherdiscussionwhen.com,heatherwholeinvolve.com,housecardsummerbutton.com,ianrequireadult.com,jamessoundcost.com,jamiesamewalk.com,jasminetesttry.com,jasonresponsemeasure.com,jayservicestuff.com,jeanprofessorcentral.com,jefferycontrolmodel.com,jennifereconomicgive.com,jessicaclearout.com,jessicaglassauthor.com,jessicayeahcatch.com,jilliandescribecompany.com,johnalwayssame.com,johntryopen.com,jonathansociallike.com,josephseveralconcern.com,juliewomanwish.com,kathyinformationwhether.com,kellywhatcould.com,kennethofficialitem.com,kristiesoundsimply.com,lancewhosedifficult.com,lauradaydo.com,lindalastattack.com,lisatrialidea.com,lorimuchbenefit.com,loriwithinfamily.com,lukecomparetwo.com,lukesitturn.com,mariatheserepublican.com,marissasharecareer.com,markstyleall.com,maryspecialwatch.com,maxfinishseveral.com,michaelapplysome.com,mikaylaarealike.com,morganoperationface.com,nathanfromsubject.com,pamelachangemission.com,rebeccacostthousand.com,rebeccaneverbase.com,richardquestionbuilding.com,richardsignfish.com,roberteachfinal.com,robertordercharacter.com,robertplacespace.com,ryanagoinvolve.com,sandratableother.com,sandrataxeight.com,sethniceletter.com,shannonpersonalcost.com,susanhavekeep.com,timmaybealready.com,tinycat-voe-fashion.com,toddpartneranimal.com,troyyourlead.com,uptodatefinishconference.com,uptodatefinishconferenceroom.com,vickisaveworker.com,voe.sx,walterprettytheir.com##+js(set, console.clear, undefined)
+adrianmissionminute.com,alejandrocenturyoil.com,alleneconomicmatter.com,bethshouldercan.com,brittneystandardwestern.com,brookethoughi.com,brucevotewithin.com,bryantenunder.com,charlessheimprove.com,charlestoughrace.com,christopheruntilpoint.com,cindyeyefinal.com,denisegrowthwide.com,dianaavoidthey.com,diananatureforeign.com,donaldlineelse.com,edwardarriveoften.com,ericeastweight.com,erikcoldperson.com,evelynthankregion.com,garylargeavailable.com,graceaddresscommunity.com,heatherdiscussionwhen.com,heatherwholeinvolve.com,housecardsummerbutton.com,ianrequireadult.com,jamessoundcost.com,jamiesamewalk.com,jasminetesttry.com,jasonresponsemeasure.com,jayservicestuff.com,jeanprofessorcentral.com,jefferycontrolmodel.com,jennifereconomicgive.com,jessicaclearout.com,jessicaglassauthor.com,jessicayeahcatch.com,jilliandescribecompany.com,johnalwayssame.com,johntryopen.com,jonathansociallike.com,josephseveralconcern.com,juliewomanwish.com,kathyinformationwhether.com,kellywhatcould.com,kennethofficialitem.com,kristiesoundsimply.com,lancewhosedifficult.com,lauradaydo.com,lindalastattack.com,lisatrialidea.com,lorimuchbenefit.com,loriwithinfamily.com,lukecomparetwo.com,lukesitturn.com,mariatheserepublican.com,marissasharecareer.com,markstyleall.com,maryspecialwatch.com,maxfinishseveral.com,michaelapplysome.com,mikaylaarealike.com,morganoperationface.com,nathanfromsubject.com,pamelachangemission.com,rebeccacostthousand.com,rebeccaneverbase.com,richardquestionbuilding.com,richardsignfish.com,roberteachfinal.com,robertordercharacter.com,robertplacespace.com,ryanagoinvolve.com,sandratableother.com,sandrataxeight.com,sethniceletter.com,shannonpersonalcost.com,susanhavekeep.com,timmaybealready.com,tinycat-voe-fashion.com,toddpartneranimal.com,troyyourlead.com,uptodatefinishconference.com,uptodatefinishconferenceroom.com,vickisaveworker.com,voe.sx,walterprettytheir.com##+js(set, console.clear, undefined)
 adrianmissionminute.com,alejandrocenturyoil.com,alleneconomicmatter.com,bethshouldercan.com,brittneystandardwestern.com,brookethoughi.com,brucevotewithin.com,bryantenunder.com,charlessheimprove.com,charlestoughrace.com,christopheruntilpoint.com,cindyeyefinal.com,dianaavoidthey.com,diananatureforeign.com,donaldlineelse.com,edwardarriveoften.com,ericeastweight.com,erikcoldperson.com,evelynthankregion.com,garylargeavailable.com,graceaddresscommunity.com,heatherdiscussionwhen.com,heatherwholeinvolve.com,housecardsummerbutton.com,ianrequireadult.com,jamessoundcost.com,jamiesamewalk.com,jasminetesttry.com,jasonresponsemeasure.com,jayservicestuff.com,jeanprofessorcentral.com,jefferycontrolmodel.com,jennifereconomicgive.com,jessicaclearout.com,jessicaglassauthor.com,jessicayeahcatch.com,jilliandescribecompany.com,johnalwayssame.com,johntryopen.com,jonathansociallike.com,josephseveralconcern.com,juliewomanwish.com,kathleenmemberhistory.com,kathyinformationwhether.com,kellywhatcould.com,kennethofficialitem.com,kristiesoundsimply.com,lancewhosedifficult.com,lauradaydo.com,lindalastattack.com,lisatrialidea.com,lorimuchbenefit.com,loriwithinfamily.com,lukecomparetwo.com,lukesitturn.com,mariatheserepublican.com,marissasharecareer.com,markstyleall.com,maryspecialwatch.com,maxfinishseveral.com,michaelapplysome.com,mikaylaarealike.com,morganoperationface.com,nathanfromsubject.com,pamelachangemission.com,phenomenalityuniform.com,rebeccacostthousand.com,rebeccaneverbase.com,richardquestionbuilding.com,richardsignfish.com,roberteachfinal.com,robertordercharacter.com,robertplacespace.com,ryanagoinvolve.com,sandratableother.com,sandrataxeight.com,sethniceletter.com,shannonpersonalcost.com,susanhavekeep.com,timmaybealready.com,toddpartneranimal.com,vickisaveworker.com,voe.sx,walterprettytheir.com##+js(nowoif)
 adrianmissionminute.com,alejandrocenturyoil.com,bryantenunder.com,charlessheimprove.com,charlestoughrace.com,christopheruntilpoint.com,dianaavoidthey.com,ericeastweight.com,garylargeavailable.com,heatherwholeinvolve.com,ianrequireadult.com,jeanprofessorcentral.com,jefferycontrolmodel.com,jennifereconomicgive.com,jessicaclearout.com,jessicayeahcatch.com,jilliandescribecompany.com,johnalwayssame.com,juliewomanwish.com,kathyinformationwhether.com,kellywhatcould.com,kristiesoundsimply.com,lancewhosedifficult.com,lauradaydo.com,lindalastattack.com,lukesitturn.com,mariatheserepublican.com,marissasharecareer.com,maryspecialwatch.com,mikaylaarealike.com,nathanfromsubject.com,pamelachangemission.com,rebeccacostthousand.com,richardquestionbuilding.com,timmaybealready.com,vickisaveworker.com,voe.sx,walterprettytheir.com##+js(acs, globalThis, break;case)
 adrianoluis.net,animecast.net,armyranger.com,articletz.com,bibliopanda.com,boxylucha.com,chibchat.com,doujinnote.com,duniailkom.com,ebooksyard.com,enciclopediaonline.com,entano.jp,eyalo.com,fotopixel.es,ichberlin.com,ireez.com,keepkoding.com,latribunadeautomocion.es,linemarlin.com,lumpiastudio.com,miaandme.org,mobility.com.ng,mygardening411.com,newstvonline.com,organismes.org,papagiovannipaoloii.altervista.org,rencah.com,riverdesdelatribuna.com.ar,rogoyume.jp,sakpot.com,sarkarinaukry.com,seamanmemories.com,swatalk.com,theorie-musik.de,topperpoint.com,torascripts.org,travel-the-states.com,vozz.vn##+js(aost, String.prototype.charCodeAt, ai_)
@@ -3820,7 +3819,6 @@ arabshentai.com,ariversegl.com,asia2tv.com,3dzip.info,boyfuck.me,cehennemstream.
 arabshentai.com,ariversegl.com,asia2tv.com,3dzip.info,boyfuck.me,cehennemstream.xyz,cgtips.org,cloudhostingz.com,cybermania.ws,daozoid.com,dvdgayporn.com,downloadcursos.gratis,dx-tv.com,filmyzones.com,fitnessplanss.com,freereadnovel.online,idlixvip.*,javboys.tv,magicgameworld.com,mangacrab.org,medicalstudyzone.com,netfuck.net,onezoo.net,pokopow.com,readingpage.fun,sampledrive.org,sharedwebs.com,shemalegape.net,tojimangas.com,tuktukcinma.com,vercanalesdominicanos.com,ycongnghe.com##+js(no-xhr-if, /googlesyndication|doubleclick/, length:10)
 arabshentai.com>>,avtub.cx>>,javdo.cc>>,javenglish.cc>>,javhd.*>>,javhdz.*>>,roshy.tv>>,sextb.*>>##+js(set, uas, [])
 arabtimesonline.com,elpasoheraldpost.com,loadthegame.com###check-also-box
-arahdrive.com##+js(set, protection, noopFunc)
 araihelmet.eu##.top-banner
 arakpop.net##+js(acs, btoa, replace)
 arakpop.net,koreaboo.net##a[href*="?key="][onclick^="window.open"]
@@ -7419,7 +7417,7 @@ buffalorising.com##.elementor-element-afcad4d
 buffer.com###__next > div > [class*="Banner"]
 buffsports.*##.btn-danger.btn
 buffsports.*##.h-100.position-absolute.w-100
-buffsports.*,fbstreams.*,mlbbox.me,strikeout.im,vipleague.*,wavewalt.me##+js(acs, EventTarget.prototype.addEventListener, delete window)
+buffsports.*,fbstreams.*,mlbbox.me,strikeout.im,vipleague.*##+js(acs, EventTarget.prototype.addEventListener, delete window)
 buffstream.*##+js(aopr, mm)
 buffstreamz.com##+js(acs, $, modal)
 buffstreamz.com##+js(nowebrtc)
@@ -7757,7 +7755,7 @@ cafe.naver.com##+js(aopr, document.oncontextmenu)
 cafe.naver.com##+js(aopr, document.ondragstart)
 cafe.naver.com##+js(aopr, document.onselectstart)
 cafemom.com##.subscribe-enter-done
-cafenau.com,calculascendant.com,calvyn.com,canaltdt.es,canzoni-per-bambini.it,captionpost.com,carryflix.icu,cashkar.in,casperhd.com,catatanonline.com,catmovie.website,cavalierstream.fr,celebritablog.com,celemusic.com,celestialtributesonline.com,certificateland.com,cg-method.com,chachocool.com,chakrirkhabar247.in,championpeoples.com,chanjaeblog.jp,change-ta-vie-coaching.com,charlottepilgrimagetour.com,chart.services,chatgbt.one,chatgptfree.ai,cheatermad.com,check-imei.info,cheese-cake.net,chelsea24news.pl,chevalmag.com,chieflyoffer.com,chihouban.com,chikonori.com,christiantrendy.com,cienagamagdalena.com,cimbusinessevents.com.au,cinecalidad5.site,cinema-sketch.com,cinepiroca.com,cizzyscripts.com,claimclicks.com,claydscap.com,clockskin.us,cloud9obits.com,cocorip.net,code-source.net,codeandkey.com,codeastro.com,codeitworld.com,codemystery.com,coderblog.in,codewebit.top,coin-profits.xyz,coinadpro.club,coinbaby8.com,coingraph.us,cola16.app,coleccionmovie.com,colliersnews.com,comeletspray.com,cometogliere.com,comoinstalar.me,compota-soft.work,conoscereilrischioclinico.it,consigliatodanoi.it,constructionmethodology.com,constructionplacement.org,cookni.net,correction-livre-scolaire.fr,cpscan.xyz,crackcodes.in,crackthemes.com,craigretailers.co.uk,crazyashwin.com,crazydeals.live,creebhills.com,cricket12.com,crn.pl,cronachesalerno.it,crunchytech.net,cryptonor.xyz,cryptonworld.space,cryptotech.fun,cryptowidgets.net,crystalcomics.com,cta-fansite.com,cuckoldsex.net,culture-informatique.net,curiosidadtop.com,cwc.utah.gov,cykf.net,cyprus.co.il##+js(noeval-if, /chp_?ad/)
+cafenau.com,calculascendant.com,calvyn.com,canaltdt.es,canzoni-per-bambini.it,captionpost.com,carryflix.icu,cashkar.in,casperhd.com,catatanonline.com,catmovie.website,cavalierstream.fr,celebritablog.com,celemusic.com,celestialtributesonline.com,certificateland.com,cg-method.com,chachocool.com,chakrirkhabar247.in,championpeoples.com,chanjaeblog.jp,change-ta-vie-coaching.com,charlottepilgrimagetour.com,chart.services,chatgbt.one,chatgptfree.ai,cheatermad.com,check-imei.info,cheese-cake.net,chelsea24news.pl,chevalmag.com,chieflyoffer.com,chihouban.com,chikonori.com,christiantrendy.com,cienagamagdalena.com,cimbusinessevents.com.au,cinecalidad5.site,cinema-sketch.com,cinepiroca.com,cizzyscripts.com,claimclicks.com,claydscap.com,clockskin.us,cloud9obits.com,cocorip.net,code-source.net,codeandkey.com,codeastro.com,codeitworld.com,codemystery.com,coderblog.in,codewebit.top,coin-profits.xyz,coinadpro.club,coinbaby8.com,coingraph.us,cola16.app,coleccionmovie.com,colliersnews.com,comeletspray.com,cometogliere.com,comoinstalar.me,compota-soft.work,conoscereilrischioclinico.it,consigliatodanoi.it,constructionmethodology.com,constructionplacement.org,cookni.net,correction-livre-scolaire.fr,cpscan.xyz,crackcodes.in,crackthemes.com,craigretailers.co.uk,crazyashwin.com,crazydeals.live,creebhills.com,cricket12.com,crn.pl,cronachesalerno.it,crunchytech.net,cryptonor.xyz,cryptonworld.space,cryptowidgets.net,crystalcomics.com,cta-fansite.com,cuckoldsex.net,culture-informatique.net,curiosidadtop.com,cwc.utah.gov,cykf.net,cyprus.co.il##+js(noeval-if, /chp_?ad/)
 caferosenhaven.dk##body > div:not([id]):not([class])
 cafonline.com##.caf-c-followbar
 cafonline.com##.caf-o-footer__socials
@@ -8505,6 +8503,7 @@ centrumher.eu##[class^="san_howtowhitelist_"]
 centrumpiwowarstwa.pl##.page > div > div[style*="gray"]
 centrumrowerowe.pl##+js(set-cookie, _cookieConsents, 1, , reload, 1)
 centrumwedkarstwa.pl##body > .no_print
+centrumzdrowegowlosa.pl###gmgdpr-overlay
 ceoworld.biz###custom_html-7
 ceoworld.biz##.single-post-share-header
 cepa.org##[data-block="newsletter"]
@@ -10240,8 +10239,6 @@ courierexchange.co.uk,haulageexchange.co.uk##+js(set-cookie, nc_marketing, rejec
 cours-de-droit.net,football-highlight.com,gastroepato.it,granadaesnoticia.com,hayastantv.me,hunter.fm,info-desk.co.za,lootdb.com,mtabrasil.com.br,nekomeowmeow.com,numbersinwords.net,oztoml.com,redheadpassions.com,teknolojiprojeleri.com,tercihiniyap.net,vww.yggtorrent.fr,walkingenglishman.com,wikihandbk.com##ins.adsbygoogle
 course-downloader.com##+js(acs, addEventListener, blocker)
 courseboat.com##+js(nostif, brave_load_popup)
-courseclub.me##+js(aeld, , show)
-courseclub.me##+js(nostif, show)
 coursera.org##+js(no-fetch-if, eventing)
 courseware.cemc.uwaterloo.ca##+js(ra, oncontextmenu)
 courthousenews.com###email-subscribers
@@ -13154,6 +13151,7 @@ dzen.ru###SECOND_CHUNK_APP_CONTAINER_MicroRoot div[class^="dzen-layout--desktop-
 dzen.ru###SECOND_CHUNK_APP_CONTAINER_MicroRoot div[class^="dzen-layout--desktop-page-layout__root"]:style(min-height: 0 !important; --desktopPageLayoutCenterPadding: inherit !important)
 dzen.ru###ad-feed
 dzen.ru###ya-dist
+dzen.ru##+js(abort-on-property-read, Object.prototype.initAdRefreshment)
 dzen.ru##+js(href-sanitizer, a[href*="/away?"], ?to)
 dzen.ru##+js(nano-setTimeout-booster, '()=>r(', 15000)
 dzen.ru##.adv-ecom
@@ -13171,10 +13169,11 @@ dzen.ru##.news-secondary-layout-column__secondary div[id]
 dzen.ru##.news-sticky__inner > div > div:not([id])
 dzen.ru##.news-sticky__inner > div > div[id]
 dzen.ru##.news-story-page div[id] > div:not([id]) > div[id]
-dzen.ru##.secondChunkSyncExp div[class*="-layout--desktop-page-layout__afterHeader-"] div:only-child > div:only-child > div:only-child > div:first-child > div:first-child + div:last-child > div:only-child:style(border: inherit !important)
-dzen.ru##.secondChunkSyncExp div[class*="-layout--desktop-page-layout__afterHeader-"] div:only-child > div:only-child > div:only-child > div:first-child > div:first-child + div:last-child:style(background-color: inherit !important)
-dzen.ru##.secondChunkSyncExp div[class*="-layout--desktop-page-layout__afterHeader-"] div[class]:first-child > div[class]:first-child:empty + div:last-child div:style(background-color: inherit !important)
-dzen.ru##.secondChunkSyncExp div[class*="-layout--desktop-page-layout__afterHeader-"] div[class]:first-child > div[class]:first-child:empty:style(background-color: inherit !important)
+dzen.ru##.secondChunkSyncExp div[class*="--desktop-page-layout__afterHeader-"] div:only-child > div:only-child > div:only-child > div:first-child > div:first-child + div:last-child > [class]:only-child [id]:style(border: inherit !important)
+dzen.ru##.secondChunkSyncExp div[class*="--desktop-page-layout__afterHeader-"] div:only-child > div:only-child > div:only-child > div:first-child > div:first-child + div:last-child > [class]:only-child:style(background-color: inherit !important; border: inherit !important)
+dzen.ru##.secondChunkSyncExp div[class*="--desktop-page-layout__afterHeader-"] div:only-child > div:only-child > div:only-child > div:first-child > div:first-child + div:last-child:style(background-color: inherit !important)
+dzen.ru##.secondChunkSyncExp div[class*="--desktop-page-layout__afterHeader-"] div[class]:first-child > div[class]:first-child:empty + div:last-child div:style(background-color: inherit !important)
+dzen.ru##.secondChunkSyncExp div[class*="--desktop-page-layout__afterHeader-"] div[class]:first-child > div[class]:first-child:empty:style(background-color: inherit !important)
 dzen.ru##.video-card-ads
 dzen.ru##.zen-page .content > div[class*="__container"] > div:not(:last-child) > div[id]:first-child
 dzen.ru##.zen-page .content div[class*="__bannerMain"]
@@ -13268,7 +13267,7 @@ dzen.ru##div[id] > div[class*="-desktop-"] > div[class*="__image-"]:empty + div[
 dzen.ru##div[id^="ad-"][class*=" news-"]
 dzen.ru##div[id^="article-showcase-"]
 dzen.ru##div[popup-getfocusable-id]
-dzen.ru##div[style*="12.36263736263"]
+dzen.ru##div[style*="12.3626373626"]
 dzen.ru##div[style*="important"] div[class*="__main"]
 dzen.ru#?#.mg-grid__item_type_card:-abp-has(> div[class*="loader_animated"])
 dzen.ru#?#.news-app__heading:-abp-has(> h1:-abp-contains(Реклама))
@@ -13277,15 +13276,12 @@ dzen.ru#?#div[id] > div[id]:-abp-has(> div[style="visibility: visible;"])
 dzen.ru,frontend.vh.yandex.ru##+js(set-constant, Object.prototype.getAutoplay, noopFunc)
 dzen.ru,frontend.vh.yandex.ru,naydex.net,widgets.kinopoisk.ru,www.kinopoisk.ru,yastatic.net##+js(no-xhr-if, strm.yandex.ru/get/)
 dzen.ru,frontend.vh.yandex.ru,naydex.net,widgets.kinopoisk.ru,www.kinopoisk.ru,yastatic.net##+js(set-constant, Object.prototype.partnerId, {})
-dzen.ru,sportsdzen.ru##+js(abort-on-property-read, Object.prototype.setContainer)
 dzen.ru,sportsdzen.ru##+js(prevent-fetch, /stats/bulk|stats/pixels|zen_audit/)
 dzen.ru,sportsdzen.ru##.trapPopupContainer
 dzen.ru,sportsdzen.ru##:matches-path(/news) :matches-attr(/./=/feed/) > div:not([id]) > div[id*="feed"]
 dzen.ru,sportsdzen.ru##:matches-path(/news) div:matches-attr(/./=/misc-card/)
-dzen.ru,sportsdzen.ru##[aria-label*="Pа"][aria-label*="овост"] > div[class] > div > div[id] ~ div[id]
-dzen.ru,sportsdzen.ru##[aria-label*="Pа"][aria-label*="овост"] > div[class] > div > div[id]:first-child + div[class^="news"]:not([class*="-rubric-"]):not(:last-child):not([aria-label])
-dzen.ru,sportsdzen.ru##[aria-label*="ра"][aria-label*="овост"] > div[class] > div > div[id] ~ div[id]
-dzen.ru,sportsdzen.ru##[aria-label*="ра"][aria-label*="овост"] > div[class] > div > div[id]:first-child + div[class^="news"]:not([class*="-rubric-"]):not(:last-child):not([aria-label])
+dzen.ru,sportsdzen.ru##[aria-label*="PА"][aria-label*="овост"] > div[class] > div > div[id] ~ div[id]
+dzen.ru,sportsdzen.ru##[aria-label*="PА"][aria-label*="овост"] > div[class] > div > div[id]:first-child + div[class^="news"]:not([class*="-rubric-"]):not(:last-child):not([aria-label])
 dzen.ru,sportsdzen.ru##a.news-story-block__link ~ div > div:not([class])
 dzen.ru,sportsdzen.ru##body:style(scroll-snap-type: none !important)
 dzen.ru,sportsdzen.ru##div:matches-attr(/./=/meta-channel-pinner/) > div > div
@@ -16086,6 +16082,7 @@ firefaucet.win##+js(nofab)
 firefaucet.win##+js(set, firefaucet, true)
 firefaucet.win##[class^="sticky-ad"]
 firefile.cc##+js(set, blockAdBlock._options.baitClass, null)
+fireflix.pages.dev##+js(nostif, no-referrer-when-downgrade)
 fireman.club##.followandsub
 fireman.club##.social-block-bottom
 fireman.club,labirint.ru##.cookie-policy
@@ -18365,7 +18362,6 @@ gifyagusi.pl#@##fanback
 giga.de##+js(aost, XMLHttpRequest.prototype.open, svonm.com)
 giga.de##.alice-push-channel
 giga.de,kino.de,spieletipps.de,desired.de##+js(rpnt, script, /\"homad\"\,/)
-gigacourse.com##+js(acs, eval, replace)
 gigaho.com##+js(aopr, onload)
 gigalekaren.sk###dl_cookie
 gigalekarna.cz###dl_cookie
@@ -20524,7 +20520,6 @@ holfuy.com##body > div:not([id]):not([class])[style*="fixed"], body > div:not([i
 holidayhouseliquors.com###agePopUp
 holidayworld.com##+js(set-cookie, pp-acknowledged, true)
 holidu.de###cookie-selector
-hollaforums.com,powforums.com,supforums.com##+js(no-xhr-if, googlesyndication)
 hollandbikeshop.com##.cookies-sec
 hollandse-hoogte.nl###ctr-cookies
 hollisterco.com##.flash-message[data-flash-message-group-id*="cookie"]
@@ -21581,6 +21576,8 @@ imgur.com##+js(set, Object.prototype.adsEnabled, false)
 imgur.com##+js(set, Object.prototype.has_opted_out_tracking, trueFunc)
 imgur.com##.Ad
 imgur.com##.Footer-whitelist
+imgur.com##.PopUpDownloadApp
+imgur.com##.PopUpMobile-backdrop
 imgur.com##a[href].Post-item:has(.Post-item-external-ad):style(opacity: 0 !important; cursor: unset !important; pointer-events: none !important;)
 imgur.com,imgur-com.translate.goog##+js(set-cookie, WHITELISTED_CLOSED, 1)
 imgur.io##.Ad
@@ -23354,7 +23351,7 @@ kaas.ro##+js(aopr, aclib)
 kabeleins.de,kachelmannwetter.com,kamelle.de,kicker.de,kindergeld.org,klettern-magazin.de,klettern.de,kochbar.de,kreis-anzeiger.de,kreisbote.de,kreiszeitung.de,ksta.de,kurierverlag.de##+js(nostif, .call(null), 10)
 kabeleins.de,ran.de,suomi24.fi##.fb-page
 kabeltje.com##body > .mbdialog
-kacengeng.com,kakiagune.com,kali.wiki,kana-mari-shokudo.com,kanaeblog.net,kandisvarlden.com,karaoke4download.com,kattannonser.se,kawaguchimaeda.com,kaystls.site,kenkou-maintenance.com,kenta2222.com,keroseed.*,ketubanjiwa.com,kgs-invest.com,kh-pokemon-mc.com,khabarbyte.com,khabardinbhar.net,khohieu.com,kickcharm.com,kinisuru.com,kireicosplay.com,kits4beats.com,kllproject.lv,know-how-tree.com,knowstuff.in,kobitacocktail.com,kodaika.com,kodewebsite.com,kodibeginner.com,kokosovoulje.com,kolcars.shop,kolnovel.site,kompiko.pl,koreanbeauty.club,korogashi-san.org,korsrt.eu.org,kotanopan.com,koume-in-huistenbosch.net,krx18.com,kukni.to,kupiiline.com,kurakura21.com,kurosuen.live##+js(noeval-if, /chp_?ad/)
+kacengeng.com,kakiagune.com,kali.wiki,kana-mari-shokudo.com,kandisvarlden.com,karaoke4download.com,kattannonser.se,kawaguchimaeda.com,kaystls.site,kenkou-maintenance.com,kenta2222.com,keroseed.*,ketubanjiwa.com,kgs-invest.com,kh-pokemon-mc.com,khabarbyte.com,khabardinbhar.net,khohieu.com,kickcharm.com,kinisuru.com,kireicosplay.com,kits4beats.com,kllproject.lv,know-how-tree.com,knowstuff.in,kobitacocktail.com,kodaika.com,kodewebsite.com,kodibeginner.com,kokosovoulje.com,kolcars.shop,kolnovel.site,kompiko.pl,koreanbeauty.club,korogashi-san.org,korsrt.eu.org,kotanopan.com,koume-in-huistenbosch.net,krx18.com,kukni.to,kupiiline.com,kurakura21.com,kurosuen.live##+js(noeval-if, /chp_?ad/)
 kachelmannwetter.com###meteosafe
 kachelmannwetter.com##[href="https://pflotsh.com"]
 kachelmannwetter.com,meteologix.com##.dkpw-billboard-margin
@@ -23600,8 +23597,6 @@ kcrw.com##div[class^="SocialShare_"]
 kcrw.com##form[class^="Footer_newsletter_"]
 kcur.org##.PromoD
 kdanmobile.com###__next > div[style*="overflow"] > div[class*="ContentWrap"], #__next > div[class*="ContentWrap"], #gdpr-wrapper
-kdramasmaza.com.pk##+js(nostif, nextFunction, 2000)
-kdramasmaza.com.pk##a[href*="?key="][target="_blank"]
 keb-automation.com##+js(set-cookie, privacy-statement-accepted, true, , reload, 1)
 kedglobal.com##.cookies_layer
 keeb.supply##+js(set-cookie, KeebSupplyCookieConsent, true)
@@ -27827,7 +27822,6 @@ merkur.si##+js(set-cookie, cookie_notice_dismissed, yes)
 merkur.si##+js(set-cookie, mer_cc_dim_rem_allow, no)
 merlininkazani.com##+js(nostif, onDetected)
 merriam-webster.com##.active-subscribe
-merriam-webster.com##.footer-subscribe-block
 merriam-webster.com##.social-link
 merseyfire.gov.uk###popup_box
 mesago.de###privacy_overlay
@@ -29854,7 +29848,7 @@ naturo.pl###cookie
 naturocoaching.fr##body > div[style*="red"]
 naturvardsverket.se###App > div
 natuurfotografie.nl###cookieSettings
-naughtyblogs.xyz,negative.tboys.ro,neservicee.com,netsentertainment.net,neuna.net,newbookmarkingsite.com,newfreelancespot.com,newlifefuneralhomes.com,news-geinou100.com,newscard24.com,newstechone.com,nghetruyenma.net,ngomek.com,nhvnovels.com,nichetechy.com,niganpro.com,nin10news.com,nicetube.one,nishankhatri.*,niteshyadav.in,nknews.jp,nkreport.jp,nlcosplay.com,noanyi.com,nobodycancool.com,noblessetranslations.com,nocfsb.com,nocsummer.com.br,nodenspace.com,noikiiki.info,notandor.cn,note1s.com,notesformsc.org,noteshacker.com,novacodeportal.xyz,novel-gate.com,novelbob.com,novelread.co,novelsparadise.site,nsbtmemoir.site,nsfwr34.com,nswdownload.com,ntucgm.com,nudeslegion.com,nukedpacks.site,nulledmug.com,nvimfreak.com,nyangames.altervista.org,nylonstockingsex.net##+js(noeval-if, /chp_?ad/)
+naughtyblogs.xyz,negative.tboys.ro,neservicee.com,netsentertainment.net,neuna.net,newbookmarkingsite.com,newfreelancespot.com,newlifefuneralhomes.com,news-geinou100.com,newscard24.com,newstechone.com,nghetruyenma.net,ngomek.com,nhvnovels.com,nichetechy.com,niganpro.com,nin10news.com,nicetube.one,nishankhatri.*,niteshyadav.in,nknews.jp,nkreport.jp,nlcosplay.com,noanyi.com,nobodycancool.com,nocfsb.com,nocsummer.com.br,nodenspace.com,noikiiki.info,notandor.cn,note1s.com,notesformsc.org,noteshacker.com,novacodeportal.xyz,novel-gate.com,novelbob.com,novelread.co,novelsparadise.site,nsbtmemoir.site,nsfwr34.com,nswdownload.com,ntucgm.com,nudeslegion.com,nukedpacks.site,nulledmug.com,nvimfreak.com,nyangames.altervista.org,nylonstockingsex.net##+js(noeval-if, /chp_?ad/)
 naughtymachinima.com##+js(acs, __htapop)
 naughtymachinima.com##+js(aopr, loadTool)
 naughtymachinima.com##+js(nowoif)
@@ -31622,7 +31616,9 @@ okpoznan.pl##+js(set-cookie, cookie_analytics, false)
 okpoznan.pl##+js(set-cookie, cookiepolicyinfo_new, true)
 oksofas.es##.jCookie
 okstream.*##[id^="click"]
-okteve.com##+js(acs, String.fromCharCode, marginheight)
+okteve.com##+js(acs, EventTarget.prototype.addEventListener, .clientHeight===0)
+okteve.com##+js(set, xpv, {})
+okteve.com##+js(set, xpv.v, true)
 okto.tv##+js(set-cookie, disclaimer-saved, 1)
 okulsoru.com##+js(acs, addEventListener, google_ad_client)
 okutta.net##.article__footer > div[style="height:500px; overflow-y:scroll;"]
@@ -31869,7 +31865,6 @@ onlinewarehouse.com##.avwp-av-overlay
 only-paper.ru###bottomInfoBar
 only.com##.overlay-backdrop
 onlyandsons.com##.overlay-backdrop
-onlybabes.site##+js(acs, $, btoa)
 onlyfans.to,upbolt.to##+js(aost, document.createElement, openNewTab)
 onlyfans.to,upbolt.to##+js(no-xhr-if, /admaven|adspyglass/)
 onlyfans.to,upbolt.to##+js(nowoif, _blank)
@@ -32858,6 +32853,7 @@ pdfaid.com##+js(nostif, offsetHeight)
 pdfdrive.to##+js(trusted-override-element-method, HTMLElement.prototype.click, [href^="https://whulsaux.com"])
 pdfdrive.to##+js(trusted-set-local-storage-item, pdadsLastClosed, $now$)
 pdfindir.net##+js(aeld, , _0x)
+peachify.top##+js(aeld, click, atob)
 peachnewmedia.com##.ui-widget-overlay
 peachprintable.com###popID
 peachprintable.com##+js(nostif, chkADB)
@@ -34537,6 +34533,7 @@ powerspreadsheets.com##.thrv-ribbon, .thrv-leads-slide-in
 powerthesaurus.org##+js(aopw, ad_abblock_ad)
 powforums.com##+js(nowoif)
 powforums.com##+js(set, adsBlocked, false)
+powforums.com,supforums.com##+js(no-xhr-if, googlesyndication)
 powietrze.katowice.wios.gov.pl##.a-footer
 powstream.*,powlideo.*,povvvideo.*,powvdeo.*##+js(nowoif)
 powys.gov.uk###cookie-consent-prompt
@@ -35473,7 +35470,7 @@ r-wipe.com###pp-info
 r1-forum.com,r1200gs.info,r1200rforum.com,r125forum.com,r1300gsforum.com,r2forums.com,r3-forums.com,r32oc.com,r6-forum.com,r6messagenet.com,r7forums.com,r8talk.com,r9riders.com,rabbitdogs.net,rallyforums.com,ram1500diesel.com,ramchargercentral.com,ramevforum.com,ramforumz.com,ramrebel.org,ramrebelforum.com,ramrho.org,rangerforums.net,rangerovers.net,rangerraptorowners.com,raptorforum.com,raptorforumz.com,ratforum.com,rav4world.com,rc350forum.com,rc51forums.com,recon-forum.com,redlineforums.com,redlineutvforums.net,regalforums.com,renaultforums.co.uk,renegadeforum.com,reptileforums.co.uk,retrievertraining.net,rhinoforums.net,rhinotalk.net,riderforums.com,ridgeforum.com,ridgelineownersclub.com,rimfirecentral.com,rinconriders.com,rivianownersforum.com,rlxforum.com,roadbikereview.com,roadglide.org,roadstarraider.com,roadtripliving.com,robloxforum.com,rodsnsods.co.uk,roguesportforum.com,rollsroyceforums.com,roofingtalk.com,rootzwiki.com,rottweilersonline.com,routerforums.com,royalenfieldforum.com,rs25.com,rswarrior.com,rubiconownersforum.com,rugerforum.net,rugerpistolforums.com,rugertalk.com,runeriders.com,runnersforum.co.uk,rzforums.com,rzrforums.net##+js(rmnt, script, html-load.com)
 r1.richtoon.top##.c-bottom-sidebar.c-sidebar[style="background-color:#f3f3f3;  padding:50px 7px ; "]
 r1.richtoon.top##.c-top-sidebar.c-sidebar[style="background-color:#000000;  padding:50px 5px ; "]
-r1.richtoon.top,rabo.no,ragnarokscanlation.*,rahim-soft.com,rail-log.net,railwebcams.net,ranjeet.best,ranourano.xyz,raulmalea.ro,rbs.ta36.com,rbscripts.net,rctechsworld.in,readallcomics.com,readfast.in,readhunters.xyz,realfreelancer.com,realtormontreal.ca,receptyonline.cz,recipenp.com,redbubbletools.com,redfaucet.site,reeell.com,renierassociatigroup.com,reportbangla.com,reprezentacija.rs,retire49.com,retrotv.org,reviewmedium.com,revistaapolice.com.br,rgmovies.*,ribbelmonster.de,rightdark-scan.com,rinconpsicologia.com,ritacandida.com,riwayat-word.com,rlshort.com,rocdacier.com,rocketrevise.com,rollingglobe.online,romaierioggi.it,romaniasoft.ro,roms4ever.com,romviet.com,roshy.tv,rottenlime.pw,roznamasiasat.com,rubyskitchenrecipes.uk,ruyamanga.com,rv-ecommerce.com,ryanmoore.marketing,ryansharich.com##+js(noeval-if, /chp_?ad/)
+r1.richtoon.top,rabo.no,ragnarokscanlation.*,rahim-soft.com,rail-log.net,railwebcams.net,ranjeet.best,ranourano.xyz,raulmalea.ro,rbs.ta36.com,rbscripts.net,rctechsworld.in,readallcomics.com,readfast.in,readhunters.xyz,realfreelancer.com,realtormontreal.ca,receptyonline.cz,recipenp.com,redbubbletools.com,redfaucet.site,reeell.com,renierassociatigroup.com,reportbangla.com,reprezentacija.rs,retire49.com,retrotv.org,revistaapolice.com.br,rgmovies.*,ribbelmonster.de,rightdark-scan.com,rinconpsicologia.com,ritacandida.com,riwayat-word.com,rlshort.com,rocdacier.com,rocketrevise.com,rollingglobe.online,romaierioggi.it,romaniasoft.ro,romviet.com,roshy.tv,rottenlime.pw,roznamasiasat.com,rubyskitchenrecipes.uk,ruyamanga.com,rv-ecommerce.com,ryanmoore.marketing,ryansharich.com##+js(noeval-if, /chp_?ad/)
 r10.net##img[width="728"][height="90"]
 r18.best,racaty.*,rapelust.com,rapload.org,read-onepiece.net,readhunters.xyz,relampagomovies.com,remaxhd.*,reshare.pm,retro-fucking.com,retrotv.org,rintor.*,rnbxclusive.*,rnbxclusive0.*,rnbxclusive1.*,robaldowns.com,rockdilla.com,rojadirecta.*,rojadirectaenvivo.*,rojitadirecta.blogspot.com,romancetv.site,roporno.info,rsoccerlink.site,rugbystreams.*,rule34hentai.net,rumahbokep-id.com##+js(rmnt, script, /h=decodeURIComponent|popundersPerIP/)
 r18.best,racaty.*,rapelust.com,rapload.org,read-onepiece.net,readhunters.xyz,relampagomovies.com,remaxhd.*,reshare.pm,retro-fucking.com,retrotv.org,rintor.*,rnbxclusive.*,rnbxclusive0.*,rnbxclusive1.*,robaldowns.com,rockdilla.com,rojadirecta.*,rojadirectaenvivo.*,rojitadirecta.blogspot.com,romancetv.site,roporno.info,rsoccerlink.site,rugbystreams.*,rule34hentai.net,rumahbokep-id.com##^script[data-cfasync]:has-text(/h=decodeURIComponent|popundersPerIP/)
@@ -37202,7 +37199,7 @@ sabishares.com##p > a[href*="/4/"][target="_blank"]
 sabishiidesu.com##+js(acs, document.onkeydown)
 sabishiidesu.com##+js(aopw, document.oncontextmenu)
 sabishiidesu.com##.unselectable:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
-sabishiidesu.com,saekita.com,samovies.net,samrudhiglobal.com,samurai.rzword.xyz,samurai.wordoco.com,sanblo.com,sanmiguellive.com,santhoshrcf.com,sararun.net,sarkariresult.social,satcesc.com,satoshifaucet.io,savegame.pro,sawwiz.com,scansatlanticos.com,schadeck.eu,sezia.com,schildempire.com,scholarshiplist.org,sciencebe21.in,scontianastro.com,scrap-blog.com,scripcheck.great-site.net,scriptsomg.com,searchmovie.wp.xdomain.jp,searchnsucceed.in,seasons-dlove.net,seirsanduk.com,seogroup.bookmarking.info,seoworld.in,seriu.jp,setsuyakutoushi.com,serieshdpormega.com,server-tutorials.net,serverbd247.com,sezia.com,shadagetech.com,shanurdu.com,sharphindi.in,sheikhmovies.*,shipseducation.com,shimauma-log.com,shittokuadult.net,shlly.com,shogaisha-shuro.com,shogaisha-techo.com,shopkensaku.com,shorttrick.in,showflix.*,showrovblog.com,shrinklinker.com,shrinkus.tk,shrivardhantech.in,sieradmu.com,siimanga.cyou,siirtolayhaber.com,sim-kichi.monster,sivackidrum.net,sk8therapy.fr,skardu.pk,skidrowreloaded.com,slawoslaw.pl,slowianietworza.pl,smallseotools.ai,smartinhome.pl,snowman-information.com,socebd.com,sociallyindian.com,softcobra.com,softrop.com,sohohindi.com,sosuroda.pl,sourds.net,south-park-tv.biz,soziologie-politik.de,sp500-up.com,space-faucet.com,spacestation-online.com,spardhanews.com,speculationis.com,spinoff.link,spiritparting.com,sport-97.com,sportsblend.net,ssdownloader.online,stablediffusionxl.com,stadelahly.net,stahnivideo.cz,starsgtech.in,start-to-run.be,startupjobsportal.com,stbemuiptvn.com,ster-blog.xyz,stimotion.pl,stireazilei.eu,stock-rom.com,streamseeds24.com,strefa.biz,studybullet.com,sufanblog.com,sukuyou.com,sullacollina.it,sumirekeiba.com,sundberg.ws,suneelkevat.com,super-ethanol.com,superpackpormega.com,surgicaltechie.com,suvvehicle.com,swietaslowianskie.pl,sylverkat.com,symboleslowianskie.pl,sysguides.com,swordalada.org,system32.ink,sztucznainteligencjablog.pl##+js(noeval-if, /chp_?ad/)
+sabishiidesu.com,saekita.com,samovies.net,samrudhiglobal.com,samurai.rzword.xyz,samurai.wordoco.com,sanblo.com,sanmiguellive.com,santhoshrcf.com,sararun.net,sarkariresult.social,satcesc.com,satoshifaucet.io,savegame.pro,sawwiz.com,scansatlanticos.com,schadeck.eu,sezia.com,schildempire.com,scholarshiplist.org,sciencebe21.in,scontianastro.com,scrap-blog.com,scripcheck.great-site.net,scriptsomg.com,searchmovie.wp.xdomain.jp,searchnsucceed.in,seasons-dlove.net,seirsanduk.com,seogroup.bookmarking.info,seoworld.in,seriu.jp,setsuyakutoushi.com,serieshdpormega.com,server-tutorials.net,serverbd247.com,sezia.com,shadagetech.com,shanurdu.com,sharphindi.in,sheikhmovies.*,shipseducation.com,shimauma-log.com,shittokuadult.net,shlly.com,shogaisha-shuro.com,shogaisha-techo.com,shopkensaku.com,shorttrick.in,showflix.*,showrovblog.com,shrinklinker.com,shrinkus.tk,shrivardhantech.in,sieradmu.com,siimanga.cyou,siirtolayhaber.com,sim-kichi.monster,sivackidrum.net,sk8therapy.fr,skardu.pk,skidrowreloaded.com,slawoslaw.pl,slowianietworza.pl,smallseotools.ai,smartinhome.pl,snowman-information.com,socebd.com,sociallyindian.com,softcobra.com,softrop.com,sohohindi.com,sosuroda.pl,sourds.net,south-park-tv.biz,soziologie-politik.de,sp500-up.com,space-faucet.com,spacestation-online.com,spardhanews.com,speculationis.com,spinoff.link,spiritparting.com,sport-97.com,sportsblend.net,ssdownloader.online,stablediffusionxl.com,stadelahly.net,stahnivideo.cz,starsgtech.in,start-to-run.be,startupjobsportal.com,ster-blog.xyz,stimotion.pl,stireazilei.eu,stock-rom.com,streamseeds24.com,strefa.biz,studybullet.com,sukuyou.com,sullacollina.it,sumirekeiba.com,sundberg.ws,suneelkevat.com,super-ethanol.com,superpackpormega.com,surgicaltechie.com,suvvehicle.com,swietaslowianskie.pl,sylverkat.com,symboleslowianskie.pl,sysguides.com,swordalada.org,system32.ink,sztucznainteligencjablog.pl##+js(noeval-if, /chp_?ad/)
 sabornutritivo.com###player:style(display: block !important;)
 sabornutritivo.com##+js(no-fetch-if, googlesyndication)
 sabrain.com##.message-panel[data-notice-id="brainscookienotice"]
@@ -37996,6 +37993,7 @@ sendspace.com##+js(aopr, runad)
 sendvid.com###video-js-video > [href^="javascript:"]
 sendvid.com##+js(nowoif)
 sendvid.com##+js(nowoif, !/^https:\/\/sendvid\.com\/[0-9a-z]+$/)
+sendvid.com##+js(rmnt, script, shouldPop)
 sendvid.com##[href*=".php"]
 sendvid.com##a[href][target="_blank"][style^="display: block;position: fixed;"][style*="z-index:"]
 sendvid.com##a[href^="https://go.gsrv.dev/"]
@@ -40632,7 +40630,7 @@ strikeout.*##.d-none.d-lg-block.col-lg-3
 strikeout.*##.m-1.btn-danger.btn
 strikeout.*##.position-absolute:style(opacity: 0 !important;)
 strikeout.*##.w-100.position-absolute.h-100
-strikeout.im,wavewalt.me#@#.Ad-Container:not(.adsbygoogle)
+strikeout.im#@#.Ad-Container:not(.adsbygoogle)
 strikermanager.com##body > #ue
 stringreveals.com##+js(no-xhr-if, googlesyndication)
 strinova.com##+js(set-local-storage-item, lscache-klbq-bucket-scceptCookie, true)
@@ -45466,11 +45464,13 @@ vat19.com##body,html:style(height: auto !important; overflow: auto !important)
 vater-it.de##+js(set-cookie, pz_cookie_consent, true)
 vattenfalleldistribution.se##vfdso-cookie-consent
 vauen.de###cookieman-modal
+vaughn.live##+js(no-fetch-if, method:POST body:zaraz)
 vaughn.live##+js(nosiif, header_menu_abvs, 10000)
 vaughn.live##.vs_v9_header_menu_abvs
 vaughn.live##.vs_v9_stream_content_abvs
 vaughn.live##.wrapper_content ~ .vs_modal_v9:style(opacity: 0 !important;)
 vaughn.live##.wrapper_content ~ .vs_modal_v9_background
+vaughn.live##body > .wrapper_content ~ iframe[height="1"] ~ div
 vaughn.live##div[id$="-ad"][id^="vs_v9_"]
 vavada5com.com##+js(set, adblockDetector, noopFunc)
 vax-before-travel.com###popupSurvey_background
@@ -46892,11 +46892,6 @@ watchgameofthrones.*##+js(aopr, AaDetector)
 watchgameofthrones.*##+js(nobab)
 watchhentai.net##+js(rmnt, script, AdBlock)
 watchhentai.net##.minlinks-links
-watchhouseonline.net###custom_html-2
-watchhouseonline.net###custom_html-6
-watchhouseonline.net##+js(aopr, decodeURI)
-watchhouseonline.net##.h_content
-watchhouseonline.net##.module_single_ads
 watchkobestreams.info##+js(aost, atob, inlineScript)
 watchluna.com##+js(nowoif, _blank)
 watchluna.com##+js(trusted-replace-outbound-text, atob, /.+/, , condition, '/(www\.[a-z]{8,16}\.com|cloudfront\.net)\/.+\.(css|js)$/')
@@ -49066,6 +49061,7 @@ y2meta-uk.com##+js(nowoif, !yt1d.com)
 y2meta.mobi##+js(nowoif, !y2meta)
 y8.com###request-play-game-ad:remove()
 y8.com##+js(set-cookie, privacy_policy_validated, true)
+ya.ru###reedhm-rreid
 ya.ru##+js(abort-on-stack-trace, Object.prototype.loadAdvertScriptMode, /yastatic\.net/)
 ya.ru##+js(json-prune, rythm_market)
 ya.ru##+js(remove-node-text, a, /Установите Яндекс Браузер|Установить поиск Яндекса/)
@@ -49084,16 +49080,14 @@ ya.ru##.reasoning-section
 ya.ru##.tooltip_theme_services
 ya.ru##.tooltip_theme_services-angle.popup2_direction_right-top
 ya.ru##[id^="r"][id*="ed"][id*="m"][id*="-"][id*="f"]
-ya.ru##[id^="r"][id*="et"][id*="m"][id*="-"][id*="f"]
-ya.ru##[id^="r"][id*="it"][id*="m"][id*="-"][id*="f"]
 ya.ru##[id^="r"][id*="yt"][id*="m"][id*="-"][id*="f"]
 ya.ru##a[class*="doodle-link"]
 ya.ru##div[class^="body_"][class$="_feed_yes"]
 ya.ru##div[class^="search"][class$="_doodle"]
 ya.ru##div[style]:matches-prop(innerText="/РЕКЛАМА/")
 ya.ru##div[style]:matches-prop(innerText="/РЕКЛАМА/"):remove()
-ya.ru##html[class*="sectllion_top"] aside + div
-ya.ru##html[class*="sectllion_top"] main > div[class*="__"] ~ div[class*="__"] ~ div[class*="__"] > div
+ya.ru##html[class*="sectillion_top"] aside + div
+ya.ru##html[class*="sectillion_top"] main > div[class*="__"] ~ div[class*="__"] ~ div[class*="__"] > div
 ya.ru##main.body__wrapper > div[class*="__"] ~ div[class*="__"] ~ div[class*="__"] > div
 ya.ru#@#+js(remove-node-text, div, 'ad-mark__b-unit')
 ya.ru,yandex.*##+js(remove-node-text, script, DistributionLinkBro)
