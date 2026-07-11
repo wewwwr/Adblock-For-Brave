@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-07-10 06:49:57
-! Косметических правил: 50620
+! Updated: 2026-07-11 05:44:57
+! Косметических правил: 50633
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -258,8 +258,8 @@
 13.cl##.banner-google-news
 13.cl##.cuerpo-share
 1337x.*,1337x.unblockit.*##a[href$="Promo.php"] > img
-1337x.*,1stream.eu,4kwebplay.xyz,alldownplay.xyz,anime4i.vip,antennasports.ru,asiaflix.*,audioz.download,boxingstream.me,buffstreams.app,claplivehdplay.ru,cracksports.me,cricstream.me,cricstreams.re,dartsstreams.com,dl-protect.link,embed.st,embedtv.best,eurekaddl.baby,euro2024direct.ru,ext.to,extrem-down.*,extreme-down.*,eztv.*,eztvx.to,f1box.me,filecrypt.cc,flix-wave.*,flixrave.me,golfstreams.me,hikaritv.xyz,ianimes.one,istreameast.app,jointexploit.net,kenitv.me,mediacast.click,mixdrop.*,mlbbite.net,mlbstreams.ai,modistreams.org,motogpstream.me,nbabox.me,nflbite.com,nflbox.me,nhlbox.me,ntv.cx,ogladaj.in,playcast.click,playoffsstream.com,pooembed.eu,ppv.to,qatarstreams.me,reidoscanais.life,restlessouter.net,rnbastreams.com,rugbystreams.me,sanet.*,seir-sanduk.com,socceronline.me,soccerworldcup.me,sportshd.*,streamed.*,sushiscan.net,topstreams.info,totalsportek.to,tvableon.me,vecloud.eu,vibestreams.*,vipstand.pm,webcamrips.to,worldsports.me,x1337x.*,yifysubtitles.ch,yts.*,zone-telechargement.*##+js(rmnt, script, adserverDomain)
-1337x.*,1stream.eu,4kwebplay.xyz,alldownplay.xyz,anime4i.vip,antennasports.ru,asiaflix.*,audioz.download,boxingstream.me,buffstreams.app,claplivehdplay.ru,cracksports.me,cricstream.me,cricstreams.re,dartsstreams.com,dl-protect.link,embed.st,embedtv.best,eurekaddl.baby,euro2024direct.ru,ext.to,extrem-down.*,extreme-down.*,eztv.*,eztvx.to,f1box.me,filecrypt.cc,flix-wave.*,flixrave.me,golfstreams.me,hikaritv.xyz,ianimes.one,istreameast.app,jointexploit.net,kenitv.me,mediacast.click,mixdrop.*,mlbbite.net,mlbstreams.ai,modistreams.org,motogpstream.me,nbabox.me,nflbite.com,nflbox.me,nhlbox.me,ntv.cx,ogladaj.in,playcast.click,playoffsstream.com,pooembed.eu,ppv.to,qatarstreams.me,reidoscanais.life,restlessouter.net,rnbastreams.com,rugbystreams.me,sanet.*,seir-sanduk.com,socceronline.me,soccerworldcup.me,sportshd.*,streamed.*,sushiscan.net,topstreams.info,totalsportek.to,tvableon.me,vecloud.eu,vibestreams.*,vipstand.pm,webcamrips.to,worldsports.me,x1337x.*,yifysubtitles.ch,yts.*,zone-telechargement.*##^script:has-text(adserverDomain)
+1337x.*,1stream.eu,4kwebplay.xyz,alldownplay.xyz,anime4i.vip,antennasports.ru,asiaflix.*,audioz.download,boxingstream.me,buffstreams.app,claplivehdplay.ru,cracksports.me,cricstream.me,cricstreams.re,dartsstreams.com,dl-protect.link,embed.st,embedtv.best,eurekaddl.baby,euro2024direct.ru,ext.to,extrem-down.*,extreme-down.*,eztv.*,eztvx.to,f1box.me,filecrypt.cc,flix-wave.*,flixrave.me,golfstreams.me,hikaritv.xyz,ianimes.one,istreameast.app,jointexploit.net,kenitv.me,mediacast.click,mixdrop.*,mlbbite.net,mlbstreams.ai,modistreams.org,motogpstream.me,nbabox.me,nflbite.com,nflbox.me,nhlbox.me,ntv.cx,ogladaj.in,playcast.click,playoffsstream.com,pooembed.eu,ppv.to,qatarstreams.me,reidoscanais.life,restlessouter.net,rnbastreams.com,rugbystreams.me,sanet.*,seir-sanduk.com,seirsanduk.online,socceronline.me,soccerworldcup.me,sportshd.*,streamed.*,sushiscan.net,topstreams.info,totalsportek.to,tvableon.me,vecloud.eu,vibestreams.*,vipstand.pm,webcamrips.to,worldsports.me,x1337x.*,yifysubtitles.ch,yts.*,zone-telechargement.*##+js(rmnt, script, adserverDomain)
+1337x.*,1stream.eu,4kwebplay.xyz,alldownplay.xyz,anime4i.vip,antennasports.ru,asiaflix.*,audioz.download,boxingstream.me,buffstreams.app,claplivehdplay.ru,cracksports.me,cricstream.me,cricstreams.re,dartsstreams.com,dl-protect.link,embed.st,embedtv.best,eurekaddl.baby,euro2024direct.ru,ext.to,extrem-down.*,extreme-down.*,eztv.*,eztvx.to,f1box.me,filecrypt.cc,flix-wave.*,flixrave.me,golfstreams.me,hikaritv.xyz,ianimes.one,istreameast.app,jointexploit.net,kenitv.me,mediacast.click,mixdrop.*,mlbbite.net,mlbstreams.ai,modistreams.org,motogpstream.me,nbabox.me,nflbite.com,nflbox.me,nhlbox.me,ntv.cx,ogladaj.in,playcast.click,playoffsstream.com,pooembed.eu,ppv.to,qatarstreams.me,reidoscanais.life,restlessouter.net,rnbastreams.com,rugbystreams.me,sanet.*,seir-sanduk.com,seirsanduk.online,socceronline.me,soccerworldcup.me,sportshd.*,streamed.*,sushiscan.net,topstreams.info,totalsportek.to,tvableon.me,vecloud.eu,vibestreams.*,vipstand.pm,webcamrips.to,worldsports.me,x1337x.*,yifysubtitles.ch,yts.*,zone-telechargement.*##^script:has-text(adserverDomain)
 1337x.*,x1337x.*,1337x.ninjaproxy1.com###alert-popup:remove()
 1337x.*,x1337x.*,1337x.ninjaproxy1.com##+js(nostif, location.href)
 1337x.*,x1337x.*,1337x.ninjaproxy1.com##+js(nowebrtc)
@@ -485,6 +485,8 @@
 20min.ch##section aside:has(> div > div > div[data-ad-unit-id])
 20min.ch,al.com,alphr.com,autoexpress.co.uk,bikeradar.com,blick.ch,chefkoch.de,cyclingnews.com,democratandchronicle.com,denofgeek.com,esgentside.com,evo.co.uk,exclusivomen.com,ft.com,gala.de,gala.fr,heatworld.com,itpro.co.uk,livingathome.de,masslive.com,maxisciences.com,metabomb.net,mlive.com,motherandbaby.co.uk,motorcyclenews.com,muthead.com,neonmag.fr,newyorkupstate.com,ngin-mobility.com,nj.com,nola.com,ohmymag.*,oregonlive.com,pennlive.com,programme.tv,programme-tv.net,radiotimes.com,silive.com,simplyvoyage.com,stern.de,syracuse.com,theweek.co.uk,ydr.com##+js(aopr, _sp_._networkListenerData)
 20minutes.fr##.socialbar
+216.219.94.112###myDiv
+216.219.94.112##+js(rmnt, script, .offsetParent)
 216dt.com###bdy > div[style*="fixed"]
 21region.org##.logo
 21shares.com##cookie-control
@@ -1365,8 +1367,8 @@ abysscdn.com,playhydrax.com##+js(set, document.ontouchend, null)
 abyssplay.pages.dev##+js(nowoif, _blank)
 abyssplayer.com##+js(nowoif, , 1)
 abyssplayer.com##+js(set, urls, [])
-ac,ag,biz,buzz,by,city,club,co,com,fi,in,ink,kim,loan,me,name,net,org,pub,rest,run,sh,si,so,space,su,today,tv,vip,website,win##body[class^="has-brand"][class*=" active-brand"][class*="fixed-header"] > [id$="er"]:nth-child(-n+3):style(width: unset !important)
-ac,ag,biz,buzz,by,city,club,co,com,fi,in,ink,kim,loan,me,name,net,org,pub,rest,run,sh,si,so,space,su,today,tv,vip,website,win##body[class^="has-brand"][class*=" active-brand"][class*="fixed-header"]:style(padding-top: 0 !important; background-color: inherit !important)
+ac,ag,biz,buzz,by,city,club,co,com,fi,in,ink,kim,la,loan,me,name,net,org,pub,rest,run,sh,si,so,space,su,today,tv,vip,website,win##body[class^="has-brand"][class*=" active-brand"][class*="fixed-header"] > [id$="er"]:nth-child(-n+3):style(width: unset !important)
+ac,ag,biz,buzz,by,city,club,co,com,fi,in,ink,kim,la,loan,me,name,net,org,pub,rest,run,sh,si,so,space,su,today,tv,vip,website,win##body[class^="has-brand"][class*=" active-brand"][class*="fixed-header"]:style(padding-top: 0 !important; background-color: inherit !important)
 ac-illust.com,photo-ac.com###eachDownloadedModal:has(.ac-btn[href^="https://premium."])
 ac-illust.com,photo-ac.com##body.modal-open *:style(filter: none!important;)
 academic.oup.com##.widget-OUPEmailAlerts.widget
@@ -2801,6 +2803,8 @@ amazon.*###desktop-banner
 amazon.*###s-results-list-atf > .s-result-item:has(.s-item-container h5.s-sponsored-header)
 amazon.*###s-results-list-atf > .s-result-item:has(> .s-item-container h5.s-sponsored-list-header)
 amazon.*###similarities_feature_div:has(span[id^="ad-feedback-text"])
+amazon.*###typ-recommendations-stripe-1
+amazon.*###typ-recommendations-stripe-2
 amazon.*##.AdHolder
 amazon.*##.a-carousel-card:has(> div > div[cel_widget_id^="adplacements:"]):remove()
 amazon.*##.fable-portal-container:has(a#cross-benefit-modal-call_to_action-btn-0[href^="https://www.amazon."][href*="/gp/video/signup?benefitId=primeaddon"])
@@ -8577,9 +8581,10 @@ cgtrader.com##.notice
 chaesbueb.ch##+js(set-cookie, chaesbueb-che-cookie-categories, essential)
 chaincheck.de###float-bar
 chainreactioncycles.com##.crc_cookie_overlay, .crc_cookie_opt_in
-chalkbeat.org##.GenericPagePromoModule
 chalkbeat.org##.follow
-chalkbeat.org##.newsletter-composer
+chalkbeat.org,votebeat.org##.GenericPagePromoModule
+chalkbeat.org,votebeat.org##.newsletter-breaker-wrapper
+chalkbeat.org,votebeat.org##.newsletter-composer
 challenges.fr##.nl
 chambre-vienne.notaires.fr###cnil-notice
 champagne.fr###cookies
@@ -22455,6 +22460,7 @@ ispunlock.*,tpb.*##+js(aopr, pace)
 israelhayom.com##.jeg_button_1
 israellycool.com##.mail-chimp
 israelnationalnews.com###tbl-next-up
+israelnationalnews.com##+js(rmnt, script, loadTaboola)
 israelnationalnews.com##.article-join-button
 israelnationalnews.com##.header-nav-addons-link
 israeltoday.nl##.entry-social
@@ -30607,6 +30613,7 @@ nick.com##+js(no-fetch-if, dai_iframe)
 nickjr.com###balaMainContainer
 nicomanga.com,weloma.art##+js(nowoif)
 nicovideo.jp#@#.FollowButton
+nicovideo.jp#@#a[href$="_tagrelatedbanner"]
 niederoesterreich-card.at##.cc
 niederrhein-nachrichten.de##.StoryActions
 niedziela.pl##.cookies
@@ -33577,8 +33584,8 @@ play.hbomax.com##+js(json-prune-fetch-response, ssaiInfo, , propsToMatch, /playb
 play.hbomax.com##+js(xml-prune, xpath(//*[name()="MPD"]/@mediaPresentationDuration | //*[name()="Period"]/@start | //*[name()="Period"][not(.//*[name()="SegmentTimeline"])][not(.//*[name()="ContentProtection"])] | //*[name()="Period"][./*[name()="BaseURL"]][not(.//*[name()="ContentProtection"])][not(.//*[name()="AdaptationSet"][@contentType="text"])]), , /dash.mpd)
 play.hbomax.com,play.max.com##+js(json-prune, adtech-brightline adtech-google-pal adtech-iab-om)
 play.history.com##+js(json-prune, data.reg)
-play.nova.bg##+js(no-fetch-if, /googlesyndication|googima\.js/)
-play.nova.bg##+js(no-xhr-if, /googlesyndication|googima\.js/)
+play.nova.bg##+js(prevent-fetch, /googlesyndication|googima\.js|imasdk/)
+play.nova.bg##+js(prevent-xhr, /googlesyndication|googima\.js|imasdk/)
 play.radionorba.it##share-view
 play.starsites.fun##+js(no-fetch-if, googlesyndication)
 play.tv3.ee,play.tv3.lt,play.tv3.lv,tv3play.skaties.lv##+js(set, Object.prototype.isNoAds, {})
@@ -39573,6 +39580,7 @@ sp.nicovideo.jp###jsAppModalWithLogin
 sp.nicovideo.jp##.is-fixed body:not(.player-horizontal):has(#jsAppModalWithLogin):style(position: static !important; width: unset !important;)
 sp.nicovideo.jp##.is-fixed:has(#jsAppModalWithLogin):style(position: static !important; width: unset !important;)
 sp.nicovideo.jp##body.hdNoFixed.watch:has(#jsAppModalWithLogin):style(padding-top: unset !important; overflow: auto !important; min-height: unset !important;)
+sp.nicovideo.jp##div[style="height: 56px;"]:has(> a[href^="https://nicovideo.applink.nicovideo.jp/?link"])
 sp215.info##+js(set-cookie, plg_system_djcookiemonster_informed, 1, , reload, 1)
 sp32bb.pl##+js(set-cookie, cookie_acceptance, 1)
 sp34.waw.pl##.clause-top
@@ -40591,7 +40599,8 @@ streamtape.*,watchadsontape.com##+js(aopr, Adcash)
 streamup.ws##+js(aeld, DOMContentLoaded, Promise)
 streamup.ws##+js(nostif, push)
 streamup.ws##+js(set, detectSandbox, noopFunc)
-streamvid.dev##+js(acs, setTimeout, _0x)
+streamvid.dev##+js(acs, setTimeout, /_0x|window\.open/)
+streamvid.dev##+js(nowoif)
 streamvid.dev##.ad_mobile
 streamvid.net##+js(aeld, contextmenu)
 streamvid.net##+js(nano-stb, , , 0.02)
@@ -45642,6 +45651,7 @@ versii.if.ua#?#.brxe-post-content > p:-abp-has(> [href^="https://t.me/"])
 versii.if.ua#?#.fb-s-blog-two-main__box:-abp-has(> .fb-share-one)
 versii.if.ua#?#aside > .fb-post-arc-one__section:-abp-has(> .brxe-social-icons)
 versobooks.com##.banner, #banner
+verstka.media##.verstka-support-button
 versus.com##div[class*="cookiebanner"]
 vert.eco##.vert-subscribe-aside
 vertaa.fi##div[data-rendering-area="dialogs"] [data-bind*="ui.dialogs.PopupBehavior"]
@@ -47043,6 +47053,8 @@ web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.proto
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.insertAdjacentElement, JSON.parse)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, Function.prototype.toString)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, JSON.parse)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Node.prototype.insertBefore, Function.prototype.toString)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Node.prototype.insertBefore, JSON.parse)
 web.facebook.com,www.facebook.com##+js(trusted-replace-xhr-response, '/,"category_sensitive"[^\n]+?"follow_button":\{"__typename":"CometFeedStoryFollowButtonStrategy"[^\n]+"cursor":"[^"]+"\}/g', }, /api/graphql)
 web.facebook.com,www.facebook.com##+js(trusted-replace-xhr-response, /\{"node":\{"__typename":"MarketplaceFeedAdStory"[^\n]+?"cursor":(?:null|"\{[^\n]+?\}"|[^\n]+?MarketplaceSearchFeedStoriesEdge")\}/g, {}, /api/graphql)
 web.facebook.com,www.facebook.com##+js(trusted-replace-xhr-response, /\{"node":\{"__typename":"VideoHomeFeedUnitSectionComponent"[^\n]+?"sponsored_data":\{"ad_id"[^\n]+?"cursor":null\}/, {}, /api/graphql)
@@ -48723,6 +48735,7 @@ x-x-x.tube##+js(set-cookie, aawsmackeroo0, 1)
 x-x-x.video##+js(rmnt, script, decodeURIComponent)
 x.ag2m2.cfd##+js(json-edit, .*[?.linkurl^="http"])
 x.com###layers div[class="css-1dbjc4n r-l5o3uw r-97e31f"]
+x.com##+js(no-xhr-if, /i/api/1.1/flow/viewer.json)
 x.com##.r-97e31f.r-l5o3uw.css-1dbjc4n
 x.com##.toast.client_prompt
 x.com##article[data-testid="tweet"] a[href^="https://linkneverdiel.com"]
