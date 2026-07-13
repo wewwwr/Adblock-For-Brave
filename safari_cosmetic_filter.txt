@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-07-12 06:08:12
-! Косметических правил: 50641
+! Updated: 2026-07-13 06:24:00
+! Косметических правил: 50655
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -3076,6 +3076,7 @@ androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com
 androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##+js(set, Object.prototype.ads.nopreroll_, true)
 androidpolice.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,fextralife.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,military.com,movieweb.com,pocket-lint.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.google-addus
 androidpolice.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,fextralife.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hotcars.com,makeuseof.com,movieweb.com,pocket-lint.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.w-promotion-offer:has(.newsletter-promotion-large)
+androidpolice.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,kunstenfestivalwatou.be,makeuseof.com,movieweb.com,pocket-lint.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.footer-newsletter
 androidpolice.com,backyardboss.net,cbr.com,collider.com,dualshockers.com,gamerant.com,givemesport.com,howtogeek.com,makeuseof.com,movieweb.com,pocketnow.com,thegamer.com,thethings.com,thetravel.com,xda-developers.com##.btn-mail
 androidpolice.com,carbuzz.com,cbr.com,collider.com,dualshockers.com,eater.com,gamerant.com,howtogeek.com,makeuseof.com,movieweb.com,screenrant.com,thegamer.com,worldstar.com,worldstarhiphop.com,xda-developers.com##+js(acs, admiral)
 androidpolice.com,cbr.com,collider.com,dualshockers.com,gamerant.com,howtogeek.com,makeuseof.com,movieweb.com,pocketnow.com,screenrant.com,thegamer.com,thetravel.com,xda-developers.com##+js(cookie-remover.js, articlesRead)
@@ -3155,7 +3156,7 @@ anidubpro.ru,anilibriadub.ru,animego.cv,animesvosts.ru,anistarfan.ru,softbox.lif
 anidubpro.ru,anilibriadub.ru,animesvosts.ru,anistarfan.ru,softbox.life,studiobandoz.ru,yummybest.ru##article > .page__player ~ center a
 anifap.com,anifap.xyz##.tg-group
 anifap.com,anifap.xyz,anipoisk.org,anitokyo.tv,anitokyo1.top,hcdn.online,kinofilm.co##+js(abort-on-property-read, ClickUndercookie)
-anifap.com,anifap.xyz,diplomsrazu.ru,igrozoom.ru,ru-minecraft.ru,softomania.net,vip-mods.ru,warezok.net,windows-driver.com,windows-driver.net,windows-program.com##+js(nano-setInterval-booster, timer)
+anifap.com,anifap.xyz,diplomsrazu.ru,igrozoom.ru,pro-books.ru,ru-minecraft.ru,softomania.net,vip-mods.ru,warezok.net,windows-driver.com,windows-driver.net,windows-program.com##+js(nano-setInterval-booster, timer)
 anifap.com,anifap.xyz,proglib.io##.telegram-btn
 anigo.to##+js(nowoif)
 anigogo.net,fbgo.*,javplaya.com,sbbrisk.com,sbchill.com,sbchip.*,sbflix.*,sbplay.*,sbplay2.*,sbplay3.*,sbrity.com,sbrulz.*,streamsb.*##+js(aopr, __Y)
@@ -6756,7 +6757,7 @@ bodyandsoul.com.au###newsletter-light-registration
 bodybuilding.com##.w21_middle-bar__newsletter
 bodybuilding.com##body > div[style*="transparent"]
 bodypak.pl###cookies
-bodyweightwarrior.co.uk,brucelee.com,clereviewofbooks.com,eli.org.nz,fridaythings.com,genelmag.com,itp.nz,jphs.org,myvetcandy.com,paleofuture.com,rai.ac.uk,recoveryguru.com.au,stability.ai,unifiedpatents.com,ursulakleguin.com,worldofreel.com##.yui-popup-container-node
+bodyweightwarrior.co.uk,brucelee.com,clereviewofbooks.com,eli.org.nz,fridaythings.com,genelmag.com,itp.nz,jphs.org,myvetcandy.com,paleofuture.com,prohousingpgh.org,rai.ac.uk,recoveryguru.com.au,stability.ai,unifiedpatents.com,ursulakleguin.com,worldofreel.com##.yui-popup-container-node
 boehringer.net,dr-schweizer-schubert.com,eckstein-bandoneon.de,museumsfreunde.org,oh-heilbronn.de,schule-mainhardt.de,siebenbuergisches-museum.de##.screen-blocker
 boehringer.net,dr-schweizer-schubert.com,eckstein-bandoneon.de,museumsfreunde.org,oh-heilbronn.de,schule-mainhardt.de,siebenbuergisches-museum.de##body,html:style(overflow: auto !important; position: initial !important;)
 boerenbusiness.nl##.aanmelden
@@ -7455,11 +7456,11 @@ buhplatforma.com.ua,dzplatforma.com.ua,medplatforma.com.ua,oblikbudget.com.ua,op
 buhplatforma.com.ua,dzplatforma.com.ua,medplatforma.com.ua,oblikbudget.com.ua,oplatforma.com.ua,pro-op.com.ua,prokadry.com.ua,rutube.ru##.cookie-consent
 buickforums.com##+js(no-xhr-if, googlesyndication)
 buidlbox.io,citaalen.com,drewag.de,enso.de,sachsen-netze.de,scheels.com##+js(set-cookie, cookiesAccepted, true)
-buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerslag.nl##+js(rmnt, script, ').join(String.fromCharCode')
-buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerslag.nl##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, , condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|\[0,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
-buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerslag.nl##^script:has-text(').join(String.fromCharCode')
-buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerslag.nl##^script[data-cfasync="false"][nowprocket]
-buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerslag.nl##^script[src*="html-load.com"]
+buienalarm.be,buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerplaza.nl,weerslag.nl##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, , condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|\[0,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
+buienalarm.be,buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerplaza.nl,weerslag.nl##^script[data-cfasync="false"][nowprocket]
+buienalarm.be,buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerplaza.nl,weerslag.nl##^script[src*="html-load.com"]
+buienalarm.be,buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerslag.nl##+js(rmnt, script, ').join(String.fromCharCode')
+buienalarm.be,buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerslag.nl##^script:has-text(').join(String.fromCharCode')
 buienradar.nl###adholderContainerHeader
 buienradar.nl##+js(set, hideBannerBlockedMessage, true)
 build.com###modal-root
@@ -12932,6 +12933,8 @@ drydenwire.com##.modal-backdrop
 drydenwire.com##.promogrid
 drydenwire.com##[data-track-category="Sponsors"]
 dsag.de###dsag-cookie-compliance-overlay
+dsgners.ru##.layout-sidebar_left a[title="telegram"]
+dsgners.ru##.layout-sidebar_left a[title="youtube"]
 dsharer.com##+js(aopr, showada)
 dslbank.de##+js(set-cookie, Cookie-Information, false)
 dsm.com###cp
@@ -14571,9 +14574,9 @@ escapegames24.com##ins.adsbygoogle
 escapistmagazine.com##.escapist-plus
 eschenker.dbschenker.com##[style*="pointer-events"]:style(pointer-events:auto !important)
 eschuhe.de##+js(set-local-storage-item, __EOBUWIE__consents_accepted, true, , reload, 1)
-escoffier.edu##.blog-subscribe
 escoffier.edu##.sitewide-quiz-banner
 escoffier.edu,scloudx.lol##.popup-overlay
+escoffier.edu,systima.ai##.blog-subscribe
 escort-advisor.*###global_modal
 escort-advisor.*##.modal-backdrop
 escort-advisor.*##body,html:style(overflow: auto !important; position: initial !important;)
@@ -23241,6 +23244,7 @@ jpvhub.com##.MuiGrid-item div[style^="position"] > div:has-text(Skip Ad)
 jpvhub.com##div[style="position: relative; display: flex; flex: 1 1 0%;"] > div[class^="jss"]:has(.exoclick-popunder-trigger)
 jpvhub.com##iframe ~ .MuiBox-root
 jpwiserstour.ca##+js(set-cookie, corby-agegate-jpw-ca, true)
+jsdelivr.com##.main-right-container
 jsfiddle.net##+js(set, _bsa, {})
 jsfiddle.net##+js(set, _carbonads, {})
 jsonquerytool.com##.navbar.fixed-bottom
@@ -24492,7 +24496,6 @@ kumparan.com##.adunitContainer:upward([data-qa-id])
 kundalini.it###toast, .toast
 kungfutv.net##+js(aeld, DOMContentLoaded, window.open)
 kunst.dk###lbmodal-overlay, #lbmodal
-kunstenfestivalwatou.be##.footer-newsletter
 kunstnet.de##.consent, #consent
 kunstsammlung.de###cookie
 kunststoffe.de#@#.adBox
@@ -27911,6 +27914,7 @@ meteovesti.ru##.btn-social-icon
 meteovesti.ru##.social-descr
 meteovesti.ru#?#b:-abp-contains(Поделиться новостью)
 meteovesti.ru#?#section > .row > div:-abp-has(> .telegram-link)
+meteovista.be,weeronline.nl##+js(trusted-replace-argument, Range.prototype.createContextualFragment, 0, json:"<script></script>", condition, html-load.com)
 meteovista.co.uk###info-bar
 meteovista.com###info-bar
 meteovista.de###info-bar
@@ -31392,6 +31396,7 @@ obsev.com##+js(aopr, HTMLIFrameElement)
 obukhiv.info#?#footer div:-abp-has(> a[href*="://t.me/"])
 obutecodanet.ig.com.br##+js(no-xhr-if, googlesyndication)
 obyava.ua##.offer__top-btn
+oc.kg,ts.kg##body:style(background-color: inherit !important; background-image: none !important)
 ocaso.es##.modal__container.modal-cookies
 occhiox.com###consenso
 occrp.org##.occrp-cookie-overlay, .cookie
@@ -34773,6 +34778,7 @@ prlog.org###smx2
 prm.ua##.shares-list
 pro-alarm.nl##.mgz-flex-position-bottom-center
 pro-bikegear.com###message, .message
+pro-books.ru##.book-share-card__trigger
 pro-housing.nl##.accept-alert
 pro-tools-expert.com##.sqs-announcement-bar
 pro.coinbase.com###page_content > div > div > div + div:not([style])
@@ -39395,6 +39401,7 @@ softwareag.com###blanket, #popUpDiv
 softwarecrackguru.com##+js(aopw, downloadJSAtOnload)
 softwaredescargas.com##+js(aeld, DOMContentLoaded, scriptwz_url)
 softwaredescargas.com##+js(aopr, scriptwz_url)
+softwaredoug.com##.promo-banner
 softwaresblue.com##+js(acs, $, setTimeout)
 softwaresde.com##+js(acs, $, advert)
 softwaretested.com###privacy-popup
@@ -40084,6 +40091,8 @@ squash4you.pl###cookie
 squidboards.com##.top_block
 srad.jp###article-bottom
 srad.jp##.synd
+sravni.ru##div[class^="MobileApp_module_wrapper_"]
+sravni.ru##div[class^="Socials_module_container_"]
 sravni.ru#?#button:-abp-has([data-qa="Share"])
 srazenazver.cz##.cookies
 srf.nu##+js(set-cookie, CookieConsent, necessary)
@@ -42609,6 +42618,7 @@ theolivepress.es##.sidedock56-placement
 theonegenerator.com##+js(no-fetch-if, ads)
 theonion.com##+js(nano-stb, ads, *)
 theonion.com##+js(nano-stb, b(), 3000)
+theonion.com##.adp-popup
 theonion.com##.has-background.wp-block-group-is-layout-constrained
 theonion.com##[href^="https://membership.theonion.com/"]
 theonlinesurgery.co.uk##.alert.ue-content
@@ -43980,7 +43990,6 @@ tryvaga.com##+js(acs, document.addEventListener, adsBlocked)
 trzemeszno.pl##body > div:not([id]):not([class])
 trzpro.com##+js(nano-sib, counter--)
 ts.kg##.main-container:style(margin-top: 0 !important)
-ts.kg##body:style(background-color: inherit !important)
 tsargrad.tv##.article__content .form
 tsargrad.tv##.header__aside
 tsargrad.tv##.link-ideas
@@ -44275,6 +44284,9 @@ tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz##.page_controller_channel ma
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz##.zen
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz##[class*="grid_period_"] > div[class] > div[class^="grid__"] ~ div:not([class^="grid__"])
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz##body > #mount > div[class] > :not(header):not(main):not(footer):not(.metrika-loader)
+tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz##html.modal_open .fullscreen-notification__overrideModal
+tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz##html.modal_open .page:style(overflow-y: auto !important)
+tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz##html.modal_open:style(margin-right: unset !important)
 tv.yandex.ru,tv.yandex.*##.recommended-ott
 tv.yandex.ru,tv.yandex.*##.tv-teaser
 tv.youtube.com##+js(trusted-replace-xhr-response, '"adPlacements"', '"no_ads"', /playlist\?list=|\/player(?:\?.+)?$|watch\?[tv]=/)
@@ -47205,7 +47217,8 @@ weekday.com##.m-error-banner
 weekend-online.nl###reusableblockswidget-9
 weequizz.com##.bt_cookie
 weerg.com###blultpdfbanner
-weeronline.nl##+js(trusted-replace-argument, Range.prototype.createContextualFragment, 0, json:"<script></script>", condition, html-load.com)
+weerplaza.nl##+js(rmnt, script, '/:\[?window,/')
+weerplaza.nl##^script:has-text(/:\[?window,/)
 weerstatistieken.nl###ccWrapper
 weersvoorspelling.nl##body > div:not([id]):not([class])
 weespreventief.nl###popup, .popup
@@ -49170,6 +49183,7 @@ ya.ru,yandex.ru,yandex.*##.distr-splashscreen
 ya.ru,yandex.ru,yandex.*##.i-bem.distro
 ya.ru,yandex.ru,yandex.*##.i-bem.footer_distro_yes
 ya.ru,yandex.ru,yandex.*##[class*="Distr"][class*="Splash"]
+ya.ru,yandex.ru,yandex.*##div[class*="DistributionOnboarding"]
 ya.ru,yandex.ru,yandex.*##div[class^="DistrSmartbanner"]
 ya.ru,yandex.ru,yandex.*##main.serp > .Root > div[class*="_layout_flat"]:not(.DistrPopup)
 ya.ru,yandex.ru,yandex.*#?#.dist-overlay__popup
