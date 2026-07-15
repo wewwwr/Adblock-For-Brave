@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-07-14 05:35:58
-! Косметических правил: 50677
+! Updated: 2026-07-15 05:36:49
+! Косметических правил: 50686
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -1021,6 +1021,10 @@
 7days.ru##body:style(margin-top: 0 !important)
 7days.ru,cdn.viqeo.tv,kinonews.ru,kp.kg,kp.kz,kp.ru,md.kp.media,mk.ru,ohotniki.ru,portalvirtualreality.ru,radiokp.ru,sportkp.ru,the-day.ru,woman.ru,www.fontanka.ru##+js(addEventListener-defuser, visibilitychange, captureContext)
 7days.ru,koolinar.ru##[data-social]
+7daystodie-servers.com#@##ad-banner-top
+7daystodie-servers.com#@#.ad-sidebar
+7daystodie-servers.com#@#.ad-slot:not(.adsbox):not(.adsbygoogle)
+7daystodie-servers.com,apnews.com,hytale-servers.net,minecraft-schematics.com,rust-servers.net##+js(rmnt, script, /admiral|-engaged/, excludes, \,\")
 7daystodiemods.com,7review.com,avitter.net,bi-girl.net,carryflix.icu,fairyhorn.cc,gojo2.com,gorecenter.com,huitranslation.com,javhdvideo.org,nakiny.com,nemumemo.com,peppe8o.com,phodoi.vn,savingsomegreen.com,tutsnode.*##+js(aopr, b2a)
 7digital.com,aawsat.com,acento.com.do,acpm.fr,actu-juridique.fr,alligator-sunglasses.com,atalanta.it,bloomberg.com,boldsky.com,codefresh.io,cshl.edu,dailymaverick.co.za,download3k.com,drivespark.com,envol-vert.org,filmibeat.com,food.com,fundatiacaleavictoriei.ro,gainkit.com,gizbot.com,heraldextra.com,hispantv.com,hsrail.org,icliniq.com,iclnoticias.com.br,ilfattoalimentare.it,iol.pt,katholisch.de,lacnews24.it,langenscheidt.com,largus.fr,lintellettualedissidente.it,mattinonline.ch,misya.info,modern-banking.at,modern-banking.de,monitorimmobiliare.it,nativeplanet.com,ohmyrockness.com,oneindia.com,opendemocracy.net,pdfcoffee.com,penny-arcade.com,quantamagazine.org,radiospeaker.it,raileurope.com,rivistastudio.com,royalsociety.org,salemnews.net,scottishrugby.org,silhouettedonna.it,soldioggi.it,sscnapoli.it,telesurtv.net,termometropolitico.it,terranuova.it,thetruthaboutcars.com,tnpetroleo.com.br,transportandenergy.com,trueriders.it,valgardena.it,vidaextra.com,wdcb.org###newsletter
 7dneyleta.ru###html-header
@@ -1350,7 +1354,7 @@ abw.by##.application:style(top: 0 !important)
 abw.by##.cookie-modal
 abw.by##body.stop-scroll > div[class^="_overlay_"]
 abw.by##body.stop-scroll:style(position: relative !important)
-abw.by,defence-ua.com,football24.ua,oxu.az,sport24.ua##.social-block
+abw.by,defence-ua.com,football24.ua,info24.ru,oxu.az,sport24.ua##.social-block
 abw.by,elevator39.ru,mile.by,rostfinance.ru##.cookie-wrapper
 abxxx.com##.video__wrapper > div.wrapper > section
 abydos.pl##.configMessages
@@ -1987,7 +1991,7 @@ agents.media###trigger_donate
 agents.media##footer-columns
 agents.media#?#div:-abp-has(> #trigger_donate)
 agents.media,aif.ua,bigmir.net,gx.net.ua,informator.ua,korrespondent.net,moslenta.ru,smotrim.ru,tsargrad.tv,zemliak.com#?#p:-abp-has(> em > a[href*="://t.me/"])
-agents.media,gsett.ru##[href*="/donate"]
+agents.media,dyvys.info,gsett.ru##[href*="/donate"]
 agenttravel.es###cookies
 agenziacasaclima.it,anandtech.com,bdonline.co.uk,buzzfil.com,cadenaazul.com,catapult.co,clubic.com,dailymail.co.uk,flightglobal.com,gameranx.com,iexprofs.nl,ifun.de,ilfoglio.it,iphone-ticker.de,lesoir.be,lounge.fm,ludokado.com,mf24.pl,miningjournal.net,peoplesweather.com,programme-tv.net,rfm.fr,richersounds.com,screendaily.com,shortlist.com,teleticino.ch,todomercadoweb.es,trt.net.tr,trueachievements.com,truesteamachievements.com,tuttomercatoweb.com,webnews.it,yoink.com##.twitter
 agenziacasaclima.it,bomdia.eu,cadenaazul.com,ilfoglio.it,klimahaus.it,peoplesweather.com,rfm.fr,sassymamahk.com,zoom.earth##.instagram
@@ -2781,6 +2785,7 @@ amateur8.com###intt-layer
 amateur8.com,amateur8.com,bigtitslust.com,ebony8.com,lesbian8.com,sortporn.com###lotal
 amateur8.com,bigtitslust.com,ebony8.com,freeporn8.com,lesbian8.com,maturetubehere.com,sortporn.com##+js(set, flashvars.adv_pre_vast, '')
 amateur8.com,bigtitslust.com,ebony8.com,maturetubehere.com,shemalesin.com,sortporn.com###player_add
+amateur8.com,bigtitslust.com,freeporn8.com##+js(aopw, __spotSettings)
 amateur8.com,bigtitslust.com,freeporn8.com,lesbian8.com,maturetubehere.com,sortporn.com##+js(aopr, Q433)
 amateur8.com,bigtitslust.com,freeporn8.com,lesbian8.com,maturetubehere.com,sortporn.com##.footer-margin
 amateur8.com,bigtitslust.com,freeporn8.com,lesbian8.com,sortporn.com###int-over
@@ -3628,7 +3633,6 @@ apnews.com##body,html:style(overflow: auto !important; position: initial !import
 apnews.com##html[data-header-hasleaderboard]:remove-attr(data-header-hasleaderboard)
 apnews.com,heraldnet.com,inquirer.com,newsnationnow,njbiz.com,parent.com,thehill.com,therecord.com##.fancybox-overlay
 apnews.com,heraldnet.com,inquirer.com,newsnationnow,njbiz.com,parent.com,thehill.com,therecord.com##body,html:style(overflow: auto !important; position: initial !important;)
-apnews.com,hytale-servers.net,minecraft-schematics.com,rust-servers.net##+js(rmnt, script, /admiral|-engaged/, excludes, \,\")
 apnews.com.ua##.reveal-overlay
 apnews.com.ua##html:style(position: relative !important; top: 0 !important)
 apogeum.com.pl###cookie
@@ -6083,7 +6087,6 @@ bigshare.io##+js(rpnt, script, "art.on('video:play', setUpAds);", art.on('video:
 bigthink.com##.bt-block__inner
 bigthink.com#?#.bg-gray-100:has-text(newsletter)
 bigthink.com#?#.bt-inp:has-text(Sign up)
-bigtitslust.com##+js(aopr, exoNoExternalUI38djdkjDDJsio96)
 bigtitslust.com##[href^="https://www.bigtitslust.com/link/"]
 bigtitslust.com,camwhores.info,camwhores.tv,camwhores.video##+js(set-cookie, kt_agecheck, 1)
 bigtitslust.com,freeporn8.com,lesbian8.com,sortporn.com##.mitaru
@@ -9286,10 +9289,11 @@ client.falixnodes.net##+js(nostif, )}}}})
 client.falixnodes.net##+js(nostif, /lovelylovely|veryveryplease|click\(\)|MouseEvent|dispatchEvent/)
 client.falixnodes.net##+js(nostif, ]/*)
 client.falixnodes.net##+js(nostif, ]])!==)
-client.falixnodes.net##+js(rmnt, script, =[].slice.call)
+client.falixnodes.net##+js(nostif, }/*)
+client.falixnodes.net##+js(rmnt, script, /\=arguments\;if\(typeof /)
 client.falixnodes.net##+js(rpnt, script, /googletag\.pubads\(\)\.addEventListener.*rewardedSlot\)\;\s+\}\);\s+\}/s)
 client.falixnodes.net##+js(rpnt, script, /window\.googletag.*?enableServices\(\)\;/s)
-client.falixnodes.net##^script:has-text(=[].slice.call)
+client.falixnodes.net##^script:has-text(/\=arguments\;if\(typeof /)
 client.falixnodes.net##h6.text-muted:has-text(Advertisement)
 client.pylexnodes.net##+js(rmnt, script, onerror)
 client.pylexnodes.net##.ad-banner-square
@@ -10983,7 +10987,7 @@ daily.afisha.ru##div[class^="Footer_App"]
 daily.afisha.ru##div[class^="Footer_Social"]
 daily.afisha.ru##div[class^="Layout_Layout"] > a > div
 daily.afisha.ru##div[class^="SocialPlate_Container"]
-daily.co.jp##+js(trusted-rpnt, script, /(window\.AdObserverManager\.register\('ds[ps][cp]-bottomRecommend'\);)/, (()=>{window.addEventListener("load"\,(()=>{const t=document.querySelector("#openwebSection")\,e=document.querySelector("div[data-spot-id]");if(!e||!t)return;const d=e.getAttribute("data-spot-id");if(!d)return;var o;((t\,e\,d)=>{const o=document.createElement("div");o.setAttribute("data-spotim-module"\,"conversation")\,o.setAttribute("data-spot-id"\,t)\,o.setAttribute("data-post-id"\,e)\,d.appendChild(o)})(d\,Math.abs((o=document.title\,[...o].reduce(((t\,e)=>Math.imul(31\,t)+e.charCodeAt(0)|0)\,0)))\,t);const a=document.createElement("script");a.setAttribute("src"\,`https://launcher.spot.im/spot/${d}`)\,a.setAttribute("async"\,"")\,document.head.appendChild(a)}));})();$1, sedCount, 1)
+daily.co.jp##+js(trusted-rpnt, script, /(window\.AdObserverManager\.register\('ds[ps][cp]-footer_?r?'\);)/, (()=>{window.addEventListener("load"\,(()=>{const t=document.querySelector("#openwebSection")\,e=document.querySelector("div[data-spot-id]");if(!e||!t)return;const d=e.getAttribute("data-spot-id");if(!d)return;var o;((t\,e\,d)=>{const o=document.createElement("div");o.setAttribute("data-spotim-module"\,"conversation")\,o.setAttribute("data-spot-id"\,t)\,o.dataset.postId=e\,d.appendChild(o)})(d\,Math.abs((o=document.title\,[...o].reduce(((t\,e)=>Math.imul(31\,t)+e.charCodeAt(0)|0)\,0)))\,t);const a=document.createElement("script");a.setAttribute("src"\,`https://launcher.spot.im/spot/${d}`)\,a.setAttribute("async"\,"")\,document.head.appendChild(a)}));})();$1, sedCount, 1)
 daily.jstor.org##.footer-widget
 daily.jstor.org##.membership-incontent-banner
 daily.jstor.org##.top-bar-right
@@ -11455,6 +11459,8 @@ defatoonline.com.br##.row_gn
 defconq.tech##.announcementBar_mb4j
 defector.com,sf.gazetteer.co##.single_inner__pWuJ8
 defence-ua.com##.sidebar > div:first-child + h2
+defence-ua.com##.social-bar
+defence-ua.com,risu.ua##.share-news
 defensacentral.com##.group-xs
 defensacentral.com##.list-inline-xs
 defenseone.com##.conversion-module
@@ -13145,9 +13151,10 @@ dynos.es###cuerpo > div:not([id]):not([class])
 dyson.co.uk##.js-notifications
 dyvys.info##.facebook-comments-title
 dyvys.info##.readmoreinchat
-dyvys.info##.td-header-sp-logo:style(max-height: 90px !important)
+dyvys.info##.simple-socials > li
 dyvys.info##body > *:style(pointer-events: auto !important)
 dyvys.info##body:style(pointer-events: none !important)
+dyvys.info#?#.footer__part:-abp-has(> .rounded-socials)
 dz-privatbank.com##.footer__top
 dz4link.com##+js(aopw, Fingerprint2)
 dz4link.com##+js(nowoif)
@@ -13164,7 +13171,6 @@ dzen.ru###SECOND_CHUNK_APP_CONTAINER_MicroRoot div[class^="dzen-layout--desktop-
 dzen.ru###SECOND_CHUNK_APP_CONTAINER_MicroRoot div[class^="dzen-layout--desktop-page-layout__root"]:style(min-height: 0 !important; --desktopPageLayoutCenterPadding: inherit !important)
 dzen.ru###ad-feed
 dzen.ru###ya-dist
-dzen.ru##+js(abort-on-property-read, Object.prototype.initAdRefreshment)
 dzen.ru##+js(href-sanitizer, a[href*="/away?"], ?to)
 dzen.ru##+js(nano-setTimeout-booster, '()=>r(', 15000)
 dzen.ru##.adv-ecom
@@ -13242,12 +13248,9 @@ dzen.ru##div[class*="__bannerContainer"]
 dzen.ru##div[class*="_advertDoc2Doc-"]
 dzen.ru##div[class*="_bannerWrapper-"]
 dzen.ru##div[class*="_content_with-new-"] > div[id] ~ div[class*="withDiscreteScroll"]
-dzen.ru##div[class*="_is-branding"] > div[style^="background-color:"]
 dzen.ru##div[class*="adContentWrapper"]
 dzen.ru##div[class*="adSplitEmbed"]
 dzen.ru##div[class*="auth-popup-feed-trigger__container-"]
-dzen.ru##div[class*="body_branding"] > div[style*="background-color:"]
-dzen.ru##div[class*="body_branding"]:style(background: inherit !important)
 dzen.ru##div[class*="column_myTarget"]
 dzen.ru##div[class*="dzen-"][class*="-banner-"]
 dzen.ru##div[class*="dzen-desktop--"][class*="__ad-"]
@@ -13290,6 +13293,7 @@ dzen.ru#?#div[id] > div[id]:-abp-has(> div[style="visibility: visible;"])
 dzen.ru,frontend.vh.yandex.ru##+js(set-constant, Object.prototype.getAutoplay, noopFunc)
 dzen.ru,frontend.vh.yandex.ru,naydex.net,widgets.kinopoisk.ru,www.kinopoisk.ru,yastatic.net##+js(no-xhr-if, strm.yandex.ru/get/)
 dzen.ru,frontend.vh.yandex.ru,naydex.net,widgets.kinopoisk.ru,www.kinopoisk.ru,yastatic.net##+js(set-constant, Object.prototype.partnerId, {})
+dzen.ru,sportsdzen.ru##+js(abort-on-property-read, Object.prototype.initAdRefreshment)
 dzen.ru,sportsdzen.ru##+js(prevent-fetch, /stats/bulk|stats/pixels|zen_audit/)
 dzen.ru,sportsdzen.ru##.trapPopupContainer
 dzen.ru,sportsdzen.ru##:matches-path(/news) :matches-attr(/./=/feed/) > div:not([id]) > div[id*="feed"]
@@ -13300,6 +13304,9 @@ dzen.ru,sportsdzen.ru##a.news-story-block__link ~ div > div:not([class])
 dzen.ru,sportsdzen.ru##body:style(scroll-snap-type: none !important)
 dzen.ru,sportsdzen.ru##div:matches-attr(/./=/meta-channel-pinner/) > div > div
 dzen.ru,sportsdzen.ru##div:matches-attr(/./=/meta-channel-pinner/) > div[id]
+dzen.ru,sportsdzen.ru##div[class*="_is-branding"] > div[style^="background-color:"]
+dzen.ru,sportsdzen.ru##div[class*="body_branding"] > div[style*="background-color:"]
+dzen.ru,sportsdzen.ru##div[class*="body_branding"]:style(background: inherit !important)
 dzen.ru,sportsdzen.ru##div[class*="snackbar-context-provider"]
 dzen.ru,sportsdzen.ru##div[class^="news-"][style="margin-top: 0px; height: calc(100% - 0px);"]
 dzen.ru,sportsdzen.ru##div[class^="news-site-"][class*="skeleton"]:style(background-color: transparent !important)
@@ -21841,6 +21848,7 @@ info-direkt.eu##.static.lg\:fixed.top-40.left-\[4vw\].bg-white.border-orange.bor
 info-retraite.fr##.cookies
 info-ua.com,moya-planeta.ru##.widget-subscribe
 info.pl##.zgody-popup, .head-page-information
+info24.ru##.social-media-items
 infobae.com##.second-saved-buttons
 infobae.com##.sharebar-buttons-container
 infobox.ru##.ibx-coockie-agree
@@ -27025,8 +27033,8 @@ mangovideo.*##.sponsor
 mangovideo.*##.table
 mangovideo.*##.top
 mangovideo.*##[target="_blank"]
-mangovideo.*,masahub.com,masahub.net,masaporn.*,matchora.live,maturegrannyfuck.com,maxegatos.net,mdfx9dc8n.net,mdy48tn97.com,mediapemersatubangsa.com,mega-mkv.com,megapornpics.com,messitv.net,meusanimes.net,milfmoza.com,milfnut.*,milfzr.com,mimaletamusical.blogspot.com,miniurl.*,mirrorace.*,mitly.us,mixdroop.*,mixdrop.*,mixiporn.fun,mkv-pastes.com,mkvcage.*,mlbstream.*,mlsbd.*,mmsbee.*,monaskuliner.ac.id,moredesi.com,motogpstream.*,movgotv.net,movi.pk,movieplex.*,movierulzlink.*,movies123.*,moviesflix.*,moviesleech.*,moviesmeta.*,moviessources.*,moviesverse.*,movieswbb.com,moviewatch.com.pk,moviezwaphd.*,mp4upload.com,mrskin.live,mrunblock.*,multicanaistv.com,mundowuxia.com,multicanais.*,musiclutter.xyz,myeasymusic.ir,myonvideo.com,myvidplay.com,myyouporn.com,mzansifun.com##+js(rmnt, script, /h=decodeURIComponent|popundersPerIP/)
-mangovideo.*,masahub.com,masahub.net,masaporn.*,matchora.live,maturegrannyfuck.com,maxegatos.net,mdfx9dc8n.net,mdy48tn97.com,mediapemersatubangsa.com,mega-mkv.com,megapornpics.com,messitv.net,meusanimes.net,milfmoza.com,milfnut.*,milfzr.com,mimaletamusical.blogspot.com,miniurl.*,mirrorace.*,mitly.us,mixdroop.*,mixdrop.*,mixiporn.fun,mkv-pastes.com,mkvcage.*,mlbstream.*,mlsbd.*,mmsbee.*,monaskuliner.ac.id,moredesi.com,motogpstream.*,movgotv.net,movi.pk,movieplex.*,movierulzlink.*,movies123.*,moviesflix.*,moviesleech.*,moviesmeta.*,moviessources.*,moviesverse.*,movieswbb.com,moviewatch.com.pk,moviezwaphd.*,mp4upload.com,mrskin.live,mrunblock.*,multicanaistv.com,mundowuxia.com,multicanais.*,musiclutter.xyz,myeasymusic.ir,myonvideo.com,myvidplay.com,myyouporn.com,mzansifun.com##^script[data-cfasync]:has-text(/h=decodeURIComponent|popundersPerIP/)
+mangovideo.*,masahub.com,masahub.net,masaporn.*,matchora.live,maturegrannyfuck.com,maxegatos.net,mdfx9dc8n.net,mdy48tn97.com,mediapemersatubangsa.com,mega-mkv.com,megapornpics.com,messitv.net,meusanimes.net,milfmoza.com,milfnut.*,milfzr.com,mimaletamusical.blogspot.com,miniurl.*,mirrorace.*,mitly.us,mixdroop.*,mixdrop.*,mixi-xxx.cc,mkv-pastes.com,mkvcage.*,mlbstream.*,mlsbd.*,mmsbee.*,monaskuliner.ac.id,moredesi.com,motogpstream.*,movgotv.net,movi.pk,movieplex.*,movierulzlink.*,movies123.*,moviesflix.*,moviesleech.*,moviesmeta.*,moviessources.*,moviesverse.*,movieswbb.com,moviewatch.com.pk,moviezwaphd.*,mp4upload.com,mrskin.live,mrunblock.*,multicanaistv.com,mundowuxia.com,multicanais.*,musiclutter.xyz,myeasymusic.ir,myonvideo.com,myvidplay.com,myyouporn.com,mzansifun.com##+js(rmnt, script, /h=decodeURIComponent|popundersPerIP/)
+mangovideo.*,masahub.com,masahub.net,masaporn.*,matchora.live,maturegrannyfuck.com,maxegatos.net,mdfx9dc8n.net,mdy48tn97.com,mediapemersatubangsa.com,mega-mkv.com,megapornpics.com,messitv.net,meusanimes.net,milfmoza.com,milfnut.*,milfzr.com,mimaletamusical.blogspot.com,miniurl.*,mirrorace.*,mitly.us,mixdroop.*,mixdrop.*,mixi-xxx.cc,mkv-pastes.com,mkvcage.*,mlbstream.*,mlsbd.*,mmsbee.*,monaskuliner.ac.id,moredesi.com,motogpstream.*,movgotv.net,movi.pk,movieplex.*,movierulzlink.*,movies123.*,moviesflix.*,moviesleech.*,moviesmeta.*,moviessources.*,moviesverse.*,movieswbb.com,moviewatch.com.pk,moviezwaphd.*,mp4upload.com,mrskin.live,mrunblock.*,multicanaistv.com,mundowuxia.com,multicanais.*,musiclutter.xyz,myeasymusic.ir,myonvideo.com,myvidplay.com,myyouporn.com,mzansifun.com##^script[data-cfasync]:has-text(/h=decodeURIComponent|popundersPerIP/)
 mangovideo.*,pandamovies.pw##+js(acs, document.createElement, 'script')
 manhuaga.com##+js(noeval-if, adsbygoogle)
 manhuarmmtl.com##+js(no-fetch-if, mode:no-cors)
@@ -31304,6 +31312,7 @@ nylonbabez.net,nylonpornpictures.net,stockingspornpics.com##.preview:has(.nat-bl
 nylondolls.com##+js(aopr, document.dispatchEvent)
 nymag.com,thecut.com,vulture.com##.text-form-wrapper
 nymag.com,vulture.com##.prev-next
+nypost.com##+js(rmnt, script, parentNode.removeChild)
 nypost.com##.entry-content > .nyp-video-player
 nypost.com##.floating-share
 nypost.com##.nyp-sitewide-notice
@@ -36637,7 +36646,6 @@ ristorantegellius.it##.sqs-announcement-bar
 ristorantino.no##.privacy-policy-container
 risu.ua##.donation-popup-wrapper
 risu.ua##.share-icons
-risu.ua##.share-news
 risvegliocomune.com###SITE_ROOT ~ .siteAspectsContainer
 ritdye.com##.footer ~ div[class*="peach-300"]
 riteaid.com##^html > body:not(.catalogsearch-result-index):upward(1) > head > script:has-text(googletagmanager)
@@ -39712,6 +39720,8 @@ speedtest.net##.mobile-pretest-2
 speedtest.net##.modal-overlay
 speedtest.net##.privacy-update, .notification-container
 speedtest.net##.result-area-ad
+speedtest.ru##.result-link
+speedtest.ru##.rustore-button
 speedwaynews.pl###myModal, .modal-backdrop
 speedweek.com##+js(no-fetch-if, /\/js/)
 speedweek.com##[class*="Ads"]
@@ -44471,7 +44481,6 @@ tweaktown.com##.footer_bottom
 tweaktown.com##.gnci
 tweaktown.com##.pr-p7.fsvgs
 tweaktown.com##.sharedesktop
-tweaktown.com##.tt-follow-news
 twed.com##.topline_wrapper
 tweetgen.com#@##tweetContainer
 twenga.co.uk,twenga.de,twenga.es,twenga.fr,twenga.it,twenga.nl,twenga.pl,twenga.se##+js(set-cookie, cookiewarning, 1, , reload, 1)
@@ -49137,8 +49146,8 @@ ya.ru##div[class^="body_"][class$="_feed_yes"]
 ya.ru##div[class^="search"][class$="_doodle"]
 ya.ru##div[style]:matches-prop(innerText="/РЕКЛАМА/")
 ya.ru##div[style]:matches-prop(innerText="/РЕКЛАМА/"):remove()
-ya.ru##html[class*="sectillion_top"] aside + div
-ya.ru##html[class*="sectillion_top"] main > div[class*="__"] ~ div[class*="__"] ~ div[class*="__"] > div
+ya.ru##html[class*="sectilliom_top"] aside + div
+ya.ru##html[class*="sectilliom_top"] main > div[class*="__"] ~ div[class*="__"] ~ div[class*="__"] > div
 ya.ru##main.body__wrapper > div[class*="__"] ~ div[class*="__"] ~ div[class*="__"] > div
 ya.ru#@#+js(remove-node-text, div, 'ad-mark__b-unit')
 ya.ru,yandex.*##+js(remove-node-text, script, DistributionLinkBro)
