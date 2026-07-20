@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-07-19 05:58:08
-! Косметических правил: 50699
+! Updated: 2026-07-20 06:21:26
+! Косметических правил: 50717
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -10,7 +10,7 @@
 *#?#script[src*=disquscdn] + #layout .post-content:has-text(.com specialize)
 *#?#script[src*=disquscdn] + #layout .post-content:has-text(Viagra)
 *#?#script[src*=disquscdn] + #layout .post-content:has-text(We offer unlimited)
-*,~amazon.*,~apple.com,~bing.com,~chatgpt.com,~claude.ai,~cloudflare.com,~dailymotion.com,~facebook.com,~github.com,~google.com,~hcaptcha.com,~instagram.com,~linkedin.com,~live.com,~microsoft.com,~mozilla.org,~netflix.com,~pinterest.com,~reddit.com,~tiktok.com,~twitch.tv,~twitter.com,~vscode.dev,~whatsapp.com,~wikipedia.org,~x.com,~yahoo.com,~yandex.*,~youtube.com*##+js(prevent-clipboard-write, /^(bash <<<|curl -kfsSL) \$\(echo.+? base64 -d|^cmd \/c.+?curl .+? http:\/\/(\d+\.){3}\d+.+?(\.exe|\.bat)|^powershell -w hidden .+?iwr http:\/\/(\d+\.){3}\d+.+?run\.exe|powershell .+?iex\(irm .+?(\d+\.){3}\d+|\\PowerShell\.exe.+? -ep bypass .+ ?\$env:TEMP.+?::new\(\)|^powershell .+? -ep bypass .+?irm\(|^powershell .+?-ep bypass .+?\$env:TEMP.+?\.exe.+?Invoke-WebRequest|^powershell .+?Set-ExecutionPolicy Unrestricted.+?Invoke-WebRequest.+?run\.bat|^powershell -w h -c.+?iwr.+?\.exe.+?\$env:tmp|(cmd|powershell).+?recaptcha|(cmd|powershell).+?#          |(cmd|powershell).+?          #/gmsi, domAlert, html|Copy paste blocked - 📋❗🛇 ${text})
+*,~amazon.*,~apple.com,~bing.com,~chatgpt.com,~claude.ai,~cloudflare.com,~dailymotion.com,~facebook.com,~github.com,~google.com,~hcaptcha.com,~instagram.com,~linkedin.com,~live.com,~microsoft.com,~mozilla.org,~netflix.com,~pinterest.com,~reddit.com,~tiktok.com,~twitch.tv,~twitter.com,~vscode.dev,~whatsapp.com,~wikipedia.org,~x.com,~yahoo.com,~yandex.*,~youtube.com*##+js(prevent-clipboard-write, /^(bash <<<|curl -kfsSL) \$\(echo.+? base64 -d|^cmd \/c.+?curl .+? http:\/\/(\d+\.){3}\d+.+?(\.exe|\.bat)|^powershell -w hidden .+?iwr http:\/\/(\d+\.){3}\d+.+?run\.exe|powershell .+?iex\(irm .+?(\d+\.){3}\d+|powershell .+?iex\(irm.+?-UseBasicParsing|\\PowerShell\.exe.+? -ep bypass .+ ?\$env:TEMP.+?::new\(\)|^powershell .+? -ep bypass .+?irm\(|^powershell .+?-ep bypass .+?\$env:TEMP.+?\.exe.+?Invoke-WebRequest|^powershell .+?Set-ExecutionPolicy Unrestricted.+?Invoke-WebRequest.+?run\.bat|^powershell -w h -c.+?iwr.+?\.exe.+?\$env:tmp|cmd.+?\/c.+?-nop.+?iex\(irm|(cmd|powershell).+?recaptcha|(cmd|powershell).+?#(Verification|          )|(cmd|powershell).+?          #/gmsi, domAlert, html|Copy paste blocked - 📋❗🛇 ${text})
 /(\d{0,1})?tamilprint(\d{1,2})?\.[a-z]{3,7}/##+js(acs, EventTarget.prototype.addEventListener, delete window)
 /(\d{0,1})?tamilprint(\d{1,2})?\.[a-z]{3,7}/##+js(nano-stb, countdown)
 /(\d{0,1})?tamilprint(\d{1,2})?\.[a-z]{3,7}/##+js(no-fetch-if, googlesyndication)
@@ -6233,9 +6233,11 @@ bioplanete.com##body:style(overflow: auto !important;)
 bioprocessintl.com##.ig_bottom
 biosyn.de###consent
 biosystems.es###aspnetForm > div[style*="fixed"]
+biovetro.net,dailyjobposting.xyz,digiztechno.com,financefernly.com,growgritly.com,guidetechly.com,jobnoid.net,napmap.net,shrtslug.biz,stfly.me,stly.link,technons.com,tournguide.com,yrtourguide.com##+js(aeld, click, rel)
 biovetro.net,dailyjobposting.xyz,digiztechno.com,financefernly.com,growgritly.com,guidetechly.com,jobnoid.net,napmap.net,shrtslug.biz,stfly.me,stly.link,technons.com,tournguide.com,yrtourguide.com##+js(aost, fetch, http)
 biovetro.net,dailyjobposting.xyz,digiztechno.com,financefernly.com,growgritly.com,guidetechly.com,jobnoid.net,napmap.net,shrtslug.biz,stfly.me,stly.link,technons.com,tournguide.com,yrtourguide.com##+js(no-xhr-if, method:HEAD)
 biovetro.net,dailyjobposting.xyz,digiztechno.com,financefernly.com,growgritly.com,guidetechly.com,jobnoid.net,napmap.net,shrtslug.biz,stfly.me,stly.link,technons.com,tournguide.com,yrtourguide.com##+js(rmnt, script, /Adblock/i)
+biovetro.net,dailyjobposting.xyz,digiztechno.com,financefernly.com,growgritly.com,guidetechly.com,jobnoid.net,napmap.net,shrtslug.biz,stfly.me,stly.link,technons.com,tournguide.com,yrtourguide.com##+js(set, Element.prototype.closest, falseFunc)
 biovetro.net,dailyjobposting.xyz,digiztechno.com,financefernly.com,growgritly.com,guidetechly.com,jobnoid.net,napmap.net,shrtslug.biz,stfly.me,stly.link,technons.com,tournguide.com,yrtourguide.com##p, li, ul, ol, h2, h3
 biowash.com.br##.modal-newsletter
 bip.piaseczno.eu###cookies
@@ -7793,11 +7795,11 @@ calculatrice.lu###cookies-content
 caldigit.com##.elementor-location-popup
 calendar.mail.ru##div[id^="calendar-rb-promo"]
 calendar.yandex.ru,calendar.yandex.*###CalendarBanner
-calendar.yandex.ru,calendar.yandex.*##[data-test-id="promopopup"]
 calendar.yandex.ru,calendar.yandex.*##div[class^="MainBanner__wrap"]
 calendar.yandex.ru,calendar.yandex.*#?#div[class^="_BottomIconRoot_"]:-abp-has(> div > .promozavr-anchor-servicePremiumButton)
 calendar.yandex.ru,calendar.yandex.*,disk.yandex.ru,disk.yandex.*,docs.yandex.ru,docs.yandex.*##div[data-promo-name]
 calendar.yandex.ru,calendar.yandex.*,disk.yandex.ru,disk.yandex.*,docs.yandex.ru,docs.yandex.*,mail.yandex.ru,mail.yandex.*##.promozavr-anchor-servicePremiumButton
+calendar.yandex.ru,mail.yandex.ru,calendar.yandex.*,mail.yandex.*##[data-test-id="promopopup"]
 calendardate.com##+js(set-cookie, warn, true)
 calendardate.com##footer ~ [style*="fixed"]
 calendarpedia.com##body > div:not([id]):not([class])[style*="fixed"], body > div:not([id]):not([class])[style*="absolute"]
@@ -9165,7 +9167,9 @@ civileats.com##.related-posts
 civileats.com##.section-banner
 civileats.com,cyberdaily.au,gamingbolt.com,petrobras.com.br##.social-media-container
 civilenggforall.com##+js(aopr, blockAdBlock)
+civitai.com##+js(no-fetch-if, faro.civitai.com)
 civitai.com##.announcements
+civitai.com##.dark\:bg-dark-9.dark\:border-dark-4:has([aria-label="Close ad"])
 civitai.com##.gap-2[style*="250px;"]
 civitai.com##.gap-2[style*="280px;"]
 civitai.com##[height="250"]
@@ -16930,6 +16934,7 @@ fplstatistics.com##+js(nostif, adStatus)
 fplstatistics.com##[href="https://fantasyfootballhub.co.uk/join/"]
 fplstatistics.com##[href="https://hostinguk.net/web-hosting"]
 fplstatistics.com##[href^="https://betterfpl.com/"]
+fpmmusic.com##+js(aeld, mousedown, , elements, .trackContainer)
 fpo.xxx##+js(set, flashvars.adv_pause_html, '')
 fpo.xxx##+js(set, flashvars.adv_pre_src, '')
 fr.de##div[data-id-advertdfpconf]
@@ -18119,6 +18124,7 @@ geizhals.at,geizhals.de,geizhals.eu##+js(set-local-storage-item, dnt_message_sho
 geizhals.de##.gh-notification--type-info
 geizhals.eu##.gh-notification--type-info
 geki-cine.jp,heiwa-9inday.jp,hypnosismic-anime.com,idolmaster-official.jp,mamodan-plus.clony.co.jp,monsterhunternow.belugacpn.jp,ranking.sanrio.co.jp,ufret.jp#@#a[href^="https://twitter.com/intent/tweet?"]
+gekkonen.net,itpassportgokaku.com,legiongamesgod.com,mc-hacks.net,meicho.marcsimz.com##+js(aopw, ai_front)
 gel.com###system-message, #system-messages, #system-message-container
 geld.de##.geld-layer-cookie-approval
 gelighting.com###privacy-message
@@ -20879,8 +20885,10 @@ hraparak.am##.big_advert
 hrdlog.net###DivCookies
 hrhibiza.com###websiteNotification
 hromadske.radio##[class^="FollowBanner"]
+hromadske.radio##[class^="MonoBaseBanner"]
 hromadske.radio##[class^="PatreonBanner"]
 hromadske.radio##a[href="/donate"]
+hromadske.radio##div[class^="BurgerMenu_socials_"]
 hromadske.radio##div[class^="Footer_sub_section"]
 hromadske.radio##div[class^="Header_socials"]
 hromadske.radio##div[class^="ModalBanner"]
@@ -22571,7 +22579,6 @@ itopmusics.com##+js(acs, document.getElementById, adblock)
 itopvpn.com##.footer ~ .content
 itorrents-igruha.net,itorrents-igruha.org##.global-container > .content-right-column > div[style^="display:"]
 itorrents-igruha.net,itorrents-igruha.org#?#.article-film:-abp-has(> center > div > a:-abp-contains(/зарабатывай|предложени|рандом/i))
-itpassportgokaku.com,legiongamesgod.com,mc-hacks.net,meicho.marcsimz.com##+js(aopw, ai_front)
 itproger.com###cookies
 itprotoday.com##.SocialShare
 itrack.it###ga-accept
@@ -26852,6 +26859,8 @@ mail.yahoo.com##[data-test-id="right-rail-ad"]
 mail.yahoo.com##[data-test-id="video-container"]
 mail.yahoo.com##a[data-test-id="search-ad"]
 mail.yandex.by,mail.yandex.com,mail.yandex.kz,mail.yandex.ru,mail.yandex.uz##[class*="ComposeDoneScreen"] *:style(height: auto !important; min-height: 0 !important)
+mail.yandex.by,mail.yandex.com,mail.yandex.kz,mail.yandex.ru,mail.yandex.uz##body[style*="padding-right:"][style*="15px"]:style(padding-right: 0 !important)
+mail.yandex.by,mail.yandex.com,mail.yandex.kz,mail.yandex.ru,mail.yandex.uz##html[style*="padding-right:"][style*="15px"]:style(padding-right: 0 !important)
 mail.yandex.ru,mail.yandex.*###js-neuroexpert-button
 mail.yandex.ru,mail.yandex.*##.b-mail-domik__social
 mail.yandex.ru,mail.yandex.*##.mail-Done-Promo-Container
@@ -27707,6 +27716,7 @@ megashare.com##.fa-circle
 megashopbot.com###alertBar
 megasport.co.il##+js(set-cookie, YourCoockieName, true)
 megasvet.cz##.elementor-popup-modal
+megatrax.com##.collection-tracks:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -khtml-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; -webkit-user-drag: auto !important; user-drag: auto !important;)
 megatube.xxx##+js(aopr, BetterJsPop)
 megatube.xxx##+js(ra, oncontextmenu)
 megaup.net##+js(acs, Math, break)
@@ -28143,6 +28153,7 @@ milenio.com##.info-networks
 milenio.com##html:style(overflow: auto !important; position: initial !important;)
 miles-and-more-kreditkarte.com##.stoerer
 miles-mobility.com##div[data-testid="cookie-consent"]
+milesofmusik.com##+js(aeld, mousedown, , elements, .fancybox-container)
 milfnut.*##+js(acs, onload, onclick)
 milfnut.*##+js(aeld, contextmenu)
 milfnut.*##+js(nowoif)
@@ -32035,6 +32046,7 @@ opennet.me,opennet.ru##img[src="/img/vkontakte.gif"]
 opennet.me,opennet.ru##img[src="/twitter.png"]
 openprof.com###cookie_id
 openreach.com##+js(set-cookie, EssentialCookie, true)
+opensauce.com##+js(set-local-storage-item, os_consent, denied)
 opensecrets.org##+js(rc, js-no-scroll, html, stay)
 opensecrets.org##.StayConnected
 opensecrets.org##.dontprintme
@@ -32233,6 +32245,7 @@ osb-alliance.de###cookieonpage
 osborn.com##.ob-home-gdpr-banner-widget
 oschina.net##.codeBlock
 oscobo.com##.banotset:upward(3)
+oshiete.ai#@#.snsBox
 osiander.de###onlyCookie
 osint-info.netlify.app##+js(nostif, checkAdBlock)
 oslobodjenje.ba##.item__share-wrap
@@ -35335,6 +35348,9 @@ qpony.pl##.rodo-wrapper
 qpython.club##+js(aeld, DOMContentLoaded, AdBlock)
 qq.com##.qm_toolbarSubTitle
 qq.com##.top_announce
+qr1.me-qr.com###relevantEvent
+qr1.me-qr.com##+js(rpnt, script, isProcessing = true;, redirectUser();)
+qr1.me-qr.com##.px-0.col-12:has(>[class="adsbygoogle"])
 qrcode.best##+js(nostif, ad_blocker_detector_modal)
 qrcodemonkey.net##+js(nostif, #ad_blocker_detector)
 qrd.by##.keckse
@@ -38886,7 +38902,7 @@ site.ua##.news-list__banner
 site.ua##div[x-data*="facebook"]
 site.ua##main > .w-full + .container + .container > div:only-child
 sitefilme.com##+js(nowoif)
-sites.google.com*##+js(prevent-clipboard-write, /^(bash <<<|curl -kfsSL) \$\(echo.+? base64 -d|^cmd \/c.+?curl .+? http:\/\/(\d+\.){3}\d+.+?(\.exe|\.bat)|^powershell -w hidden .+?iwr http:\/\/(\d+\.){3}\d+.+?run\.exe|powershell .+?iex\(irm .+?(\d+\.){3}\d+|\\PowerShell\.exe.+? -ep bypass .+ ?\$env:TEMP.+?::new\(\)|^powershell .+? -ep bypass .+?irm\(|^powershell .+?-ep bypass .+?\$env:TEMP.+?\.exe.+?Invoke-WebRequest|^powershell .+?Set-ExecutionPolicy Unrestricted.+?Invoke-WebRequest.+?run\.bat|^powershell -w h -c.+?iwr.+?\.exe.+?\$env:tmp|(cmd|powershell).+?recaptcha|(cmd|powershell).+?#          |(cmd|powershell).+?          #/gmsi, domAlert, html|Copy paste blocked - 📋❗🛇 - ${text})
+sites.google.com##+js(prevent-clipboard-write, /^(bash <<<|curl -kfsSL) \$\(echo.+? base64 -d|^cmd \/c.+?curl .+? http:\/\/(\d+\.){3}\d+.+?(\.exe|\.bat)|^powershell -w hidden .+?iwr http:\/\/(\d+\.){3}\d+.+?run\.exe|powershell .+?iex\(irm .+?(\d+\.){3}\d+|powershell .+?iex\(irm.+?-UseBasicParsing|\\PowerShell\.exe.+? -ep bypass .+ ?\$env:TEMP.+?::new\(\)|^powershell .+? -ep bypass .+?irm\(|^powershell .+?-ep bypass .+?\$env:TEMP.+?\.exe.+?Invoke-WebRequest|^powershell .+?Set-ExecutionPolicy Unrestricted.+?Invoke-WebRequest.+?run\.bat|^powershell -w h -c.+?iwr.+?\.exe.+?\$env:tmp|cmd.+?\/c.+?-nop.+?iex\(irm|(cmd|powershell).+?recaptcha|(cmd|powershell).+?#(Verification|          )|(cmd|powershell).+?          #/gmsi, domAlert, html|Copy paste blocked - 📋❗🛇 - ${text})
 siteua.org##.social_groups
 siteunblocked.info##+js(aeld, , /pop|wm|forceClick/)
 siteunblocked.info##+js(aopr, GetWindowHeight)
@@ -44492,9 +44508,7 @@ twinset.com###ckInfo
 twistedporn.com##+js(nowoif)
 twister.porn##+js(aopr, open)
 twitch.tv##+js(twitch-videoad)
-twitch.tv##.chat-shell > div[class^="Layout-sc-"]  > div[style^="transition:"]:has(video[src^="https://m.media-amazon.com"])
 twitch.tv##.social-media-link
-twitch.tv##.stream-display-ad__wrapper + div > div[style^="position:"] > div[class^="Layout-sc-"]:has(video[src^="https://m.media-amazon.com"])
 twitch.tv#?#.player-overlay-background:has-text(Consider Turbo)
 twitch.tv#?#.tw-balloon:has-text(Share To)
 twitchcon.com##div[x-data="gdpr"]
@@ -45900,6 +45914,7 @@ videogameszone.de,vienna.at,vip.de,virtualnights.com,vox.de##+js(nostif, .call(n
 videohelp.com###topmenu:has(> .contentlink[href="https://www.videohelp.com/donate"])
 videohelp.com##+js(acs, document.getElementById, block)
 videohelp.com##div[id] :has(> a[href]:has-text(/^Try (?:D.?V.?D.?F.?a.?b|StreamFab)/) + a[href])
+videohelper.com##body:style(-webkit-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
 videolyrics.in##+js(aeld, load, htmls)
 videolyrics.in##+js(no-xhr-if, doubleclick)
 videolyrics.in##^script:has-text(htmls)
@@ -46350,6 +46365,7 @@ vk.com,vk.ru,vkvideo.ru##+js(set-constant, Object.prototype.pauseSuggestions, un
 vk.com,vk.ru,vkvideo.ru##vk-video-player div[class^="PauseSuggestionsSlider"]
 vk.com,vkvideo.ru###notifiers_wrap
 vk.com/video_ext.php##+js(set-constant, Object.prototype.autoplay, undefined)
+vk.ru##.FeaturesDisabledBanner
 vk.ru/video_ext.php##+js(set-constant, Object.prototype.autoplay, undefined)
 vk.se##.ReactModal__Overlay--after-open
 vk.sportsbull.jp##.hidden-by-ima:remove-class(hidden-by-ima)
@@ -47104,6 +47120,8 @@ web.facebook.com,www.facebook.com##+js(jsonl-edit-xhr-response, ..node[?.__typen
 web.facebook.com,www.facebook.com##+js(jsonl-edit-xhr-response, .data.viewer.news_feed.edges.*[?.category=="SPONSORED"].node, propsToMatch, /graphql)
 web.facebook.com,www.facebook.com##+js(jsonl-edit-xhr-response, .data[?.category=="SPONSORED"].node, propsToMatch, /graphql)
 web.facebook.com,www.facebook.com##+js(rpnt, script, "x3m9kf2n":true\,, , condition, compat_iframe_token)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.append, Function.prototype.toString)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.append, JSON.parse)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.insertAdjacentElement, Function.prototype.toString)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.insertAdjacentElement, JSON.parse)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, Function.prototype.toString)
