@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-07-25 05:46:41
-! Косметических правил: 50770
+! Updated: 2026-07-26 06:09:57
+! Косметических правил: 50783
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -10,7 +10,7 @@
 *#?#script[src*=disquscdn] + #layout .post-content:has-text(.com specialize)
 *#?#script[src*=disquscdn] + #layout .post-content:has-text(Viagra)
 *#?#script[src*=disquscdn] + #layout .post-content:has-text(We offer unlimited)
-*,~amazon.*,~apple.com,~bing.com,~chatgpt.com,~claude.ai,~cloudflare.com,~dailymotion.com,~facebook.com,~github.com,~google.com,~hcaptcha.com,~instagram.com,~linkedin.com,~live.com,~microsoft.com,~mozilla.org,~netflix.com,~pinterest.com,~reddit.com,~tiktok.com,~twitch.tv,~twitter.com,~vscode.dev,~whatsapp.com,~wikipedia.org,~x.com,~yahoo.com,~yandex.*,~youtube.com##+js(prevent-clipboard-write, /^mshta |^(bash <<<|curl -kfsSL) \$\(echo.+? base64 -d|^cmd \/c.+?curl .+? http:\/\/(\d+\.){3}\d+.+?(\.exe|\.bat)|^powershell -w hidden .+?iwr http:\/\/(\d+\.){3}\d+.+?run\.exe|powershell .+?iex\(irm .+?(\d+\.){3}\d+|powershell .+?iex\(irm.+?-UseBasicParsing|\\PowerShell\.exe.+? -ep bypass .+ ?\$env:TEMP.+?::new\(\)|^powershell .+? -ep bypass .+?irm\(|^powershell .+?-ep bypass .+?\$env:TEMP.+?\.exe.+?Invoke-WebRequest|^powershell .+?Set-ExecutionPolicy Unrestricted.+?Invoke-WebRequest.+?run\.bat|^powershell -w h -c.+?iwr.+?\.exe.+?\$env:tmp|cmd.+?\/c.+?-nop.+?iex\(irm|(cmd|powershell).+?recaptcha|(cmd|powershell).+?#(Verification|          )|(cmd|powershell).+?          #/msi, domAlert, html|Copy paste blocked - 📋❗🛇 ${text})
+*,~amazon.*,~apple.com,~bing.com,~chatgpt.com,~claude.ai,~cloudflare.com,~dailymotion.com,~facebook.com,~github.com,~google.com,~hcaptcha.com,~instagram.com,~linkedin.com,~live.com,~microsoft.com,~mozilla.org,~netflix.com,~pinterest.com,~reddit.com,~tiktok.com,~twitch.tv,~twitter.com,~vscode.dev,~whatsapp.com,~wikipedia.org,~x.com,~yahoo.com,~yandex.*,~youtube.com##+js(prevent-clipboard-write, /^mshta |^(bash <<<|curl -kfsSL) \$\(echo.+? base64 -d|^cmd \/c.+?curl .+? http:\/\/(\d+\.){3}\d+.+?(\.exe|\.bat)|^powershell -w hidden .+?iwr http:\/\/(\d+\.){3}\d+.+?run\.exe|powershell .+?iex\(irm .+?(\d+\.){3}\d+|powershell .+?iex\(irm.+?-UseBasicParsing|\\PowerShell\.exe.+? -ep bypass .+ ?\$env:TEMP.+?::new\(\)|^powershell .+? -ep bypass .+?irm\(|^powershell .+?-ep bypass .+?\$env:TEMP.+?\.exe.+?Invoke-WebRequest|^powershell .+?Set-ExecutionPolicy Unrestricted.+?Invoke-WebRequest.+?run\.bat|^powershell -w h -c.+?iwr.+?\.exe.+?\$env:tmp|cmd.+?\/c.+?-nop.+?iex\(irm|(cmd|powershell).+?recaptcha|(cmd|powershell).+?#(Verification|          )|(cmd|powershell).+?          #/msi, domAlert, Copy-paste blocked — 📋🛇❗ ${text})
 /(\d{0,1})?tamilprint(\d{1,2})?\.[a-z]{3,7}/##+js(acs, EventTarget.prototype.addEventListener, delete window)
 /(\d{0,1})?tamilprint(\d{1,2})?\.[a-z]{3,7}/##+js(nano-stb, countdown)
 /(\d{0,1})?tamilprint(\d{1,2})?\.[a-z]{3,7}/##+js(no-fetch-if, googlesyndication)
@@ -5215,6 +5215,7 @@ baltanews.city,barnews.city,bilopillia.city,bilyayivka.city,chernihiv.city,chort
 baltic-watches.com,np-brijuni.hr,vilgain.com##+js(set-cookie, consent, 0, , reload, 1)
 balticlivecam.com##+js(acs, document.getElementById, none)
 bambergfacts.de##div[id^="cookiebar"]
+bambulab.com#@#.social-buttons-container
 bammusic.com##+js(set-cookie, analyticsCookiesAccepted, false)
 bammusic.com##+js(set-cookie, mandatoryCookiesAccepted, true)
 bammusic.com##+js(set-cookie, mediaCookiesAccepted, false)
@@ -9167,8 +9168,9 @@ civitai.com##.dark\:bg-dark-9.dark\:border-dark-4:has([aria-label="Close ad"])
 civitai.com##.gap-2[style*="250px;"]
 civitai.com##.gap-2[style*="280px;"]
 civitai.com##[height="250"]
-civitai.red##a[href="/pricing"] img
-civitai.red##div.relative.flex[style="min-height:90px"]:has(> button[aria-label="Close ad"])
+civitai.com,civitai.red##+js(trusted-replace-argument, String.prototype.endsWith, 0, , condition, /edit)
+civitai.com,civitai.red##a[href="/pricing"] img
+civitai.com,civitai.red##div.relative.flex[style="min-height:90px"]:has(> button[aria-label="Close ad"])
 civitai.red,civitai.com,civitai.green##+js(no-fetch-if, googlesyndication)
 civitai.red,civitai.com,civitai.green##div:is(.shadow, .flex.w-full.justify-center[style=""], .flex.flex-col.items-center.justify-center.gap-2[style^="min-height:"]):has(a[href="/pricing"] img[alt="Please support civitai and creators by disabling adblock"]):remove()
 civitai.red,civitai.com,civitai.green##div[id][class^="mantine-"].flex.relative.box-content:style(min-height: 0px !important; visibility: collapse !important; padding: 0px !important;)
@@ -10590,7 +10592,7 @@ cryptorank.io##+js(nostif, /\{[a-z]\(!0\)\}/)
 cryptorank.io##+js(set-local-storage-item, show_cookies_popup, false)
 cryptorank.io##.styled__Wrapper-sc-1xbee9a-0
 cryptorank.io##div[tabindex] > button:has-text(Buy $)
-cryptorank.io##tbody > tr:not(.init-scroll):has(a[href*="?"][target="_blank"])
+cryptorank.io##tbody > tr:not(.init-scroll) a[target="_blank"][href*="?"]:has(button)
 cryptorank.io##tr.sc-a321a998-0:not(.init-scroll)
 cryptoreporter.info##.mh-share-buttons
 cryptotimes.io#?#.heading-title:has-text(Follow US)
@@ -23004,7 +23006,9 @@ jejsklep.pl###tws_i_100000, #topLayerBackDrop
 jelgava.lv##+js(set-cookie, user_gave_consent_analytics, 0)
 jelgava.lv,sseriga.edu##+js(set-cookie, user_gave_consent, 1)
 jellynote.com##+js(nostif, byepopup, 5000)
-jelonka.com##+js(rmnt, script, div.offsetHeight)
+jelonka.com##+js(trusted-set-local-storage-item, jelonka_news_ad_access_gate_first_detected_at, $now$)
+jelonka.com##+js(trusted-set-local-storage-item, jelonka_news_ad_access_gate_soft_dismissed_at, $now$)
+jelonka.com##.ad-area
 jelonka.com##.adsbygoogle
 jelonka.com##.prywatnosc
 jelszo.co##.cookie-back
@@ -27369,6 +27373,9 @@ matratzen-concord.ch##.cookie
 matratzen-concord.de##.cookie
 matratzen.info##.postNavigation
 matrixgames.com##.globalAnnouncement, .blockingOverlay
+matsmart.fi##[data-testid="consent-banner-overlay"]
+matsmart.fi##[data-testid="consent-banner-root"]
+matsmart.fi##body:style(overflow: auto !important;)
 matthewball.co##.newsletter-form-wrapper
 matthewhotelscience.com##+js(acs, WebAssembly, atob)
 matthewhotelscience.com##+js(acs, globalThis, break;case)
@@ -34554,7 +34561,7 @@ postnl.nl##pnl-cookie-wall-widget
 postoffice.co.uk###app > .absolute.w-full
 postrabbit.pl##.alert-info, .alert-warning, .alert-box
 poststar.com##.dfp-ad
-posturi.gov.ro##:root:style(user-select:unset!important)
+posturi.gov.ro##:root:style(user-select: unset !important)
 postype.com##+js(aeld, contextmenu)
 postype.com##+js(rc, disable-selection, body)
 posylka.de##.modal-custom--overlay
@@ -35729,6 +35736,7 @@ rambler.ru##.commercial-branding > div script ~ div > div:style(min-height: 0 !i
 rambler.ru##.commercial-branding article > div:only-child > div:first-child + div > div > div:first-child + div:style(box-shadow: none !important)
 rambler.ru##.commercial-branding:style(margin-top: unset !important; margin-bottom: unset !important)
 rambler.ru##[data-cerber="weather-widget"] > a[href^="https://weather.rambler.ru/"] > [data-text="true"]:style(container-type: inherit !important)
+rambler.ru##[data-cerber="weather-widget"] > a[href^="https://weather.rambler.ru/"] > div:first-child::before:style(background-position: inherit !important)
 rambler.ru##circle[stroke-dashoffset]
 rambler.ru#?#article div:-abp-has(> div > [id^="rcmw-container-"])
 rambler.ru#?#article[id][class] > div:first-child > div:first-child + div > div:only-child > div:first-child + div:last-child:-abp-has(> div > div:empty)
@@ -38944,7 +38952,7 @@ site.ua##.news-list__banner
 site.ua##div[x-data*="facebook"]
 site.ua##main > .w-full + .container + .container > div:only-child
 sitefilme.com##+js(nowoif)
-sites.google.com##+js(prevent-clipboard-write, /^mshta |^(bash <<<|curl -kfsSL) \$\(echo.+? base64 -d|^cmd \/c.+?curl .+? http:\/\/(\d+\.){3}\d+.+?(\.exe|\.bat)|^powershell -w hidden .+?iwr http:\/\/(\d+\.){3}\d+.+?run\.exe|powershell .+?iex\(irm .+?(\d+\.){3}\d+|powershell .+?iex\(irm.+?-UseBasicParsing|\\PowerShell\.exe.+? -ep bypass .+ ?\$env:TEMP.+?::new\(\)|^powershell .+? -ep bypass .+?irm\(|^powershell .+?-ep bypass .+?\$env:TEMP.+?\.exe.+?Invoke-WebRequest|^powershell .+?Set-ExecutionPolicy Unrestricted.+?Invoke-WebRequest.+?run\.bat|^powershell -w h -c.+?iwr.+?\.exe.+?\$env:tmp|cmd.+?\/c.+?-nop.+?iex\(irm|(cmd|powershell).+?recaptcha|(cmd|powershell).+?#(Verification|          )|(cmd|powershell).+?          #/msi, domAlert, html|Copy paste blocked - 📋❗🛇 - ${text})
+sites.google.com##+js(prevent-clipboard-write, /^mshta |^(bash <<<|curl -kfsSL) \$\(echo.+? base64 -d|^cmd \/c.+?curl .+? http:\/\/(\d+\.){3}\d+.+?(\.exe|\.bat)|^powershell -w hidden .+?iwr http:\/\/(\d+\.){3}\d+.+?run\.exe|powershell .+?iex\(irm .+?(\d+\.){3}\d+|powershell .+?iex\(irm.+?-UseBasicParsing|\\PowerShell\.exe.+? -ep bypass .+ ?\$env:TEMP.+?::new\(\)|^powershell .+? -ep bypass .+?irm\(|^powershell .+?-ep bypass .+?\$env:TEMP.+?\.exe.+?Invoke-WebRequest|^powershell .+?Set-ExecutionPolicy Unrestricted.+?Invoke-WebRequest.+?run\.bat|^powershell -w h -c.+?iwr.+?\.exe.+?\$env:tmp|cmd.+?\/c.+?-nop.+?iex\(irm|(cmd|powershell).+?recaptcha|(cmd|powershell).+?#(Verification|          )|(cmd|powershell).+?          #/msi, domAlert, Copy-paste blocked — 📋🛇❗ ${text})
 siteua.org##.social_groups
 siteunblocked.info##+js(aeld, , /pop|wm|forceClick/)
 siteunblocked.info##+js(aopr, GetWindowHeight)
@@ -40958,6 +40966,9 @@ suntransfers.com##.c-alert-cookie
 suomenmaa.fi##.smm-newsletter
 supabase.com##+js(set-local-storage-item, supabase-consent-ph, false)
 super-ethanol.com##+js(nosiif, visibility, 1000)
+super.cz##+js(rmnt, script, /AdTop|customElements/)
+super.cz##.ogm-branding-advert
+super.cz##.ogm-branding-advert + div:has(.js-ad)
 super.ee##.header__notice
 super.ru##body > div[class^="styles_wrapper_"]
 super.ru##div[class^="styles_socials"] > a
@@ -41446,6 +41457,7 @@ tapochek.net##body:has(#register_link) > canvas:remove()
 tapochek.net##img[src*="images/rss_"]
 taradinhos.com##.under-player-ad
 target.com##+js(json-prune-fetch-response, data.search.products.[-].sponsored_ad.ad_source, , propsToMatch, url:/plp_search_v2?)
+target.com##+js(json-prune-fetch-response, data_source_modules.*.module_data.search_response.products.[-].sponsored_ad.ad_source, , propsToMatch, /pages/slp)
 target.com##.lgfwSu
 target.com##body[style*="overflow"]:style(overflow-y: auto !important)
 target.com##div[class*="overlay"]:has(a[href*="health-policy"])
@@ -43310,6 +43322,7 @@ tmohentai.com##+js(noeval-if, tmohentai)
 tmohentai.com##.advert
 tmstor.es#@#.top_social
 tmz.com###newsletter-subscription__sidebar
+tmz.com##+js(rmnt, script, loadAdmiralJs)
 tmz.com##.ad-header-wrapper:remove()
 tmz.com##.browser-notifications-prompt
 tmz.com##.canvas-video-block--aside
@@ -44559,7 +44572,6 @@ twitch.tv##+js(twitch-videoad)
 twitch.tv##.social-media-link
 twitch.tv#?#.player-overlay-background:has-text(Consider Turbo)
 twitch.tv#?#.tw-balloon:has-text(Share To)
-twitchcdn.net#@#+js(prevent-clipboard-write, /^mshta |^(bash <<<|curl -kfsSL) \$\(echo.+? base64 -d|^cmd \/c.+?curl .+? http:\/\/(\d+\.){3}\d+.+?(\.exe|\.bat)|^powershell -w hidden .+?iwr http:\/\/(\d+\.){3}\d+.+?run\.exe|powershell .+?iex\(irm .+?(\d+\.){3}\d+|powershell .+?iex\(irm.+?-UseBasicParsing|\\PowerShell\.exe.+? -ep bypass .+ ?\$env:TEMP.+?::new\(\)|^powershell .+? -ep bypass .+?irm\(|^powershell .+?-ep bypass .+?\$env:TEMP.+?\.exe.+?Invoke-WebRequest|^powershell .+?Set-ExecutionPolicy Unrestricted.+?Invoke-WebRequest.+?run\.bat|^powershell -w h -c.+?iwr.+?\.exe.+?\$env:tmp|cmd.+?\/c.+?-nop.+?iex\(irm|(cmd|powershell).+?recaptcha|(cmd|powershell).+?#(Verification|          )|(cmd|powershell).+?          #/msi, domAlert, html|Copy paste blocked - 📋❗🛇 ${text})
 twitchcon.com##div[x-data="gdpr"]
 twitchemotes.com##+js(aeld, contextmenu)
 twitchmetrics.net##+js(set-cookie, npabp, 1)
@@ -46172,6 +46184,7 @@ vintage-radio.net###notices
 vintageporntubes.com##+js(aeld, getexoloader)
 vintageporntubes.com##+js(aopr, ExoLoader.serve)
 vintageporntubes.com##.VPT_player_ads
+vinted.*##div[class^="_ads-module"]
 vinyculture.dz##.g1-newsletter
 vinylcollective.com##+js(acs, jQuery, dismissAdBlock)
 viomundo.com.br##.support
