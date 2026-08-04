@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-08-03 06:28:43
-! Косметических правил: 50894
+! Updated: 2026-08-04 05:52:07
+! Косметических правил: 50905
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -2094,8 +2094,8 @@ ahaber.com.tr,aspor.com.tr##.pageTools
 ahchealthenews.com##.livewell-widget
 ahchealthenews.com##.savicom-subscribe-widget
 aheadofthyme.com##.tasty-recipes-footer-content
-ahen.me##+js(remove-node-text, script, createAdblockBlock)
-ahen.me,doramatv.live,doramatv.one,doramatv.ru,ekabu.ru,findani.me,findanime.me,findanime.ru,grouple.co,librebook.me,livelib.ru,mintmanga.one,mose.su,online-mult.net,readmanga.io,selflib.me,selfmanga.live,soccer.ru,usagi.one#@#.twitter
+ahen.me##+js(remove-node-text, script, isAdBlock)
+ahen.me,allhen.online,doramatv.live,doramatv.one,doramatv.ru,ekabu.ru,findani.me,findanime.me,findanime.ru,grouple.co,librebook.me,livelib.ru,mintmanga.com,mintmanga.one,mose.rocks,online-mult.net,readmanga.io,readmanga.ru,selflib.me,selfmanga.live,soccer.ru,usagi.one,zazaza.me#@#.twitter
 ahlens.se##.ah-warning
 ahliunited.com.kw##.greyCookie
 ahmedmode.*##+js(nostif, show)
@@ -11961,7 +11961,7 @@ diariodenavarra.es##.sticky_roba
 diariodoiguacu.com.br##+js(ra, ondragstart|onselectstart)
 diariodolitoral.com.br##.bloco-compartilhar
 diariodolitoral.com.br##.item-social-rodape
-diarioelargentino.com##.redes-footer
+diarioelargentino.com,elsiglodetorreon.com.mx##.redes-footer
 diarioelargentino.com,noticiasrcn.com##.btn-google-news
 diarioeldia.cl,elterritorio.com.ar##.noticia-social-share
 diariohuarpe.com,elchubut.com.ar,eldestapeweb.com,eltribuno.com,laarena.com.ar,puntobiz.com.ar##.notificacion-modal
@@ -12604,6 +12604,7 @@ doramalive.news##.dl-content > .ageLimit ~ [class$="-player"]:style(display: blo
 doramalive.news##.dl-content:style(min-height: unset !important)
 doramasyt.com##+js(aopr, GLX_GLOBAL_UUID_RESULT)
 doramatv.live,doramatv.one,doramatv.ru##+js(set-cookie, auth-required-win, true)
+doramatv.ru,mintmanga.com##+js(abort-on-stack-trace, document.getElementById, /createAdblockBlock|createBlock/)
 doramax.org##.button[onclick*=".soc_buttons"]
 doramax.org##.wrapper.full:style(margin-top: 70px !important)
 doramy.club##.doramvk
@@ -13972,6 +13973,7 @@ eldiario.es,eldiarioar.com##.bulletin-subscription
 eldiario.es,eldiarioar.com##.edi-social-buttons
 eldiario.es,eldiarioar.com##.sn-buttons
 eldiarioalerta.com##.author-net
+eldiariodechihuahua.mx##.btn-footer-up
 eldirectorio.co###gdpr
 eldorado.ru#?##__next > div[class]:-abp-has(> div[class] > a[href*="Cookie_Policy"])
 elearn.interviewgig.com##.post_share
@@ -14148,6 +14150,10 @@ elsalvadorsurfrealestate.com##.show.middle.modal
 elsalvadorsurfrealestate.com##.show.modal-backdrop
 elsate.com##+js(set-cookie, phpbb3_4zn6j_ca, true)
 elsate.com##.swBar
+elsiglocoahuila.mx,elsiglodedurango.com.mx,elsiglodetorreon.com.mx##.comparte
+elsiglodetorreon.com.mx##.email-suscribe
+elsiglodetorreon.com.mx##.google-buttons-container
+elsiglodetorreon.com.mx##.google-buttons-containertop
 elsignificadode.net###bn-cookies
 elster-americanmeter.com##.topRibbon
 elstonandson.co.uk##+js(set-cookie, over18, yes)
@@ -15486,7 +15492,7 @@ fastpic.org##[id*="footer"] a[href*="twitter.com"]
 fastpic.org##a[href="https://static.fastpic.ru/FastPicUploader.apk"]
 fastpic.org##body > footer:style(background: none !important)
 fastpic.org##main#mainContainer:style(max-width: unset !important)
-fastpic.org,~new.fastpic.org##+js(prevent-addEventListener, /click|load/, /exopop|popMagic/)
+fastpic.org,~new.fastpic.org##+js(prevent-addEventListener, /click|load/, /exopop|popMagic|isTrusted/)
 fastpic.org,~new.fastpic.org##+js(prevent-addEventListener, DOMContentLoaded, /0x|popMagic/)
 fastpic.org,~new.fastpic.org##+js(prevent-window-open)
 fastpic.org,~new.fastpic.org##+js(remove-node-text, script, /ABN|adMa|atOptions|body.appendChild|generateContent|Math.floor|Math.rnd|MutationObserver|parseInt/)
@@ -15935,10 +15941,10 @@ filmisub.cc##+js(aost, setTimeout, adsBlocked)
 filmisub.cc##+js(no-xhr-if, ads)
 filmitorrent.net,filmitorrent.site,utorr.cc##body > #container:style(margin-top: 0 !important)
 filmitorrent.net,utorr.cc##+js(remove-node-text, #text, Реклама:)
-filmix.date,filmix.life,filmix.my,filmix.pub,filmix.tech,filmix.zone###dle-content > article ~ div a[href$="/pro.html"]
-filmix.date,filmix.life,filmix.my,filmix.pub,filmix.tech,filmix.zone##.android-telegram-main
-filmix.date,filmix.life,filmix.my,filmix.pub,filmix.tech,filmix.zone##.main-wrapper:style(margin-top: 0 !important)
-filmix.date,filmix.life,filmix.my,filmix.pub,filmix.tech,filmix.zone##.page-wrapper:style(margin-top: 0 !important)
+filmix.*,filmix.gg,filmix.date,filmix.life,filmix.pub,filmix.tech###dle-content > article ~ div a[href$="/pro.html"]
+filmix.*,filmix.gg,filmix.date,filmix.life,filmix.pub,filmix.tech##.android-telegram-main
+filmix.date,filmix.gg,filmix.life,filmix.pub,filmix.tech##.main-wrapper:style(margin-top: 0 !important)
+filmix.date,filmix.gg,filmix.life,filmix.pub,filmix.tech##.page-wrapper:style(margin-top: 0 !important)
 filmix.day##.wrap:style(margin-top: 0 !important)
 filmizip.com##+js(no-fetch-if, googlesyndication, length:40000-60000)
 filmizip.com##+js(no-fetch-if, mode:no-cors)
@@ -16101,6 +16107,7 @@ finbalance.com.ua##.header__bottom > .app
 finbold.com##.card-subscribe
 find-dvd.co.uk##.consent, #consent
 find-key.ru###custom_html-7
+findanime.me##+js(set-cookie, mose-banner, true)
 findbolig.nu##.cookie
 findhow.org##.disclaimer-block
 findhow.org##aside > .rightBoxtumb:first-child
@@ -23038,6 +23045,7 @@ jdvhotels.com###ccs-notification
 jeanfil.fr##.modal-cookie
 jeanlouisdavid.it##.footerIconsUl
 jeanscentre.nl###gatsby-focus-wrapper > div:last-child
+jeechallenger.com##+js(trusted-replace-argument, String.prototype.startsWith, 0, json:"/", condition, /^\/contact-us\/$/)
 jeedoo.com###alert_window_modal
 jeedoo.com##.modal-backdrop
 jeedoo.com##body,html:style(overflow: auto !important; position: initial !important;)
@@ -35504,6 +35512,7 @@ quantum-inspire.com##.cookie
 quaries.com,queenbeetoday.com,queersapphic.com,queue-times.com,quickpreprecipes.com,quickweeknightmeals.com,quietlifefarm.com,quiltdom.com,quizwise.com,quotecatalog.com##+js(rmnt, script, /__adblocker|html-load/)
 quattroruote.it##.extra_info_social
 quazer.com##.fullscreen-notification
+qub.ca##+js(set, __NEXT_DATA__.runtimeConfig._qub_sdk.qubConfig.ad, noopFunc)
 qub.ca##+js(set, __NEXT_DATA__.runtimeConfig._qub_sdk.qubConfig.video.adBlockerDetectorEnabled, false)
 qub.ca##.jss2
 quebeccoupongratuit.com##.share-site
@@ -47268,6 +47277,7 @@ web.de##div[data-service-slot-initialized]
 web.de#@#.ad
 web.facebook.com,www.facebook.com###seo_pivots ~ div > div[style^="max-width"] > div[class] > div[style^="max-width"]:has(a[href^="/ads/about/?"])
 web.facebook.com,www.facebook.com##+js(json-edit, ..data.viewer..nodes.*[?.__typename=="AdsSideFeedUnit"])
+web.facebook.com,www.facebook.com##+js(json-edit, ..edges..node[?.*.__typename=="SponsoredData"])
 web.facebook.com,www.facebook.com##+js(json-edit, ..node[?.__typename=="MarketplaceFeedAdStory"])
 web.facebook.com,www.facebook.com##+js(json-edit, ..nodes.*[?.sponsored_data])
 web.facebook.com,www.facebook.com##+js(json-edit, .require..node[?.*.__typename=="SponsoredData"])
@@ -50185,6 +50195,7 @@ znanija.com##[class^="mobile-app-store-"]
 znanija.com##[data-test="footer-social-media-links"]
 znanija.com##div[class*=" Tooltip-module__brn-tooltip-box--"][class*="-start-arrow-only--"]
 znayka.cc##+js(href-sanitizer, a[href*="to=https"], ?to)
+zocalo.com.mx##.red-social
 zocbo.com###festivalPop
 zodio.fr##.zo-cookie__banner
 zoho.com##+js(set-local-storage-item, zglobal_Acookie_optOut, 3)
