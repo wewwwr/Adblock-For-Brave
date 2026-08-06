@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-08-05 05:49:48
-! Косметических правил: 50921
+! Updated: 2026-08-06 05:53:41
+! Косметических правил: 50945
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -2908,8 +2908,8 @@ amindfullmom.com,choosingchia.com,creativecanning.com,downshiftology.com,gardeni
 amindfullmom.com,choosingchia.com,creativecanning.com,downshiftology.com,gardeninthekitchen.com,heygrillhey.com,loveinmyoven.com,modernhoney.com,mrmakeithappen.com,plainchicken.com,practicalselfreliance.com,sipandfeast.com,stellanspice.com,thecookierookie.com,thefoodcharlatan.com,tutti-dolci.com##^script:has-text(html-load.com)
 amindi.info##.fb-popup
 amindi.org##+js(acs, $, open)
-aminoporssi.fi,brytesoft.com,europesnus.com,lithub.com,nutrifitt.com,psychiatrist.com,windupwatchshop.com##.kl-private-reset-css-Xuajs1.needsclick
-aminoporssi.fi,brytesoft.com,europesnus.com,lithub.com,nutrifitt.com,psychiatrist.com,windupwatchshop.com##body:style(overflow: auto !important)
+aminoporssi.fi,brytesoft.com,europesnus.com,lithub.com,nutrifitt.com,psychiatrist.com,truegrittexturesupply.com,windupwatchshop.com##.kl-private-reset-css-Xuajs1.needsclick
+aminoporssi.fi,brytesoft.com,europesnus.com,lithub.com,nutrifitt.com,psychiatrist.com,truegrittexturesupply.com,windupwatchshop.com##body:style(overflow: auto !important)
 amitmerchant.com##.tinyletterForm
 amiunique.org##.v-snack
 amiventures.net,blog.westerndigital.com,confea.org.br,ebar.com,farooqkperogi.com,jqueryscript.net,lagruyere.ch,mieuxvivresante.fr,popmythology.com,pourquoidocteur.fr,stuttgarter-zeitung.de,theapplepost.com###toTop
@@ -5211,6 +5211,8 @@ bakecaincontrii.com##.alert.fixed-bottom
 bakerbynature.com#?#.optin:has-text(Sign Up)
 bakker.com###footerDiv
 bakusai.com##.adSection
+balbums.st##+js(prevent-window-open)
+balbums.st##[id^="__clb-spot_"]
 balcamp.pl##.config-messages
 baldursgate3.game##.ciastko
 balfesbikes.co.uk##.modular-footer-socials
@@ -7485,8 +7487,8 @@ buidlbox.io,citaalen.com,drewag.de,enso.de,sachsen-netze.de,scheels.com##+js(set
 buienalarm.be,buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerplaza.nl,weerslag.nl##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, , condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|\[0,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
 buienalarm.be,buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerplaza.nl,weerslag.nl##^script[data-cfasync="false"][nowprocket]
 buienalarm.be,buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerplaza.nl,weerslag.nl##^script[src*="html-load.com"]
-buienalarm.be,buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerslag.nl##+js(rmnt, script, ').join(String.fromCharCode')
-buienalarm.be,buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerslag.nl##^script:has-text(').join(String.fromCharCode')
+buienalarm.be,buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerslag.nl##+js(rmnt, script, /\)\.join\(String\.fromCharCode|siteActivateScripts/)
+buienalarm.be,buienalarm.nl,meteoradar.co.uk,meteox.com,niederschlagsradar.de,sat24.com,weerslag.nl##^script:has-text(/\)\.join\(String\.fromCharCode|siteActivateScripts/)
 buienradar.nl###adholderContainerHeader
 buienradar.nl##+js(set, hideBannerBlockedMessage, true)
 build.com###modal-root
@@ -14454,8 +14456,6 @@ entail.ai##+js(set-cookie, cookie_consent_status, rejected, , reload, 1)
 entdeckerviertel.at##.cc-bottom.cc-banner
 entdeckerviertel.at##.cc-window-backdrop
 entdeckerviertel.at##body,html:style(overflow: auto !important; position: initial !important;)
-enterinit.com##*::selection:style(background-color:#338FFF!important)
-enterinit.com##.bs-wrap-gdpr-law
 enternity.gr###enternity_consent
 enternity.gr##+js(trusted-replace-argument, document.getElementById, 0, json:"header", condition, /^[A-Za-z]{12}$/)
 enternity.gr##.ad_02
@@ -15495,11 +15495,12 @@ fastpic.org##[id*="footer"] a[href*="twitter.com"]
 fastpic.org##a[href="https://static.fastpic.ru/FastPicUploader.apk"]
 fastpic.org##body > footer:style(background: none !important)
 fastpic.org##main#mainContainer:style(max-width: unset !important)
-fastpic.org,~new.fastpic.org##+js(prevent-addEventListener, /click|load/, /exopop|popMagic|isTrusted/)
-fastpic.org,~new.fastpic.org##+js(prevent-addEventListener, DOMContentLoaded, /0x|popMagic/)
+fastpic.org,~new.fastpic.org##+js(abort-current-script, document.addEventListener, location.href)
+fastpic.org,~new.fastpic.org##+js(prevent-addEventListener, DOMContentLoaded, 0x)
+fastpic.org,~new.fastpic.org##+js(prevent-addEventListener, click, /0x|isTrusted/)
 fastpic.org,~new.fastpic.org##+js(prevent-window-open)
-fastpic.org,~new.fastpic.org##+js(remove-node-text, script, /ABN|adMa|atOptions|body.appendChild|generateContent|Math.floor|Math.rnd|MutationObserver|parseInt/)
-fastpic.org,~new.fastpic.org##+js(remove-node-text, style, /ex-over-top|2147483647/)
+fastpic.org,~new.fastpic.org##+js(remove-node-text, script, getElementById, includes, referrer)
+fastpic.org,~new.fastpic.org##+js(remove-node-text, style, /ex-over-top|214748364/)
 fastpic.org,~new.fastpic.org##a[href="https://static.fastpic.ru/FastPicUploader.apk"]:remove-attr(target)
 fastream.to##+js(aopr, afScript)
 fastt.gg###startDownload
@@ -18201,6 +18202,7 @@ gemeinsam-klasse-sein.de,tk.de##body,html:style(overflow: auto !important; posit
 gemfellowship.org##+js(rmnt, script, TextDecoder)
 gemini.google.com##.cdk-overlay-container:has(.get-app-mobile-dialog)
 gemini.google.com##.get-app-banner
+gemini.google.com##[aria-label="Опрос"]
 gemini.pl###modal-cookies
 gemoo.com###dummyid20
 gemu-group.com###notification
@@ -26637,9 +26639,9 @@ m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-p
 m.youtube.com,www.youtube.com,youtube-nocookie.com##.ytp-ce-playlist
 m.youtube.com,www.youtube.com,youtube-nocookie.com##.ytp-pause-overlay
 m1000xrforum.com,m109riders.com,m14forum.com,m5board.com,macanforum.com,macheclub.com,magnetoforum.com,magnumforumz.com,mainehuntingforums.com,majestyusa.com,manitobafishingforum.com,manitobahuntingforum.com,manutdtalk.com,marlinforum.com,marlinowners.com,marutisuzukiforum.com,maseratilevanteforum.com,maseratilife.com,masscops.com,maverickchat.com,maverickforums.net,mavericklightning.org,mazda2revolution.com,mazda3forums.com,mazda3revolution.com,mazda6club.com,mazdaworld.org,mbeqclub.com,mclarenlife.com,mdxers.org,medstudentz.com,meganesport.net,menstennisforums.com,mercedescla.org,mercedesclaforum.com,mercedesgleforum.com,mercurycougar.net,metalguitarist.org,metrisforum.com,mg-rover.org,mgzrownersclub.co.uk,michigan-sportsman.com,michiganreefers.com,microskiff.com,midwest-horse.com,migweb.co.uk,millwrighttalk.com,mini2.com,minievforum.com,minif56.com,minif66.com,minitorque.com,missouriwhitetails.com,mitsubishi-forums.com,mkcforum.com,mkzforum.com,mmaforum.com,moddedmustangs.com,moddedraptor.com,model2.org,modelrailforum.com,modeltrainforum.com,moderncamaro.com,modularfords.com,mokkaownersclub.co.uk,mondeostoc.com,morels.com,mothering.com,motorcycleforum.com,motorcycleforums.net,motorcycletherapy.net,motorgeek.com,motorhomefacts.com,motorsportsracingtalk.com,mountainbuzz.com,mp-pistol.com,mr2oc.com,msgo.com,mtbr.com,mudinmyblood.net,mullenowners.com,muscularmustangs.com,mustangecoboost.net,mustangevolution.com,mvagusta.net,mx30forum.com,mx5life.com,mx5nutz.com,mx6.com,my.is,myaudiq5.com,mybikeforums.com,myfastgti.com,myjeepcompass.com,mylargescale.com,mylawnmowerforum.com,mymbonline.com,mytiguan.com,mytractorforum.com,mytreg.com,myturbodiesel.com##+js(rmnt, script, html-load.com)
-m1xdrop.*,m1xdrop.com,m1xdrop.net,md3b0j6hj.com,mdbekjwqa.pw,mdfx9dc8n.net,mdzsmutpcvykb.net,miixdrop.net,miiixdrop.net,miiiixdrop.net,miiiiixdrop.net,mixdroop.*,mixdrop.*,mixdrop21.net,mixdrop23.net,mixdropjmk.pw,mixdrp.*##+js(nowoif)
-m1xdrop.*,m1xdrop.com,m1xdrop.net,md3b0j6hj.com,mdbekjwqa.pw,mdfx9dc8n.net,miixdrop.net,miiixdrop.net,miiiixdrop.net,miiiiixdrop.net,mixdrop23.net,mixdroop.*,mixdrop.*,mixdrop21.net,mixdrop23.net,mixdropjmk.pw,mixdrp.*##body > div[style^="position: absolute;"][style*="z-index"]
-m1xdrop.*,m1xdrop.com,m1xdrop.net,md3b0j6hj.com,mdfx9dc8n.net,mdzsmutpcvykb.net,miixdrop.net,miiixdrop.net,miiiixdrop.net,miiiiixdrop.net,mixdrop21.net,mixdrop23.net,mixdropjmk.pw##+js(rmnt, script, /h=decodeURIComponent|popundersPerIP|dtnoppu|adserverDomain/)
+m1xdrop.*,m1xdrop.com,m1xdrop.net,md3b0j6hj.com,mdbekjwqa.pw,mdfx9dc8n.net,mdzsmutpcvykb.net,miixdrop.com,miixdrop.net,miiixdrop.com,miiixdrop.net,miiiixdrop.net,miiiiixdrop.net,mixdroop.*,mixdrop.*,mixdrop21.net,mixdrop23.net,mixdropjmk.pw,mixdrp.*##+js(nowoif)
+m1xdrop.*,m1xdrop.com,m1xdrop.net,md3b0j6hj.com,mdbekjwqa.pw,mdfx9dc8n.net,miixdrop.com,miixdrop.net,miiixdrop.com,miiixdrop.net,miiiixdrop.net,miiiiixdrop.net,mixdrop23.net,mixdroop.*,mixdrop.*,mixdrop21.net,mixdrop23.net,mixdropjmk.pw,mixdrp.*##body > div[style^="position: absolute;"][style*="z-index"]
+m1xdrop.*,m1xdrop.com,m1xdrop.net,md3b0j6hj.com,mdfx9dc8n.net,mdzsmutpcvykb.net,miixdrop.com,miixdrop.net,miiixdrop.com,miiixdrop.net,miiiixdrop.net,miiiiixdrop.net,mixdrop21.net,mixdrop23.net,mixdropjmk.pw##+js(rmnt, script, /h=decodeURIComponent|popundersPerIP|dtnoppu|adserverDomain/)
 m24.ru##+js(set-constant, player_options.autoplay, false)
 m24.ru##.b-matierial__tg
 m24.ru##.b-services-menu-footer
@@ -27718,6 +27720,7 @@ medievalists.net##.widget-title:has-text(Adv)
 medihelp.life##+js(aopw, ai_adb_overlay)
 medischcontact.nl##.cc-popup
 medium.com##+js(aeld, scroll)
+medium.com##.am.j:has(> .e.bv)
 medizinfuchs.at##.ConsentHint
 medizzine.com##.alerta
 medlibrary.org###cks
@@ -28895,7 +28898,7 @@ monzo.com###___gatsby div[class*="Alert-module"]
 mooc.chaoxing.com##+js(aeld, beforepaste)
 mooiedeal.nl###cbar
 moonline.*###clickfakeplayer
-moonlock.com##.subscribe-banner
+moonlock.com,vanguard.com##.subscribe-banner
 moonpalacecancun.com##.footer-newsletter__form
 moonpalacecancun.com#@#.footer-newsletter
 moonpig.com###__next > div:not([data-testid]):first-child
@@ -33483,6 +33486,7 @@ pikabu.ru##.stories-feed__container > .story[data-author-name] ~ .story:not([dat
 pikabu.ru##.story-block_type_text > p > a[href^="https://t.me/"]
 pikabu.ru##:not(.auth__footer) > .social-icon
 pikabu.ru##^script:has-text(addPlaceholder)
+pikabu.ru##article:not([data-author-name="PikabuGames"]) ~ article[data-author-name="PikabuGames"]
 pikabu.ru##div[class*="page-story"][class*="ments"] div:style(min-height: 0 !important)
 pikabu.ru##header > .header__main:style(background-color: var(--color--header__bg) !important)
 pikabu.ru##img[alt="Facebook"]:not([data-large-image]):not([data-viewable])
@@ -34483,6 +34487,7 @@ pornomico.com##.vjs-overlay
 pornomoll.*##+js(aeld, , _blank)
 pornomoll.*##+js(nostif, innerText, 2000)
 pornone.com##+js(acs, $, adblock)
+pornone.com##.vjs-info-top
 pornone.com##.vjs-paused > .warp
 pornone.com##a[href*="//prtord.com/"]
 pornoplum.com,vulgarmilf.com,oldgirlsporn.com,maturell.com,nakedolders.com,widewifes.com##iframe:upward(2)
@@ -41646,6 +41651,9 @@ taylorfrancis.com###openShare
 taylorfrancis.com##.show-scroll-to-top
 taylorswift.com##.custom-mailing-list
 tayyar.org###popUpModelID
+taz.de###tzi-paywahl-fg
+taz.de##.shariff-wrapper
+taz.de##.tzi-bottom-container
 tbdailynews.com##[id^="custom_html"]
 tbib.org##+js(aopr, document.dispatchEvent)
 tbs-aachen.de##.new_cooky_layer
@@ -42592,6 +42600,7 @@ theguardian.com##div > gu-island[name="ShareButton"]
 theguardian.com##div[data-island="cookie-banner"], #cmpContainer, body > #cmp, #bottom-banner, div[x-data*="showCookieBanner"]
 theguardian.com#?#.dcr-1mt0mpc:has-text(Sign up)
 theguardian.com#?#.dcr-4gwv1z > ul:has-text(Get our)
+theguardian.com#?#[data-spacefinder-role="inline"]:has-text(Sign up)
 theguardian.com#?#[data-testid="contributions-liveblog-epic"]:has-text(daily newsletter)
 theguardian.com.##div[data-island="cookie-banner"], #cmpContainer, body > #cmp, #bottom-banner, div[x-data*="showCookieBanner"]
 thehackernews.com##+js(rmnt, script, imgSrc)
@@ -45676,6 +45685,7 @@ vandaaginside.nl##+js(no-xhr-if, /ad/)
 vandalism-sounds.com##+js(set-cookie, user_allowed_save_cookie, true)
 vandemoortel.de##+js(set-cookie, cookieConsent_given, , reload, 1)
 vanderpoelmontage.nl##.cookie-settings
+vanguard.com##.articleSubscriptionFooter
 vanillatweaks.net##+js(nano-sib, downloadTimer)
 vanillatweaks.net##.banner-spot
 vanlifecampers.com##+js(remove-class, body, cmplz-banner-active)
@@ -47293,10 +47303,9 @@ web.de##div[data-service-slot-initialized]
 web.de#@#.ad
 web.facebook.com,www.facebook.com###seo_pivots ~ div > div[style^="max-width"] > div[class] > div[style^="max-width"]:has(a[href^="/ads/about/?"])
 web.facebook.com,www.facebook.com##+js(json-edit, ..data.viewer..nodes.*[?.__typename=="AdsSideFeedUnit"])
-web.facebook.com,www.facebook.com##+js(json-edit, ..edges..node[?.*.__typename=="SponsoredData"])
+web.facebook.com,www.facebook.com##+js(json-edit, ..node[?.*.__typename=="SponsoredData"])
 web.facebook.com,www.facebook.com##+js(json-edit, ..node[?.__typename=="MarketplaceFeedAdStory"])
 web.facebook.com,www.facebook.com##+js(json-edit, ..nodes.*[?.sponsored_data])
-web.facebook.com,www.facebook.com##+js(json-edit, .require..node[?.*.__typename=="SponsoredData"])
 web.facebook.com,www.facebook.com##+js(json-prune, require.0.3.0.__bbox.require.[].3.1.__bbox.result.data.marketplace_search.feed_units.edges.[-].node.story.sponsored_data.ad_id)
 web.facebook.com,www.facebook.com##+js(json-prune, require.0.3.0.__bbox.require.[].3.1.__bbox.result.data.node, require.0.3.0.__bbox.require.[].3.1.__bbox.result.data.node.story.sponsored_data.ad_id)
 web.facebook.com,www.facebook.com##+js(json-prune, require.0.3.0.__bbox.require.[].3.1.__bbox.result.data.serpResponse.results.edges.[-].relay_rendering_strategy.view_model.story.sponsored_data.ad_id)
@@ -47309,20 +47318,35 @@ web.facebook.com,www.facebook.com##+js(jsonl-edit-xhr-response, ..node[?.*.__typ
 web.facebook.com,www.facebook.com##+js(jsonl-edit-xhr-response, ..node[?.__typename=="MarketplaceFeedAdStory"], propsToMatch, /graphql)
 web.facebook.com,www.facebook.com##+js(jsonl-edit-xhr-response, .data.viewer.news_feed.edges.*[?.category=="SPONSORED"].node, propsToMatch, /graphql)
 web.facebook.com,www.facebook.com##+js(jsonl-edit-xhr-response, .data[?.category=="SPONSORED"].node, propsToMatch, /graphql)
+web.facebook.com,www.facebook.com##+js(rpnt, script, '/"[a-z0-9]{8}":true,/g', , condition, compat_iframe_token)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.after, Function.prototype.toString)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.after, JSON.parse)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.after, Object.getOwnPropertyDescriptor)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.after, XMLHttpRequest.prototype)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.append, Function.prototype.toString)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.append, JSON.parse)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.append, Object.getOwnPropertyDescriptor)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.append, XMLHttpRequest.prototype)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.before, Function.prototype.toString)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.before, JSON.parse)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.before, Object.getOwnPropertyDescriptor)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.before, XMLHttpRequest.prototype)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.insertAdjacentElement, Function.prototype.toString)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.insertAdjacentElement, JSON.parse)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.insertAdjacentElement, Object.getOwnPropertyDescriptor)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.insertAdjacentElement, XMLHttpRequest.prototype)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.prepend, Function.prototype.toString)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.prepend, JSON.parse)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.prepend, Object.getOwnPropertyDescriptor)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Element.prototype.prepend, XMLHttpRequest.prototype)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, Function.prototype.toString)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, JSON.parse)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, Object.getOwnPropertyDescriptor)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, XMLHttpRequest.prototype)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Node.prototype.insertBefore, Function.prototype.toString)
 web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Node.prototype.insertBefore, JSON.parse)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Node.prototype.insertBefore, Object.getOwnPropertyDescriptor)
+web.facebook.com,www.facebook.com##+js(trusted-prevent-dom-bypass, Node.prototype.insertBefore, XMLHttpRequest.prototype)
 web.facebook.com,www.facebook.com##+js(trusted-replace-xhr-response, '/,"category_sensitive"[^\n]+?"follow_button":\{"__typename":"CometFeedStoryFollowButtonStrategy"[^\n]+"cursor":"[^"]+"\}/g', }, /api/graphql)
 web.facebook.com,www.facebook.com##+js(trusted-replace-xhr-response, /\{"node":\{"__typename":"MarketplaceFeedAdStory"[^\n]+?"cursor":(?:null|"\{[^\n]+?\}"|[^\n]+?MarketplaceSearchFeedStoriesEdge")\}/g, {}, /api/graphql)
 web.facebook.com,www.facebook.com##+js(trusted-replace-xhr-response, /\{"node":\{"__typename":"VideoHomeFeedUnitSectionComponent"[^\n]+?"sponsored_data":\{"ad_id"[^\n]+?"cursor":null\}/, {}, /api/graphql)
