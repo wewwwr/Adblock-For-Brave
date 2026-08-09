@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-08-08 04:13:11
-! Косметических правил: 50939
+! Updated: 2026-08-09 04:20:31
+! Косметических правил: 50937
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -994,7 +994,7 @@
 6hiidude.gold##+js(acs, document.documentElement, break;case $.)
 6hiidude.gold##+js(href-sanitizer, a[href^="https://cdns.6hiidude.gold/file.php?link=http"], ?link)
 6hiidude.gold##p > a[href*="/4/"][target="_blank"]
-6indianporn.com,amateurebonypics.com,amateuryoungpics.com,amigosporn.top,cinemabg.net,desimmshd.com,everia.club,frauporno.com,givemeaporn.com,hitomi.la,jav-asia.top,javfull.net,javideo.net,javsunday.com,kr18plus.com,luscious.net,missavtv.com,pdftoshokan.com,picbaron.com,pilibook.com,pornborne.com,porngrey.com,pornktube.*,pornx.tube,qqxnxx.com,sexvideos.host,submilf.com,subtaboo.com,watchseries.*,xfrenchies.com##+js(aeld, , popMagic)
+6indianporn.com,amateurebonypics.com,amateuryoungpics.com,amigosporn.top,cinemabg.net,desimmshd.com,everia.club,frauporno.com,givemeaporn.com,hitomi.la,jav-asia.top,javfull.net,javideo.net,javsunday.com,kr18plus.com,luscious.net,missavtv.com,picbaron.com,pilibook.com,pornborne.com,porngrey.com,pornktube.*,pornx.tube,qqxnxx.com,sexvideos.host,submilf.com,subtaboo.com,watchseries.*,xfrenchies.com##+js(aeld, , popMagic)
 6sqft.com##.article-subscription-form
 6sqft.com,alhayat.tv,alquds.co.uk,augustman.com,brighteon.com,cgsociety.org,cityam.com,hagerty.co.uk,healthboards.com,infosecurity-magazine.com,lifestyleasia.com,livejournal.com,news.bg##.subscription
 6sqft.com,sunrisegeek.com##.exit-intent-popup
@@ -3909,7 +3909,6 @@ architecture.com##.info-bar
 archiup.com##+js(set-local-storage-item, cookiePolicyAccepted, yes)
 archive.fo,archive.is,archive.li,archive.md,archive.ph,archive.today,archive.vn,btdig.com##+js(nosiif, fetch)
 archive.org###donate_banner
-archive.org##.js-donate-banner
 archivebate.com##+js(acs, decodeURI, decodeURIComponent)
 archivebate.com##+js(no-fetch-if, googlesyndication)
 archiveofourown.org#@##social_media
@@ -9320,15 +9319,11 @@ clickorlando.com##+js(set-cookie, bitmovin_analytics_uuid, OK)
 clickscoin.com##.d-sm-block.d-none
 client.falixnodes.net###takeover[style="min-height: 250px;"]
 client.falixnodes.net##+js(nosiif, /lovelylovely|veryveryplease|click\(\)|MouseEvent|dispatchEvent/)
-client.falixnodes.net##+js(nostif, )}}}})
 client.falixnodes.net##+js(nostif, /lovelylovely|veryveryplease|click\(\)|MouseEvent|dispatchEvent/)
-client.falixnodes.net##+js(nostif, ]/*)
-client.falixnodes.net##+js(nostif, ]])!==)
-client.falixnodes.net##+js(nostif, }/*)
-client.falixnodes.net##+js(rmnt, script, /\=arguments\;if\(typeof /)
+client.falixnodes.net##+js(rmnt, script, /\=\(\[\]\+\[\]\)\[\(/)
 client.falixnodes.net##+js(rpnt, script, /googletag\.pubads\(\)\.addEventListener.*rewardedSlot\)\;\s+\}\);\s+\}/s)
 client.falixnodes.net##+js(rpnt, script, /window\.googletag.*?enableServices\(\)\;/s)
-client.falixnodes.net##^script:has-text(/\=arguments\;if\(typeof /)
+client.falixnodes.net##^script:has-text(/\=\(\[\]\+\[\]\)\[\(/)
 client.falixnodes.net##h6.text-muted:has-text(Advertisement)
 client.pylexnodes.net##+js(rmnt, script, onerror)
 client.pylexnodes.net##.ad-banner-square
@@ -9882,6 +9877,7 @@ commonwealmagazine.org##+js(remove-cookie, Drupal_visitor_paywall)
 commonwealmagazine.org,countryroadsmagazine.com,processengineering.co.uk##.ub-emb-container
 commonwealmagazine.org,foxnews.com,outkick.com##.item-newsletter
 commsec.com.au##.announcements
+community-scripts.org#@#+js(prevent-clipboard-write, /^mshta |^(bash <<<|curl -kfsSL) \$\(echo\b.+?base64 -d\b|^cmd \/c\b.+?\bcurl .+?(\.exe|\.bat)\b|^cmd\b.+?\bfor \/f\b.+?\bdelims\b.+?\bpow\b|^powershell.+?-w(indowStyle)? h(idden)?\b|^powershell.+?-W H(idden)?\b|^powershell.+?-NoP\b|^powershell.+?-ep bypass\b|^powershell.+?-EP (B|U)\b|^powershell.+?-ExecutionPolicy (Bypass|Unrestricted)|\\PowerShell\.exe.+?-ep bypass\b|powershell.+?\biex\(|powershell.+?Invoke-Expression|powershell.+?Invoke-WebRequest|powershell.+?-UseBasicParsing|\biwr\b.+?-OutFile\b.+?\$env:(TEMP|TMP)\b|\$env:(TEMP|TMP)\b[\/\\].+?\.(exe|bat|ps1|cmd|vbs)\b|\bstart \$env:(TEMP|TMP)\b|%LOCALAPPDATA%\\.+?\.(exe|bat|ps1|cmd|vbs)\b|%APPDATA%\\.+?\.(exe|bat|ps1|cmd|vbs)\b|\[Convert\]::FromBase64String|\[Text\.Encoding\]::UTF8\.GetString|\btry\b\s*\{\s*\birm\b.+?\}\s*\bcatch\b.+?\{\s*\biex\b|Add-Type -As System\.Windows\.Forms|Windows\.Forms\.MessageBox|\bcmd.+?\/c.+?-nop\b.+?\biex\(|\b(cmd|powershell)\b.+?recaptcha|\b(cmd|powershell)\b.+?#(Verification|   )|\b(cmd|powershell)\b.+?   #|^osascript |^curl -s\b.+?\| (bash|sh|zsh)\b|^\/bin\/(bash|sh|zsh) -c\b.+?\bcurl|^bash -c\b.+?\$\(curl|^python3? -c\b.+?\b(exec|urllib|subprocess)\b|^echo\b.+?base64 (--decode|-D|-d)\b.+?\| (bash|sh)\b|openssl base64 -d|chmod \+x.+?&&|\b(bash|sh|osascript)\b.+?recaptcha|\b(bash|sh|osascript)\b.+?#(Verification|   )|\b(bash|sh|osascript)\b.+?   #|^wget .+?\| (bash|sh)\b|^curl\b.+?-o\b.+?\/tmp\/.+?&&|^nc .+?-e \/bin\/(bash|sh)\b|\/tmp\/.+?chmod \+x.+?&&|\b(apt(-get)?|dpkg)\b .+?http|^wget -q.+?\.(sh|py|bin|elf)\b|C:\\Windows\\system32\\cmd\.exe.+?powershell/msi, domAlert, Copy-paste blocked - 📋🛇❗ ${text})
 community.creative-assembly.com##+js(set-cookie, consent_cookies, 1)
 community.firstinspires.org##.cblog-prefooter
 community.firstinspires.org##.topic-share-container
@@ -15498,7 +15494,7 @@ fastpic.org##.nav-link[href="/donate"]
 fastpic.org##[id*="footer"] a[href*="twitter.com"]
 fastpic.org##a[href="https://static.fastpic.ru/FastPicUploader.apk"]
 fastpic.org##body > footer:style(background: none !important)
-fastpic.org,~new.fastpic.org##+js(abort-current-script, document.documentElement, Date.now)
+fastpic.org,~new.fastpic.org##+js(abort-current-script, document.documentElement, VIDEO)
 fastpic.org,~new.fastpic.org##+js(prevent-addEventListener, DOMContentLoaded, 0x)
 fastpic.org,~new.fastpic.org##+js(prevent-addEventListener, click, '', elements, html)
 fastpic.org,~new.fastpic.org##+js(prevent-addEventListener, click, /0x|isTrusted/)
@@ -22820,7 +22816,7 @@ jajco.pl##div[id*="cookies-notification"]
 jakondo.ru##+js(set, HTMLScriptElement.prototype.onerror, undefined)
 jakondo.ru##.header__buttons > a[target="_blank"]
 jakondo.ru##.sidebar__item_donation
-jaktsidan.se,janamathaya.lk,japannihon.com,javboys.*,javcock.com,javgay.com,javx357.com,jcutrer.com,jk-market.com,jobsbd.xyz,jobsibe.com,jobslampung.net,josemo.com,jra.jpn.org,jrlinks.in,jungyun.net,juninhoscripts.com.br,juventusfc.hu##+js(noeval-if, /chp_?ad/)
+jaktsidan.se,janamathaya.lk,japannihon.com,javboys.*,javcock.com,javgay.com,javgg.me,javx357.com,jcutrer.com,jk-market.com,jobsbd.xyz,jobsibe.com,jobslampung.net,josemo.com,jra.jpn.org,jrlinks.in,jungyun.net,juninhoscripts.com.br,juventusfc.hu##+js(noeval-if, /chp_?ad/)
 jal.co.jp###JS_ciBox, #JS_ciBox_filter, #JS_ciBox_filter_iframe
 jal.com###JS_ciBox, #JS_ciBox_filter, #JS_ciBox_filter_iframe, #JS_ciBox_style
 jalopnik.com,kotaku.com,qz.com##.js_qz_newsletter_signup_placeholder
@@ -32485,11 +32481,11 @@ outidesigoto.com##+js(acs, document.oncontextmenu)
 outl1.se##footer ~ div:not([style*="fixed"])
 outletarredamento.it#@#.ad-link:not(.adsbox)
 outlook.live.com###MainModule + div[class] > div[style^="width"] > div > i[data-icon-name="OutlookLogo"]:upward(3)
+outlook.live.com##+js(set, Object.prototype.showNativeAdFormat, 0)
 outlook.live.com##.Ogt7j
 outlook.live.com##div[class][tabindex="-1"][role=region][aria-label][data-min-width][data-max-width] ~ div[class][data-max-width="2400"] + div[class]
 outlook.live.com##div[tabindex][role="region"][aria-label] > div + div > div > .ms-FocusZone ~ div[class]:not([role]) > button
 outlook.live.com##div[tabindex][role="region"][aria-label] ~ div[data-max-width][class] + div[class^="_3_"]
-outlook.live.com##main > div[style] .vPfg_:has(.wOYnU) ~ *:style(transform: translateY(-80px) !important)
 outlookindia.com##.nav-socials
 outlookindia.com##.rm-social-share
 outlooktraveller.com##.arr--share-sticky-wrapper
@@ -33027,6 +33023,8 @@ pdfaid.com##+js(nostif, offsetHeight)
 pdfdrive.to##+js(trusted-override-element-method, HTMLElement.prototype.click, [href^="https://whulsaux.com"])
 pdfdrive.to##+js(trusted-set-local-storage-item, pdadsLastClosed, $now$)
 pdfindir.net##+js(aeld, , _0x)
+pdftoshokan.com##+js(aeld, , /exoJsPop|venor\.php|document\.location\.protocol/)
+pdftoshokan.com##^script:has-text(/adConfig|preparePop|\/popunder1000/)
 peachify.top##+js(aeld, click, atob)
 peachnewmedia.com##.ui-widget-overlay
 peachprintable.com###popID
@@ -39646,7 +39644,7 @@ solidaris-wallonie.be##+js(set-cookie, hide-cookie-banner, true)
 solidbank.ru##.topTextBar
 solidfiles.com##.remove
 solidwoodendoors.com###myModalCookies, .modal-backdrop
-solispia.com##+js(trusted-rpnt, script, /document\.addEventListener\('DOMContentLoaded'\, function[\S\s]+?(const novelId\s*=\s*\d+;\s*const targetUrl\s*=.+?\d+";)[\S\s]+?verifying = true;\s*(try \{[\S\s]+?ad_meta:)[\S\s]+?CMの準備中です...'\);\s*.*?\s*(try \{\s*[\S\s]+?catch\s*\(\w*\)\s*\{)[\S\s]*/, document.addEventListener('DOMContentLoaded'\, async function(){$1 const sleep=ms=>new Promise(resolve=>setTimeout(resolve\,ms));$3 return;}await sleep(5000+Math.floor(Math.random()*3000));$2 {"type":"reward"\,"amount": 2}})});if(!res.ok)throw res.status;const j=await res.json().catch(()=>null);if(j&&j.ok){window.location.href=targetUrl;}}catch(e){}}))
+solispia.com##+js(trusted-rpnt, script, /document\.addEventListener\('DOMContentLoaded'\, function[\S\s]+?const novelId\s*=\s*(\d+);\s*const targetUrl\s*=.+?novel\\\/\d+";\s*const backToTitle[\S\s]+?SolispiaRewardedAdGate\.init\(\{\s*cancelUrl: backToTitle[\S\s]+/, !async function(){const e=$1\,t=`https://solispia.com/novel/${e}`\,o=document.querySelector('meta[name="csrf-token"]')?.getAttribute("content")||"";try{const a=await fetch(`/api/ad/rewarded/start/${e}`\,{method:"POST"\,headers:{"Content-Type":"application/json"\,"X-CSRF-TOKEN":o\,"X-Requested-With":"XMLHttpRequest"}\,body:JSON.stringify({})})\,i=await a.json();if(!i?.ok)return;await(n=5e3+Math.floor(1e3*Math.random())+500\,new Promise((e=>setTimeout(e\,n))));const d=await fetch("/api/ad/rewarded/complete"\,{method:"POST"\,headers:{"Content-Type":"application/json"\,"X-CSRF-TOKEN":o\,"X-Requested-With":"XMLHttpRequest"}\,body:JSON.stringify({challenge_id:i.challenge_id\,unlock_token:i.unlock_token\,event_key:i.event_key\,novel_id:e\,ad_meta:{}})})\,s=await d.json();s?.ok&&(window.location.href=t)}catch(e){}var n}();)
 soliver.de##.asf-newsletter
 solmax.com##._bloc_cookies
 solo.io##+js(set-cookie, solo_opt_in, false)
