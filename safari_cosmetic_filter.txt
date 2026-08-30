@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-08-29 09:51:53
-! Косметических правил: 51240
+! Updated: 2026-08-30 09:02:53
+! Косметических правил: 51254
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -1656,7 +1656,10 @@ adfoc.us##+js(set, count, 0)
 adguard-dns.io,adguard-mail.com,adguard-vpn.com,adguard.com##.annoyance
 adguard.com##.theme-back-to-top-button
 adhs-zentrum.de###babasbmsgx
-adhs-zentrum.de##+js(rmnt, script, .onerror)
+adhs-zentrum.de##+js(no-xhr-if, method:POST body:/"track"|adblock/)
+adhs-zentrum.de##+js(nostif, /Werbeblocker|refresh\\/)
+adhs-zentrum.de##+js(prevent-navigation, /werbeblocker/i)
+adhs-zentrum.de##+js(set, cwAdblockDisabled, true)
 adhs-zentrum.de##.adsbygoogle
 adhs-zentrum.de##div.box:has(.adsbygoogle)
 adictox.com##+js(aopr, popns)
@@ -5100,6 +5103,7 @@ azscore.com,bescore.com##.pwa-popup__wrapper
 azscore.com.br##.google-news__block
 aztravels.net,downfile.site,memangbau.com,trangchu.news##+js(acs, document.addEventListener, onkeydown)
 aztravels.net,downfile.site,memangbau.com,trangchu.news##+js(ra, oncontextmenu, body)
+azurefd.net,azurestaticapps.net,ondigitalocean.app,web.core.windows.net###frame[title="encrypted shop"][allowfullscreen][src^="blob:https"][style="display: block;"]
 azurefd.net,azurestaticapps.net,ondigitalocean.app,web.core.windows.net##body#mycanvas.map[style="cursor:none"]
 azuremagazine.com##.flyout
 azurewebsites.net###legal-info
@@ -7350,7 +7354,7 @@ brixtonbrewery.com##+js(set-cookie, age-gate, true)
 brk.de###zcookie
 broadbandspeedtest.org.uk##.cm-wrapper
 broadcast.net.ua##.sp-column > footer
-broadcastnews.gr,chipsandcheese.com,chipwits.com,consummateathlete.com,europeantimes.news,exputer.com,logitheque.com,mixed-news.com,notionthings.com,phonandroid.com,portalpuentealto.cl,pstribune.com,sardiniapost.it,scienceclock.com,slaynews.com,tech4gamers.com,thedesk.net,theklaxon.com.au,tomshardware.fr##.mailpoet_form
+broadcastnews.gr,chipsandcheese.com,chipwits.com,consummateathlete.com,europeantimes.news,exputer.com,hedgenordic.com,logitheque.com,mixed-news.com,notionthings.com,phonandroid.com,portalpuentealto.cl,pstribune.com,sardiniapost.it,scienceclock.com,slaynews.com,tech4gamers.com,thedesk.net,theklaxon.com.au,tomshardware.fr##.mailpoet_form
 broadcom.com##.ribbon-wrapper
 broadleyautomotive.co.uk###esc-wrapper
 broadnet.no###toast, .toast
@@ -9642,7 +9646,8 @@ cnn.com##.social-share_labelled-list
 cnn.com##.toast-popup
 cnn.com##html:style(overflow: auto !important; position: initial !important;)
 cnn.com#@#.OUTBRAIN
-cnn.com,play.hbomax.com##+js(no-xhr-if, brightline.tv)
+cnn.com,play.discoveryplus.com,play.hbomax.com##+js(no-fetch-if, litix.io)
+cnn.com,play.discoveryplus.com,play.hbomax.com##+js(no-xhr-if, brightline.tv)
 cnn59.com##.sharepost
 cnnamador.com##+js(aeld, , pop)
 cnnamador.com##+js(aeld, /^(click|mousedown|mousemove|touchstart|touchend|touchmove)/, system.popunder)
@@ -15620,7 +15625,7 @@ fastpic.org##body > footer:style(background: none !important)
 fastpic.org,~new.fastpic.org##+js(prevent-addEventListener, DOMContentLoaded, 0x)
 fastpic.org,~new.fastpic.org##+js(prevent-addEventListener, click, '', elements, html)
 fastpic.org,~new.fastpic.org##+js(prevent-window-open)
-fastpic.org,~new.fastpic.org##+js(remove-node-text, script, )};)
+fastpic.org,~new.fastpic.org##+js(remove-node-text, script, 'return;try')
 fastpic.org,~new.fastpic.org##+js(remove-node-text, script, /0\,window|a0_0x|ad-provider|AdProvider|adManager|atOptions|disconnect|document\,window|globalThis|isTrusted|parentNode\.removeChild|Math\.random|MAX_CLICKS|setTimeout/)
 fastpic.org,~new.fastpic.org##+js(remove-node-text, script, getElementById, includes, referrer)
 fastpic.org,~new.fastpic.org##+js(remove-node-text, style, /divExo|ex-over-top|214748364/)
@@ -15628,6 +15633,8 @@ fastpic.org,~new.fastpic.org##+js(set-constant, document.documentElement.onclick
 fastpic.org,~new.fastpic.org##^a > script:not(:last-child)
 fastpic.org,~new.fastpic.org##a[href*="/fullview/"] > img[src*="/preview/"]:style(clip-path: inset(0 0 38px 0) !important)
 fastpic.org,~new.fastpic.org##a[href="https://static.fastpic.ru/FastPicUploader.apk"]:remove-attr(target)
+fastpic.org/fullview##+js(abort-on-property-read, document.body.appendChild)
+fastpic.org/view##+js(abort-on-property-read, document.body.appendChild)
 fastream.to##+js(aopr, afScript)
 fastt.gg###startDownload
 fastt.gg##+js(nano-sib, countdown, 1000)
@@ -22766,11 +22773,14 @@ istotne.pl##.notification
 istpravda.com.ua##.top_options__item_support
 ists.pl##.polityka
 isybank.com##.cookie-modal, .modal-backdrop
+it-actual.*##+js(remove-node-text, #text, /Пожертвование сайту IT-Actual.ru|cбор пожертвований осуществляется через сервис/)
 it-actual.ru###content > article ~ :not(article):not(.zap):not(#comments):not(#nav-below)
+it-actual.ru###page > footer > div
 it-actual.ru##+js(abort-on-property-read, onload)
 it-actual.ru##.entry-content > [class*=" "][style="text-align: center;"]
 it-actual.ru##.fltext:style(background: none !important; position: unset !important)
 it-actual.ru##.widget-area [href*="sub_confirmation"]
+it-actual.ru##.zap:not(.add)
 it-actual.ru##[class="widget_f widget__scr_lp"]
 it-actual.ru##article > footer > div[class]:not(.post-ratings)
 it-boltwise.de##.footer-subscribe
@@ -25632,6 +25642,7 @@ libertex.com##.disclaimer__item.center-md
 liberties.eu##.gdpr-window
 libertycity.net##+js(nano-sib, timer)
 libertycity.net,libertycity.ru##.dsc
+libertycity.net,libertycity.ru##body > div[class]:not([id]):not([style]):style(background-image: none !important)
 libertycity.net,libertycity.ru,vgtimes.com,vgtimes.ru###lg-share
 libertycity.net,libertycity.ru,vgtimes.com,vgtimes.ru###mobileon
 libertycity.net,libertycity.ru,vgtimes.com,vgtimes.ru##+js(set-cookie, is_mobile, no, , reload, 1)
@@ -32108,6 +32119,7 @@ ondemandkorea.com##.player_overlay.banner
 onderdelenlijn.nl##.cookies
 onderlingenederland.nl##+js(set-cookie, .OG.Consent, no, , reload, 1)
 onderwijsvacaturebank.nl##+js(set-cookie, enablecookie, false, , reload, 1)
+ondigitalocean.app##+js(aeld, mousemove, loadSecret)
 one-insurance.com##.one-c-privacy
 one.ua##.alert-secondary
 one.ua##.newl-link
@@ -35609,7 +35621,7 @@ pvpoke-re.com##+js(trusted-create-html, body, <ins class="adsbygoogle adsbygoogl
 pvpoke-re.com##+js(trusted-create-html, body:not(:has(.nitro-side)) .adsbygoogle.nitro-banner, <div id="aswift_2_host" style="height: 200px; width: 375px;"><iframe allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3497863494706299&output=html&h=200&slotname=6680952607&adk=4248706971&adf=1899679831&pi=t.ma~as.6680952607&w=375&fwrn=1&fwrnh=100&lmt=1774683138&rafmt=1&format=375x200&url=https%3A%2F%2Fpvpoke-re.com%2F&fwr=0&fwrattr=false&rpe=1&resp_fmts=3&wgl=1&aieuf=1&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTQwLjAuNzMzOS4xMjciLG51bGwsMCxudWxsLCI2NCIsW1siQ2hyb21pdW0iLCIxNDAuMC43MzM5LjEyNyJdLFsiTm90PUE_QnJhbmQiLCIyNC4wLjAuMCJdLFsiR29vZ2xlIENocm9tZSIsIjE0MC4wLjczMzkuMTI3Il1dLDBd&abgtt=6&dt=1774683138242&bpp=5&bdt=33&idt=72&shv=r20250910&mjsv=m202509090101&ptt=9&saldr=aa&abxe=1&cookie=ID%3D35db51e402241c7b%3AT%3D1774686653%3ART%3D1774682653%3AS%3DALNI_MbnVRGWXkXajb5S2bXCJFc9D5-xTA&gpic=UID%3D000112318401a2df%3AT%3D1774682653%3ART%3D1774682653%3AS%3DALNI_MaHxVE8eSgg6mpAF-VzNxnGNjlDdg&eo_id_str=ID%3D7f635cbbed20cef5%3AT%3D1774682653%3ART%3D1774682653%3AS%3DAA-AfjZk7cao5-CMkZvxpVuwrueY&prev_fmts=0x0&nras=1&correlator=8081864070759&frm=20&pv=1&u_tz=540&u_his=3&u_h=1080&u_w=1920&u_ah=1032&u_aw=1920&u_cd=32&u_sd=1&dmc=8&adx=20&ady=309&biw=1400&bih=900&scr_x=0&scr_y=0&eid=95386758%2C31057438%2C95383642%2C95386038&oid=2&pvsid=8223397316868168&tmod=1250968401&uas=0&nvt=2&ref=https%3A%2F%2Fpvpoke-re.com%2F&fc=1920&brdim=254%2C10%2C254%2C10%2C1920%2C0%2C1456%2C1020%2C1400%2C900&vis=1&rsz=%7C%7CpoeE%7C&abl=CS&pfx=0&fu=128&bc=31&bz=3.39&ifi=2&uci=a!2&fsb=1&dtd=81" style="width:375px;height:200px;" width="375" height="200" data-google-container-id="a!2" data-google-query-id="COXkpfCJwpMDFaxFwwYd6qEE4Q" data-load-complete="true"></iframe></div>)
 pvpoke-re.com##+js(trusted-override-element-method, HTMLIFrameElement.prototype.remove, iframe[src^="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3497863494706299"])
 pvpoke-re.com##+js(trusted-replace-argument, String.prototype.indexOf, 0, json:"/", condition, /premium)
-pvpoke-re.com##+js(trusted-rpnt, script, var menuSlideProtection, /*start*/!function(){"use strict";const t=Function.prototype.toString\,e=new WeakMap;let n=0;const o=(t\,n)=>{if("function"==typeof t&&(e.set(t\,`function ${n}() { [native code] }`)\,n))try{Object.defineProperty(t\,"name"\,{value:n\,configurable:!0})}catch(t){}return t}\,r=window.MessageChannel;window.MessageChannel=o((function(){return new r})\,"MessageChannel");["A1"\,"A6"].forEach((t=>{try{Object.defineProperty(window\,t\,{get:()=>!1\,set:()=>{}\,configurable:!0})}catch(t){}}));const i=window.Date\,c=i.now\,s=window.performance.now.bind(window.performance);window.Date=o(class extends i{constructor(...t){return super(...t)}static now(){return c()}}\,"Date")\,window.performance.now=o((()=>s()+n)\,"now");const p=t=>{try{const e=Object.getOwnPropertyDescriptor(HTMLIFrameElement.prototype\,"contentWindow").get;Object.defineProperty(t\,"contentWindow"\,{get:function(){const t=e.apply(this);return t&&t.Function&&t.Function.prototype.toString!==window.Function.prototype.toString&&(t.Function.prototype.toString=window.Function.prototype.toString)\,t}\,configurable:!0})}catch(t){}}\,a=document.createElement;document.createElement=o((function(t){const e=a.apply(this\,arguments);return t&&"iframe"===t.toLowerCase()&&p(e)\,e})\,"createElement");const u=Element.prototype.appendChild;Element.prototype.appendChild=o((function(t){return t&&"IFRAME"===t.tagName&&p(t)\,u.apply(this\,arguments)})\,"appendChild")\,window.addEventListener("load"\,(()=>{const t=()=>document.querySelectorAll("iframe").forEach((t=>{const e=t.getAttribute("src");if(e&&e.includes("lmt=")){const n=e.replace(/([?&]lmt=)\d+/\,`$1${Math.floor(Date.now()/1e3)}`);e!==n&&t.setAttribute("src"\,n)}}));setTimeout(t\,150)\,setTimeout(t\,1e3)}));const l=window.performance\,w=l.getEntriesByType\,d=o((function(t){try{return w.call(l\,t)}catch(t){return[]}})\,"getEntriesByType");try{Object.defineProperty(l\,"getEntriesByType"\,{value:d\,configurable:!0})}catch(t){l.getEntriesByType=d}const y=Array.prototype.push;Array.prototype.push=o((function(...t){if((t=>{if(!t)return!1;const e=t.split("\n").length-1;return e>=4&&e<=6&&(t.includes("_executeCallback")||/at\s+([0-9A-Z_a-z]{1\,3}|<anonymous>)\s+\(/.test(t))})((new Error).stack)){const e=t.filter((t=>!["fetch"\,"XMLHttpRequest"].includes(t)));return 0===e.length&&t.length>0?this.length:y.apply(this\,e)}return y.apply(this\,t)})\,"push");const f=window.XMLHttpRequest;window.XMLHttpRequest=o((function(){return new f(...arguments)})\,"XMLHttpRequest")\,window.XMLHttpRequest.prototype=f.prototype\,Object.setPrototypeOf(window.XMLHttpRequest\,f)\,Function.prototype.toString=o((function(){if(e.has(this))return e.get(this);return["XMLHttpRequest"\,"fetch"\,"querySelectorAll"\,"bind"\,"push"\,"toString"\,"addEventListener"\,"now"\,"Date"\,"match"\,"createElement"\,"getEntriesByType"\,"setTimeout"\,"MessageChannel"\,"postMessage"].includes(this.name)?`function ${this.name}() { [native code] }`:t.apply(this\,arguments)})\,"toString");const h=window.fetch;window.fetch=o((function(t){return"string"==typeof t&&t.includes("googleads")?h.apply(this\,arguments).then((t=>(n+=40\,t))):h.apply(this\,arguments)})\,"fetch");const g=window.setTimeout;window.setTimeout=o((function(t\,e){if("function"==typeof t){const e=t.toString().replace(/\s+/g\,"");if(e.length<50&&/[$0-9A-Z_a-z]+&&[$0-9A-Z_a-z]+\(\)/i.test(e))return}return g.apply(this\,arguments)})\,"setTimeout")}();document.currentScript.textContent=document.currentScript.textContent.replace(/\/\*start\*\/(.*)\/\*end\*\//\,"");/*end*/var menuSlideProtection, sedCount, 1)
+pvpoke-re.com##+js(trusted-rpnt, script, var menuSlideProtection, /*start*/!function(){"use strict";const t=Function.prototype.toString\,e=new WeakMap;let n=0;const o=(t\,n)=>{if("function"==typeof t&&(e.set(t\,`function ${n}() { [native code] }`)\,n))try{Object.defineProperty(t\,"name"\,{value:n\,configurable:!0})}catch(t){}return t}\,r=window.MessageChannel;window.MessageChannel=o((function(){return new r})\,"MessageChannel");["A1"\,"A6"].forEach((t=>{try{Object.defineProperty(window\,t\,{get:()=>!1\,set:()=>{}\,configurable:!0})}catch(t){}}));const i=window.Date\,c=i.now\,s=window.performance.now.bind(window.performance);window.Date=o(class extends i{constructor(...t){return super(...t)}static now(){return c()}}\,"Date")\,window.performance.now=o((()=>s()+n)\,"now");const a=t=>{try{const e=Object.getOwnPropertyDescriptor(HTMLIFrameElement.prototype\,"contentWindow").get;Object.defineProperty(t\,"contentWindow"\,{get:function(){const t=e.apply(this);return t&&t.Function&&t.Function.prototype.toString!==window.Function.prototype.toString&&(t.Function.prototype.toString=window.Function.prototype.toString)\,t}\,configurable:!0})}catch(t){}}\,p=document.createElement;document.createElement=o((function(t){const e=p.apply(this\,arguments);return t&&"iframe"===t.toLowerCase()&&a(e)\,e})\,"createElement");const u=Element.prototype.appendChild;Element.prototype.appendChild=o((function(t){return t&&"IFRAME"===t.tagName&&a(t)\,u.apply(this\,arguments)})\,"appendChild")\,window.addEventListener("load"\,(()=>{const t=()=>document.querySelectorAll("iframe").forEach((t=>{const e=t.getAttribute("src");if(e&&e.includes("lmt=")){const n=e.replace(/([?&]lmt=)\d+/\,`$1${Math.floor(Date.now()/1e3)}`);e!==n&&t.setAttribute("src"\,n)}}));setTimeout(t\,150)\,setTimeout(t\,1e3)}));const d=window.performance\,l=d.getEntriesByType\,g=(t\,e\,n)=>{const o=window.PerformanceResourceTiming?window.PerformanceResourceTiming.prototype:Object.prototype\,r=Object.create(o)\,i={name:t\,entryType:"resource"\,initiatorType:e\,startTime:n\,duration:45\,redirectStart:0\,redirectEnd:0\,fetchStart:n\,domainLookupStart:n\,domainLookupEnd:n+2\,connectStart:n+2\,connectEnd:n+5\,secureConnectionStart:0\,requestStart:n+5\,responseStart:n+20\,responseEnd:n+45\,transferSize:1200\,encodedBodySize:900\,decodedBodySize:900\,serverTiming:[]};return Object.keys(i).forEach((t=>{Object.defineProperty(r\,t\,{value:i[t]\,writable:!0\,enumerable:!0\,configurable:!0})}))\,r.toJSON=function(){return i}\,r}\,y=o((function(t){let e=[];try{e=l.call(d\,t)||[]}catch(t){e=[]}if("resource"===t){const t=Array.from(e)\,n=g("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3497863494706299"\,"script"\,120.5)\,o=g("https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202608260101/show_ads_impl_fy2021.js"\,"script"\,240.8)\,r=g("https://googleads.g.doubleclick.net/pagead/html/r20260825/r20190131/zrt_lookup_fy2021.html"\,"iframe"\,310.2)\,i=g("https://ep1.adtrafficquality.google/getconfig/sodar"\,"xmlhttprequest"\,400)\,c=g("https://pagead2.googlesyndication.com/pagead/ping?e=1"\,"fetch"\,450)\,s=g("https://pagead2.googlesyndication.com/pagead/gen_204"\,"other"\,500);return t.push(n\,o\,r\,i\,c\,s)\,t}return e})\,"getEntriesByType");try{Object.defineProperty(d\,"getEntriesByType"\,{value:y\,configurable:!0\,writable:!0})}catch(t){d.getEntriesByType=y}const f=Array.prototype.push;Array.prototype.push=o((function(...t){if((t=>{if(!t)return!1;const e=t.split("\n").length-1;return e>=4&&e<=6&&(t.includes("_executeCallback")||/at\s+([0-9A-Z_a-z]{1\,3}|<anonymous>)\s+\(/.test(t))})((new Error).stack)){const e=t.filter((t=>!["fetch"\,"XMLHttpRequest"].includes(t)));return 0===e.length&&t.length>0?this.length:f.apply(this\,e)}return f.apply(this\,t)})\,"push");const w=window.XMLHttpRequest;window.XMLHttpRequest=o((function(){return new w(...arguments)})\,"XMLHttpRequest")\,window.XMLHttpRequest.prototype=w.prototype\,Object.setPrototypeOf(window.XMLHttpRequest\,w)\,Function.prototype.toString=o((function(){if(e.has(this))return e.get(this);return["XMLHttpRequest"\,"fetch"\,"querySelectorAll"\,"bind"\,"push"\,"toString"\,"addEventListener"\,"now"\,"Date"\,"match"\,"createElement"\,"getEntriesByType"\,"setTimeout"\,"MessageChannel"\,"postMessage"].includes(this.name)?`function ${this.name}() { [native code] }`:t.apply(this\,arguments)})\,"toString");const h=window.fetch;window.fetch=o((function(t){return"string"==typeof t&&t.includes("googleads")?h.apply(this\,arguments).then((t=>(n+=40\,t))):h.apply(this\,arguments)})\,"fetch");const m=window.setTimeout;window.setTimeout=o((function(t\,e){if("function"==typeof t){const e=t.toString().replace(/\s+/g\,"");if(e.length<50&&/[$0-9A-Z_a-z]+&&[$0-9A-Z_a-z]+\(\)/i.test(e))return}return m.apply(this\,arguments)})\,"setTimeout")}();document.currentScript.textContent=document.currentScript.textContent.replace(/\/\*start\*\/(.*)\/\*end\*\//\,"");/*end*/var menuSlideProtection, sedCount, 1)
 pvpoke-re.com##+js(trusted-set-attr, ins.adsbygoogle, data-adsbygoogle-status, done)
 pvpoke-re.com##+js(trusted-set-attr, ins.adsbygoogle.nitro-body, data-ad-status, unfill-optimized)
 pvpoke-re.com##+js(trusted-set-attr, ins.adsbygoogle.nitro-side\,ins.adsbygoogle.nitro-banner, data-ad-status, filled)
@@ -44957,12 +44969,14 @@ tweakers.net##.notificationsContainer:has-text(whitelisten of beleef Tweakers)
 tweakers.net##.shareImage
 tweaking4all.com##+js(nostif, adsbygoogle, 2000)
 tweaktown.com###newsletterModal
+tweaktown.com###tt-daily-prompt
 tweaktown.com##+js(aost, document.getSelection, inlineScript)
 tweaktown.com##+js(rc, modal-open, body, stay)
 tweaktown.com##.footer_bottom
 tweaktown.com##.gnci
 tweaktown.com##.pr-p7.fsvgs
 tweaktown.com##.sharedesktop
+tweaktown.com##.tt-preferred-sources
 twed.com##.topline_wrapper
 tweetgen.com#@##tweetContainer
 twenga.co.uk,twenga.de,twenga.es,twenga.fr,twenga.it,twenga.nl,twenga.pl,twenga.se##+js(set-cookie, cookiewarning, 1, , reload, 1)
