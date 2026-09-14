@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-09-13 08:08:02
-! Косметических правил: 51467
+! Updated: 2026-09-14 08:42:28
+! Косметических правил: 51474
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -309,7 +309,7 @@
 18000.com.ua,1kr.ua,2ip.ua,babel.ua,chytomo.com,delo.ua,expert.in.ua,fastpic.org,forumodua.com,glav.su,infoindustria.com.ua,inforesist.org,itechua.com,jewishnews.com.ua,lb.ua,mmr.net.ua,novayagazeta.eu,prufy.ru,remontka.pro,rubryka.com,sknews.net,slk.kh.ua,tvrain.tv,zona.media##a[href*="/donate"]
 18000.com.ua,novadoba.com.ua##.widget_home_social_links
 18adultgames.com##+js(set, URLlist, [])
-18comic.vip,18comic-gquu.vip,adictox.com,anchira.to,animefire.io,animeworld.ac,anizm.net,anonmp4.help,archivebate.*,asiaon.*,asianporn.li,asiaontop.com,asmr18.fans,b-hentai.com,balbums.st,bebasbokep.online,bokepsin.in.net,bos21.site,bunkrr.*,cat3movie.org,cdn1.site,celebritydeeplink.com,comohoy.com,cyberdrop.me,daftporn.com,daftsex.net,datawav.club,dciuu.*,ddd-smart.net,depvailon.com,desifakes.com,dvdgayonline.com,easyvidplayer.com,embedseek.online,fapeza.com,fapfappy.com,filester.*,g-porno.com,g-streaming.com,gelbooru.com,goctruyentranhvui17.com,hhkungfu.*,hentai2read.com,hentai2w.com,hentaicube.*,hentaipaw.com,hitomi.la,homemoviestube.com,hornyhill.*,imgbox.com,imx.to,japaneseholes.com,jav-fun.cc,jav.direct,jav.si,javboys.com,javbraze.com,javdoe.sh,javfan.one,javfc2.xyz,javfor.tv,javhat.tv,javhd.*,javhdz.today,javlab.net,javideo.net,javmenu.com,javmeta.com,javmix.tv,javpas.com,javplayer.com,javseen.tv,javtiful.com,javx357.com,jmanga.*,jpg6.su,klmanga.*,komikmanhwa.me,leaktube.net,lovingsiren.com,luluvdoo.com,luluvids.top,madouqu.com,manga1001.*,mangabats.com,mangago.me,mangakakalot.gg,mangakakalove.com,mangakoma.ac,manganato.gg,mangaraw.*,mangarawjp.*,masahub2.com,momon-ga.com,movieffm.net,muchohentai.com,myvidplay.com,natomanga.com,nekopoi.*,nelomanga.*,netfapx.com,niyaniya.*,nlcosplay.com,nontonhentai.net,novelcrow.com,nsfwr34.com,nsfwyoutube.com,nudogram.com,nukibooks.com,nyahentai.*,paipancon.com,pemersatu.link,phimlongtieng.net,player4me.online,play.playkrx18.site,poapan.xyz,popjav.in,odporn.com,porn4fans.com,pornslash.com,porntin.com,qmh.sex,rawkuma.net,rpmplay.online,rule34.xyz,rule34vault.com,savefiles.com,sendvid.com,sexdicted.com,shinshi-manga.net,simpcity.*,spoilerplus.tv,stream18.net,streampoi.com,streamvid.dev,sxyprn.*,syosetu.*,taboodude.com,taxi69.com,teenager365.to,thefappening.pro,thefappeningblog.com,thotchicks.com,tojav.net,turbo.cr,turbovid.*,twitchnosub.com,upload18.com,upns.online,ups2up.fun,vegamoviese.*,veronica.uk,vidara.so,vidara.to,vide0.net,videplay.us,vids.st,vik1ngfile.site,vipserije.com,watchhentai.net,x-fetish.tube,x-tg.tube,x-x-x.video,xanimeporn.com,xxgasm.com,xxxfree.watch,xxxpicss.com,youwatch.monster##+js(acs, WebAssembly, atob)
+18comic.vip,18comic-gquu.vip,adictox.com,anchira.to,animefire.io,animeworld.ac,anizm.net,anonmp4.help,archivebate.*,asiaon.*,asianporn.li,asiaontop.com,asmr18.fans,b-hentai.com,balbums.st,bebasbokep.online,bokepsin.in.net,bos21.site,bunkrr.*,camslib.com,cat3movie.org,cdn1.site,celebritydeeplink.com,comohoy.com,cyberdrop.me,daftporn.com,daftsex.net,datawav.club,dciuu.*,ddd-smart.net,depvailon.com,desifakes.com,dvdgayonline.com,easyvidplayer.com,embedseek.online,fapeza.com,fapfappy.com,filester.*,g-porno.com,g-streaming.com,gelbooru.com,goctruyentranhvui17.com,hhkungfu.*,hentai2read.com,hentai2w.com,hentaicube.*,hentaipaw.com,hitomi.la,homemoviestube.com,hornyhill.*,imgbox.com,imx.to,japaneseholes.com,jav-fun.cc,jav.direct,jav.si,javboys.com,javbraze.com,javdoe.sh,javfan.one,javfc2.xyz,javfor.tv,javhat.tv,javhd.*,javhdz.today,javlab.net,javideo.net,javmenu.com,javmeta.com,javmix.tv,javpas.com,javplayer.com,javseen.tv,javtiful.com,javx357.com,jmanga.*,jpg6.su,klmanga.*,komikmanhwa.me,leaktube.net,lovingsiren.com,luluvdoo.com,luluvids.top,madouqu.com,manga1001.*,mangabats.com,mangago.me,mangakakalot.gg,mangakakalove.com,mangakoma.ac,manganato.gg,mangaraw.*,mangarawjp.*,masahub2.com,momon-ga.com,movieffm.net,muchohentai.com,myvidplay.com,natomanga.com,nekopoi.*,nelomanga.*,netfapx.com,niyaniya.*,nlcosplay.com,nontonhentai.net,novelcrow.com,nsfwr34.com,nsfwyoutube.com,nudogram.com,nukibooks.com,nyahentai.*,paipancon.com,pemersatu.link,phimlongtieng.net,player4me.online,play.playkrx18.site,poapan.xyz,popjav.in,odporn.com,porn4fans.com,pornslash.com,porntin.com,qmh.sex,rawkuma.net,rpmplay.online,rule34.xyz,rule34vault.com,savefiles.com,sendvid.com,sexdicted.com,shinshi-manga.net,simpcity.*,spoilerplus.tv,stream18.net,streampoi.com,streamvid.dev,sxyprn.*,syosetu.*,taboodude.com,taxi69.com,teenager365.to,thefappening.pro,thefappeningblog.com,thotchicks.com,tojav.net,turbo.cr,turbovid.*,twitchnosub.com,upload18.com,upns.online,ups2up.fun,vegamoviese.*,veronica.uk,vidara.so,vidara.to,vide0.net,videplay.us,vids.st,vik1ngfile.site,vipserije.com,watchhentai.net,x-fetish.tube,x-tg.tube,x-x-x.video,xanimeporn.com,xxgasm.com,xxxfree.watch,xxxpicss.com,youwatch.monster##+js(acs, WebAssembly, atob)
 18girlssex.com##+js(aopr, decodeURI)
 18pussy.porn,milf-porn.xxx##.footer-margin
 18pussy.porn,milf-porn.xxx##.table
@@ -997,7 +997,7 @@
 6amcity.com##.TwoColumnContainer3070
 6amcity.com,apnews.com,biospace.com,ejecentral.com.mx,ultimahora.com##.Page-actions
 6amcity.com,pitchbook.com,straightdope.com##.Form-wrapper
-6amgroup.com,chipcitycookies.com,go.bkk.hu,happiful.com,moondao.com,worldlibertyfinancial.com##+js(set-local-storage-item, cookie_consent, false)
+6amgroup.com,chipcitycookies.com,go.bkk.hu,happiful.com,moondao.com,tailed.ca,worldlibertyfinancial.com##+js(set-local-storage-item, cookie_consent, false)
 6hiidude.gold##+js(acs, document.documentElement, break;case $.)
 6hiidude.gold##+js(href-sanitizer, a[href^="https://cdns.6hiidude.gold/file.php?link=http"], ?link)
 6hiidude.gold##p > a[href*="/4/"][target="_blank"]
@@ -21703,6 +21703,7 @@ igorslab.de##.herald-above-footer
 igorslab.de##.herald-main-content > .row > .herald-module:not([data-col]):has(> .herald-txt-module div[id*="-"][class] > div[id*="-"][class*="target"] a[href][rel="noopener"] img)
 igorslab.de##.herald-sidebar-right > .widget:not([id*="widget"])
 igorslab.de##.herald-sticky
+igorslab.de##:is(span,small)[class]:has-text(/^\s*(Advertisement|Werbung|广告)\s*$/)
 igorslab.de##^script[id][data-cfasync]:not([src]):has-text(/^[\S\s]{1000,}$/)
 igorslab.de##^script[id^="advads"]
 igorslab.de##^script[id^="advanced-ads"]
@@ -21714,7 +21715,6 @@ igorslab.de##img:remove-attr(/data-.+/)
 igorslab.de##img[src^="blob:http"]
 igorslab.de##span[aria-label][role="img"][style*="data:image"]
 igorslab.de##span[aria-label][role="img"][style*="data:image"] + a
-igorslab.de##span[class]:has-text(/^\s*(Advertisement|Werbung|广告)\s*$/)
 igorslab.de##span[style]:has(svg path)
 igorslab.de##svg image[href^="data:image/"]
 igorslab.de/community/#@#img:remove-attr(/data-.+/)
@@ -22563,6 +22563,7 @@ interracial.com##[src^="https://www.interracial.com/player/html.php"]
 interssh.com##+js(aeld, load, 2000)
 intersurgical.de###ccPopup
 intersystems.com##.docscookie-notification
+intertek.com##.card-wrap-blue
 interviewcake.com##.ic-alert-email-newsletter-signup
 interviewgig.com##+js(acs, document.onselectstart)
 interviewgig.com##+js(aeld, load, onload)
@@ -22652,6 +22653,7 @@ investors.com##.exit-intent-modal
 investors.com##.market-banner
 investors.com##body:style(overflow: auto !important; position: initial !important;)
 investorvillage.com##+js(acs, update_visit_count)
+invezz.com##.bg-dark.relative:has-text(News and alerts!)
 invezz.com##.email-capture__zigzag
 invisibleoranges.com##.w-shared-socials
 invita.dk##.notificationbar
@@ -22975,6 +22977,7 @@ itudong.com##+js(aeld, load, nextFunction)
 ituudised.ee##div[class*="CookieBar"]
 itv.com##+js(nowoif)
 itv.com##+js(set-cookie, accept-cookies, accepted)
+itv.com##+js(trusted-json-edit-xhr-response, .Playlist.ContentBreaks.*.TimeCode="99:59:59:999", propsToMatch, /playlist)
 itv.com##+js(xml-prune, VAST > Ad, , /tserver)
 itv.com##.stage__upsell-button
 itv4.de##.cookieModal
@@ -23836,6 +23839,8 @@ kangkimin.com##+js(nano-sib)
 kangkimin.com##+js(nofab)
 kangmartho.com##+js(acs, document.onselectstart)
 kanjukulive.com##+js(ra, ondragstart|oncontextmenu)
+kanobu.ru##a[href*="erid="]:style(pointer-events: none !important; color: inherit !important)
+kanobu.ru##main > div:has(> section [href="/tags/partnyorskij-material/"]) > article a[href]:not([href^="/"]):not([href^="https://kanobu.ru/"]):style(pointer-events: none !important; color: inherit !important)
 kanobu.ru#?#.c-content_right div:-abp-has(> div:-abp-contains(блокировка))
 kanobu.ru#?#.flex:-abp-has(> p ~ div > [aria-label="ВКонтакте"])
 kanogoma.com##.lyrics-section .user-select-none:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -khtml-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; -webkit-tap-highlight-color: revert !important;)
@@ -30146,6 +30151,7 @@ mywebpc.ru##a[alt="donate"]
 mywebpc.ru##div[class^="SharePost__ShareButton"]
 mywheels.nl##.di-popup-container.isVisible
 mywheels.tv###flyout-recommended-content
+myworkdayjobs.com##div[data-automation-id="legalNotice"]
 mywot.com##+js(set-cookie, cookies_consent_disclaimer, false)
 myzoversion.blogspot.com###content-locker
 mz-web.de##+js(acs, document.createElement, document.head.appendChild)
@@ -46571,6 +46577,7 @@ video.sibnet.ru##.vjs-overlayclip-box-close
 video.tv-tokyo.co.jp###jsiModalOverLayerShare
 video.tv-tokyo.co.jp##*:style(opacity: 1 !important;)
 video.tv-tokyo.co.jp##.md-question.js-modal-window
+video.twimg-image.com##.app-bar
 video1tube.com##+js(acs, btoa)
 video1tube.com##+js(set, popit, false)
 videobb.*##+js(aopr, glxopen)
