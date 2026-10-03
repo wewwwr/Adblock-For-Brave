@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-10-02 09:31:31
-! Косметических правил: 51674
+! Updated: 2026-10-03 08:58:54
+! Косметических правил: 51663
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -1403,8 +1403,6 @@ abysscdn.com,playhydrax.com##+js(set, document.ontouchend, null)
 abyssplay.pages.dev##+js(nowoif, _blank)
 abyssplayer.com##+js(nowoif, , 1)
 abyssplayer.com##+js(set, urls, [])
-ac,ag,ai,app,art,biz,blog,buzz,by,cc,city,cloud,club,co,com,dev,family,fi,fm,gg,in,info,ink,io,is,kim,kz,la,lib,life,loan,love,me,name,net,news,org,plus,press,pro,pub,rest,ru,run,sh,si,so,space,su,tech,today,tv,ua,video,vip,website,wiki,win,work,xyz##a[href*="fastpic.org"]:not([href^="https://new.fastpic.org/"]):style(pointer-events: none !important)
-ac,ag,ai,app,art,biz,blog,buzz,by,cc,city,cloud,club,co,com,dev,family,fi,fm,gg,in,info,ink,io,is,kim,kz,la,lib,life,loan,love,me,name,net,news,org,plus,press,pro,pub,rest,ru,run,sh,si,so,space,su,tech,today,tv,ua,video,vip,website,wiki,win,work,xyz##a[href*="fastpic.ru"]:style(pointer-events: none !important)
 ac,ag,biz,buzz,by,city,club,co,com,fi,hdrezka.*,in,ink,kim,la,loan,me,name,net,org,pub,rest,rezka.*,run,sh,si,so,space,su,today,tv,vip,website,win##.has-brand .b-collection__blockinfo__social_holder_wrapper
 ac,ag,biz,buzz,by,city,club,co,com,fi,hdrezka.*,in,ink,kim,la,loan,me,name,net,org,pub,rest,rezka.*,run,sh,si,so,space,su,today,tv,vip,website,win##.has-brand .b-content__main [style^="height: 250px;"][style*="width: 680px;"]
 ac,ag,biz,buzz,by,city,club,co,com,fi,hdrezka.*,in,ink,kim,la,loan,me,name,net,org,pub,rest,rezka.*,run,sh,si,so,space,su,today,tv,vip,website,win##.has-brand .b-dwnapp
@@ -2155,8 +2153,8 @@ aibbricherasio.com,ajaxfanzone.nl,apollon.com.cy,apotheke-drvetter.de,aquarius-d
 aibbricherasio.com,ajaxfanzone.nl,apollon.com.cy,apotheke-drvetter.de,aquarius-divingtenerife.com,asimakopoulou.gr,benefit-plus.eu,bessahotel.com,blackvoicenews.com,bluebird.hu,brnodaily.com,cosasdeeducacion.es,czyodebrac.pl,demokracija.si,denia.com,ekassir.com,factsd.com,funghimagazine.it,g4vigilanza.it,gildavenezia.it,greatplacetowork.co.id,greatplacetowork.com.ph,jobspin.cz,leidenamateurvoetbal.nl,mallorcasunshineradio.com,management30.com,messinamagazine.it,mizunogolf.com,modo21.it,moneris.pt,newfies-dialer.org,omaggiomania.com,orionsafetystation.com,progrentis.com,radioclub91.net,radiosilver.it,redondela.gal,somme.fr,stscasu.com,suso-apotheke.de,tusairways.com,umbriasettegiorni.it,ushio-staging.ewag.nl,videntetarotesmeralda.com##.cli-modal-backdrop
 aibbricherasio.com,ajaxfanzone.nl,apollon.com.cy,apotheke-drvetter.de,aquarius-divingtenerife.com,asimakopoulou.gr,benefit-plus.eu,bessahotel.com,blackvoicenews.com,bluebird.hu,brnodaily.com,cosasdeeducacion.es,czyodebrac.pl,demokracija.si,denia.com,ekassir.com,factsd.com,funghimagazine.it,g4vigilanza.it,gildavenezia.it,greatplacetowork.co.id,greatplacetowork.com.ph,jobspin.cz,leidenamateurvoetbal.nl,mallorcasunshineradio.com,management30.com,messinamagazine.it,mizunogolf.com,modo21.it,moneris.pt,newfies-dialer.org,omaggiomania.com,orionsafetystation.com,progrentis.com,radioclub91.net,radiosilver.it,redondela.gal,somme.fr,stscasu.com,suso-apotheke.de,tusairways.com,umbriasettegiorni.it,ushio-staging.ewag.nl,videntetarotesmeralda.com##body,html:style(overflow: auto !important; position: initial !important;)
 aibit.com##.download_float
-aiblog.tv,amateurblog.tv,bokepsin.in.net,dojing.net,fastpic.org,femdom-joi.com,forums.socialmediagirls.com,fuckflix.click,gravureblog.tv,javsubindo.com,khatrimazafull.*,krx18.com,latinblog.tv,loadx.ws,mangaforfree.com,manhwaclub.net,mmsbee27.com,mmsbee47.com,movies123.*,mym-db.com,nekopoi.*,noindexscan.com,nupload.top,podjav.tv,pornx.to,rawdex.top,savefiles.*,sgpics.net,shavetape.cash,silverblog.tv,socialblog.tv,speedporn.net,starblog.tv,strcloud.club,strcloud.site,stream18.net,streampoi.com,streamtape.*,strmup.to,tapeadsenjoyer.com,tapepops.com,thefap.net,thothub.lol,up4stream.com,ups2up.fun,veronica.uk,videq.stream,xblog.tv,xmegadrive.com##+js(rmnt, script, wpadmngr.com)
-aiblog.tv,amateurblog.tv,bokepsin.in.net,dojing.net,fastpic.org,femdom-joi.com,forums.socialmediagirls.com,fuckflix.click,gravureblog.tv,javsubindo.com,khatrimazafull.*,krx18.com,latinblog.tv,loadx.ws,mangaforfree.com,manhwaclub.net,mmsbee27.com,mmsbee47.com,movies123.*,mym-db.com,nekopoi.*,noindexscan.com,nupload.top,podjav.tv,pornx.to,rawdex.top,savefiles.*,sgpics.net,shavetape.cash,silverblog.tv,socialblog.tv,speedporn.net,starblog.tv,strcloud.club,strcloud.site,stream18.net,streampoi.com,streamtape.*,strmup.to,tapeadsenjoyer.com,tapepops.com,thefap.net,thothub.lol,up4stream.com,ups2up.fun,veronica.uk,videq.stream,xblog.tv,xmegadrive.com##^script:has-text(wpadmngr.com)
+aiblog.tv,amateurblog.tv,bokepsin.in.net,dojing.net,femdom-joi.com,forums.socialmediagirls.com,fuckflix.click,gravureblog.tv,javsubindo.com,khatrimazafull.*,krx18.com,latinblog.tv,loadx.ws,mangaforfree.com,manhwaclub.net,mmsbee27.com,mmsbee47.com,movies123.*,mym-db.com,nekopoi.*,noindexscan.com,nupload.top,podjav.tv,pornx.to,rawdex.top,savefiles.*,sgpics.net,shavetape.cash,silverblog.tv,socialblog.tv,speedporn.net,starblog.tv,strcloud.club,strcloud.site,stream18.net,streampoi.com,streamtape.*,strmup.to,tapeadsenjoyer.com,tapepops.com,thefap.net,thothub.lol,up4stream.com,ups2up.fun,veronica.uk,videq.stream,xblog.tv,xmegadrive.com##+js(rmnt, script, wpadmngr.com)
+aiblog.tv,amateurblog.tv,bokepsin.in.net,dojing.net,femdom-joi.com,forums.socialmediagirls.com,fuckflix.click,gravureblog.tv,javsubindo.com,khatrimazafull.*,krx18.com,latinblog.tv,loadx.ws,mangaforfree.com,manhwaclub.net,mmsbee27.com,mmsbee47.com,movies123.*,mym-db.com,nekopoi.*,noindexscan.com,nupload.top,podjav.tv,pornx.to,rawdex.top,savefiles.*,sgpics.net,shavetape.cash,silverblog.tv,socialblog.tv,speedporn.net,starblog.tv,strcloud.club,strcloud.site,stream18.net,streampoi.com,streamtape.*,strmup.to,tapeadsenjoyer.com,tapepops.com,thefap.net,thothub.lol,up4stream.com,ups2up.fun,veronica.uk,videq.stream,xblog.tv,xmegadrive.com##^script:has-text(wpadmngr.com)
 aibusiness.com,channelfutures.com,darkreading.com,gamedeveloper.com,iotworldtoday.com,itprotoday.com##.SubscribeBanner
 aibusiness.com,gamedeveloper.com,itprotoday.com##.SubscribeBannerTopicPage
 aicanet.it##.popup-view
@@ -9178,8 +9176,8 @@ cine-calidad.*##+js(aeld, click, allclick_Public)
 cine-calidad.*##+js(aopw, adcashMacros)
 cine-calidad.*##+js(ra, href, #opfk)
 cine-calidad.*##.links
-cine-calidad.*,fastpic.org,forums.socialmediagirls.com,javtsunami.com,manwa.me,monoschino2.com,saradahentai.com,shemalegape.net,sxyprn.*,tabooporn.tv,veryfreeporn.com,x-video.tube##+js(rmnt, script, popMagic)
-cine-calidad.*,fastpic.org,forums.socialmediagirls.com,javtsunami.com,manwa.me,monoschino2.com,saradahentai.com,shemalegape.net,sxyprn.*,tabooporn.tv,veryfreeporn.com,x-video.tube##^script:has-text(popMagic)
+cine-calidad.*,forums.socialmediagirls.com,javtsunami.com,manwa.me,monoschino2.com,saradahentai.com,shemalegape.net,sxyprn.*,tabooporn.tv,veryfreeporn.com,x-video.tube##+js(rmnt, script, popMagic)
+cine-calidad.*,forums.socialmediagirls.com,javtsunami.com,manwa.me,monoschino2.com,saradahentai.com,shemalegape.net,sxyprn.*,tabooporn.tv,veryfreeporn.com,x-video.tube##^script:has-text(popMagic)
 cine.to##+js(aeld, , /open.*_blank/)
 cine.to##+js(aeld, , 0x)
 cine.to##+js(aopr, oncontextmenu)
@@ -9188,7 +9186,8 @@ cineb.rs,moviesjoyhd.to,rawkuma.com##+js(aeld, mousedown, shown_at)
 cinebaz.*##div.dlbtn > a[href*="?key"]
 cinecalidad.*##+js(set, playerAdSettings.adLink, '')
 cinecalidad.*##+js(set, playerAdSettings.waitTime, 0)
-cinecloud.*##+js(nostif, /window\.location\.href/)
+cinecloud.*##+js(aost, Promise, imageProbe)
+cinecloud.*##+js(nostif, location.href, 5000)
 cined.com###right-widget-d-newsletter_form_widget-17
 cined.com###right-widget-d-newsletter_form_widget-7
 cined.com###right-widget-top-newsletter_form_widget-14
@@ -11771,7 +11770,7 @@ deltareading.com##.el-backtop
 deltatre.com##+js(set-cookie, cookie-preferences-analytics, no)
 deltatre.com##+js(set-cookie, cookie-preferences-marketing, no)
 deltatre.com##+js(set-cookie, cookie-preferences-technical, yes)
-deltiasgaming.com,gizmodo.com,helpnetsecurity.com,news.usni.org,the-berliner.com,thedriven.io##.mc4wp-form
+deltiasgaming.com,gizmodo.com,helpnetsecurity.com,news.usni.org,orissapost.com,the-berliner.com,thedriven.io##.mc4wp-form
 demae-can.com##+js(ra, data-trm-action|data-trm-category|data-trm-label, .trm_event, stay)
 demaiogroup.it###normativa
 demaralimentari.it###privacy-advise
@@ -15398,6 +15397,7 @@ f1store4.formula1.com##+js(set-cookie, mktck, false)
 f1stream.*,fapptime.com,favoyeurtube.net,fbstream.*,fc2db.com,femdom-joi.com,fenixsite.net,file4go.*,fileone.tv,film1k.com,filmesonlinex.org,filmez.club,filmisub.cc,filmnudes.com,filmymaza.blogspot.com,filmyzilla.*,findav.*,findporn.*,firestream.to,flameipt3.vercel.app,flixmaza.*,flizmovies.*,forex-trnd.com,forumchat.club,forumlovers.club,freedownload.flash-files.com,freeomovie.co.in,freeomovie.to,freeporncomic.net,freepornhdonlinegay.com,freeproxy.io,freeshot.live,freetvsports.*,freeuse.me,freeusexporn.com,fsharetv.cc,fsicomics.com,fsileaks.com,fullboys.com,fullymaza.*,fxpornhd.com##+js(rmnt, script, /h=decodeURIComponent|popundersPerIP/)
 f1stream.*,fapptime.com,favoyeurtube.net,fbstream.*,fc2db.com,femdom-joi.com,fenixsite.net,file4go.*,fileone.tv,film1k.com,filmesonlinex.org,filmez.club,filmisub.cc,filmnudes.com,filmymaza.blogspot.com,filmyzilla.*,findav.*,findporn.*,firestream.to,flameipt3.vercel.app,flixmaza.*,flizmovies.*,forex-trnd.com,forumchat.club,forumlovers.club,freedownload.flash-files.com,freeomovie.co.in,freeomovie.to,freeporncomic.net,freepornhdonlinegay.com,freeproxy.io,freeshot.live,freetvsports.*,freeuse.me,freeusexporn.com,fsharetv.cc,fsicomics.com,fsileaks.com,fullboys.com,fullymaza.*,fxpornhd.com##^script[data-cfasync]:has-text(/h=decodeURIComponent|popundersPerIP/)
 f2movies.*##+js(aopr, AaDetector)
+f4scdn.com##+js(nowoif, _blank)
 f4wonline.com,fabeveryday.com,fabtcg.gg,fabulesslyfrugal.com,facilycasero.com,factsinstitute.com,factsjustforkids.com,fadeawayworld.net,fairygardendiy.com,fakeginger.com,falasteenifoodie.com,familiesgotravel.com,familyaroundthetable.com,familyfelicity.com,familyroadtrip.co,familysavvy.com,familyspice.com,familystylefood.com,familytravel-middleeast.com,familytreemagazine.com,familyvacationdesign.com,famivita.com,famivita.com.br,fanbuzz.com,fannetasticfood.com,fansfocus.com,fantabulosity.com,fantasticfunandlearning.com,fantasycalc.com,fantasydata.com,fantasyfootballcalculator.com,fantasyfootballranker.com,fantasyfootballreports.com,farmergrows.com,farmersalmanac.com,farmgirlgourmet.com,farmingbase.com,farmingshelter.com,farmlifediy.com,farmwifecooks.com,farmwifedrinks.com,fashionablefoods.com,fashionbeans.com,fastandslowcooking.com,fastfoodmenuprices.com,fastingwithlaura.com,fatcalc.com,fatforweightloss.com.au,fatgirlhedonist.com,fatherandus.com,fathermag.com,fatimacooks.net,fatimafarmer.com,fauxsho.org,favfamilyrecipes.com,favoritepaintcolorsblog.com,fearlessdining.com,feastandwest.com,feastforafraction.com,feastgood.com,feastingathome.com,feastingnotfasting.com,feastingonfruit.com,fedandfit.com,feedgrump.com,feedingourflamingos.com,feedingthefrasers.com,feedingtinybellies.com,feedmephoebe.com,feedthepudge.com,feelgoodfoodie.net,feelinfabulouswithkayla.com,feelingfoodish.com,feelslikehomeblog.com,femalefoodie.com,fermentingforfoodies.com,festivalguidesandreviews.com,ffxnow.com,fiatforum.com,fiberfluxblog.com,fiberglassrv.com,fictionhorizon.com,fictionlit.com,fierceboard.com,fifteenspatulas.com,fillingandfabulous.com,fillmyrecipebook.com,filmcolossus.com,filosofashion.com,financebuzz.com,financeformulas.net,financestrategists.com,financesuperhero.com,financialbestlife.com,financialpanther.com,financialsamurai.com,financillustrations.com,findcatnames.com,findingouradventure.com,findingseaturtles.com,findingtimetofly.com,findmyguitar.com,findtherun.com,finearttutorials.com,finishedwithsalt.com,finmasters.com,finurah.com,firefighterinsider.com,firefliesandmudpies.com,firstdayofhome.com,firstdown.studio,firstforwomen.com,firsthomelovelife.com,firstquarterfinance.com,firstsportz.com,firststepeurope.com,fishedthat.com,fisheries.co.uk,fishforums.net,fishlab.com,fishonfirst.com,fishtankreport.com,fitandfabliving.com,fitasamamabear.com,fitbottomedgirls.com,fitibility.com,fitmamarealfood.com,fitmittenkitchen.com,fitnessfooddiva.com,fitnessista.com,fitrays.com,fittoservegroup.com,fivebarks.com,fivehearthome.com,fixthisbuildthat.com,fjrforum.com,flabfix.com,flaggle.net,flagle-game.com,flamingotoes.com,flavcity.com,flavorfulife.com,flavormosaic.com,flawlessfood.co.uk,fliesonly.com,flightaware.com,flighthacks.com.au,flippedupsidedown.com,flipsimu.com,floandgrace.com,floorcritics.com,flooringforum.com,floralapron.com,florgeous.com,floridapanhandle.com,floridatravelwithkids.com,flouronmyfingers.com,flowerglossary.com,fluentin3months.com,fluentincoffee.com,fluxingwell.com,fmbrotherhood.com,fnafinsider.com,fnfmods.net,focusdailynews.com,fodmapeveryday.com,foldnfly.com,fontsforpeas.com,food-bites.com,foodal.com,foodandjourneys.net,foodbanjo.com,foodbloggersofcanada.com,foodbymaria.com,foodbymars.com,foodcrumbles.com,fooddoodles.com,foodess.com,foodfaithfitness.com,foodfolksandfun.net,foodforfitness.co.uk,foodforlifegarden.com,foodie.com,foodieaholic.com,foodieandwine.com,foodiecrush.com,foodiefiasco.com,foodieholly.com,foodiesterminal.com,foodiewithfamily.com,foodmetamorphosis.com,foodnetworkgossip.com,foodnouveau.com,foodnutters.com,foodologygeek.com,foodpleasureandhealth.com,foodrenegade.com,foodrepublic.com,foodsguy.com,foodsharingvegan.com,foodsharkmarfa.com,foodstoragemoms.com,foodstruct.com,foodtasia.com,foodtasticmom.com,foodtruckempire.com,foodwineandlove.com,foodwithfeeling.com,foolproofliving.com,footballgamingzone.com,footballrumors.me,footprinthero.com,foragersofhappiness.com,forbusybees.com,fordauthority.com,fordfullsize.com,fordraptor2.com,fordraptorforum.com,fordtremor.com,fordtruckfanatics.com,forensicfilesnow.com,forestriverforums.com,forevermillennials.com,forevertwentysomethings.com,foreverwingman.com,forgetfulmomma.com,forgetsugarfriday.com,forkinthekitchen.com,forkknifeswoon.com,forktospoon.com,formatlibrary.com,forscubadivers.com,forthefamily.org,forthefrills.com,forthepleasureofeating.com,fortniteinsider.com,fortressofsolitude.co.za,fortunly.com,forzafire.com,fosbasdesigns.com,fouraroundtheworld.com,fourwheeltrends.com,foxandbriar.com,foxandpinestitches.com,foxeslovelemons.com,foxestalk.co.uk,foxfarmhome.com,foxhollowcottage.com,foxyfolksy.com,fpl.team,fpsindex.com,fptrack.com,fractuslearning.com,fragrancereview.com,fragrancetoday.com,fraicheliving.com,framedcooks.com,frameratetest.com,franceadventurer.com,francevoyager.com,frearbroslabs.com,free-n8n-templates.com,freeairpump.com,freecrochettutorials.com,freedomcardboard.com,freedomresidence.com,freehomeschooldeals.com,freemonogrammaker.com,freeorganizingprintables.com,freeprettythingsforyou.com,freeride.com,freescrapbookfonts.com,freeslp.com,freestyletravelers.com,freethankyounotes.com,freetoursbyfoot.com,freezeit.co.uk,freezerfit.com,freezermeals101.com,freightcourse.com,frenchbulldogowner.com,frenchcountrycottage.net,freshaprilflours.com,freshapron.com,freshbeanbakery.com,freshcoasteats.com,freshoffthegrid.com,fridasofiaeats.com,fridaywereinlove.com,friendshipbreadkitchen.com,fromabcstoacts.com,fromachefskitchen.com,fromhousetohome.com,fromicecreamtosteak.com,frommybowl.com,fromscratchdaily.com,fromtheangels.com,fromthiskitchentable.com,fromvalerieskitchen.com,frondtech.com,front-porch-ideas-and-more.com,frontporchlifemagazine.com,frontrangefed.com,frugalcouponliving.com,frugalfanatic.com,frugalfarmwife.com,frugalforless.com,frugalfun4boys.com,frugalginger.com,frugallivingmom.com,frugallyblonde.com,frugalmomeh.com,frugalreality.com,frugalrules.com,frugalyabundante.com,frvr.com,fuelly.com,fufuskitchen.com,fullcoffeeroast.com,fullofplants.com,fullydriven.com,fun-a-day.com,fun-squared.com,funattic.com,funcheaporfree.com,funclothcrafts.com,funcraftskids.com,funfinderclub.com,funfoodfrolic.com,funhandprintartblog.com,funinfairfaxva.com,funinfirst.com,funintheyard.com,funktionalhome.com,funkyjunkinteriors.net,funlearningforkids.com,funmoneymom.com,funny-jokes.com,funthingsinhouston.com,funwithmama.com,funwithoutfodmaps.com,futmind.com,fynesdesigns.com##+js(rmnt, script, /"__adblocker"|"data-sdk"/)
 f51rm.com>>##+js(nowoif, /^ [-\d]/)
 f6s.com##+js(aeld, , redirect)
@@ -15737,40 +15737,21 @@ fastpeoplesearch.com##+js(set, prads, [])
 fastpic.org###picContainer > [style="position: relative;"]:style(background-image: none !important)
 fastpic.org##+js(abort-on-property-read, Element.prototype.attachShadow)
 fastpic.org##+js(href-sanitizer, a[href="http://static.fastpic.ru/fpuploader/FPUploader.exe"], +https)
-fastpic.org##+js(trusted-set-cookie, k3a9q, $now$%7C1)
 fastpic.org##.col-auto > div[class]:style(background-image: none !important)
 fastpic.org##.justify-content-center > .col[id]:style(max-width: max-content !important)
 fastpic.org##.nav-link[href="/donate"]
 fastpic.org##[id*="footer"] a[href*="twitter.com"]
 fastpic.org##a[href="https://static.fastpic.ru/FastPicUploader.apk"]
 fastpic.org##body > footer:style(background: none !important)
-fastpic.org,~new.fastpic.org##+js(abort-on-property-read, MouseEvent)
-fastpic.org,~new.fastpic.org##+js(abort-on-property-read, document.dispatchEvent)
-fastpic.org,~new.fastpic.org##+js(abort-on-stack-trace, Event.prototype.preventDefault, /blob|injectedScript|inlineScript/)
-fastpic.org,~new.fastpic.org##+js(abort-on-stack-trace, Event.prototype.stopImmediatePropagation, /blob|injectedScript|inlineScript/)
-fastpic.org,~new.fastpic.org##+js(abort-on-stack-trace, Event.prototype.stopPropagation, /blob|injectedScript|inlineScript/)
-fastpic.org,~new.fastpic.org##+js(abort-on-stack-trace, EventTarget, inlineScript)
-fastpic.org,~new.fastpic.org##+js(abort-on-stack-trace, HTMLAnchorElement.prototype.dispatchEvent, /blob|injectedScript|inlineScript/)
-fastpic.org,~new.fastpic.org##+js(abort-on-stack-trace, document.onclick, inlineScript)
-fastpic.org,~new.fastpic.org##+js(abort-on-stack-trace, onclick, inlineScript)
-fastpic.org,~new.fastpic.org##+js(prevent-addEventListener, click, '', elements, html)
-fastpic.org,~new.fastpic.org##+js(prevent-navigation, /^(?!fastpic\.org)/)
-fastpic.org,~new.fastpic.org##+js(prevent-window-open)
-fastpic.org,~new.fastpic.org##+js(remove-attr, src|style)
+fastpic.org,~new.fastpic.org##+js(abort-current-script, document.getElementById, maybeShow)
+fastpic.org,~new.fastpic.org##+js(remove-node-text, script, /__BIM__|box-shadow/)
 fastpic.org,~new.fastpic.org##+js(remove-node-text, script, getElementById, includes, referrer)
-fastpic.org,~new.fastpic.org##+js(remove-node-text, style, /divExo|ex-over-top/)
-fastpic.org,~new.fastpic.org##+js(remove-node-text, title, /^/)
-fastpic.org,~new.fastpic.org##+js(rmnt, script, /__BIM__|box-shadow|initCustomEvent|Math\.random|tOptions/)
-fastpic.org,~new.fastpic.org##+js(set-constant, HTMLHtmlElement.prototype.onclick, noopFunc)
-fastpic.org,~new.fastpic.org##+js(set-constant, document.documentElement.onclick, noopFunc)
 fastpic.org,~new.fastpic.org##[srcdoc]:remove()
-fastpic.org,~new.fastpic.org##^responseheader(location)
 fastpic.org,~new.fastpic.org##a[href*="/big/"]:remove-attr(target)
 fastpic.org,~new.fastpic.org##a[href*="/fullview/"] > img[src*="/preview/"]:style(clip-path: inset(0 0 38px 0) !important)
 fastpic.org,~new.fastpic.org##a[href*="/fullview/"]:remove-attr(target)
 fastpic.org,~new.fastpic.org##a[href="https://static.fastpic.ru/FastPicUploader.apk"]:remove-attr(target)
 fastpic.org,~new.fastpic.org##body > template:remove()
-fastpic.org,~new.fastpic.org##html:remove()
 fastream.to##+js(aopr, afScript)
 fastt.gg###startDownload
 fastt.gg##+js(nano-sib, countdown, 1000)
@@ -18052,6 +18033,7 @@ gamedrive.*##.netflix-banner
 gamedrive.*##[id^="gridlove-module-"] > .gridlove-text-module-content > div:is(:has([data-format]), [onclick*='window.open'])
 gamedrive.*##a[href][target="_blank"][rel="noopener noreferrer"] > img
 gamedrive.*##div[class*="banner"][onclick]
+gamedrive.org##+js(rmnt, script, "'+'", excludes, /^\(self\.__next/)
 gamefound.com##div[data-qa*="cookie-policy-box"]
 gamefreak.gr##.notification-wrapper
 gamefront.com##+js(acs, $, AdBlock)
@@ -18398,6 +18380,7 @@ gbadamud.blogspot.com##.pinterestjo, .googlejo
 gbaweather.net##.gdpr
 gbnews.com###newsletter-signup-v2
 gbnews.com##.promo-app-container
+gbsagbo.com##+js(rmnt, script, window.open)
 gc.ca##.CookieModal
 gcaptain.com##.article-card
 gcaptain.com##.email
@@ -18406,6 +18389,7 @@ gcertificationcourse.com##+js(acs, eval, replace)
 gcertificationcourse.com##+js(no-xhr-if, adsbygoogle)
 gcertificationcourse.com##[id*="PAds-"]
 gcertificationcourse.com##[id*="PAds_"]
+gcinee.com,gekkonen.net,isbn.co.in,itpassportgokaku.com,legiongamesgod.com,mc-hacks.net,meicho.marcsimz.com,spa.center.ivof.com##+js(aopw, ai_front)
 gcloud.cfd##+js(nowoif)
 gcn.com,washingtontechnology.com##.conversion-module
 gcn.com,washingtontechnology.com##.subscribe
@@ -18510,7 +18494,6 @@ geizhals.at,geizhals.de,geizhals.eu##+js(set-local-storage-item, dnt_message_sho
 geizhals.de##.gh-notification--type-info
 geizhals.eu##.gh-notification--type-info
 geki-cine.jp,heiwa-9inday.jp,hypnosismic-anime.com,idolmaster-official.jp,mamodan-plus.clony.co.jp,monsterhunternow.belugacpn.jp,ranking.sanrio.co.jp,ufret.jp#@#a[href^="https://twitter.com/intent/tweet?"]
-gekkonen.net,isbn.co.in,itpassportgokaku.com,legiongamesgod.com,mc-hacks.net,meicho.marcsimz.com,spa.center.ivof.com##+js(aopw, ai_front)
 gel.com###system-message, #system-messages, #system-message-container
 geld.de##.geld-layer-cookie-approval
 gelighting.com###privacy-message
@@ -27056,6 +27039,7 @@ m.yelp.com##[data-testid="smart-banner-pitch"]
 m.youtube.com###mealbar\:3 > ytm-mealbar.mealbar-promo-renderer
 m.youtube.com##+js(aeld, visibilitychange, /bgmobile|\{\w\.\w+\(\)\}|\.getVisibilityState\(\)/)
 m.youtube.com##+js(json-prune, overlay.bottomSheetOverlayRenderer, overlay.bottomSheetOverlayRenderer.displayImmediately)
+m.youtube.com##+js(trusted-json-edit-fetch-response, ..itemSectionRenderer.contents.*[?.adSlotRenderer], propsToMatch, /get_watch)
 m.youtube.com##+js(trusted-set, document.visibilityState, json:"visible")
 m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com##+js(json-prune, auxiliaryUi.messageRenderers.upsellDialogRenderer)
 m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer, undefined)
@@ -27070,9 +27054,9 @@ m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-p
 m.youtube.com,www.youtube.com,youtube-nocookie.com##.ytp-ce-playlist
 m.youtube.com,www.youtube.com,youtube-nocookie.com##.ytp-pause-overlay
 m1000xrforum.com,m109riders.com,m14forum.com,m5board.com,macanforum.com,macheclub.com,magnetoforum.com,magnumforumz.com,mainehuntingforums.com,majestyusa.com,manitobafishingforum.com,manitobahuntingforum.com,manutdtalk.com,marlinforum.com,marlinowners.com,marutisuzukiforum.com,maseratilevanteforum.com,maseratilife.com,masscops.com,maverickchat.com,maverickforums.net,mavericklightning.org,mazda2revolution.com,mazda3forums.com,mazda3revolution.com,mazda6club.com,mazdaworld.org,mbeqclub.com,mclarenlife.com,mdxers.org,medstudentz.com,meganesport.net,menstennisforums.com,mercedescla.org,mercedesclaforum.com,mercedesgleforum.com,mercurycougar.net,metalguitarist.org,metrisforum.com,mg-rover.org,mgzrownersclub.co.uk,michigan-sportsman.com,michiganreefers.com,microskiff.com,midwest-horse.com,migweb.co.uk,millwrighttalk.com,mini2.com,minievforum.com,minif56.com,minif66.com,minitorque.com,missouriwhitetails.com,mitsubishi-forums.com,mkcforum.com,mkzforum.com,mmaforum.com,moddedmustangs.com,moddedraptor.com,model2.org,modelrailforum.com,modeltrainforum.com,moderncamaro.com,modularfords.com,mokkaownersclub.co.uk,mondeostoc.com,morels.com,mothering.com,motorcycleforum.com,motorcycleforums.net,motorcycletherapy.net,motorgeek.com,motorhomefacts.com,motorsportsracingtalk.com,mountainbuzz.com,mp-pistol.com,mr2oc.com,msgo.com,mtbr.com,mudinmyblood.net,mullenowners.com,muscularmustangs.com,mustangecoboost.net,mustangevolution.com,mvagusta.net,mx30forum.com,mx5life.com,mx5nutz.com,mx6.com,my.is,myaudiq5.com,mybikeforums.com,myfastgti.com,myjeepcompass.com,mylargescale.com,mylawnmowerforum.com,mymbonline.com,mytiguan.com,mytractorforum.com,mytreg.com,myturbodiesel.com##+js(rmnt, script, html-load.com)
-m1xdrop.*,m1xdrop.com,m1xdrop.net,md3b0j6hj.com,mdbekjwqa.pw,mdfx9dc8n.net,mdzsmutpcvykb.net,miixdrop.*,miiixdrop.*,miiiixdrop.net,miiiiixdrop.net,mixdroop.*,mixdrop.*,mixdrop21.net,mixdrop23.net,mixdropjmk.pw,mixdrp.*##+js(nowoif)
-m1xdrop.*,m1xdrop.com,m1xdrop.net,md3b0j6hj.com,mdbekjwqa.pw,mdfx9dc8n.net,miixdrop.*,miiixdrop.*,miiiixdrop.net,miiiiixdrop.net,mixdrop23.net,mixdroop.*,mixdrop.*,mixdrop21.net,mixdrop23.net,mixdropjmk.pw,mixdrp.*##body > div[style^="position: absolute;"][style*="z-index"]
-m1xdrop.*,m1xdrop.com,m1xdrop.net,md3b0j6hj.com,mdfx9dc8n.net,mdzsmutpcvykb.net,miixdrop.*,miiixdrop.*,miiiixdrop.net,miiiiixdrop.net,mixdrop21.net,mixdrop23.net,mixdropjmk.pw##+js(rmnt, script, /h=decodeURIComponent|popundersPerIP|dtnoppu|adserverDomain/)
+m1xdrop.*,m1xdrop.com,m1xdrop.net,md3b0j6hj.com,mdbekjwqa.pw,mdfx9dc8n.net,mdzsmutpcvykb.net,miixdrop.*,miiixdrop.*,miiiixdrop.net,miiiiixdrop.net,mixdroop.*,mixdrop.*,mixdrop21.net,mixdrop23.net,mixdropjmk.pw,mixdrp.*,mxdrop.top##+js(nowoif)
+m1xdrop.*,m1xdrop.com,m1xdrop.net,md3b0j6hj.com,mdbekjwqa.pw,mdfx9dc8n.net,miixdrop.*,miiixdrop.*,miiiixdrop.net,miiiiixdrop.net,mixdrop23.net,mixdroop.*,mixdrop.*,mixdrop21.net,mixdrop23.net,mixdropjmk.pw,mixdrp.*,mxdrop.top##body > div[style^="position: absolute;"][style*="z-index"]
+m1xdrop.*,m1xdrop.com,m1xdrop.net,md3b0j6hj.com,mdfx9dc8n.net,mdzsmutpcvykb.net,miixdrop.*,miiixdrop.*,miiiixdrop.net,miiiiixdrop.net,mixdrop21.net,mixdrop23.net,mixdropjmk.pw,mxdrop.top##+js(rmnt, script, /h=decodeURIComponent|popundersPerIP|dtnoppu|adserverDomain/)
 m24.ru##+js(set-constant, player_options.autoplay, false)
 m24.ru##.b-matierial__tg
 m24.ru##.b-services-menu-footer
@@ -28711,8 +28695,8 @@ milfnut.*##+js(acs, onload, onclick)
 milfnut.*##+js(aeld, contextmenu)
 milfnut.*##+js(nowoif)
 milfnut.*##+js(set, console.clear, noopFunc)
-milfnut.com>>,watch-movies.com.pk>>,~addtoany.com,~cloudflare.com,~google.com,~ok.ru##+js(nowoif)
-milfnut.com>>,watch-movies.com.pk>>,~addtoany.com,~cloudflare.com,~google.com,~ok.ru##+js(rmnt, script, /h=decodeURIComponent|popundersPerIP|dtnoppu|adserverDomain/)
+milfnut.com>>,roshy.tv>>,watch-movies.com.pk>>,~addtoany.com,~cloudflare.com,~google.com,~ok.ru##+js(nowoif)
+milfnut.com>>,roshy.tv>>,watch-movies.com.pk>>,~addtoany.com,~cloudflare.com,~google.com,~ok.ru##+js(rmnt, script, /h=decodeURIComponent|popundersPerIP|dtnoppu|adserverDomain/)
 milfzr.com##+js(acs, $, juicyads)
 milfzr.com##+js(acs, String.prototype.charCodeAt, tabunder)
 milfzr.com##+js(nowoif)
@@ -32822,6 +32806,8 @@ origo.hu##.oh-holder.open:style(z-index: 9999!important;)
 orilliamatters.com###details-widgets
 oriocenter.it##.alert-dismissible, .alert-dismissable, .alert--dismissable, .pmd-alert-dismissible
 orirom.com,romfirmware.com##+js(acs, eval, AdBlock)
+orissapost.com###jnews_module_slider_3-3
+orissapost.com##.jeg_share_button
 orizonstore.gr##.notification-wrapper
 orizzontescuola.it###slidingblock
 orizzontescuola.it##.nl-block
@@ -38318,6 +38304,7 @@ sbplay.*##+js(set, console.clear, noopFunc)
 sbplay.*##^script:has-text(debugger)
 sbs.com.au##+js(aopr, odabd)
 sbs.com.au##+js(json-prune, ads breaks cuepoints times)
+sbs.com.au##+js(json-prune-fetch-response, streamProviders.[].adPlaylist streamProviders.[].ads, , propsToMatch, playback.)
 sbs.com.au##+js(m3u-prune, dclk_video_ads, .m3u8)
 sbs.com.au##+js(no-xhr-if, /redirector\.googlevideo\.com\/videoplayback[\s\S]*?dclk_video_ads/)
 sbs.com.au##+js(rc, ad-controls, .bitmovinplayer-container.ad-controls)
@@ -44530,6 +44517,7 @@ trafikverket.se###ctl00_Content_EmptyPage_CoockieInformation_CookieContainer
 tragtorr.in,tragtorr.info##+js(no-setTimeout-if, antyadb, 5000)
 tragtorr.in,tragtorr.info##.blmsg
 trainerscity.com##+js(rpnt, script, startTime: '5', startTime: '0')
+traingon.top##+js(rmnt, script, .offsetHeight)
 trains.com##.nlform
 trainstationgame.com##.alert-info, .alert-warning, .alert-box
 trainsweateat.com###root > div > div:first-child > div + div:last-child
@@ -49807,6 +49795,7 @@ xerifetech.com##+js(aost, document.getElementsByTagName, adsBlocked)
 xerifetech.com##+js(nostif, 0x)
 xfarma.it###overlay
 xfeed.com##+js(nowoif, _blank)
+xfeed.com##+js(set, Object.prototype.loadHillTopBanner, noopFunc)
 xfeed.com##.bottom-outstream
 xfeed.com##.hill-top-slot
 xfeed.com##[data-badge="Ad"]
