@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-10-06 09:55:05
-! Косметических правил: 51688
+! Updated: 2026-10-07 10:01:18
+! Косметических правил: 51700
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -3099,6 +3099,7 @@ androidadult.com##[alt="ads"]
 androidapks.biz,androidsite.net,animesite.net,computercrack.com,crackedsoftware.biz,crackfree.org,downloadgames.info,downloadsite.org,ebooksite.org,emulatorsite.com,freeflix.info,freemoviesu4.com,freesoccer.net,fseries.org,gamefast.org,gamesite.info,gostreamon.net,hindisite.net,isosite.org,macsite.info,mangasite.org,megamovies.org,moviefree2.com,moviesite.app,moviesx.org,musicsite.biz,patchsite.net,pdfsite.net,play1002.com,productkeysite.com,romsite.org,seriesite.net,siteapk.net,siteflix.org,sitegames.net,sitekeys.net,sitepdf.com,sitesunblocked.*,sitetorrent.com,softwaresite.net,superapk.org,tvonlinesports.com,warezsite.net,watchmovies2.com,watchsite.net,youapk.net##+js(aopr, open)
 androidauthority.com##+js(json-edit, .props.pageProps.page.blocks.*[?..resource^="nc-ad"])
 androidauthority.com##+js(remove-cookie, _ALGOLIA, when, scroll keydown)
+androidauthority.com##.e_2c
 androidauthority.com##[class] > [class] > form[class]
 androidauthority.com##aside > div > div > div > div > div:has(> div:only-child:empty)
 androidauthority.com##aside > div > div:empty
@@ -7813,6 +7814,8 @@ buzulukday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru##
 buzulukday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru##html:style(background: none !important)
 buzulukday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru#?#.main-news-in:-abp-has(> #vk_groups)
 buzzaar.eu##.cookies-modal
+buzzap.jp##.sbmk_header
+buzzap.jp##.sbmk_sidebar
 buzzfeed.com##.post_shareBottom__9whII
 buzzfeed.com##.share-bar_buzzfeed___uZ4R
 buzzfeed.com##.shoppingWrapper_packageWrapper__UR6JD
@@ -7965,13 +7968,13 @@ calendarpedia.com##body > div:not([id]):not([class])[style*="fixed"], body > div
 calendly.com###gdpr-region ~ [data-component="sticker"]
 calendly.com##+js(set-cookie, gdpr_dismissal, true)
 calgaryherald.com#@#.local-branding
-calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(rmnt, script, /\(\)=>eval|html-load\.com|await eval|:window/)
-calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, , condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
-calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##^script:has-text(/\(\)=>eval|html-load\.com|await eval|:window/)
-calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##^script[data-cfasync="false"][nowprocket]
-calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##^script[onload*="error-report.com"]
-calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(rmnt, script, /window\.admiral|adblockerDisabled/, excludes, \,\")
-calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##^script#admiral-script
+calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(rmnt, script, /\(\)=>eval|html-load\.com|await eval|:window/)
+calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, , condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
+calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##^script:has-text(/\(\)=>eval|html-load\.com|await eval|:window/)
+calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##^script[data-cfasync="false"][nowprocket]
+calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##^script[onload*="error-report.com"]
+calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(rmnt, script, /window\.admiral|adblockerDisabled/, excludes, \,\")
+calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##^script#admiral-script
 calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,thegrowthop.com,theprovince.com,thestarphoenix.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(set, Object.prototype.adService.initialize, noopFunc)
 calgaryherald.com,edmontonjournal.com,montrealgazette.com,ottawacitizen.com,thestarphoenix.com###pn-newsletter-signup
 calgaryherald.com,edmontonjournal.com,montrealgazette.com,ottawacitizen.com,thestarphoenix.com#?#.callout:has-text(inbox)
@@ -9996,6 +9999,7 @@ comidoc.net##div[style="text-align:center;margin-left:auto;margin-right:auto;min
 comidoc.net#@#.googlead
 comikey.com##+js(aeld, contextmenu, undefined)
 comingsoon.it###tal
+comingsoon.net,superherohype.com##+js(trusted-suppress-native-method, HTMLScriptElement.prototype.setAttribute, '"data-sdk"', abort, inlineScript)
 comix.to##+js(aeld, click, _pop)
 comix.to##+js(json-edit-fetch-response, .result.items.*[?.content*="'+'"], propsToMatch, /comments)
 comix.to##+js(nosiif, ._$)
@@ -13435,6 +13439,7 @@ dzen.ru##+js(nano-setTimeout-booster, '()=>r(', 15000)
 dzen.ru##+js(set-local-storage-item, browser-switch-trap-ts, {})
 dzen.ru##.adv-ecom
 dzen.ru##.b-page_type_maps div[class$="__content"] > [class$="__ad"] > div:style(width: unset !important)
+dzen.ru##.climate-calendar-container:style(margin: unset !important)
 dzen.ru##.climate-calendar__cell:style(width: 13.8% !important; -webkit-flex-basis: 13.8% !important; flex-basis: 13.8% !important)
 dzen.ru##.content--styles__banner-cc + [aria-label] ~ div
 dzen.ru##.mg-survey
@@ -17066,6 +17071,7 @@ fortnitetracker.com,tracker.gg,tracker.network##.scl-buttons
 fortune.com##.amp-ad-wrapper
 fortune.com##.amp-ad-wrapper-dianomi
 fortune.com##.sidebarPlea
+fortune.com#?#.info-surface:has-text(Add Fortune on Google)
 forty.news##section.newspaper-column
 forum-de.msi.com##.privacy_popup
 forum-generationmobiles.net###fb-root ~ div[id]:not(class)
@@ -18378,6 +18384,7 @@ gazetametro.ru##.WShare
 gazetaweb.com##.content-share
 gazetawroclawska.pl##.atomsArticleFoot__socialMedia
 gazetawroclawska.pl##.atomsArticleMediaTools__socialShare
+gazlog.jp,taisy0.com##.c-shareBtns__list
 gazzetta.gr###comment-section:style(display: block !important;)
 gazzetta.gr##+js(set, Adman, {})
 gazzetta.it##+js(aeld, adblockActivated)
@@ -26001,6 +26008,7 @@ liga.net#?#p > strong:-abp-has(> a[href*="://bit.ly/"])
 liga.net#?#p > strong:-abp-has(> a[href*="facebook.com/"])
 ligainsider.de##+js(acs, $, MutationObserver)
 ligainsider.de##+js(aopr, LIDetector)
+ligainsider.de##+js(nostif, /unknown|BLOCKED/i)
 ligainsider.de##+js(rmnt, script, ProbeError)
 ligainsider.de##.mb-md.float-start:has(#ad-rectangle2)
 ligainsider.de##.new_add
@@ -33525,8 +33533,8 @@ pdfdrive.to##+js(trusted-set-local-storage-item, pdadsLastClosed, $now$)
 pdfindir.net##+js(aeld, , _0x)
 pdftoshokan.com##+js(aeld, /click|load/, /document\.location|pop\.|exo|cookie|\.php/)
 pdftoshokan.com##+js(nowoif, /ok_|pemsrv\.com/)
+pdftoshokan.com##+js(trusted-replace-argument, parseInt, 0, json:"1800000000000", condition, /^(179\d{10}|null)$/)
 pdftoshokan.com##+js(trusted-replace-outbound-text, atob, /^https:\/\/s\.pemsrv\.com.+/, 'window.location.href')
-pdftoshokan.com##+js(trusted-rpnt, script, /if\(n(ow)?-l(ast)?>c\*1e3\)/, if(0))
 pdftoshokan.com##^script:has-text(/ad.?Config|prepare.?Pop|\/popunder|ads_host/)
 peachify.top##+js(aeld, click, atob, protect, 1)
 peachnewmedia.com##.ui-widget-overlay
@@ -38068,7 +38076,6 @@ salisburyjournal.co.uk##.block-article-content__socialbar
 salisburyjournal.co.uk##.send-us-your-news-cta
 sallysbakingaddiction.com##.savetherecipe
 salon.com##.article__share
-salon.com##.sub_promo
 salon.com#?#.page-article > p:has-text(Sign up here)
 salon.com#?#.page-article.article__content > p > strong:has-text(newsletter)
 salon.com#?#[style="text-align:center"]:has-text(newsletter)
@@ -42103,6 +42110,7 @@ tainio-mania.online##+js(nowoif)
 tainio-mania.online##+js(rmnt, script, AaDetector)
 taisachonthi.com###timed:style(display: block !important;)
 taisachonthi.com##+js(href-sanitizer, a[href^="/p/download.html?ntlruby="], ?ntlruby)
+taisy0.com##.c-iconList__item
 taiwantrade.com##+js(set-cookie, _cmsCookieaccept, Y)
 taiwebs.com##.networking
 takarasake.com##+js(set-cookie, verified, yes)
@@ -47219,7 +47227,9 @@ vk.com,vk.ru##.FeedBlockWrap
 vk.com,vk.ru##.PhotoPrimaryAttachment__background[src*="userapi.com/impf/"][src*="blur="]:style(filter: blur(20px) !important)
 vk.com,vk.ru##.apps_feedRightAppsBlock
 vk.com,vk.ru##.wall_module > div[id]:first-child > :matches-prop(innerHTML="/format_edit|mradx\.|media_on_/")
+vk.com,vk.ru##[class*="onversationsBar"]
 vk.com,vk.ru##[data-testid="channels-recommendation-block"]
+vk.com,vk.ru##[data-testid="feed_main_container"] > div > section
 vk.com,vk.ru##[data-testid="groups-recommendation-block"]
 vk.com,vk.ru##[data-testid="videos_for_you_block_spa"]
 vk.com,vk.ru##div[class*="egalRecommendations"]
@@ -47419,6 +47429,7 @@ vortez.net##+js(nowoif)
 vosfemmes.com,voyeurfrance.net##+js(rmnt, script, /isAdBlocked|popUnderUrl/)
 vosfemmes.com,voyeurfrance.net##+js(set, is_adblocked, false)
 vosfemmes.com,voyeurfrance.net##+js(set-cookie, dscl2, 1)
+voshod-solnca.ru###sidebar:style(background: none !important)
 voshod-solnca.ru#?#footer div:-abp-has(> .footer__column-header ~ #vk-footer)
 votegroup.de##+js(set-cookie, dsgvo-mark, no)
 votegroup.de##+js(set-cookie, dsgvo-stat, yes)
@@ -47858,6 +47869,7 @@ watchkobestreams.info##+js(aost, atob, inlineScript)
 watchluna.com##+js(nowoif, _blank)
 watchluna.com##+js(trusted-replace-outbound-text, atob, /.+/, , condition, '/(www\.[a-z]{8,16}\.com|cloudfront\.net)\/.+\.(css|js)$/')
 watchmonkonline.com##+js(aopr, open)
+watchmono.com##.sns-list
 watchmovierulz.*##+js(nowoif)
 watchmygf.me##+js(aopr, open)
 watchmygf.me##+js(noeval)
