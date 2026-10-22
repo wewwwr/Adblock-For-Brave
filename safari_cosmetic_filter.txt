@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-10-21 08:23:35
-! Косметических правил: 51883
+! Updated: 2026-10-22 08:26:02
+! Косметических правил: 51893
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -117,8 +117,8 @@
 1019therock.com,101theeagle.com,1023thebullfm.com,1025kiss.com,1027kord.com,1033thegoat.com,1035kissfmboise.com,1037theloon.com,1037theriver.com,103gbfrocks.com,103kkcn.com,103wjod.com,1043wowcountry.com,1045theteam.com,1051theblock.com,1057thehawk.com,1061evansville.com,1063nowfm.com,1063thebuzz.com,1073kissfmtexas.com,1073popcrush.com,1075thepeak.com,1079ishot.com,107jamz.com,1130thetiger.com,1340thehawk.com,1390granitecitysports.com,1420wbec.com,1440wrok.com,1470kyyw.com,1520theticket.com,560kmon.com,610kona.com,710keel.com,890kdxu.com,925kaar.com,925theranch.com,929nin.com,929thebull.com,929thelake.com,929theticket.com,92moose.fm,943litefm.com,943thepoint.com,945maxcountry.com,949whom.com,94kix.com,953thebear.com,955kmbr.com,95rockfm.com,961theeagle.com,963theblaze.com,965kvki.com,965therock.com,965thewalleye.com,967theeagle.net,969zoofm.com,973espn.com,973kkrc.com,973thedawg.com,975kgkl.com,975now.com,979kickfm.com,97rockonline.com,97x.com,97zokonline.com,981thehawk.com,983thesnake.com,987jack.com,987kissfmsanangelo.com,987thebomb.com,987thegrand.com,995theapple.com,999bigskysports.com,999ktdy.com,999thepoint.com,99wfmk.com,allhitskzmk.com,alternativemissoula.com,antennamag.com,awesome98.com,b100quadcities.com,b1027.com,b105country.com,b921hits.com,b93.net,b985.fm,banana1015.com,bigcat921.com,bigcat953.com,bigcountry969.com,bigfrog104.com,bigstack1039.com,billingsmix.com,bozemanskissfm.com,caspercowboy.com,catcountry1029.com,catcountry1073.com,catcountryutah.com,catfishtuscaloosa.com,classicrock1051.com,classicrock961.com,club937.com,cnynews.com,cool987fm.com,dakotacountry961.com,danburycountry.com,dave1077.com,eagle1023fm.com,eagle933.com,espn960sanangelo.com,espnquadcities.com,espnsiouxfalls.com,espnwesterncolorado.com,foxsports1510.com,foxsportsutahradio.com,fun1043.com,fun107.com,fun947.com,gator995.com,highway989.com,hot1047.com,hot975fm.com,hot991.com,hudsonvalleycountry.com,i95rock.com,i95rocks.com,jackfmcasper.com,juan925fm.com,juanhudsonvalley.com,k2radio.com,k923.fm,k945.com,k96fm.com,k99.com,k99hits.com,katsfm.com,kbat.com,kbulnewstalk.com,kcrr.com,kdat.com,kdhlradio.com,keanradio.com,kekbfm.com,keyj.com,keyw.com,keyzradio.com,kezj.com,kffm.com,kfilradio.com,kfmx.com,kfox95.com,kfyo.com,kgab.com,kgrzmissoula.com,khak.com,khmoradio.com,kickam1530.com,kicks105.com,kidotalkradio.com,kikn.com,kingfm.com,kisscasper.com,kisselpaso.com,kissfm1053.com,kissfm969.com,kissin977.com,kixs.com,kkam.com,kkyr.com,klaq.com,klaw.com,klubtejano.com,kmhk.com,kmmsam.com,knue.com,koel.com,kool1017.com,kool1079.com,kool929fm.com,kool965.com,koolfmabilene.com,kowb1290.com,kpel965.com,kpq.com,kqvt.com,krfofm.com,krforadio.com,krna.com,kroc.com,krocnews.com,krod.com,ksenam.com,ksfa860.com,ksisradio.com,ksub590.com,ktemnews.com,kubcthecanyon.com,kw3.com,kwcdcountry.com,kxkx.com,kxrb.com,kxtl.com,kygl.com,kyssfm.com,lite987.com,litefm955.com,liteonline.com,live959.com,lonestar923.com,lonestar995fm.com,mega993online.com,minnesotasnewcountry.com,mix1043fm.com,mix106radio.com,mix108.com,mix931fm.com,mix941kmxj.com,mix949.com,mix951.com,mix957gr.com,mix979fm.com,montanastatenews.com,mooseradio.com,my1053wjlt.com,myb106.com,mybeachradio.com,mycountry955.com,myjuan1017.com,mykiss1031.com,mykisscountry937.com,mymagicgr.com,mymajic933.com,mymix923.com,myq1075.com,newsradio1310.com,newstalk1280.com,newstalk1290.com,newstalk870.am,newstalk940.com,newstalkkgvo.com,newstalkkit.com,nj1015.com,northlandfan.com,popcrush.com,power1029noco.com,power959.com,power96radio.com,powerboise.com,praise933.com,q1057.com,q1065.fm,q1077.com,q961.com,q985.fm,q985online.com,quickcountry.com,retro1025.com,river967.com,rivergrandrapids.com,rock1041.com,rock967online.com,screencrush.com,shark1053.com,sojo1049.com,sportsradio977.com,squatchrocks.com,star939.com,star981.com,supertalk1270.com,talk1067.com,talk1470.com,talkradio960.com,tasteofcountry.com,theboot.com,thebullamarillo.com,thegame730am.com,thequake1021.com,theriver979.com,therockofrochester.com,thunder981.com,tide1009.com,ultimateclassicrock.com,us103.com,us1033.com,us1049quadcities.com,us105fm.com,wbckfm.com,wbkr.com,wblk.com,wblm.com,wbsm.com,wbxxfm.com,wchram.com,wcrz.com,wcyy.com,wdbqam.com,wdea.am,wfnt.com,wfpg.com,wgna.com,wgrd.com,wibx950.com,witl.com,wjbq.com,wjimam.com,wjon.com,wkdq.com,wkfr.com,wkmi.com,wmmq.com,wnaw.com,wnbf.com,wobm.comm,wokq.com,womiowensboro.com,wour.com,wpdh.com,wpst.com,wrkr.com,wrrv.com,wsbs.com,wsrkfm.com,wtug.com,wupe.com,wyrk.com,wzozfm.com,xlcountry.com,y105fm.com,y105music.com,y95country.com,z100missoula.com,z1073.com,z94.com,zoey1039.com##.widget-branded_app_promo
 101cookbooks.com##.browsemore
 101internet.ru##+js(set-cookie, closeNotificationAboutCookie, true)
-101kks.com,hispajav.com,bebasbokep.online,bellezashot.com,besthdgayporn.com,bighentai.org,bokepindo13.*,bokepindoh.*,brokensilenze.net,dimensionalseduction.com,drivenime.com,erothots1.com,familypornhd.com,hentaitv.fun,javbobo.com,javup.org,kaliscan.*,likemanga.ink,madouqu.com,pitube.net,premiumporn.org,savefiles.com,shemaleup.net,transflix.net,veo-hentai.com,worthcrete.com,x-x-x.video##+js(rmnt, script, /popMagic|pop1stp/)
-101kks.com,hispajav.com,bebasbokep.online,bellezashot.com,besthdgayporn.com,bighentai.org,bokepindo13.*,bokepindoh.*,brokensilenze.net,dimensionalseduction.com,drivenime.com,erothots1.com,familypornhd.com,hentaitv.fun,javbobo.com,javup.org,kaliscan.*,likemanga.ink,madouqu.com,pitube.net,premiumporn.org,savefiles.com,shemaleup.net,transflix.net,veo-hentai.com,worthcrete.com,x-x-x.video##^script:has-text(/popMagic|pop1stp/)
+101kks.com,hispajav.com,bebasbokep.online,bellezashot.com,besthdgayporn.com,bighentai.org,bokepindo13.*,bokepindoh.*,brokensilenze.net,dimensionalseduction.com,drivenime.com,erothots1.com,familypornhd.com,hentaitv.fun,javbobo.com,javup.org,kaliscan.*,likemanga.ink,luluvdo.com,madouqu.com,pitube.net,premiumporn.org,savefiles.com,shemaleup.net,transflix.net,veo-hentai.com,worthcrete.com,x-x-x.video##+js(rmnt, script, /popMagic|pop1stp/)
+101kks.com,hispajav.com,bebasbokep.online,bellezashot.com,besthdgayporn.com,bighentai.org,bokepindo13.*,bokepindoh.*,brokensilenze.net,dimensionalseduction.com,drivenime.com,erothots1.com,familypornhd.com,hentaitv.fun,javbobo.com,javup.org,kaliscan.*,likemanga.ink,luluvdo.com,madouqu.com,pitube.net,premiumporn.org,savefiles.com,shemaleup.net,transflix.net,veo-hentai.com,worthcrete.com,x-x-x.video##^script:has-text(/popMagic|pop1stp/)
 101soundboards.com##+js(nano-stb, , 10000, 0.001)
 101soundboards.com##+js(no-fetch-if, googlesyndication)
 101soundboards.com##.blocked-notice-small
@@ -1155,7 +1155,7 @@
 9gag.com##.open-in-app
 9gag.com##[id^="sidebar-stream-"] > h4:has-text(Advertisement)
 9gag.com##body:style(overflow: auto !important;)
-9gag.com,adrenaline.com.br,akinator.com,and-more.co,animalia.bio,astro-seek.com,augustacrime.com,automobile-catalog.com,bab.la,babla.*,base64decode.org,boardingarea.com,buchstaben.com,calculatorsoup.com,canuckaudiomart.com,collinsdictionary.com,crosswordsolver.com,culturequizz.com,daveockop.com,dict.cc,dictionary.cambridge.org,dictionnaire.lerobert.com,divinedaolibrary.com,doviz.com,egitim.net.tr,euronews.com,exceljet.net,fandom.com,fossbytes.com,freemcserver.net,game8.jp,gamewith.jp,gerbeaud.com,gezondnu.nl,girlschannel.net,happyinshape.com,hb-nippon.com,helpdeskgeek.com,higherorlowergame.com,hna.de,hochi.news,hollywoodlife.com,houseandgarden.co,index.hr,itavisen.no,km77.com,kreuzwortraetsel.de,ldoceonline.com,lejdd.fr,livescience.com,looopings.nl,lootlemon.com,mamastar.jp,merinfo.se,minecraftskins.com,motorbikecatalog.com,motscroises.fr,mrexcel.com,myinstants.com,namemc.com,nemzetisport.hu,neopets.com,neoseeker.com,neowin.net,newatlas.com,nikkansports.com,oeffnungszeitenbuch.de,onemileatatime.com,onlineradiobox.com,oraridiapertura24.it,oxfordlearnersdictionaries.com,pakkotoisto.com,perezhilton.com,pinterpoin.com,pons.com,ppatour.com,razzball.com,rotowire.com,saita-puls.com,satkurier.pl,scribd.com,sinemalar.com,skinmc.net,slideshare.net,sms24.me,songfacts.com,the-crossword-solver.com,thelayoff.com,thetorquereport.com,thingiverse.com,timeful.app,torontosun.com,toyokeizai.net,travelingformiles.com,trilltrill.jp,tunebat.com,tvtv.ca,tvtv.us,ukaudiomart.com,urbandictionary.com,urldecoder.org,usaudiomart.com,watchdocumentaries.com,welt.de,willyweather.*,word-grabber.com,wordshake.com,wort-suchen.de##^script[data-cfasync="false"][nowprocket]
+9gag.com,adrenaline.com.br,akinator.com,and-more.co,animalia.bio,astro-seek.com,augustacrime.com,automobile-catalog.com,bab.la,babla.*,base64decode.org,boardingarea.com,buchstaben.com,calculatorsoup.com,canuckaudiomart.com,carsized.com,collinsdictionary.com,crosswordsolver.com,culturequizz.com,daveockop.com,dict.cc,dictionary.cambridge.org,dictionnaire.lerobert.com,divinedaolibrary.com,doviz.com,egitim.net.tr,euronews.com,exceljet.net,fandom.com,fossbytes.com,freemcserver.net,fr.de,game8.jp,gamewith.jp,gerbeaud.com,gezondnu.nl,girlschannel.net,happyinshape.com,hb-nippon.com,helpdeskgeek.com,higherorlowergame.com,hna.de,hochi.news,hollywoodlife.com,houseandgarden.co,index.hr,itavisen.no,km77.com,kreuzwortraetsel.de,ldoceonline.com,lejdd.fr,livescience.com,looopings.nl,lootlemon.com,mamastar.jp,merinfo.se,minecraftskins.com,motorbikecatalog.com,motscroises.fr,mrexcel.com,murlok.io,myinstants.com,namemc.com,nemzetisport.hu,neopets.com,neoseeker.com,neowin.net,newatlas.com,nikkansports.com,oeffnungszeitenbuch.de,onemileatatime.com,onlineradiobox.com,oraridiapertura24.it,oxfordlearnersdictionaries.com,pakkotoisto.com,perezhilton.com,pinterpoin.com,pons.com,ppatour.com,razzball.com,rotowire.com,saita-puls.com,satkurier.pl,scribd.com,sinemalar.com,skinmc.net,slideshare.net,sms24.me,songfacts.com,the-crossword-solver.com,thelayoff.com,thetorquereport.com,thingiverse.com,timeful.app,torontosun.com,toyokeizai.net,travelingformiles.com,trilltrill.jp,tunebat.com,tvtv.ca,tvtv.us,ukaudiomart.com,urbandictionary.com,urldecoder.org,usaudiomart.com,watchdocumentaries.com,welt.de,willyweather.*,word-grabber.com,wordshake.com,wort-suchen.de##^script[data-cfasync="false"][nowprocket]
 9gag.com,adrenaline.com.br,and-more.co,animalia.bio,astro-seek.com,augustacrime.com,autofrage.net,automobile-catalog.com,bab.la,babla.*,base64decode.org,boardingarea.com,buchstaben.com,businessua.com,calculatorsoup.com,canuckaudiomart.com,chloeting.com,collinsdictionary.com,computerfrage.net,convertcase.net,costcoinsider.com,crosswordsolver.com,culturequizz.com,daily.co.jp,daveockop.com,dict.cc,dictionary.cambridge.org,dictionnaire.lerobert.com,dnevnik.hr,doviz.com,egitim.net.tr,elnacional.cat,euronews.com,exceljet.net,fandom.com,finanzfrage.net,football-ukraine.com,fossbytes.com,freemcserver.net,game8.jp,gamewith.jp,gerbeaud.com,gesundheitsfrage.net,gezondnu.nl,girlschannel.net,glianec.com,greenwichmeantime.com,gutefrage.net,happyinshape.com,hb-nippon.com,helpdeskgeek.com,higherorlowergame.com,hk01.com,hna.de,hochi.news,hollywoodlife.com,houseandgarden.co,index.hr,infinityfree.com,inverse.com,itavisen.no,km77.com,kreuzwortraetsel.de,kurashiru.com,ldoceonline.com,leckerschmecker.me,lejdd.fr,lettersolver.com,liveandletsfly.com,livescience.com,looopings.nl,lootlemon.com,mamastar.jp,merinfo.se,moin.de,motorbikecatalog.com,motorradfrage.net,motscroises.fr,mrexcel.com,myinstants.com,namemc.com,natalie.mu,nemzetisport.hu,neoseeker.com,netflixlife.com,newatlas.com,nextchessmove.com,nikkansports.com,nouvelobs.com,oeffnungszeitenbuch.de,omnicalculator.com,onlineradiobox.com,onemileatatime.com,oraridiapertura24.it,oricon.co.jp,oxfordlearnersdictionaries.com,pakkotoisto.com,perezhilton.com,picrew.me,pinterpoin.com,pons.com,popdaily.com.tw,reisefrage.net,rotowire.com,saita-puls.com,satkurier.pl,scribd.com,singjupost.com,skinmc.net,slideshare.net,sms24.me,songfacts.com,sourceforge.net,sportlerfrage.net,the-crossword-solver.com,thefirearmblog.com,thelayoff.com,thetorquereport.com,thetruthaboutcars.com,thingiverse.com,timeful.app,torontosun.com,toyokeizai.net,travelingformiles.com,trilltrill.jp,tunebat.com,tvtv.ca,tvtv.us,ukaudiomart.com,upgradedhome.com,urbandictionary.com,urldecoder.org,usaudiomart.com,watchdocumentaries.com,weatherzone.com.au,welt.de,willyweather.*,winfuture.de,winteriscoming.net,word-grabber.com,wordfinderx.com,wordshake.com,worldjournal.com,woxikon.de,zekamashi.net##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, , condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
 9gag.com,adrenaline.com.br,animalia.bio,augustacrime.com,automobile-catalog.com,base64decode.org,buchstaben.com,calculatorsoup.com,culturequizz.com,daveockop.com,dictionary.cambridge.org,doviz.com,euronews.com,fandom.com,freemcserver.net,game8.jp,gamewith.jp,gerbeaud.com,greenwichmeantime.com,hb-nippon.com,higherorlowergame.com,hna.de,index.hr,itavisen.no,km77.com,livescience.com,looopings.nl,mamastar.jp,merinfo.se,motorbikecatalog.com,mrexcel.com,myinstants.com,namemc.com,nemzetisport.hu,nikkansports.com,onemileatatime.com,onlineradiobox.com,oxfordlearnersdictionaries.com,pakkotoisto.com,ppatour.com,satkurier.pl,scribd.com,skinmc.net,sms24.me,thetorquereport.com,thingiverse.com,timeful.app,tvtv.ca,tvtv.us,urbandictionary.com,urldecoder.org,welt.de,willyweather.*,wordshake.com,worldjournal.com##^script[src*="html-load.com"]
 9gag.com,adrenaline.com.br,automobile-catalog.com,calculatorsoup.com,culturequizz.com,dictionary.cambridge.org,euronews.com,fandom.com,game8.jp,gerbeaud.com,gutefrage.net,motorbikecatalog.com,myinstants.com,namemc.com,nikkansports.com,onemileatatime.com,oxfordlearnersdictionaries.com,satkurier.pl,thetorquereport.com,urbandictionary.com,welt.de,wordshake.com##+js(rmnt, script, '/:\[?window,/')
@@ -5065,6 +5065,7 @@ avtosale.ua###backgroundPopup
 avtoset.si##body > div[style*="2A2A2A"]
 avtovzglyad.ru##.socials-subscription
 avtub.*>>##+js(json-prune-fetch-response, custom_ads, , propsToMatch, /settings)
+avtub.net>>,vidara.*>>##+js(rmnt, script, /h=decodeURIComponent|popundersPerIP|popup|\.onerror|WebAssembly/i)
 avvenire.it##.moveToTop
 avxhm.se##[data-localize]:has(a[href^="https://icerbox.com/"])
 avxhm.se##center:has(a[href^="https://canv.ai/"])
@@ -13273,6 +13274,7 @@ dstat.space##+js(aeld, DOMContentLoaded, checkBanners)
 dstat.space##+js(json-prune-fetch-response, *.*, , propsToMatch, /api/banners)
 dstat.space##.p-4:has(> div[id^="banner-list-"])
 dstreet.pl###ToplayerCover, #ToplayerConsent
+dstyladsg.com,gjsabgs.com,gosbagotui.com##+js(rmnt, script, /h=decodeURIComponent|popundersPerIP|popup|\.onerror|WebAssembly/i)
 dsvplay.com##+js(acs, WebAssembly, atob)
 dsvplay.com##+js(nowoif)
 dsw.ca##.vip-enrollment-banner
@@ -17196,7 +17198,7 @@ forums.drom.ru###dromRightCol
 forums.drom.ru##.contentWrap .lcWrap:style(padding-right: unset !important)
 forums.goha.ru#@##socialshare
 forums.hardwarezone.com.sg#@#.js-shareButton
-forums.hfboards.com,forums.sherdog.com,icy-veins.com,royaleapi.com,tapology.com,thesimsresource.com,time.is,tracklock.gg,tvpassport.com,tvtv.ca##+js(rmnt, script, reviveScroll, excludes, self.__next)
+forums.hfboards.com,forums.sherdog.com,icy-veins.com,inquirer.com,royaleapi.com,tapology.com,thesimsresource.com,time.is,tracklock.gg,tvpassport.com,tvtv.ca##+js(rmnt, script, reviveScroll, excludes, self.__next)
 forums.lanik.us#@#a[href="#top"]
 forums.lostmediawiki.com###ad1
 forums.lostmediawiki.com###remove_ads_link
@@ -18943,7 +18945,6 @@ gizmodo.uol.com.br##.btn-newsletter
 gizmodo.uol.com.br##.sup-newsletter
 gjirafa.com##[id^="an-holder"]
 gjirafa.com##[id^="gjc"]
-gjsabgs.com,gosbagotui.com##+js(rmnt, script, /h=decodeURIComponent|popundersPerIP|popup|\.onerror|WebAssembly/i)
 gk-press.if.ua###more-articles > .auto-load
 gk-press.if.ua###top-widgets > .widget_text
 gk-press.if.ua##.entry-content > div[style^="color: red;"]
@@ -19790,7 +19791,7 @@ gsm1x.xyz##+js(aopw, downloadJSAtOnload)
 gsm1x.xyz##+js(nano-stb, run)
 gsm55.com##div[class*="cookie-module"]
 gsma.com###gsma-app-bottom-bar
-gsmarena.com##+js(aeld, DOMContentLoaded, /doubleclick|atob|return new Promise|aHR0c|String\.fromCharCode/)
+gsmarena.com##+js(aeld, DOMContentLoaded, /doubleclick|atob|return new Promise|aHR0c|String\.fromCharCode|window\[/)
 gsmarena.com##+js(no-fetch-if, doubleclick)
 gsmarena.com##+js(remove-cookie, /DeviceID|lpe/)
 gsmarena.com##.ad-label
@@ -23958,7 +23959,7 @@ kachelmannwetter.com,meteologix.com,weather.us##.dkpw-billboard-margin-fixed
 kachelmannwetter.com,meteologix.com,weather.us##.kw-ad-right
 kadets.info##div[id^="post_message_"] + div
 kaembed.net##body > img[id]
-kaembed.net,mfw09.org,streamingunity.fun,vixcloud.co##+js(set, HTMLDivElement.prototype.oncontextmenu, null)
+kaembed.net,mfw09.org,streamingunity.fun,vixcloud.*##+js(set, HTMLDivElement.prototype.oncontextmenu, null)
 kaembed.net,vidmoly.*##+js(nowoif, !vidmoly)
 kaerntentherme.com###coo
 kaeserei-studer.ch##+js(set-cookie, studer-che-cookie-categories, essential)
@@ -24335,6 +24336,8 @@ kickassanime.*##.latest-update > .row > div:has(.hide-button)
 kickassanime.*##.text-center:has(> .hide-button)
 kickassanime.ch###overplay
 kickassanime.ch##+js(noeval-if, shift)
+kickasssubtitles.com##+js(rmnt, script, overflow = 'hidden')
+kickasssubtitles.com##.js-app-external.app-external:has(#banner-placeholder)
 kickbd.org##+js(set, HTMLScriptElement.prototype.onerror, undefined)
 kickbd.org##+js(set, __kbAdBait, true)
 kickbooster.me##.kb__cookie-consent
@@ -25624,7 +25627,10 @@ leak.sx,paste.bin.sx,pornleaks.in##+js(rmnt, script, navigator.brave)
 leakedzone.com##+js(aeld, contextmenu, preventDefault)
 leakedzone.com##+js(aeld, keydown, keyCode)
 leakedzone.com##+js(set, Object.prototype._detectLoop, noopFunc)
-leakgallery.com##+js(aost, String.prototype.replace, decideForPlacement)
+leakgallery.com##+js(no-fetch-if, method:HEAD)
+leakgallery.com##+js(set-cookie, adblock, 0)
+leakgallery.com##a[rel~="sponsored"]
+leakgallery.com##app-top-strip:remove()
 leaknud.com##+js(aopw, afStorage)
 leaknud.com##^script:has-text(afScript)
 leakshaven.com##+js(no-fetch-if, googlesyndication)
@@ -27818,6 +27824,7 @@ marinetraffic.com##.under-map-wrapper:upward(1)
 marinetraffic.live##+js(rmnt, script, /adblock/i)
 mariobarthtattoo.com###POPUPS_WRAPPER
 mariskalrock.com##.pcookies
+maritime-executive.com##.med-signup
 markammay.com##.markamayNewsletter
 markantmoebel.de###cookie-approval, #cookie-approval-revoke
 markel.com##.cookie
@@ -28886,10 +28893,10 @@ minecraftforge.net##+js(nostif, body)
 minecraftfortress.org###t-footer div[class*="banner"]
 minecraftquiz.com##*:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
 minecraftraffle.com##+js(acs, awm, location)
-minecraftskins.com,neopets.com##+js(noeval-if, page-kit.io)
-minecraftskins.com,neopets.com##+js(rmnt, script, window.__as_)
-minecraftskins.com,neopets.com##^script:has-text(window.__as_)
-minecraftskins.com,neopets.com##^script[src*="page-kit.io"]
+minecraftskins.com,murlok.io,neopets.com##+js(noeval-if, page-kit.io)
+minecraftskins.com,murlok.io,neopets.com##+js(rmnt, script, window.__as_)
+minecraftskins.com,murlok.io,neopets.com##^script:has-text(window.__as_)
+minecraftskins.com,murlok.io,neopets.com##^script[src*="page-kit.io"]
 minecraftwild.com###jeg_off_canvas + div[id][class]
 mineskin.org##+js(aopw, ABB_config)
 minfin.com.ua##.mfz-footer--store
@@ -29522,6 +29529,7 @@ motherjones.com##.instagram-promo
 motherjones.com##.mj-text-cta
 motherless.com##+js(acs, jQuery, cookie)
 motherless.com##+js(set, _ml_ads_ns, null)
+motherless.com##.motherless-cookie-wrapper
 motherless.com##.page-to-top-link-wrapper
 motherless.com#@#.media-linked
 motherless.xxx##.media-action-networks
@@ -31514,7 +31522,6 @@ nodo313.net##+js(rmnt, script, /adbl/i)
 noelleeming.co.nz##.dy_bottom_notification
 noelleeming.co.nz##.dynotifyjs-corner
 nofilmschool.com##.af-form-wrapper
-nogizaka46-matome.jp#@##footerafficode
 nogizaka46.com##+js(ra, oncontextmenu)
 nohat.cc##+js(aopr, $.prototype.offset)
 nohat.cc##+js(aopr, ignore_adblock)
@@ -36672,6 +36679,7 @@ rbc.ru##article .tabs-content-wrapper:style(margin-bottom: 0 !important)
 rbc.ru##article > .gutter-b:last-child:style(padding-bottom: 0 !important)
 rbc.ru##body > [data-yandex-name="blockad_click"]
 rbc.ru##div[data-name="Oprosso"]
+rbc.ru#?#.column-central-plus-side > div[id^="article-block-"] ~ div[id^="article-block-"] article > [class*="stroke"]:-abp-has(> [data-name] [href^="https://events.rbc.ru/"])
 rbc.ru#?#.headline-4-short:-abp-contains(Поделиться)
 rbc.ru#?#.l-col-right .half:-abp-has(> .js-intresting)
 rbc.ru#?#[data-metronome-unit="article"] > .card-wrapper:-abp-has(> p > strong > a[href^="https://t.me/"])
@@ -37895,6 +37903,7 @@ ru##[data-ns-portal] div[class*=" uiArticleBlockLinks_"]
 ru##[data-ns-portal] div[class^="blockSocial_"]
 ru##[data-ns-portal] div[class^="contactBlock_"][class*=" socialBlock_"]
 ru##[data-ns-portal] div[class^="mobileApps_"]
+ru##[data-ns-portal] div[class^="sharing_"]
 ru##[title="Выбрать соцсеть для шаринга"]
 ru-an.info###sgtabs
 ru-an.info##.share-index
@@ -42768,6 +42777,8 @@ telefullenvivo.com##+js(nostif, nextFunction)
 telegraaf.nl##+js(no-fetch-if, /doubleclick|ad-delivery|googlesyndication/)
 telegraaf.nl##.SocialButtons
 telegraf.com.ua,telegraf.ua##.c-footer__app
+telegraf.in.ua##.entry-share
+telegraf.in.ua##.subscribe-wrapper
 telegraf.news###post-content > div.content-vis-auto
 telegraf.news##.ancr-sticky
 telegraf.news##.pod_photo
@@ -46899,7 +46910,6 @@ videezy.com##a[onclick="fire_download_click_tracking();"]:remove-attr(onclick)
 vidello.net##+js(rmnt, script, popUnder)
 vidello.net##^script:has-text(popUnder)
 vidembed.me##+js(set, console.clear, undefined)
-video-to-mp3-converter.com##+js(nowoif, !/^\//)
 video-virali.it##div[id*="cookie_pres"]
 video.fc2.com,video.laxd.com##.noLoginSticker
 video.gazzetta.it##+js(set, Object.prototype.omidAccessModeRules, {})
