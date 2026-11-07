@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-11-06 10:35:32
-! Косметических правил: 52054
+! Updated: 2026-11-07 09:46:44
+! Косметических правил: 52071
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -10,7 +10,7 @@
 *#?#script[src*=disquscdn] + #layout .post-content:has-text(.com specialize)
 *#?#script[src*=disquscdn] + #layout .post-content:has-text(Viagra)
 *#?#script[src*=disquscdn] + #layout .post-content:has-text(We offer unlimited)
-*,~edu,~edu.cn,~127.0.0.1,~adobe.com,~addtoany.com,~amazon.*,~antiphishing.biz,~apple.com,~archlinux.org,~azure.com,~bsky.app,~bing.com,~bitwarden.com,~canva.com,~captcha-delivery.com,~cbox.ws,~chatango.com,~chatgpt.com,~chess.com,~chrome.com,~claude.ai,~claude.com,~cloudflare.com,~codeberg.org,~consentmanager.net,~costco.com,~dailymotion.com,~disqus.com,~duck.ai,~ebay.*,~facebook.com,~fbsbx.com,~flickr.com,~gitea.com,~github.com,~gitlab.com,~google.com,~hcaptcha.com,~huggingface.co,~instagram.com,~kagi.com,~kimi.com,~lichess.org,~linkedin.com,~live.com,~localhost,~mega.nz,~microsoft.com,~mistral.ai,~mozilla.org,~netflix.com,~ok.ru,~openrouter.ai,~paypal.com,~paypalobjects.com,~perplexity.ai,~piano.io,~pinterest.com,~powershell.org,~privacy-mgmt.com,~proton.me,~px-cloud.net,~rakuten.co.jp,~rakuten.com,~recaptcha.net,~reddit.com,~spotify.com,~stripe.com,~stripecdn.com,~tiktok.com,~tinypass.com,~trustpilot.com,~tumblr.com,~twitch.tv,~twitchcdn.net,~twitter.com,~venmo.com,~vimeo.com,~virustotal.com,~vscode.dev,~vscode-cdn.net,~whatsapp.com,~wikipedia.org,~x.com,~yahoo.com,~yandex.*,~yandexcloud.net,~youtube.com,~youtube-nocookie.com,~www.digitalocean.com##+js(prevent-clipboard-write, /^ms(hta|iexec)(\.exe)? |^(bash <<<|curl -kfsSL) \$\(echo .+? base64 -d\b|^cmd \/c .*?\bcurl(\.exe)? .+?\.(exe|bat|ps1)\b|^cmd .*?\bfor \/f .*?\bdelims .*?\bpow |(^|\\)powershell(\.exe)? .*?-w(indowStyle)? h(idden)?\b|(^|\\)powershell(\.exe)? .*?-w[a-z]* m[a-z]* |(^|\\)powershell(\.exe)? .*?-NoP\b|(^|\\)powershell(\.exe)? .*?-e(xecution)?p(olicy)? b(ypass)?\b|(^|\\)powershell(\.exe)? .*?-e(xecution)?p(olicy)? u(nrestricted)?\b|(^|\\)powershell(\.exe)? .*?\biex\(|(^|\\)powershell(\.exe)? .*?Invoke-Expression|(^|\\)powershell.+?Invoke-WebRequest|(^|\\)powershell.+?-UseBasicParsing|^cmd .*?\/c .+? -nop .+? iex\b|^(cmd|powershell)\b.+?recaptcha|^(cmd|powershell)\b.+?#(Verification|     )|^(cmd|powershell)\b.+?     #|^osascript .+?\bcurl http|^curl -s\b.+?\| (bash|sh|zsh)\b|^\/bin\/(bash|sh|zsh) -c\b.+?\bcurl|^bash -c\b.+?\$\(curl|^python3? -c\b.+?\b(exec|urllib|subprocess)\b|^echo .+?base64 .+?\b(bash|osascript|z?sh)\b|openssl base64 -d|^curl\b .+?chmod \+x.+?&&|^(bash|sh|osascript)\b.+?recaptcha|^(bash|sh|osascript)\b.+?#(Verification|     )|^(bash|sh|osascript)\b.+?     #|^wget .+?\| (bash|sh)\b|^curl\b.+?-o\b.+?\/tmp\/.+?&&|^nc .+?-e \/bin\/(bash|sh)\b|^\/tmp\/.+?chmod \+x.+?&&|^wget -q.+?\.(sh|py|bin|elf)\b|^cmd .+?\bcertutil .+?\b(\.exe|\.bat)\b|(^|\\)powershell(\.exe)? .+?\birm .+?\.[a-z]+\/.+?powershell|\bpcalua(\.exe)? .*?\b(curl|powershell|saps|cmd)\b|^cmd .+?\bcmdkey .+?\bschtasks|^Invoke-Command .+?Base64String|^c(onhost|md) .*?--headless |^iex\(i(rm|wr) |^\(?irm .+?\biex\b|^%COMSPEC% .*?\bstart .*?\/min\b|^cmd .*?\/c .*?%TEMP%.*?\.bat\b|^cmd .*?\/c .*?\bCMDCMDLINE\b|^cmd \/(v:on|d) \/q \/c |^cmd .*?\/q \/c .*?\bfor |\bconvert\b.*?\$env:ComSpec\b|^<#Verification|^Invoke-WebRequest .+?\bwscript(\.exe)?\b|^\$url\b.+?\n\$filename\b.+?\.exe\b|^<html\b.+navigator\.clipboard/msi, domAlert, 'Beware, uBlock Origin blocked a potential ClickFix attack: ${text}', excludeMatches, /Maintainer|Contributor|^\{|^http|^(git|import|require|use) /i)
+*,~edu,~edu.cn,~127.0.0.1,~adobe.com,~addtoany.com,~amazon.*,~antiphishing.biz,~apple.com,~archlinux.org,~azure.com,~bsky.app,~bing.com,~bitwarden.com,~canva.com,~captcha-delivery.com,~cbox.ws,~chatango.com,~chatgpt.com,~chess.com,~chrome.com,~claude.ai,~claude.com,~cloudflare.com,~codeberg.org,~consentmanager.net,~costco.com,~dailymotion.com,~disqus.com,~duck.ai,~ebay.*,~facebook.com,~fbsbx.com,~flickr.com,~gitea.com,~github.com,~gitlab.com,~google.com,~hcaptcha.com,~huggingface.co,~instagram.com,~kagi.com,~kimi.com,~lichess.org,~linkedin.com,~live.com,~localhost,~mega.nz,~microsoft.com,~mistral.ai,~mozilla.org,~netflix.com,~ok.ru,~openrouter.ai,~paypal.com,~paypalobjects.com,~perplexity.ai,~piano.io,~pinterest.com,~powershell.org,~privacy-mgmt.com,~proton.me,~px-cloud.net,~rakuten.co.jp,~rakuten.com,~recaptcha.net,~reddit.com,~sakana.ai,~spotify.com,~stripe.com,~stripecdn.com,~tiktok.com,~tinypass.com,~trustpilot.com,~tumblr.com,~twitch.tv,~twitchcdn.net,~twitter.com,~venmo.com,~vimeo.com,~virustotal.com,~vscode.dev,~vscode-cdn.net,~whatsapp.com,~wikipedia.org,~x.com,~yahoo.com,~yandex.*,~yandexcloud.net,~youtube.com,~youtube-nocookie.com,~www.digitalocean.com##+js(prevent-clipboard-write, /^ms(hta|iexec)(\.exe)? |^(bash <<<|curl -kfsSL) \$\(echo .+? base64 -d\b|^cmd \/c .*?\bcurl(\.exe)? .+?\.(exe|bat|ps1)\b|^cmd .*?\bfor \/f .*?\bdelims .*?\bpow |(^|\\)powershell(\.exe)? .*?-w(indowStyle)? h(idden)?\b|(^|\\)powershell(\.exe)? .*?-w[a-z]* m[a-z]* |(^|\\)powershell(\.exe)? .*?-NoP\b|(^|\\)powershell(\.exe)? .*?-e(xecution)?p(olicy)? b(ypass)?\b|(^|\\)powershell(\.exe)? .*?-e(xecution)?p(olicy)? u(nrestricted)?\b|(^|\\)powershell(\.exe)? .*?\biex\(|(^|\\)powershell(\.exe)? .*?Invoke-Expression|(^|\\)powershell.+?Invoke-WebRequest|(^|\\)powershell.+?-UseBasicParsing|^cmd .*?\/c .+? -nop .+? iex\b|^(cmd|powershell)\b.+?recaptcha|^(cmd|powershell)\b.+?#(Verification|     )|^(cmd|powershell)\b.+?     #|^osascript .+?\bcurl http|^curl -s\b.+?\| (bash|sh|zsh)\b|^\/bin\/(bash|sh|zsh) -c\b.+?\bcurl|^bash -c\b.+?\$\(curl|^python3? -c\b.+?\b(exec|urllib|subprocess)\b|^echo .+?base64 .+?\b(bash|osascript|z?sh)\b|openssl base64 -d|^curl\b .+?chmod \+x.+?&&|^(bash|sh|osascript)\b.+?recaptcha|^(bash|sh|osascript)\b.+?#(Verification|     )|^(bash|sh|osascript)\b.+?     #|^wget .+?\| (bash|sh)\b|^curl\b.+?-o\b.+?\/tmp\/.+?&&|^nc .+?-e \/bin\/(bash|sh)\b|^\/tmp\/.+?chmod \+x.+?&&|^wget -q.+?\.(sh|py|bin|elf)\b|^cmd .+?\bcertutil .+?\b(\.exe|\.bat)\b|(^|\\)powershell(\.exe)? .+?\birm .+?\.[a-z]+\/.+?powershell|\bpcalua(\.exe)? .*?\b(curl|powershell|saps|cmd)\b|^cmd .+?\bcmdkey .+?\bschtasks|^Invoke-Command .+?Base64String|^c(onhost|md) .*?--headless |^iex\(i(rm|wr) |^\(?irm .+?\biex\b|^%COMSPEC% .*?\bstart .*?\/min\b|^cmd .*?\/c .*?%TEMP%.*?\.bat\b|^cmd .*?\/c .*?\bCMDCMDLINE\b|^cmd \/(v:on|d) \/q \/c |^cmd .*?\/q \/c .*?\bfor |\bconvert\b.*?\$env:ComSpec\b|^<#Verification|^Invoke-WebRequest .+?\bwscript(\.exe)?\b|^\$url\b.+?\n\$filename\b.+?\.exe\b|^<html\b.+navigator\.clipboard/msi, domAlert, 'Beware, uBlock Origin blocked a potential ClickFix attack: ${text}', excludeMatches, /Maintainer|Contributor|^\{|^http|^(git|import|require|use) /i)
 /(\d{0,1})?tamilprint(\d{1,2})?\.[a-z]{3,7}/##+js(acs, EventTarget.prototype.addEventListener, delete window)
 /(\d{0,1})?tamilprint(\d{1,2})?\.[a-z]{3,7}/##+js(nano-stb, countdown)
 /(\d{0,1})?tamilprint(\d{1,2})?\.[a-z]{3,7}/##+js(no-fetch-if, googlesyndication)
@@ -561,6 +561,7 @@
 24tv.ua##.share-news-block
 24tv.ua##.storify-story-img:style(display: unset !important)
 24tv.ua##.storify-story-video
+24tv.ua##[app-google-source-button]
 24tv.ua##[aria-label^="Под"][aria-label$="ся"]
 24tv.ua##app-donate-banner
 24tv.ua,atlasprirodirossii.ru,charter97.org,fn-volga.ru,fnvolga.ru,iarex.ru,starhit.ru,telesputnik.ru##.subscription
@@ -1808,7 +1809,7 @@ adult-sex-gamess.com,hentaigames.app,mobilesexgamesx.com,mysexgamer.com,porngame
 adult-sex-gamess.com,hentaigames.app,mobilesexgamesx.com,mysexgamer.com,porngameshd.com,sexgamescc.com##.a-th:first-child:has(iframe)
 adult-sex-gamess.com,hentaigames.app,mobilesexgamesx.com,mysexgamer.com,porngameshd.com,sexgamescc.com##.alert-danger > .row
 adult-tv-channels.click##+js(set-session-storage-item, adp-closed, 1)
-adult-tv-channels.com,oxax.tv,hochu.tv,klubnichka.live,hotelki.tv,seirsanduk.*,tvron.*,canale-tv.net,smotrim-tv.top,telik.live,live.domatv.net##+js(set, HTMLDivElement.prototype.oncontextmenu, null)
+adult-tv-channels.com,ritsatv.ru,tvline.live,oxax.tv,hochu.tv,klubnichka.live,hotelki.tv,seirsanduk.*,tvron.*,canale-tv.net,smotrim-tv.top,telik.live,live.domatv.net##+js(set, HTMLDivElement.prototype.oncontextmenu, null)
 adultasianporn.com##+js(aeld, getexoloader)
 adultasianporn.com##+js(cookie-remover, /^/)
 adultasianporn.com##.banner
@@ -2460,9 +2461,9 @@ alexsports.*##+js(aopr, mm)
 alexsports.*##^script:has-text('shift')
 alexsports.*##^script:has-text(\'shift\')
 alexsports.*,cr7-soccer.store,cracksports.me,cricwatch.io,kakarotfoot.ru,nbabox.co,pelotalibrevivo.net,powerover.site,qatarstreams.me,redditsoccerstreams.name,soccerworldcup.me,sportstohfa.online,sportzonline.site,stream.nflbox.me,streamshunters.eu,totalsportek1000.com,vipstand.pm,worldsports.*##.position-absolute.top-0
-alexsports.*>>,cr7-soccer.store>>,cracksports.me>>,cricwatch.io>>,gkstreams.*>>,kakarotfoot.ru>>,nbabox.co>>,pelotalibrevivo.net>>,powerover.site>>,qatarstreams.me>>,redditsoccerstreams.name>>,soccerworldcup.me>>,sportstohfa.online>>,sportzonline.site>>,stream.nflbox.me>>,streamshunters.eu>>,totalsportek1000.com>>,vipstand.pm>>,watchthematch.online>>,worldsports.*>>,~chatango.com##+js(aopr, aclib)
-alexsports.*>>,cr7-soccer.store>>,cracksports.me>>,cricwatch.io>>,gkstreams.*>>,kakarotfoot.ru>>,nbabox.co>>,pelotalibrevivo.net>>,powerover.site>>,qatarstreams.me>>,redditsoccerstreams.name>>,soccerworldcup.me>>,sportstohfa.online>>,sportzonline.site>>,stream.nflbox.me>>,streamshunters.eu>>,totalsportek1000.com>>,vipstand.pm>>,watchthematch.online>>,worldsports.*>>,~chatango.com##+js(nowoif, !/^\/|_self|alexsports|nativesurge/)
-alexsports.*>>,cr7-soccer.store>>,cracksports.me>>,cricwatch.io>>,gkstreams.*>>,kakarotfoot.ru>>,nbabox.co>>,pelotalibrevivo.net>>,powerover.site>>,qatarstreams.me>>,redditsoccerstreams.name>>,soccerworldcup.me>>,sportstohfa.online>>,sportzonline.site>>,stream.nflbox.me>>,streamshunters.eu>>,totalsportek1000.com>>,vipstand.pm>>,watchthematch.online>>,worldsports.*>>,~chatango.com##+js(rmnt, script, /delete window|popundersPerIP|var FingerprintJS|adserverDomain|globalThis;break;case|ai_adb|adContainer/)
+alexsports.*>>,cr7-soccer.store>>,cracksports.me>>,cricwatch.io>>,gkstreams.*>>,gkstreams1.*>>,gkstreams2.*>>,kakarotfoot.ru>>,nbabox.co>>,pelotalibrevivo.net>>,powerover.site>>,qatarstreams.me>>,redditsoccerstreams.name>>,soccerworldcup.me>>,sportstohfa.online>>,sportzonline.site>>,stream.nflbox.me>>,streamshunters.eu>>,taifood-blog.asia,totalsportek1000.com>>,vipstand.pm>>,watchthematch.online>>,worldsports.*>>,~chatango.com##+js(aopr, aclib)
+alexsports.*>>,cr7-soccer.store>>,cracksports.me>>,cricwatch.io>>,gkstreams.*>>,gkstreams1.*>>,gkstreams2.*>>,kakarotfoot.ru>>,nbabox.co>>,pelotalibrevivo.net>>,powerover.site>>,qatarstreams.me>>,redditsoccerstreams.name>>,soccerworldcup.me>>,sportstohfa.online>>,sportzonline.site>>,stream.nflbox.me>>,streamshunters.eu>>,taifood-blog.asia,totalsportek1000.com>>,vipstand.pm>>,watchthematch.online>>,worldsports.*>>,~chatango.com##+js(nowoif, !/^\/|_self|alexsports|nativesurge/)
+alexsports.*>>,cr7-soccer.store>>,cracksports.me>>,cricwatch.io>>,gkstreams.*>>,gkstreams1.*>>,gkstreams2.*>>,kakarotfoot.ru>>,nbabox.co>>,pelotalibrevivo.net>>,powerover.site>>,qatarstreams.me>>,redditsoccerstreams.name>>,soccerworldcup.me>>,sportstohfa.online>>,sportzonline.site>>,stream.nflbox.me>>,streamshunters.eu>>,taifood-blog.asia,totalsportek1000.com>>,vipstand.pm>>,watchthematch.online>>,worldsports.*>>,~chatango.com##+js(rmnt, script, /delete window|popundersPerIP|var FingerprintJS|adserverDomain|globalThis;break;case|ai_adb|adContainer/)
 alexstuff.ru##.buttons_share
 alexua.tv##.line-topbutton
 alexua.tv##.msocial
@@ -2677,6 +2678,7 @@ allporncomic.com##+js(aopw, ExoSupport)
 allporncomic.com##.ad
 allporncomic.com##[href^="https://s.zlink0.com/"], [href^="https://s.zline0.com/"]
 allporncomics.co,comicsvalley.com##.widget_custom_html
+allpornflix.com##+js(json-prune, *.props.videoPlayerAds *.props.postButtonAds)
 allpravda.info,geo-politica.info,globalwarnews.ru,inosmi.info,news24today.info,polit-mir.ru,pravdoryb.info,putin24.info,ruspravda.info##.header_menu_social
 allpremium.net##+js(acs, eval, replace)
 allrecipes.com##+js(remove-cookie, /_sharedid|_lc2_fpi/)
@@ -3909,6 +3911,9 @@ ara.cat##.ara-newsletter
 ara.cat,europapress.es##.footer-rrss
 arab4media.com##+js(acs, addEventListener, nextFunction)
 arabamob.blogspot.com##+js(acs, addEventListener, blocker)
+arabcanadanews.ca##+js(aeld, load, popupAdModal)
+arabcanadanews.ca##.detailsAdvertisementWrap
+arabcanadanews.ca##.sliderAdvertisementWrap
 arabianbusiness.com##+js(aopr, adBlockDetected)
 arabic-robot.blogspot.com###preloader
 arabic-robot.blogspot.com##+js(acs, document.createElement, adblock)
@@ -4185,6 +4190,7 @@ artnet.com,bandt.com.au,bellhelmets.com,bibleportal.com,boredpanda.com,fermatsli
 artnet.com,bandt.com.au,bellhelmets.com,bibleportal.com,boredpanda.com,fermatslibrary.com,insauga.com,lensculture.com,media4growth.com,moneycontrol.com,moroccoworldnews.com,nycgo.com,patch.com,pbsamerica.co.uk,projectcbd.org,thecradle.co,thepostmillennial.com,uinterview.com,vegnews.com,wateronline.com,worlddogfinder.com,zorbabooks.com##.modal-backdrop
 artnet.com,bandt.com.au,bellhelmets.com,bibleportal.com,boredpanda.com,fermatslibrary.com,insauga.com,lensculture.com,media4growth.com,moneycontrol.com,moroccoworldnews.com,nycgo.com,patch.com,pbsamerica.co.uk,projectcbd.org,thecradle.co,thepostmillennial.com,uinterview.com,vegnews.com,wateronline.com,worlddogfinder.com,zorbabooks.com##body:style(overflow: auto !important;)
 artnews.com##.header-super-nav
+artnews.com,deadline.com,goldderby.com,hollywoodreporter.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,vibe.com,wwd.com##.o-google-preferred-button
 artofmanliness.com##.aom-subscribe
 artribune.com##+js(aost, Object, mark)
 artribune.com##+js(rc, td-ad-background-link)
@@ -5164,8 +5170,8 @@ azestforlife.com##.fca_eoi_featherlight
 azfamily.com,bolde.com,walb.com##.google-source-button
 aziendasicura.net###FrstCksDiv
 azimutyachts.cz##.floatFooter
-azlyrics.com,forums.hfboards.com,forums.sherdog.com,fujirumors.com,inquirer.com,onlineradiobox.com,personality-database.com,royaleapi.com,tapology.com,time.is,tracklock.gg,tvpassport.com,tvtv.ca##+js(rmnt, script, reviveScroll, excludes, self.__next)
-azlyrics.com,nextchessmove.com,reneweconomy.com.au,vclock.com##+js(rmnt, script, /HTMLIFrameElement|JSON\[/)
+azlyrics.com,euronews.com,fragrantica.com,nextchessmove.com,reneweconomy.com.au,vclock.com##+js(rmnt, script, /HTMLIFrameElement|JSON\[/)
+azlyrics.com,forums.hfboards.com,forums.sherdog.com,fragrantica.com,fujirumors.com,inquirer.com,onlineradiobox.com,personality-database.com,royaleapi.com,tapology.com,time.is,tracklock.gg,tvpassport.com,tvtv.ca##+js(rmnt, script, reviveScroll, excludes, self.__next)
 azmath.info,azsoft.*,downfile.site,expertvn.com,trangchu.news##+js(aeld, DOMContentLoaded, document.documentElement.lang.toLowerCase)
 azmath.info,azsoft.*,downfile.site,expertvn.com,trangchu.news##+js(aopr, SMart1)
 azmath.info,azsoft.*,downfile.site,expertvn.com,trangchu.news##+js(noeval-if, chp_ad)
@@ -8958,7 +8964,8 @@ chatra.io##div[id^="yeps"]
 chatta.it##+js(nostif, Adv)
 chattanoogan.com##+js(set, AbleToRunAds, true)
 chaturflix.cam,mangakuri.online,niyaniya.moe##+js(acs, Date.prototype.toISOString, wpadmngr.com)
-chaturflix.cam,striphub.cam##+js(nostif, ??=)
+chaturflix.cam,striphub.cam##+js(no-fetch-if, method:HEAD, length:10001)
+chaturflix.cam,striphub.cam##+js(nostif, /timed out|\?\?=/)
 chaturflix.cam,striphub.cam##a[href="https://theporndude.com/"]
 chaussures.fr,eapavi.lv,ecipele.hr,ecipo.hu,eobuv.cz,eobuv.sk,eobuwie.com.pl,epantofi.ro,epapoutsia.gr,escarpe.it,eschuhe.at,eschuhe.ch,eschuhe.de,eskor.se,evzuttya.com.ua,obuvki.bg,zapatos.es##.newsletter-section-wrapper
 chavesnamao.com.br##+js(set-local-storage-item, LGPDconsent, 1)
@@ -11677,7 +11684,6 @@ deadline.com##.newsletter-cta
 deadline.com##.pmc-u-background-white.pmc-u-margin-b-0
 deadline.com#@#.cnx-player-wrapper
 deadline.com,divinedaolibrary.com,doviz.com,hollywoodlife.com,lejdd.fr,scribd.com,slideshare.net,songfacts.com,thelayoff.com,tips-and-tricks.co,wwd.com##+js(rmnt, script, /\(async\s*\(\)\s*=>\s*\{\s*try\s*\{\s*(const|var)/)
-deadline.com,goldderby.com,rollingstone.com##.o-google-preferred-button
 dealabs.com##+js(href-sanitizer, a[href*="https://www.dealabs.com/visit/"][title^="https://"], [title])
 dealabs.com##.nav-banner
 dealabs.com,mydealz.de###softMessages-list
@@ -15688,6 +15694,7 @@ fandom.com###bodyContent:style(width:100% !important)
 fandom.com###incontent_boxad
 fandom.com###mid_boxad
 fandom.com###rail-boxad-wrapper
+fandom.com##+js(set, RLCONF.wgAdShieldActive, false)
 fandom.com##+js(set, optimizely, {})
 fandom.com##+js(set, optimizely.initialized, true)
 fandom.com##+js(set, wgAffiliateEnabled, false)
@@ -19875,6 +19882,7 @@ gtaall.com##+js(nowebrtc)
 gtalfh.com##.alert, #alert
 gtamaxprofit.com##+js(acs, $, wrapfabtest)
 gtarcade.com###agreement-box
+gtaservers.org##+js(set-local-storage-item, np-west-signup-seen-2, 1)
 gtavicecity.ru##.stop-waiting
 gtavicecity.ru##.wrapper-body:style(margin-top: 0 !important)
 gtmods.ru#?#aside > .side-bx:-abp-has(> center > a[target="_blank"])
@@ -22861,6 +22869,7 @@ investing.com##+js(no-fetch-if, ads)
 investing.com##+js(remove-cookie, lifetime_page_view_count)
 investing.com##+js(remove-cookie, page_view_count)
 investing.com##+js(set, adNotificationDetected, false)
+investing.com##+js(trusted-json-edit, .props.pageProps.state.authStore.isAdsFree=true)
 investing.com##+js(trusted-replace-argument, String.prototype.startsWith, 0, , condition, /ad-free-subscription)
 investing.com##+js(trusted-set-cookie, inudid, , 0, , domain, .investing.com)
 investing.com##+js(trusted-set-cookie, smd, , 0, , domain, .investing.com)
@@ -23288,6 +23297,7 @@ ixbt.com##body:not(#id) > .b-content__pagecontent:style(margin-top: unset !impor
 ixbt.com##nav > .grid > .lg\:inline-flex
 ixbt.com##nav a[href^="https://ixbt.shop"]
 ixbt.com#?#article p:-abp-has(> span > a[href*="google.com/preferences/source?"][class][target="_blank"])
+ixbt.com,ixbt.games##[data-related-block][class*="data-adv-component"]
 ixbt.com,ixbt.market###accept_cookie_policy_wrapper
 ixbt.com,ixbt.video##.gdpr-root
 ixbt.games,www1.ru##.text-color-navbar-social
@@ -26269,7 +26279,6 @@ lindner-group.com##.cn-layer
 lindsaypleskot.com##.optin-content
 lindsaypleskot.com,lmld.org,reluctantentertainer.com,splashoftaste.com,windowslatest.com##.fluentform
 line25.com##+js(aopr, decodeURI)
-linegee.net,intercelestial.com,teknoasian.com##+js(aeld, DOMContentLoaded, onpopstate)
 linegee.net,intercelestial.com,teknoasian.com##+js(nowoif)
 linegee.net,intercelestial.com,teknoasian.com##.right-sidebar.penci_sidebar.container,.penci-home-popular-posts.container,p,ul,li,[href*="s0-greate"],#sidebar,.post-pagination,.single-breadcrumb.penci-breadcrumb.container,.penci-move-title-above.post-image,#footer-section, .post-related, #comments, .post-share.tags-share-box, .alignleft.wp-caption
 linegee.net,intercelestial.com,teknoasian.com,pahe.*##+js(rmnt, script, documentElement)
@@ -33773,6 +33782,7 @@ pcwelt.de#@#a[href^="https://pvn.mediamarkt.de/"]
 pcwelt.de#@#a[href^="https://pvn.saturn.de/"]
 pcworld.com###amazon-bottom-widget
 pcworld.com##+js(set-cookie, hide-generic-overlay-techhive, true)
+pcworld.com##.TrendingBar__item--subscribe
 pcworld.es##.stickyAdWrapper
 pcx.hu##.cookieFlyer
 pd-f.de###matomo_info
@@ -35137,6 +35147,7 @@ pornhits.com##.sponsor
 pornhoarder.*##+js(rmnt, script, /wpadmngr|adserverDomain/)
 pornhoarder.*##^script:has-text(/wpadmngr|adserverDomain/)
 pornhoarder.net##+js(aopr, aclib.runPop)
+pornhoarder.net##+js(nowoif)
 pornhost.com##+js(aopr, raConf)
 pornhost.com##+js(aopw, encodeURIComponent)
 pornhub-sexfilme.net,pornojenny.net,pornoleon.com###tttt_wrapper
@@ -36799,6 +36810,7 @@ rbc.ru##.sticky-container > .stroke-b
 rbc.ru##.subscription-popup
 rbc.ru##.video-gallery-popup.single .video-gallery-popup__body:style(left: 200px !important; right: 200px !important)
 rbc.ru##.video-gallery-popup.single .video-gallery-popup__wrap:style(max-width: 100% !important)
+rbc.ru##[data-name^="Promoblock"]
 rbc.ru##[data-type="share"]
 rbc.ru##[data-type="social"]
 rbc.ru##a[class^="styles_message-bar_"]
@@ -41512,6 +41524,7 @@ stlpr.org###dynamic-ask
 stltoday.com##.dfp-ad
 stltoday.com##.tnt-ads-container
 stmas.bayern.de##+js(set-cookie, statistik, 0)
+stmify.com##+js(rmnt, script, "'error'")
 stockcharts.com###sccCookieBanner
 stockhideout.com##+js(nosiif, daadb)
 stockhouse.com##.sh-cookie-dialog
@@ -47769,6 +47782,10 @@ voshod-solnca.ru#?#footer div:-abp-has(> .footer__column-header ~ #vk-footer)
 votegroup.de##+js(set-cookie, dsgvo-mark, no)
 votegroup.de##+js(set-cookie, dsgvo-stat, yes)
 voterrecords.com##.tosbox-container
+votes.decisiondeskhq.com##+js(set-local-storage-item, login-wall-triggered, 1)
+votes.decisiondeskhq.com##+js(set-session-storage-item, login-wall-dismissed, true)
+votes.decisiondeskhq.com##a[aria-label="Upgrade to DDHQ Pro"]
+votes.decisiondeskhq.com#?#.z-9999:has-text(free account)
 votetw.com##div[style="width: 100%; height: 100%; top: 0;left: 0; position:fixed; z-index: 255;"]
 vouchers.dailyselect.co.uk###privacy, .privacy
 vova.com##.activity-cookie
@@ -48351,10 +48368,10 @@ web.de##.main [data-ac]:empty
 web.de##div[data-service-slot-initialized]
 web.de#@#.ad
 web.facebook.com,www.facebook.com###seo_pivots ~ div > div[style^="max-width"] > div[class] > div[style^="max-width"]:has(a[href^="/ads/about/?"])
-web.facebook.com,www.facebook.com##+js(json-edit, ..data.viewer..nodes.*[?.__typename=="AdsSideFeedUnit"])
+web.facebook.com,www.facebook.com##+js(json-edit, ..data.viewer..nodes.*[?.__typename=="AdsSideFeedUnit"], matches, AdsSideFeedUnit)
 web.facebook.com,www.facebook.com##+js(json-edit, ..node[?.*.__typename=="SponsoredData"], matches, '/^.{1000,}/')
-web.facebook.com,www.facebook.com##+js(json-edit, ..node[?.__typename=="MarketplaceFeedAdStory"])
-web.facebook.com,www.facebook.com##+js(json-edit, ..nodes.*[?.sponsored_data])
+web.facebook.com,www.facebook.com##+js(json-edit, ..node[?.__typename=="MarketplaceFeedAdStory"], matches, MarketplaceFeedAdStory)
+web.facebook.com,www.facebook.com##+js(json-edit, ..nodes.*[?.sponsored_data], matches, sponsored_data)
 web.facebook.com,www.facebook.com##+js(json-prune, require.0.3.0.__bbox.require.[].3.1.__bbox.result.data.marketplace_search.feed_units.edges.[-].node.story.sponsored_data.ad_id)
 web.facebook.com,www.facebook.com##+js(json-prune, require.0.3.0.__bbox.require.[].3.1.__bbox.result.data.node, require.0.3.0.__bbox.require.[].3.1.__bbox.result.data.node.story.sponsored_data.ad_id)
 web.facebook.com,www.facebook.com##+js(json-prune, require.0.3.0.__bbox.require.[].3.1.__bbox.result.data.serpResponse.results.edges.[-].relay_rendering_strategy.view_model.story.sponsored_data.ad_id)
