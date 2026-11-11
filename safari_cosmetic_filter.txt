@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-11-10 10:52:58
-! Косметических правил: 52097
+! Updated: 2026-11-11 10:31:55
+! Косметических правил: 52106
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -139,7 +139,7 @@
 10news.com,3newsnow.com,abc15.com,aboutamazon.co.uk,aboutamazon.com,aboutamazon.de,aboutamazon.it,adn40.mx,chronicle.com,denver7.com,deseret.com,fox13now.com,fox17online.com,fox47news.com,fox4now.com,iowapublicradio.org,katc.com,kcur.org,kgun9.com,kivitv.com,kjrh.com,kpax.com,kristv.com,krtv.com,ksby.com,kshb.com,ktnv.com,ktvh.com,ktvq.com,kxlf.com,kxlh.com,kxxv.com,kztv10.com,laist.com,lex18.com,nbc26.com,nepm.org,news5cleveland.com,newschannel5.com,suntimes.com,tampabay28.com,telemundocc.com,tmj4.com,turnto23.com,tv20detroit.com,tvazteca.com,vanidades.com,washingtonexaminer.com,wcpo.com,wgbh.org,wkbw.com,wmar2news.com,wptv.com,wrtv.com,wsfltv.com,wtkr.com,wtvr.com,wtxl.com,wxyz.com##.ActionBar
 10short.*,mamahawa.com,lollty.pro##+js(nano-sib, timer, *, 0.001)
 10short.*,mamahawa.com,lollty.pro##.text-left
-10starhd.*,animeflv.net,anysex.com,cheatermad.com,downloadpirate.com,drop.download,dx-tv.com,embed.casa,exee.app,fapeza.com,fileditchfiles.me,fileone.tv,films5k.com,gcloud.live,hdss.*,hdtoday.cc,hentai2read.com,hentaihd.*,imx.to,javstream.top,kaa.lt,luluvdo.com,mavplay.*,moviesflix.*,muchohentai.com,ouo.*,pelisflix20.*,projectfreetv.*,qdembed.com,safefileku.com,sharelink-1.site,sieutamphim.org,stbemuiptv.com,steamverde.net,streamvid.net,ujav.me,videobb.*,voirseries.*##+js(acs, globalThis, break;case)
+10starhd.*,animeflv.net,anysex.com,cheatermad.com,downloadpirate.com,drop.download,dx-tv.com,embed.casa,exee.app,fapeza.com,fileditchfiles.me,fileone.tv,films5k.com,gcloud.live,hdss.*,hdtoday.cc,hentai2read.com,hentaihd.*,imx.to,javstream.top,kaa.lt,luluvdo.com,mavplay.*,moviesflix.*,muchohentai.com,ouo.*,pelisflix20.*,projectfreetv.*,qdembed.com,safefileku.com,sharelink-1.site,sieutamphim.org,stbemuiptv.com,steamverde.net,streamvid.net,ujav.me,videobb.*,voirseries.*,yupflix.com,yupflix.org##+js(acs, globalThis, break;case)
 10tv.com##+js(aeld, mouseout)
 10tv.com,11alive.com,12news.com,12newsnow.com,13newsnow.com,13wmaz.com,2822news.com,5newsonline.com,8newsnow.com,9news.com,abc10.com,abc27.com,abc4.com,abc4westmichigan.com,bigcountryhomepage.com,binghamtonhomepage.com,carolinascw.com,cbs17.com,cbs19.tv,cbs42.com,cbs8.com,cenlanow.com,ciproud.com,cnyhomepage.com,conchovalleyhomepage.com,counton2.com,cw23.com,cw33.com,cw39.com,cw7az.com,cwarkansas.com,daytonscw.com,dcnewsnow.com,everythinglubbock.com,firstcoastnews.com,fourstateshomepage.com,fox16.com,fox21news.com,fox23albany.com,fox2now.com,fox40.com,fox43.com,fox44news.com,fox4kc.com,fox51.com,fox56news.com,fox59.com,foxprovidence.com,freedom43tv.com,gulfcoastcw.com,informnny.com,kagstv.com,kare11.com,kbvotv.com,kcentv.com,kdvr.com,keloland.com,kens5.com,ketk.com,kfor.com,kget.com,kgw.com,khon2.com,khou.com,kiiitv.com,king5.com,klfy.com,koin.com,kold.com,krem.com,kron4.com,krqe.com,ksdk.com,ksn.com,ksnt.com,ktalnews.com,ktla.com,ktsm.com,ktvb.com,kusi.com,kvue.com,kwbq.com,kwgn.com,kxan.com,kxnet.com,localdvm.com,localmemphis.com,localsyr.com,louisianafirstnews.com,myarklamiss.com,mychamplainvalley.com,myfox8.com,myfoxzone.com,myhighplains.com,mypanhandle.com,mystateline.com,mytwintiers.com,mywabashvalley.com,news10.com,newscentermaine.com,newswest9.com,nwahomepage.com,ourquadcities.com,ozarksfirst.com,phl17.com,pix11.com,qcnews.com,rochesterfirst.com,rocketcitynow.com,siouxlandproud.com,snntv.com,telemundobakersfield.com,texomashomepage.com,thecwaustin.com,thv11.com,tristatehomepage.com,valleycentral.com,virginiafirst.com,wane.com,wate.com,wavy.com,wbir.com,wbnx.com,wboy.com,wbtw.com,wcia.com,wcnc.com,wdhn.com,wdtn.com,wearegreenbay.com,weareiowa.com,wearewvproud.com,westernslopenow.com,wfaa.com,wfmynews2.com,wfxrtv.com,wgno.com,wgntv.com,wgrz.com,whas11.com,whlt.com,whnt.com,who13.com,wiproud.com,wivb.com,wjbf.com,wjhl.com,wjtv.com,wkbn.com,wkrg.com,wkrn.com,wkyc.com,wlns.com,wltx.com,wnct.com,wnep.com,woodtv.com,wowktv.com,wpri.com,wqad.com,wrbl.com,wreg.com,wric.com,wsav.com,wsavcw.com,wspa.com,wtaj.com,wthr.com,wtnh.com,wtol.com,wtrf.com,wtsp.com,wusa9.com,wvnstv.com,wwlp.com,wwltv.com,wytv.com,wzzm13.com,yourbasin.com,yourbigsky.com,yourcentralvalley.com,yourerie.com##+js(rmnt, script, /admiral|\[\]\)\.push\(arguments\)/, excludes, \,\")
 10tv.com,11alive.com,12news.com,13newsnow.com,5newsonline.com,9news.com,abc10.com,abc15.com,ajc.com,cbs8.com,firstcoastnews.com,fox2now.com,fox61.com,kare11.com,kens5.com,khou.com,king5.com,ksdk.com,newscentermaine.com,timesofindia.indiatimes.com,wbir.com,wcnc.com,wfaa.com,wfmynews2.com,wgrz.com,whas11.com,winnipegfreepress.com,wiz.io,wkyc.com,wltx.com,wnep.com,wqad.com,wsvn.com,wthr.com,wtol.com,wtsp.com,wusa9.com,wwltv.com,wzzm13.com##+js(aeld, /^(mouseout|mouseleave)$/)
@@ -724,7 +724,6 @@
 3dnews.ru##.article > .onadlable
 3dnews.ru##.article > .onadlable ~ .js-mediator-article a[href]:not([href^="/"]):not([href^="#"]):not([href*="3dnews."]):style(pointer-events: none !important; text-decoration: none !important; color: inherit !important)
 3dnews.ru##.newybtn
-3dnews.ru##.ps-promo
 3dnews.ru##.uni_subscribtion_form
 3dnews.ru##body > .ui-corner-all.ui-widget
 3dnews.ru##video[autoplay="autoplay"]:remove-attr(autoplay)
@@ -1589,9 +1588,9 @@ adala-news.fr###eazy_ad_unblocker_dialog-message
 adalo.com###consentPopup
 adamequipment.com###fl_menu
 adata.com###chk_remark
+adblockeronstape.*,adblockplustape.*,adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,adblocktape.*,advertape.net,advertisertape.com,advtpe.com,antiadtape.*,gettapeads.com,noblocktape.*,stapadblockuser.*,stape.*,strcloud.*,streamadblocker.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,strtapeadblocker.*,strtpe.*,tapeadsenjoyer.com,tapeadvertisement.com,tapeantiads.com,tapeblocker.com,tapelovesads.org,tapenoads.com,tapepops.com,tapewithadblock.org,watchadsontape.com##+js(nosiif, adblock)
 adblockeronstape.*,adblockplustape.*,adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,adblocktape.*,advertape.net,advertisertape.com,antiadtape.*,gettapeads.com,noblocktape.*,stapadblockuser.*,stape.*,strcloud.*,streamadblocker.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,strtapeadblocker.*,strtpe.*,tapeadsenjoyer.com,tapeadvertisement.com,tapeantiads.com,tapeblocker.com,tapelovesads.org,tapenoads.com,tapepops.com,tapewithadblock.org,tpead.net,watchadsontape.com##+js(rmnt, script, /WebAssembly|forceunder/)
 adblockeronstape.*,adblockplustape.*,adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,adblocktape.*,advertape.net,advertisertape.com,antiadtape.*,gettapeads.com,noblocktape.*,stapadblockuser.*,stape.*,strcloud.*,streamadblocker.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,strtapeadblocker.*,strtpe.*,tapeadsenjoyer.com,tapeadvertisement.com,tapeantiads.com,tapeblocker.com,tapelovesads.org,tapenoads.com,tapepops.com,tapewithadblock.org,tpead.net,watchadsontape.com##^script:has-text(/WebAssembly|forceunder/)
-adblockeronstape.*,adblockplustape.*,adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,adblocktape.*,advertape.net,advertisertape.com,antiadtape.*,gettapeads.com,noblocktape.*,stapadblockuser.*,stape.*,strcloud.*,streamadblocker.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,strtapeadblocker.*,strtpe.*,tapeadsenjoyer.com,tapeadvertisement.com,tapeantiads.com,tapeblocker.com,tapelovesads.org,tapenoads.com,tapepops.com,tapewithadblock.org,watchadsontape.com##+js(nosiif, adblock)
 adblockeronstape.*,adblockplustape.*,adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,advertape.net,advertisertape.com,antiadtape.*,gettapeads.com,noblocktape.*,shavetape.*,stapadblockuser.*,stape.*,strcloud.*,streamadblocker.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblock.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,strtapeadblocker.*,strtapewithadblock.*,strtpe.*,tapeadsenjoyer.com,tapeadvertisement.com,tapeantiads.com,tapeblocker.com,tapelovesads.org,tapenoads.com,tapepops.com,tapewithadblock.org,watchadsontape.com##+js(aopr, Adcash)
 adblockeronstape.*,adblockplustape.*,adblockstreamtape.*,adblockstrtape.*,adblockstrtech.*,advertape.net,advertisertape.com,antiadtape.*,gettapeads.com,noblocktape.*,shavetape.*,stapadblockuser.*,stape.*,strcloud.*,streamadblocker.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblock.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,strtapeadblocker.*,strtapewithadblock.*,strtpe.*,tapeadsenjoyer.com,tapeadvertisement.com,tapeantiads.com,tapeblocker.com,tapelovesads.org,tapenoads.com,tapepops.com,tapewithadblock.org,watchadsontape.com##+js(nowoif)
 adblockeronstape.*,adblockplustape.*,adblocktape.*,advertape.net,advertisertape.com,antiadtape.*,gettapeads.com,noblocktape.*,shavetape.*,stapadblockuser.*,strcloud.*,streamadblockplus.*,streamnoads.com,streamta.*,streamtape.*,streamtapeadblockuser.*,strtape.*,strtapeadblock.*,tapeadsenjoyer.com,tapeadvertisement.com,tapeantiads.com,tapeblocker.com,tapelovesads.org,tapenoads.com,tapepops.com,tapewithadblock.org,watchadsontape.com##+js(nano-stb, counter)
@@ -1844,8 +1843,8 @@ adventuregamestudio.co.uk###cookies
 adventureinsel.de##.infobox
 adventurespiele.net##+js(set-local-storage-item, dataProtectionInfoAccepted, true)
 adventuretime.ru,anime-free.ru,hardwareluxx.ru,internet-technologies.ru,kisameev.ru,nowa.cc,trymobile.ru##iframe[src*="://yoomoney.ru/"]
-advertape.net,strcloud.in,streamta.site,streamtape.*,tapepops.com,watchadsontape.com##+js(rpnt, script, /\$\(['"]\.play-overlay['"]\)\.click.+/s, document.getElementById("mainvideo").src=srclink;player.currentTrack=0;})}), condition, srclink)
-advertape.net,strcloud.in,streamta.site,streamtape.*,tapepops.com,watchadsontape.com##.play-overlay
+advertape.net,advtpe.com,strcloud.in,streamta.site,streamtape.*,tapepops.com,watchadsontape.com##+js(rpnt, script, /\$\(['"]\.play-overlay['"]\)\.click.+/s, document.getElementById("mainvideo").src=srclink;player.currentTrack=0;})}), condition, srclink)
+advertape.net,advtpe.com,strcloud.in,streamta.site,streamtape.*,tapepops.com,watchadsontape.com##.play-overlay
 advertiserandtimes.co.uk###nagBG
 advertiserandtimes.co.uk##+js(nostif, enforceAdStatus)
 advertiserandtimes.co.uk##.MPU
@@ -5167,8 +5166,8 @@ azestforlife.com##.fca_eoi_featherlight
 azfamily.com,bolde.com,walb.com##.google-source-button
 aziendasicura.net###FrstCksDiv
 azimutyachts.cz##.floatFooter
-azlyrics.com,euronews.com,fragrantica.com,izurvive.com,kprofiles.com,nationalreview.com,nextchessmove.com,relogioonline.com.br,reneweconomy.com.au,vclock.com##+js(rmnt, script, /HTMLIFrameElement|JSON\[|_contentWindow/, excludes, self.__next)
-azlyrics.com,forums.hfboards.com,forums.sherdog.com,fragrantica.com,fujirumors.com,inquirer.com,nationalreview.com,onlineradiobox.com,personality-database.com,royaleapi.com,tapology.com,time.is,tracklock.gg,tvpassport.com,tvtv.ca##+js(rmnt, script, reviveScroll, excludes, self.__next)
+azlyrics.com,euronews.com,fragrantica.com,izurvive.com,kprofiles.com,nationalreview.com,nextchessmove.com,relogioonline.com.br,reneweconomy.com.au,telegraph.co.uk,vclock.com##+js(rmnt, script, /HTMLIFrameElement|JSON\[|_contentWindow/, excludes, self.__next)
+azlyrics.com,forums.hfboards.com,forums.sherdog.com,fragrantica.com,fujirumors.com,globe.adsbexchange.com,inquirer.com,nationalreview.com,onlineradiobox.com,personality-database.com,royaleapi.com,tapology.com,time.is,tracklock.gg,tvpassport.com,tvtv.ca##+js(rmnt, script, reviveScroll, excludes, self.__next)
 azmath.info,azsoft.*,expertvn.com##+js(aeld, DOMContentLoaded, document.documentElement.lang.toLowerCase)
 azmath.info,azsoft.*,expertvn.com##+js(aopr, SMart1)
 azmath.info,azsoft.*,expertvn.com##+js(noeval-if, chp_ad)
@@ -9004,6 +9003,9 @@ checkmyfile.com###messageBanner
 checkpoint.com###notification
 checkrobin.com###privacybox
 checkthatcar.com##.csent
+checktls.com##+js(set, adsbygoogle, {})
+checktls.com##+js(set, adsbygoogle.loaded, true)
+checktls.com##+js(set, google_tag_manager, {})
 checkwx.com##+js(set-cookie, cookieshown, 1)
 checkyourmath.com##.consent, #consent
 checkyourmath.com,techonthenet.com##.article_footer
@@ -10070,7 +10072,7 @@ comedy-radio.ru,radioromantika.ru,relax-fm.ru,veseloeradio.ru##+js(abort-on-prop
 comelelettroforniture.it##body > div[id^="kitgdpr"]
 comentariodetexto.com##+js(aeld, DOMContentLoaded, adsBlocked)
 comentariodetexto.com##+js(no-xhr-if, googlesyndication)
-comeumamao.monster,rdembed.*,repositoratacadao.cyou##+js(aeld, click, pop_)
+comeumamao.monster,penterosa.lat,rdembed.*,repositoratacadao.cyou##+js(aeld, click, pop_)
 comfortclick.com##.footer ~ div
 comfortoneshoes.com,getrawnutrition.com,groovelife.com,mypatriotsupply.com,myvidaorigins.com,revivesups.com###ps__widget_container
 comfy.ua,silver.ru##.header-banner
@@ -11162,7 +11164,6 @@ cyberleninka.ru##.donate-link
 cyberleninka.ru#?#.infoblock > .full:-abp-has(> .bibloid_serp_ann)
 cyberleninka.ru#?#.infoblock > .half > .title:-abp-contains(Поделиться)
 cybermap.kaspersky.com###footer_social_channels
-cybernews.com##.tools-block
 cybernews.com##aside[data-e="popupEvent"]
 cybernews.com##body:style(overflow: auto !important;)
 cybernews.com,game-news24.com,manilatimes.net,vogelbescherming.nl##.scroll-up
@@ -18849,6 +18850,7 @@ gfx-station.com##+js(aeld, DOMContentLoaded, antiAdBlockerHandler)
 gfx-station.com##.ad-container
 gfycat.com##.toast-notification[class*="privacy"], .announcement-banner
 gg.deals##+js(rmnt, style, page-feature)
+gg.deals##.flash-container-wrapper
 ggeguide.com##+js(acs, document.oncontextmenu)
 ggeguide.com##+js(aopr, disableSelection)
 ggintegral.fr.nf##body > div:not([id]):not([class])
@@ -19396,6 +19398,7 @@ goodnes.com##.paragraph--type--gdn-newsletter-ii
 goodnet.org##.article_like
 goodram.com,tass.ru##+js(set-local-storage-item, consentCookie, true)
 goodreads.com##+js(set-cookie, blocking_sign_in_interstitial, true)
+goodreads.com##.AdspAdContainer
 goodreturns.in##.gd-newsletter-subscribe-box-outer
 goodreturns.in##.gd-newsletter-subscribe-container
 goodreturns.in##.gd-newsletter-subscribe-sharelinks
@@ -21058,6 +21061,7 @@ hiya.com##.cookie
 hjheinz.de##body > div:not([id]):not([class])
 hk.yahoo.com###main-bottom:style(margin-top: 164px !important;)
 hk01.com##+js(remove-cookie, /_pk_id|hk01_annonymous_id/, when, scroll keydown)
+hk01.com##+js(trusted-json-edit, .runtimeConfig.enableShieldScript=false)
 hk01.com##+js(trusted-replace-argument, String.prototype.includes, 0, , condition, preview-cms)
 hkemobility.gov.hk##+js(rc, smartbanner-show, html)
 hket.com##.app-redirect-panel
@@ -23356,9 +23360,9 @@ jacquieetmicheltv.net,jacquieetmicheltv2.net##html[data-orlock-url]:remove-attr(
 jagermeister.com##.absolute.left-0.top-0.isolate.flex.h-fit.min-h-full.w-full.items-center.justify-center
 jaginfo.org,jaguarforum.com,jaguarxeforum.com,jdfanatics.com,jeepcherokeeclub.com,jeepcommander.com,jeepevforum.com,jeepforum.com,jeepgarage.org,jeeppatriot.com,jeeprenegadeforum.com,jeeptrackhawk.org,jemsite.com,jettajunkie.com,jkowners.com,jockeyjournal.com,jpaceforum.com,jukeforums.co.uk,jukeforums.com,jukeownersclub.co.uk,justlabradors.com##+js(rmnt, script, html-load.com)
 jagledam.*##+js(aeld, contextmenu)
+jagledam.*##+js(rmnt, script, offsetHeight)
 jagledam.*##+js(set, HTMLDivElement.prototype.oncontextmenu, null)
 jagledam.*##+js(set, document.oncontextmenu, null)
-jagledam.com##+js(rmnt, script, offsetHeight)
 jagoanssh.com##+js(nosiif, visibility, 1000)
 jagonews24.com##.postslide
 jagran.com##.ads
@@ -24353,6 +24357,7 @@ kg-portal.ru##.target_patreon
 kg-portal.ru##.ten_ears_wrap:style(margin-top: 0 !important; background-color: #a5a5a5 !important)
 kg-portal.ru##.ten_topbar + div:not(.ten_ears_wrap)
 kg-portal.ru##.ten_topbar:style(max-height: 10px !important)
+kg-portal.ru##.uni_player > .center > .tabs > .nosel
 kg-portal.ru##body > .menu_wrap:style(position: relative !important)
 kg-portal.ru##body:style(background-image: none !important; background-color: inherit !important)
 kg-portal.ru#?#div[style^="font-size:"]:-abp-contains(Поделиться:)
@@ -38210,7 +38215,7 @@ rutube.ru##body.wdp-scroll .wdp-popup-overlay-module__overlay [class*=" wdp-onbo
 rutube.ru##body.wdp-scroll .wdp-popup-overlay-module__overlay [class*="-view-trigger-popup"]
 rutube.ru##body.wdp-scroll .wdp-popup-overlay-module__overlay:has(> [class*=" wdp-onboardings-inventory-"][class*="-module__popup "])
 rutube.ru##body.wdp-scroll .wdp-popup-overlay-module__overlay:has(> [class*="-view-trigger-popup"])
-rutube.ru##body.wdp-scroll:style(overflow-y: auto !important)
+rutube.ru##body.wdp-scroll:style(overflow-y: auto !important; touch-action: auto !important)
 rutube.ru##div[class^="app-download-default-banner-module__appDownloadPopup"]
 rutube.ru##div[class^="freyja_char-share-url__buttons"]
 rutube.ru##div[class^="share-button-module__shareWrapper_"]
@@ -38269,6 +38274,7 @@ s.tabelog.com##body,html:style(overflow-y: auto !important;)
 s0ft4pc.com##+js(no-fetch-if, doubleclick, length:10,  {"type":"cors"})
 s0ft4pc.com##+js(no-xhr-if, doubleclick, length:10)
 s0urce.io##+js(aeld, /^(contextmenu|copy)$/)
+s1000rrforum.com,s10forum.com,saabcentral.com,saablink.net,saabscene.com,sailnet.com,salmonfishingforum.com,santacruzforums.com,santafeforums.com,sarforums.com,saturnoutlookforum.net,savanaforum.com,saxontheweb.net,sb9t.com,scioniaforum.com,scionimforum.com,scirocconet.co.uk,scoutmotorsforum.com,scr950forum.com,scramblerforum.com,seadoospark.org,seat-forum.co.uk,seatroutforum.com,segwayforums.com,seltosforum.com,serial1forum.com,shercoforums.com,shipsnostalgia.com,shootersforum.com,shootingworld.com,shotgunforums.com,shotgunworld.com,sidexsideworld.com,siennachat.com,sierraevforum.com,sigarms556.com,sigtalk.com,silveradocheyenne.org,silveradoevforum.com,silveradosierra.com,skincaretalk.com,skylineowners.com,skyroadster.com,skyscrapercity.com,slatedroid.com,slateownersforum.com,slingshotforum.com,slingshotforums.com,slkworld.com,slotforum.com,smartcarofamerica.com,smartevforum.com,smithandwessonforums.com,smokinvette.com,snackfora.com,sniperforums.com,snowblowerforum.com,snowboardingforum.com,snowmobilefanatics.com,snowmobileforum.com,snowmobileworld.com,snowplowforums.com,socialanxietysupport.com,solanforum.com,solsticeforum.com,solterraforum.com,sonataforums.com,sonymobilityforum.com,sparktalk.com,speakev.com,specialstage.com,speedwake.com,speedzilla.com,speypages.com,spoiledmaltese.com,sportbikes.net,sportbikeworld.com,springfieldforum.com,spyderchat.com,spydertalk.com,sr20forum.com,srt10forum.com,srt4mation.com,srtforums.com,ssforums.com,ssrfanatic.com,starbikeforums.com,starlinktalk.com,stdrivers.co.uk,stelvioforum.com,stevesnovasite.com,steyrclub.com,stingerforums.com,stingrayforums.com,stormtrakforum.com,stratolinerdeluxe.com,streetfighterv2forum.com,stripers247.com,stromerforum.com,stromtrooper.com,subarubrzforum.com,subaruforester.org,subaruoutback.org,subaruxvforum.com,superhonda.com,supermotojunkie.com,supra6.com,supraforums.com,survivalistboards.com,suzuki-forums.com,suzuki-forums.net,suzukiatvforums.com,suzukicentral.com,sv-portal.com,svrider.com,swedespeed.com##+js(ra, onerror, script[id][onerror], asap, quitAfter, 10)
 s1000rrforum.com,s10forum.com,saabcentral.com,saablink.net,saabscene.com,sailnet.com,salmonfishingforum.com,santacruzforums.com,santafeforums.com,sarforums.com,saturnoutlookforum.net,savanaforum.com,saxontheweb.net,sb9t.com,scioniaforum.com,scionimforum.com,scirocconet.co.uk,scoutmotorsforum.com,scr950forum.com,scramblerforum.com,seadoospark.org,seat-forum.co.uk,seatroutforum.com,segwayforums.com,seltosforum.com,serial1forum.com,shercoforums.com,shipsnostalgia.com,shootersforum.com,shootingworld.com,shotgunforums.com,shotgunworld.com,sidexsideworld.com,siennachat.com,sierraevforum.com,sigarms556.com,sigtalk.com,silveradocheyenne.org,silveradoevforum.com,silveradosierra.com,skincaretalk.com,skylineowners.com,skyroadster.com,skyscrapercity.com,slatedroid.com,slateownersforum.com,slingshotforum.com,slingshotforums.com,slkworld.com,slotforum.com,smartcarofamerica.com,smartevforum.com,smithandwessonforums.com,smokinvette.com,snackfora.com,sniperforums.com,snowblowerforum.com,snowboardingforum.com,snowmobilefanatics.com,snowmobileforum.com,snowmobileworld.com,snowplowforums.com,socialanxietysupport.com,solanforum.com,solsticeforum.com,solterraforum.com,sonataforums.com,sonymobilityforum.com,sparktalk.com,speakev.com,specialstage.com,speedwake.com,speedzilla.com,speypages.com,spoiledmaltese.com,sportbikes.net,sportbikeworld.com,springfieldforum.com,spyderchat.com,spydertalk.com,sr20forum.com,srt10forum.com,srt4mation.com,srtforums.com,ssforums.com,ssrfanatic.com,starbikeforums.com,starlinktalk.com,stdrivers.co.uk,stelvioforum.com,stevesnovasite.com,steyrclub.com,stingerforums.com,stingrayforums.com,stormtrakforum.com,stratolinerdeluxe.com,streetfighterv2forum.com,stripers247.com,stromerforum.com,stromtrooper.com,subarubrzforum.com,subaruforester.org,subaruoutback.org,subaruxvforum.com,superhonda.com,supermotojunkie.com,supra6.com,supraforums.com,survivalistboards.com,suzuki-forums.com,suzuki-forums.net,suzukiatvforums.com,suzukicentral.com,sv-portal.com,svrider.com,swedespeed.com##+js(rmnt, script, html-load.com)
 s13.ru##.megasocial
 s13.ru##body > .wrapper:style(top: 0 !important)
@@ -40462,8 +40468,9 @@ socialistworker.co.uk##.gform_fields
 socialitelife.com##.mfp-ready
 sociall.io##mat-dialog-container
 socialmediagirls.com##+js(nowoif)
-socialxup.com##+js(aeld, click, [native code])
-socialxup.com##:not(a):matches-css(cursor:pointer):xpath(div[not(ancestor::a)])
+socialxup.com##+js(aeld, click, /\[native code\]|^\s*e\s*=>\s*.+\(\s*e\s*\)\s*$/)
+socialxup.com##:not(a):matches-css(cursor:pointer):upward(1):xpath(div[not(ancestor::a)])
+socialxup.com##span:matches-css(cursor:pointer):empty
 societapiemonteseautomobili.com##.banner, #banner
 societegenerale.fr###c-message
 societegenerale.rs###sgs_cookie
@@ -42976,6 +42983,7 @@ telegraph.co.uk##+js(set, _satellite, {})
 telegraph.co.uk##+js(set, _satellite.getVisitorId, noopFunc)
 telegraph.co.uk##.martech-newsletter-unit
 telegraph.co.uk##.onward-journey
+telegraph.co.uk##^script[data-test="ad-shield"]
 telegraphindia.com##.astkysharebox
 telegraphindia.com##.followusbox
 telehit.com##.Privacy.Telehit
@@ -47696,11 +47704,11 @@ voe-unblock.com##+js(acs, console.clear)
 voe.sx,maxfinishseveral.com##+js(nowoif)
 voe.sx,voe-unblock.com##+js(aeld, /keydown|keyup/, keyCode)
 voe.sx,voe-unblock.com##+js(aeld, contextmenu)
-voe.sx>>,anihq.org>>,aniworld.to>>,bestbondagevideos.com>>,embed.tmp-url.pro>>,filmifen.com>>,filmo.to>>,hogtiehub.com>>,javboys.tv>>,nupload.top>>,playarcady.com>>,s.to>>,supjav.com>>,seriesflixhd.*>>,~addtoany.com,~cloudflare.com,~facebook.com,~fastly.net,~twitter.com##+js(acs, WebAssembly, atob)
-voe.sx>>,anihq.org>>,aniworld.to>>,bestbondagevideos.com>>,embed.tmp-url.pro>>,filmifen.com>>,filmo.to>>,hogtiehub.com>>,javboys.tv>>,nupload.top>>,playarcady.com>>,s.to>>,supjav.com>>,seriesflixhd.*>>,~addtoany.com,~cloudflare.com,~facebook.com,~fastly.net,~twitter.com##+js(acs, globalThis, break;case)
-voe.sx>>,anihq.org>>,aniworld.to>>,bestbondagevideos.com>>,embed.tmp-url.pro>>,filmifen.com>>,filmo.to>>,hogtiehub.com>>,javboys.tv>>,nupload.top>>,playarcady.com>>,s.to>>,supjav.com>>,seriesflixhd.*>>,~addtoany.com,~cloudflare.com,~facebook.com,~fastly.net,~twitter.com##+js(nowoif)
-voe.sx>>,anihq.org>>,aniworld.to>>,bestbondagevideos.com>>,embed.tmp-url.pro>>,filmifen.com>>,filmo.to>>,hogtiehub.com>>,javboys.tv>>,nupload.top>>,playarcady.com>>,s.to>>,supjav.com>>,seriesflixhd.*>>,~addtoany.com,~cloudflare.com,~facebook.com,~fastly.net,~twitter.com##+js(set, console.clear, undefined)
-voe.sx>>,anihq.org>>,aniworld.to>>,bestbondagevideos.com>>,embed.tmp-url.pro>>,filmifen.com>>,filmo.to>>,hogtiehub.com>>,javboys.tv>>,nupload.top>>,playarcady.com>>,s.to>>,supjav.com>>,seriesflixhd.*>>,~addtoany.com,~cloudflare.com,~facebook.com,~fastly.net,~twitter.com##+js(trusted-json-edit, .check=false)
+voe.sx>>,anihq.org>>,aniworld.to>>,bestbondagevideos.com>>,embed.tmp-url.pro>>,filmifen.com>>,filmo.to>>,hogtiehub.com>>,javboys.tv>>,nupload.top>>,playarcady.com>>,roshy.tv>>,s.to>>,supjav.com>>,seriesflixhd.*>>,~addtoany.com,~cloudflare.com,~facebook.com,~fastly.net,~twitter.com##+js(acs, WebAssembly, atob)
+voe.sx>>,anihq.org>>,aniworld.to>>,bestbondagevideos.com>>,embed.tmp-url.pro>>,filmifen.com>>,filmo.to>>,hogtiehub.com>>,javboys.tv>>,nupload.top>>,playarcady.com>>,roshy.tv>>,s.to>>,supjav.com>>,seriesflixhd.*>>,~addtoany.com,~cloudflare.com,~facebook.com,~fastly.net,~twitter.com##+js(acs, globalThis, break;case)
+voe.sx>>,anihq.org>>,aniworld.to>>,bestbondagevideos.com>>,embed.tmp-url.pro>>,filmifen.com>>,filmo.to>>,hogtiehub.com>>,javboys.tv>>,nupload.top>>,playarcady.com>>,roshy.tv>>,s.to>>,supjav.com>>,seriesflixhd.*>>,~addtoany.com,~cloudflare.com,~facebook.com,~fastly.net,~twitter.com##+js(nowoif)
+voe.sx>>,anihq.org>>,aniworld.to>>,bestbondagevideos.com>>,embed.tmp-url.pro>>,filmifen.com>>,filmo.to>>,hogtiehub.com>>,javboys.tv>>,nupload.top>>,playarcady.com>>,roshy.tv>>,s.to>>,supjav.com>>,seriesflixhd.*>>,~addtoany.com,~cloudflare.com,~facebook.com,~fastly.net,~twitter.com##+js(set, console.clear, undefined)
+voe.sx>>,anihq.org>>,aniworld.to>>,bestbondagevideos.com>>,embed.tmp-url.pro>>,filmifen.com>>,filmo.to>>,hogtiehub.com>>,javboys.tv>>,nupload.top>>,playarcady.com>>,roshy.tv>>,s.to>>,supjav.com>>,seriesflixhd.*>>,~addtoany.com,~cloudflare.com,~facebook.com,~fastly.net,~twitter.com##+js(trusted-json-edit, .check=false)
 voeazul.com.br##.az_cookie
 voedingswaardetabel.nl##*:style(-webkit-touch-callout: auto !important; -moz-touch-callout: auto !important; -ms-touch-callout: auto !important; -o-touch-callout: auto !important; touch-callout: auto !important; -webkit-user-select: auto !important; -moz-user-select: auto !important; -ms-user-select: auto !important; -o-user-select: auto !important; user-select: auto !important; -ms-touch-action: auto)
 voedingswaardetabel.nl##+js(set, document.oncontextmenu, null)
@@ -51068,6 +51076,7 @@ yummy-ani.me,yummyani.me##footer > .container > .one-block:first-child
 yumstories.com##+js(aopr, document.dispatchEvent)
 yunexpress.com##.Cookie-wrapper
 yunjiema.top##+js(rmnt, script, adb)
+yupflix.com,yupflix.org##+js(rmnt, script, bait)
 yuque.com##+js(aeld, copy)
 yusepjaelani.blogspot.com###showadblock, .modal-backdrop
 yusepjaelani.blogspot.com##+js(aopr, document.onkeydown)
