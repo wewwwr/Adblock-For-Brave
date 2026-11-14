@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-11-13 10:43:15
-! Косметических правил: 52118
+! Updated: 2026-11-14 09:56:58
+! Косметических правил: 52128
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -169,6 +169,7 @@
 112markiezaten.nl##.nieuws_delen
 112press.hu###cookie-law
 116.ru,14.ru,161.ru,164.ru,173.ru,178.ru,26.ru,29.ru,35.ru,43.ru,45.ru,48.ru,51.ru,53.ru,56.ru,59.ru,60.ru,63.ru,68.ru,71.ru,72.ru,74.ru,76.ru,86.ru,89.ru,93.ru,chita.ru,e1.ru,fontanka.ru,ircity.ru,izh1.ru,mgorsk.ru,msk1.ru,ngs.ru,ngs22.ru,ngs24.ru,ngs42.ru,ngs55.ru,ngs70.ru,nn.ru,sochi1.ru,sterlitamak1.ru,tolyatty.ru,ufa1.ru,v1.ru,vladivostok1.ru,voronezh1.ru,ya62.ru##+js(set-local-storage-item, UMP_CONSENT_NOTIFICATION, true)
+116.ru,14.ru,161.ru,164.ru,173.ru,178.ru,26.ru,29.ru,35.ru,43.ru,45.ru,48.ru,51.ru,53.ru,56.ru,59.ru,60.ru,63.ru,68.ru,71.ru,72.ru,74.ru,76.ru,86.ru,89.ru,93.ru,chita.ru,e1.ru,fontanka.ru,ircity.ru,izh1.ru,mgorsk.ru,msk1.ru,ngs.ru,ngs22.ru,ngs24.ru,ngs42.ru,ngs55.ru,ngs70.ru,nn.ru,sochi1.ru,sterlitamak1.ru,tolyatty.ru,ufa1.ru,v1.ru,vladivostok1.ru,voronezh1.ru,ya62.ru#?#div[class^="announcementList_"] > div[class^="wrap_"]:-abp-has(> div[class*=" advMark_"])
 116.ru,14.ru,161.ru,164.ru,173.ru,178.ru,26.ru,29.ru,35.ru,43.ru,45.ru,48.ru,51.ru,53.ru,56.ru,59.ru,60.ru,63.ru,68.ru,71.ru,72.ru,74.ru,76.ru,86.ru,89.ru,93.ru,chita.ru,e1.ru,ircity.ru,izh1.ru,mgorsk.ru,msk1.ru,ngs.ru,ngs22.ru,ngs24.ru,ngs42.ru,ngs55.ru,ngs70.ru,nn.ru,sochi1.ru,starhit.ru,sterlitamak1.ru,tolyatty.ru,ufa1.ru,v1.ru,vladivostok1.ru,voronezh1.ru,www.fontanka.ru,ya62.ru##+js(no-xhr-if, /hits/event/, method:POST)
 116.ru,14.ru,161.ru,164.ru,173.ru,178.ru,26.ru,29.ru,35.ru,43.ru,45.ru,48.ru,51.ru,53.ru,56.ru,59.ru,60.ru,63.ru,68.ru,71.ru,72.ru,74.ru,76.ru,86.ru,89.ru,93.ru,chita.ru,e1.ru,ircity.ru,izh1.ru,mgorsk.ru,msk1.ru,ngs.ru,ngs22.ru,ngs24.ru,ngs42.ru,ngs55.ru,ngs70.ru,nn.ru,sochi1.ru,starhit.ru,sterlitamak1.ru,tolyatty.ru,ufa1.ru,v1.ru,vladivostok1.ru,voronezh1.ru,www.fontanka.ru,ya62.ru##+js(set-constant, Object.prototype.autoplay, undefined)
 116.ru,14.ru,161.ru,164.ru,173.ru,178.ru,26.ru,29.ru,35.ru,43.ru,45.ru,48.ru,51.ru,53.ru,56.ru,59.ru,60.ru,63.ru,68.ru,71.ru,72.ru,74.ru,76.ru,86.ru,89.ru,93.ru,chita.ru,e1.ru,ircity.ru,izh1.ru,mgorsk.ru,msk1.ru,ngs.ru,ngs22.ru,ngs24.ru,ngs42.ru,ngs55.ru,ngs70.ru,nn.ru,sochi1.ru,starhit.ru,sterlitamak1.ru,tolyatty.ru,ufa1.ru,v1.ru,vladivostok1.ru,voronezh1.ru,www.fontanka.ru,ya62.ru##+js(set-constant, navigator.sendBeacon, noopFunc)
@@ -304,6 +305,9 @@
 168.ru#?#.footer__block:-abp-has(> .footer__social)
 168chasa.bg###cookie-b
 16honeys.com##+js(set, ckaduMobilePop, noopFunc)
+17.live##div[data-testid="mobileBlock"]:has(> div > div > button[data-ga-event-label="download_app_msite"])
+17.live##div[data-testid="mobileBlock"]:has(> div > div > button[data-ga-event-label="download_app_msite"]) + div > div > nav:style(top: 0 !important;)
+17.live##div[data-testid="mobileBlock"]:has(> div > div > button[data-ga-event-label="download_app_msite"]) + div:style(min-height: 100% !important;)
 173.249.8.3##+js(acs, eval, replace)
 173.249.8.3,188.166.182.72##+js(nowoif)
 1743.ru,gts.tv,newkaliningrad.ru,ntsk.ru,orki.ru,orsk.ru##.soclinks
@@ -898,6 +902,7 @@
 4pda.to,jquery.com,oxymoronical.com,scala-lang.org#@#.signature
 4runner6g.com,bronco6g.com,broncosportforum.com,camaro7g.com,cayenneevforum.com,civicxi.com,cybertruckownersclub.com,dakotaforums.com,ev3forums.com,f150gen14.com,f150lightningforum.com,integraforums.com,jeepgladiatorforum.com,jeepreconforum.com,jlwranglerforums.com,macanevowners.com,macheforum.com,mavericktruckclub.com,mustang6g.com,mustang7g.com,nissanzclub.com,rancheroforum.com,ranger5g.com,ranger6g.com,rivianforums.com,scoutevforum.com,slateforums.com,supramkv.com,tacoma4g.com,taycanforum.com,xterraforum.com##+js(ra, onerror, script[id][onerror], asap, quitAfter, 10)
 4runner6g.com,bronco6g.com,broncosportforum.com,camaro7g.com,cayenneevforum.com,civicxi.com,cybertruckownersclub.com,dakotaforums.com,ev3forums.com,f150gen14.com,f150lightningforum.com,integraforums.com,jeepgladiatorforum.com,jeepreconforum.com,jlwranglerforums.com,macanevowners.com,macheforum.com,mavericktruckclub.com,mustang6g.com,mustang7g.com,nissanzclub.com,rancheroforum.com,ranger5g.com,ranger6g.com,rivianforums.com,scoutevforum.com,slateforums.com,supramkv.com,tacoma4g.com,taycanforum.com,xterraforum.com##+js(rmnt, script, '/:window,|\)\.join\(String\.fromCharCode/')
+4runner6g.com,bronco6g.com,broncosportforum.com,camaro7g.com,cayenneevforum.com,civicxi.com,cybertruckownersclub.com,dakotaforums.com,ev3forums.com,f150gen14.com,f150lightningforum.com,integraforums.com,jeepgladiatorforum.com,jeepreconforum.com,jlwranglerforums.com,macanevowners.com,macheforum.com,mavericktruckclub.com,mustang6g.com,mustang7g.com,nissanzclub.com,rancheroforum.com,ranger5g.com,ranger6g.com,rivianforums.com,scoutevforum.com,slateforums.com,supramkv.com,tacoma4g.com,taycanforum.com,xterraforum.com##+js(rmnt, script, /HTMLIFrameElement|JSON\[|_contentWindow/, excludes, self.__next)
 4runner6g.com,bronco6g.com,broncosportforum.com,camaro7g.com,cayenneevforum.com,civicxi.com,cybertruckownersclub.com,dakotaforums.com,ev3forums.com,f150gen14.com,f150lightningforum.com,integraforums.com,jeepgladiatorforum.com,jeepreconforum.com,jlwranglerforums.com,macanevowners.com,macheforum.com,mavericktruckclub.com,mustang6g.com,mustang7g.com,nissanzclub.com,rancheroforum.com,ranger5g.com,ranger6g.com,rivianforums.com,scoutevforum.com,slateforums.com,supramkv.com,tacoma4g.com,taycanforum.com,xterraforum.com##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, , condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
 4runner6g.com,bronco6g.com,broncosportforum.com,camaro7g.com,cayenneevforum.com,civicxi.com,cybertruckownersclub.com,dakotaforums.com,ev3forums.com,f150gen14.com,f150lightningforum.com,integraforums.com,jeepgladiatorforum.com,jeepreconforum.com,jlwranglerforums.com,macanevowners.com,macheforum.com,mavericktruckclub.com,mustang6g.com,mustang7g.com,nissanzclub.com,rancheroforum.com,ranger5g.com,ranger6g.com,rivianforums.com,scoutevforum.com,slateforums.com,supramkv.com,tacoma4g.com,taycanforum.com,xterraforum.com##^script:has-text(/:window,|\)\.join\(String\.fromCharCode/)
 4runner6g.com,bronco6g.com,broncosportforum.com,camaro7g.com,cayenneevforum.com,civicxi.com,cybertruckownersclub.com,dakotaforums.com,ev3forums.com,f150gen14.com,f150lightningforum.com,integraforums.com,jeepgladiatorforum.com,jeepreconforum.com,jlwranglerforums.com,macanevowners.com,macheforum.com,mavericktruckclub.com,mustang6g.com,mustang7g.com,nissanzclub.com,rancheroforum.com,ranger5g.com,ranger6g.com,rivianforums.com,scoutevforum.com,slateforums.com,supramkv.com,tacoma4g.com,taycanforum.com,xterraforum.com##^script[data-cfasync="false"][nowprocket]
@@ -4422,7 +4427,7 @@ astoryofmasasstruggles.com##*:style(-webkit-touch-callout: default !important; -
 astoryofmasasstruggles.com##+js(rmnt, script, /contextmenu|reEnable/)
 astoryofmasasstruggles.com##style:has-text(@media print):remove()
 astrakhan.ru,myjane.ru,omskpress.ru,tambovnet.org##+js(abort-on-property-read, kav_cn)
-astral.sh,autosettings.win,bashr.run,brew.sh,canirungta.com,christitus.com,community-scripts.org,datadoghq.*,deno.com,devaccellabs.com,drraypc.com,getwink.dev,jetbrains.com,kell.org.in,massgrave.dev,natfrp.com,ntriver.org,omo.dev,onecmd.app,packageer.com,playmh.net,privacy.sexy,reaclassical.com,retrac.info,runpane.com,scripts.edi.wang,translate.zolatau.com,trimbloat.com,winhance.net,winprivacy.nx1xlab.dev,wintools.poziel.dev#@#+js(prevent-clipboard-write, /^ms(hta|iexec)(\.exe)? |^(bash <<<|curl -kfsSL) \$\(echo .+? base64 -d\b|^cmd \/c .*?\bcurl(\.exe)? .+?\.(exe|bat|ps1)\b|^cmd .*?\bfor \/f .*?\bdelims .*?\bpow |(^|\\)powershell(\.exe)? .*?-w(indowStyle)? h(idden)?\b|(^|\\)powershell(\.exe)? .*?-w[a-z]* m[a-z]* |(^|\\)powershell(\.exe)? .*?-NoP\b|(^|\\)powershell(\.exe)? .*?-e(xecution)?p(olicy)? b(ypass)?\b|(^|\\)powershell(\.exe)? .*?-e(xecution)?p(olicy)? u(nrestricted)?\b|(^|\\)powershell(\.exe)? .*?\biex\(|(^|\\)powershell(\.exe)? .*?Invoke-Expression|(^|\\)powershell.+?Invoke-WebRequest|(^|\\)powershell.+?-UseBasicParsing|^cmd .*?\/c .+? -nop .+? iex\b|^(cmd|powershell)\b.+?recaptcha|^(cmd|powershell)\b.+?#(Verification|     )|^(cmd|powershell)\b.+?     #|^osascript .+?\bcurl http|^curl -s\b.+?\| (bash|sh|zsh)\b|^\/bin\/(bash|sh|zsh) -c\b.+?\bcurl|^bash -c\b.+?\$\(curl|^python3? -c\b.+?\b(exec|urllib|subprocess)\b|^echo .+?base64 .+?\b(bash|osascript|z?sh)\b|openssl base64 -d|^curl\b .+?chmod \+x.+?&&|^(bash|sh|osascript)\b.+?recaptcha|^(bash|sh|osascript)\b.+?#(Verification|     )|^(bash|sh|osascript)\b.+?     #|^wget .+?\| (bash|sh)\b|^curl\b.+?-o\b.+?\/tmp\/.+?&&|^nc .+?-e \/bin\/(bash|sh)\b|^\/tmp\/.+?chmod \+x.+?&&|^wget -q.+?\.(sh|py|bin|elf)\b|^cmd .+?\bcertutil .+?\b(\.exe|\.bat)\b|(^|\\)powershell(\.exe)? .+?\birm .+?\.[a-z]+\/.+?powershell|\bpcalua(\.exe)? .*?\b(curl|powershell|saps|cmd)\b|^cmd .+?\bcmdkey .+?\bschtasks|^Invoke-Command .+?Base64String|^c(onhost|md) .*?--headless |^iex\(i(rm|wr) |^\(?irm .+?\biex\b|^%COMSPEC% .*?\bstart .*?\/min\b|^cmd .*?\/c .*?%TEMP%.*?\.bat\b|^cmd .*?\/c .*?\bCMDCMDLINE\b|^cmd \/(v:on|d) \/q \/c |^cmd .*?\/q \/c .*?\bfor |\bconvert\b.*?\$env:ComSpec\b|^<#Verification|^Invoke-WebRequest .+?\bwscript(\.exe)?\b|^\$url\b.+?\n\$filename\b.+?\.exe\b|^<html\b.+navigator\.clipboard/msi, domAlert, 'Beware, uBlock Origin blocked a potential ClickFix attack: ${text}', excludeMatches, /Maintainer|Contributor|^\{|^http|^(git|import|require|use) /i)
+astral.sh,autosettings.win,bashr.run,brew.sh,canirungta.com,christitus.com,community-scripts.org,datadoghq.*,deno.com,devaccellabs.com,drraypc.com,getsparkle.net,getwink.dev,jetbrains.com,kell.org.in,massgrave.dev,natfrp.com,ntriver.org,omo.dev,onecmd.app,packageer.com,playmh.net,privacy.sexy,reaclassical.com,retrac.info,runpane.com,scripts.edi.wang,translate.zolatau.com,trimbloat.com,winhance.net,winprivacy.nx1xlab.dev,wintools.poziel.dev#@#+js(prevent-clipboard-write, /^ms(hta|iexec)(\.exe)? |^(bash <<<|curl -kfsSL) \$\(echo .+? base64 -d\b|^cmd \/c .*?\bcurl(\.exe)? .+?\.(exe|bat|ps1)\b|^cmd .*?\bfor \/f .*?\bdelims .*?\bpow |(^|\\)powershell(\.exe)? .*?-w(indowStyle)? h(idden)?\b|(^|\\)powershell(\.exe)? .*?-w[a-z]* m[a-z]* |(^|\\)powershell(\.exe)? .*?-NoP\b|(^|\\)powershell(\.exe)? .*?-e(xecution)?p(olicy)? b(ypass)?\b|(^|\\)powershell(\.exe)? .*?-e(xecution)?p(olicy)? u(nrestricted)?\b|(^|\\)powershell(\.exe)? .*?\biex\(|(^|\\)powershell(\.exe)? .*?Invoke-Expression|(^|\\)powershell.+?Invoke-WebRequest|(^|\\)powershell.+?-UseBasicParsing|^cmd .*?\/c .+? -nop .+? iex\b|^(cmd|powershell)\b.+?recaptcha|^(cmd|powershell)\b.+?#(Verification|     )|^(cmd|powershell)\b.+?     #|^osascript .+?\bcurl http|^curl -s\b.+?\| (bash|sh|zsh)\b|^\/bin\/(bash|sh|zsh) -c\b.+?\bcurl|^bash -c\b.+?\$\(curl|^python3? -c\b.+?\b(exec|urllib|subprocess)\b|^echo .+?base64 .+?\b(bash|osascript|z?sh)\b|openssl base64 -d|^curl\b .+?chmod \+x.+?&&|^(bash|sh|osascript)\b.+?recaptcha|^(bash|sh|osascript)\b.+?#(Verification|     )|^(bash|sh|osascript)\b.+?     #|^wget .+?\| (bash|sh)\b|^curl\b.+?-o\b.+?\/tmp\/.+?&&|^nc .+?-e \/bin\/(bash|sh)\b|^\/tmp\/.+?chmod \+x.+?&&|^wget -q.+?\.(sh|py|bin|elf)\b|^cmd .+?\bcertutil .+?\b(\.exe|\.bat)\b|(^|\\)powershell(\.exe)? .+?\birm .+?\.[a-z]+\/.+?powershell|\bpcalua(\.exe)? .*?\b(curl|powershell|saps|cmd)\b|^cmd .+?\bcmdkey .+?\bschtasks|^Invoke-Command .+?Base64String|^c(onhost|md) .*?--headless |^iex\(i(rm|wr) |^\(?irm .+?\biex\b|^%COMSPEC% .*?\bstart .*?\/min\b|^cmd .*?\/c .*?%TEMP%.*?\.bat\b|^cmd .*?\/c .*?\bCMDCMDLINE\b|^cmd \/(v:on|d) \/q \/c |^cmd .*?\/q \/c .*?\bfor |\bconvert\b.*?\$env:ComSpec\b|^<#Verification|^Invoke-WebRequest .+?\bwscript(\.exe)?\b|^\$url\b.+?\n\$filename\b.+?\.exe\b|^<html\b.+navigator\.clipboard/msi, domAlert, 'Beware, uBlock Origin blocked a potential ClickFix attack: ${text}', excludeMatches, /Maintainer|Contributor|^\{|^http|^(git|import|require|use) /i)
 astridlindgrensvarld.se##.bottom__footer__text-container ~ div
 astro-cric.pages.dev,crichype.*,jio.pftv.ws,shz.al,tnt2-cricstreaming.pages.dev,wlo-cricstreamiing.pages.dev##+js(set, confirm, noopFunc)
 astro-seek.com##.cc_container
@@ -5140,6 +5145,7 @@ aylink.co,gitizle.vip,shtms.co##+js(nano-sib)
 aylink.co,gitlink.pro,gitizle.vip,shtms.co##.alternative-ad
 ayobelajarbareng.com,semawur.com##+js(nano-sib, , *, 0)
 ayudatpymes.com,rg.ru,shoutcast.com,thefly.com,zipjob.com##+js(set-cookie, cookie_consent, 1)
+az-online.de,azlyrics.com,base64decode.org,carsized.com,euronews.com,fandom.com,fr.de,index.hr,izurvive.com,kprofiles.com,nextchessmove.com,relogioonline.com.br,reneweconomy.com.au,spanjevandaag.com,telegraph.co.uk,urldecoder.org,vclock.com##+js(rmnt, script, /HTMLIFrameElement|JSON\[|_contentWindow/, excludes, self.__next)
 azaleasdolls.com##[class^="style"]:has-text(Advertisement)
 azaleasdolls.com##td[height="279"]
 azaleasdolls.com##td[width="154"][bgcolor="#FCDCE4"]
@@ -5166,7 +5172,6 @@ azestforlife.com##.fca_eoi_featherlight
 azfamily.com,bolde.com,walb.com##.google-source-button
 aziendasicura.net###FrstCksDiv
 azimutyachts.cz##.floatFooter
-azlyrics.com,euronews.com,fragrantica.com,izurvive.com,kprofiles.com,nationalreview.com,nextchessmove.com,relogioonline.com.br,reneweconomy.com.au,telegraph.co.uk,vclock.com##+js(rmnt, script, /HTMLIFrameElement|JSON\[|_contentWindow/, excludes, self.__next)
 azlyrics.com,forums.hfboards.com,forums.sherdog.com,fragrantica.com,fujirumors.com,globe.adsbexchange.com,inquirer.com,nationalreview.com,onlineradiobox.com,personality-database.com,royaleapi.com,tapology.com,time.is,tracklock.gg,tvpassport.com,tvtv.ca##+js(rmnt, script, reviveScroll, excludes, self.__next)
 azmath.info,azsoft.*,expertvn.com##+js(aeld, DOMContentLoaded, document.documentElement.lang.toLowerCase)
 azmath.info,azsoft.*,expertvn.com##+js(aopr, SMart1)
@@ -8303,6 +8308,7 @@ candywarehouse.com##.section-newsletter
 canela.tv##+js(set-local-storage-item, cks, 0)
 canela.tv##+js(trusted-rpfr, /#EXT-X-KEY:METHOD=NONE\n#EXT(?:INF:[^\n]+|-X-DISCONTINUITY)\n.+?(?=#EXT-X-KEY)/gms, , /media.m3u8)
 canela.tv##+js(xml-prune, [breakId*="Roll"], , /content.vmap)
+canli-radyo-dinle.com,emisoras-puertorico.com,emisorascolombianas.co,fmradiofree.com,internetradio-horen.de,internetradio-schweiz.ch,mytuner-radio.com,radio-ao-vivo.com,radio-australia.org,radio-belgie.be,radio-canada-online.com,radio-danmark.dk,radio-dominicana.com,radio-ecuador.org,radio-en-ligne.fr,radio-en-vivo.mx,radio-espana.es,radio-hk.com,radio-hrvatska.com,radio-italiane.it,radio-korea.com,radio-maroc.org,radio-nederland.nl,radio-new-zealand.co.nz,radio-norge.org,radio-osterreich.at,radio-philippines.com,radio-polska.pl,radio-singapore.com,radio-south-africa.co.za,radio-suomi.com,radio-sveriges.se,radio-thai.com,radio-ua.com,radio-uk.co.uk,radioindia.in,radioindonesia.org,radiojapan.org,radiomalaysia.org,radios-argentinas.org,radios-bolivia.com,radios-chilenas.com,radios-guatemala.com,radios-online.pt,radios-uruguay.com,radios-venezuela.com,radiosdelperu.pe,radiotaiwan.tw##+js(rmnt, script, /HTMLIFrameElement|JSON\[|_contentWindow/, excludes, self.__next)
 canli-radyo-dinle.com,emisoras-puertorico.com,emisorascolombianas.co,fmradiofree.com,internetradio-horen.de,internetradio-schweiz.ch,mytuner-radio.com,radio-ao-vivo.com,radio-australia.org,radio-belgie.be,radio-canada-online.com,radio-danmark.dk,radio-dominicana.com,radio-ecuador.org,radio-en-ligne.fr,radio-en-vivo.mx,radio-espana.es,radio-hk.com,radio-hrvatska.com,radio-italiane.it,radio-korea.com,radio-maroc.org,radio-nederland.nl,radio-new-zealand.co.nz,radio-norge.org,radio-osterreich.at,radio-philippines.com,radio-polska.pl,radio-singapore.com,radio-south-africa.co.za,radio-suomi.com,radio-sveriges.se,radio-thai.com,radio-ua.com,radio-uk.co.uk,radioindia.in,radioindonesia.org,radiojapan.org,radiomalaysia.org,radios-argentinas.org,radios-bolivia.com,radios-chilenas.com,radios-guatemala.com,radios-online.pt,radios-uruguay.com,radios-venezuela.com,radiosdelperu.pe,radiotaiwan.tw##+js(rmnt, script, /\)\.join\(String\.fromCharCode|html-load\.com/)
 canli-radyo-dinle.com,emisoras-puertorico.com,emisorascolombianas.co,fmradiofree.com,internetradio-horen.de,internetradio-schweiz.ch,mytuner-radio.com,radio-ao-vivo.com,radio-australia.org,radio-belgie.be,radio-canada-online.com,radio-danmark.dk,radio-dominicana.com,radio-ecuador.org,radio-en-ligne.fr,radio-en-vivo.mx,radio-espana.es,radio-hk.com,radio-hrvatska.com,radio-italiane.it,radio-korea.com,radio-maroc.org,radio-nederland.nl,radio-new-zealand.co.nz,radio-norge.org,radio-osterreich.at,radio-philippines.com,radio-polska.pl,radio-singapore.com,radio-south-africa.co.za,radio-suomi.com,radio-sveriges.se,radio-thai.com,radio-ua.com,radio-uk.co.uk,radioindia.in,radioindonesia.org,radiojapan.org,radiomalaysia.org,radios-argentinas.org,radios-bolivia.com,radios-chilenas.com,radios-guatemala.com,radios-online.pt,radios-uruguay.com,radios-venezuela.com,radiosdelperu.pe,radiotaiwan.tw##^script:has-text(/\)\.join\(String\.fromCharCode|html-load\.com/)
 canli-radyo-dinle.com,emisoras-puertorico.com,emisorascolombianas.co,fmradiofree.com,internetradio-horen.de,internetradio-schweiz.ch,mytuner-radio.com,radio-ao-vivo.com,radio-australia.org,radio-belgie.be,radio-canada-online.com,radio-danmark.dk,radio-dominicana.com,radio-ecuador.org,radio-en-ligne.fr,radio-en-vivo.mx,radio-espana.es,radio-hk.com,radio-hrvatska.com,radio-italiane.it,radio-korea.com,radio-maroc.org,radio-nederland.nl,radio-new-zealand.co.nz,radio-norge.org,radio-osterreich.at,radio-philippines.com,radio-polska.pl,radio-singapore.com,radio-south-africa.co.za,radio-suomi.com,radio-sveriges.se,radio-thai.com,radio-ua.com,radio-uk.co.uk,radioindia.in,radioindonesia.org,radiojapan.org,radiomalaysia.org,radios-argentinas.org,radios-bolivia.com,radios-chilenas.com,radios-guatemala.com,radios-online.pt,radios-uruguay.com,radios-venezuela.com,radiosdelperu.pe,radiotaiwan.tw##^script[data-cfasync="false"][nowprocket]
@@ -8423,6 +8429,7 @@ careersatcouncil.com.au##+js(acs, document.getElementById, fakeElement)
 carensureplan.com##+js(rmnt, script, offsetHeight)
 careofcarl.fi##.blogginlagg_nyhetsbrev
 careofcarl.fi#@#.share_wrapper
+carexpert.co.nz##._19v7sel2
 carexpert.co.nz,carexpert.com.au#?#._1ivmml5u3:has-text(Add Preferred Source)
 cargoboard.com##body > .fixed-bottom.bg-gray
 cargurus.com##[data-cg-ft="sponsored-listing-badge"]:upward(3)
@@ -11171,6 +11178,7 @@ cybermap.kaspersky.com###footer_social_channels
 cybernews.com##aside[data-e="popupEvent"]
 cybernews.com##body:style(overflow: auto !important;)
 cybernews.com,game-news24.com,manilatimes.net,vogelbescherming.nl##.scroll-up
+cybernews.com,sammobile.com##.google-news-cta
 cyberpowerpc.com###pp_cookie
 cyberpowersystem.co.uk###pp_cookie_consent
 cyberscoop.com##+js(set, init_welcome_ad, noopFunc)
@@ -16868,6 +16876,9 @@ fmates.ru##.bookmarkz
 fmhikayeleri.com##+js(acs, document.oncontextmenu)
 fmkorea.com,v2ex.com##ins.adsbygoogle[data-ad-client]
 fmkorea.com,v2ex.com##ins.adsbygoogle[data-ad-slot]
+fmodpro.com###aab-minimal-overlay:remove()
+fmodpro.com##+js(rmnt, script, /onerror|offsetHeight|no-store/)
+fmodpro.com##body:style(overflow:auto !important)
 fmovies.*###gift-middle
 fmovies.*###gift-top
 fmovies.*###modalshare
@@ -19855,7 +19866,7 @@ gsm1x.xyz##+js(aopw, downloadJSAtOnload)
 gsm1x.xyz##+js(nano-stb, run)
 gsm55.com##div[class*="cookie-module"]
 gsma.com###gsma-app-bottom-bar
-gsmarena.com##+js(aeld, DOMContentLoaded, /doubleclick|atob|return new Promise|aHR0c|String\.fromCharCode|window\[/)
+gsmarena.com##+js(aeld, DOMContentLoaded, /doubleclick|atob|return new Promise|aHR0c|String\.fromCharCode|window\[|headers|offsetHeight\?/)
 gsmarena.com##+js(no-fetch-if, doubleclick)
 gsmarena.com##+js(remove-cookie, /DeviceID|lpe/)
 gsmarena.com##.ad-label
@@ -30300,6 +30311,7 @@ mycoolmoviez.*##[href="javascript:void(0);"]
 mycujoo.tv###GDPRModal
 mydaddy.cc##+js(set, adt, 0)
 mydailyfreedom.com,patriotfetch.com##.gpoll_enabled_wrapper
+mydash.ru##div[class^="_boticaArea_"]
 mydashboard.getlivesmart.com##+js(set-cookie, consentAsked, 1)
 mydealz.de##+js(href-sanitizer, a[href*="https://www.mydealz.de/visit/"][title^="https://"], [title])
 mydirtyhobby.de##.MuiDialogActions-root
@@ -37143,7 +37155,6 @@ redecanais.*,redecanaistv.*,redisex.*##.unlockr-overlay
 redecanais.*,redecanaistv.*,redisex.*##div[data-rc1win-pronto]
 redecanais.*,redecanaistv.*,redisex.*##style:has-text(.unlockr-no-scroll):remove()
 redecanais.*,redecanaistv.*,redisex.*,xn-----0b4asja7ccgu2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e8qri.xn--1ck2e1b,xn--90afacv0clj6ac0dxa.xn--p1ai,xn--90afacv0cu2a3cr.xn--p1ai##+js(aopr, __Y)
-redecanais.*,redecanaistv.*,redisex.*,xn-----0b4asja7ccgu2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e8qri.xn--1ck2e1b,xn--90afacv0clj6ac0dxa.xn--p1ai,xn--90afacv0cu2a3cr.xn--p1ai##+js(rmnt, script, /ctrlKey|clickNS|disableselect/, quitAfter, 2000)
 redecanaistv.*##+js(set-constant, DisableDevtool, undefined)
 rededaltro.com.br##+js(set-cookie, ocn_accepted, true)
 redenacionalderadio.com.br###viewlet-disclaimer
@@ -40481,8 +40492,8 @@ socialistworker.co.uk##.gform_fields
 socialitelife.com##.mfp-ready
 sociall.io##mat-dialog-container
 socialmediagirls.com##+js(nowoif)
-socialxup.com##+js(nowoif, _blank)
-socialxup.com##a[href^="/"]:matches-attr("href"="/^\/[0-9a-z]{3,8}-[0-9A-Za-z][AQgw]$/")
+socialxup.com##+js(trusted-override-element-method, HTMLAnchorElement.prototype.click, a[target="_blank"])
+socialxup.com##a[href^="/"]:matches-attr("href"="/^\/[0-9A-Z_a-z]+-[0-9A-Z_a-z]+$/")
 societapiemonteseautomobili.com##.banner, #banner
 societegenerale.fr###c-message
 societegenerale.rs###sgs_cookie
@@ -44359,10 +44370,10 @@ timesnowhindi.com##div:not([class]) > div:has(> .atfAdContainer)
 timesnowhindi.com,timesnowmarathi.com,timesofindia.com##+js(no-fetch-if, tvid.in/log)
 timesnowmarathi.com##[class^="section"]:has(> .ad-div)
 timesnownews.com###credential_picker_container
-timesnownews.com###native-share
 timesnownews.com###openin-app
 timesnownews.com##+js(set-local-storage-item, useExitIntent, true)
-timesnownews.com##._37K4.RUE6
+timesnownews.com##.SocialShare_followrow__SHotd
+timesnownews.com##.SubscribeWithEmail_subscribe-body__UQfW_
 timesnownews.com##.ad-panel-wrap
 timesnownews.com##.ad-section-one
 timesnownews.com##.ad-section-three
@@ -50108,14 +50119,13 @@ www.youtube.com##+js(json-prune-xhr-response, adPlacements adSlots playerRespons
 www.youtube.com##+js(nano-stb, [native code], 17000, 0.001)
 www.youtube.com##+js(no-xhr-if, /\/api\/stats\/atr\?.+?&rt=\d+\.\d+.+?&volume=\d+&cbr=.+?&fexp=v1%[-%0-9C]{300\,}&.+?&muted=\d(&vis=3)?&docid=/ method:POST)
 www.youtube.com##+js(rmnt, script, window\,"fetch")
-www.youtube.com##+js(rpnt, script, /(\(function serverContract\(\)|^if \(window\.ytcsi)/, (()=>{if("YOUTUBE_PREMIUM_LOGO"===window.ytInitialData?.topbar?.desktopTopbarRenderer?.logo?.topbarLogoRenderer?.iconImage?.iconType||"YOUTUBE_PREMIUM_LOGO"===document.getElementById("masthead")?.attributes?.["logo-type"]?.value||location.href.startsWith("https://www.youtube.com/tv#/"))return;const e=window.ytcfg.data_.INNERTUBE_CONTEXT.client.userAgent\,t=["channel"\,"lactmilli"\,"yahi"\,"inline"];let r=!1\,o=t;const n=t=>{if(t){let r=e?.match?.(/Mozilla\/5\.0 \([^)]+/)?.[0];window.ytcfg.data_.INNERTUBE_CONTEXT.client.userAgent=r?e.replace?.(r\,r+"; "+t):e}else window.ytcfg.data_.INNERTUBE_CONTEXT.client.userAgent=e}\,a=()=>{let e=document.getElementById("movie_player");return{player:e\,response:e?.getPlayerResponse?.()\,stats:e?.getStatsForNerds?.()\,progress:e?.getProgressState?.()\,buffer:e?.getPlayerStateObject?.()?.isBuffering}}\,l=(e\,t\,r)=>e&&"0.00 s"===t?.buffer_health_seconds&&"0x0"===t?.resolution&&r.length>0\,s=()=>{let{player:e\,response:t\,stats:n\,buffer:s}=a();e&&l(s\,n\,o)&&(t?.playbackTracking?.videostatsPlaybackUrl?.baseUrl?.includes?.("reloadxhr")&&(o=o.slice(1))\,r=!0)};document.addEventListener("DOMContentLoaded"\,(function(){const e=()=>{let e\,s\,{player:i\,response:d\,stats:c\,progress:p\,buffer:y}=a();if(i&&(window.location.href.includes("/watch?")||window.location.href.includes("/embed/"))){if(p&&p.duration>0&&(p.loaded<p.duration||p.duration-p.current>1)||d?.videoDetails?.isLive){if(c&&!c?.debug_info?.startsWith?.("SSAP\, AD")){const t=new URLSearchParams(window.location.search)\,a=d.videoDetails?.videoId\,u=d.playerConfig?.playbackStartConfig?.startSeconds||parseInt(t.get("t")\,10)||0\,g=d.playabilityStatus?.errorScreen\,w=JSON.stringify(g?.playerErrorMessageRenderer?.subreason?.runs||g?.playerInterstitialRenderer?.content?.interstitialViewModel?.description?.commandRuns);return void("UNPLAYABLE"===d?.playabilityStatus?.status&&!g?.playerErrorMessageRenderer?.playerCaptchaViewModel&&w?.includes?.("WEB_PAGE_TYPE_UNKNOWN")&&w?.includes?.("https://support.google.com/youtube/answer/3037019")?(o=o.slice(1)\,o.length>0?n(o[0]):n("")\,r=!1\,i.loadVideoById(a\,u)):0===o.length?(r=!1\,n("")):l(y\,c\,o)&&r?(n(o[0])\,r=!1\,i.loadVideoById(a\,u)):!r&&p.current-u>.1&&p.current-u<5&&location.href.includes("&list=")&&null===i.getPlaylistId?.()&&(e=document.querySelector("yt-playlist-manager")\,s=e?.getPlaylistData?.()\,s&&(e.setPlaylistData?.(s)\,e.setPlayerPlaybackControlData?.({playlistPanelRenderer:s}))))}c&&p.duration>0&&i.seekTo?.(p.duration)}}else o=t};e()\,new MutationObserver((()=>{e()})).observe(document\,{childList:!0\,subtree:!0})}))\,window.Map.prototype.has=new Proxy(window.Map.prototype.has\,{apply:(e\,t\,o)=>("onSnackbarMessage"!==o?.[0]||r||s()\,Reflect.apply(e\,t\,o))})\,window.Array.prototype.push=new Proxy(window.Array.prototype.push\,{apply:(e\,t\,r)=>{let o=r?.[0];return!o||"object"!=typeof o||"Uint8Array"!==o.constructor.name||o.buffer?.byteLength!==o.length||105!==o.length&&104!==o.length||(console.log(o)\,s())\,Reflect.apply(e\,t\,r)}});const i={apply:(e\,t\,r)=>{const o=r[0];return"function"==typeof o&&o.toString().includes("onAbnormalityDetected")&&(r[0]=function(){})\,Reflect.apply(e\,t\,r)}};window.Promise.prototype.then=new Proxy(window.Promise.prototype.then\,i)})();$1, sedCount, 1, excludes, MutationObserver, condition, /serverContract|js_ld/)
+www.youtube.com##+js(rpnt, script, /(\(function serverContract\(\)|^if \(window\.ytcsi)/, (()=>{if("YOUTUBE_PREMIUM_LOGO"===window.ytInitialData?.topbar?.desktopTopbarRenderer?.logo?.topbarLogoRenderer?.iconImage?.iconType||"YOUTUBE_PREMIUM_LOGO"===document.getElementById("masthead").attributes["logo-type"].value||location.href.startsWith("https://www.youtube.com/tv#/")||location.href.startsWith("https://www.youtube.com/embed/"))return;const e=window.ytcfg.data_.INNERTUBE_CONTEXT.client.userAgent\,t=["channel"\,"yahi"\,"inline"\,"oaeb"];let o=!1\,r=t;const n=t=>{if(t){let o=e?.match?.(/Mozilla\/5\.0 \([^)]+/)?.[0];window.ytcfg.data_.INNERTUBE_CONTEXT.client.userAgent=o?e.replace?.(o\,o+"; "+t):e}else window.ytcfg.data_.INNERTUBE_CONTEXT.client.userAgent=e}\,a=()=>{let e=document.getElementById("movie_player");return{player:e\,response:e?.getPlayerResponse?.()\,stats:e?.getStatsForNerds?.()\,progress:e?.getProgressState?.()\,buffer:e?.getPlayerStateObject?.()?.isBuffering}}\,s=(e\,t\,o)=>e&&"0.00 s"===t?.buffer_health_seconds&&"0x0"===t?.resolution&&o.length>0\,l=()=>{let{player:e\,response:t\,stats:n\,buffer:l}=a();e&&s(l\,n\,r)&&(t?.playbackTracking?.videostatsPlaybackUrl?.baseUrl?.includes?.("reloadxhr")&&(r=r.slice(1))\,o=!0)};document.addEventListener("DOMContentLoaded"\,(function(){const e=()=>{let e\,l\,{player:i\,response:d\,stats:c\,progress:p\,buffer:y}=a();if(i&&(window.location.href.includes("/watch?")||window.location.href.includes("/embed/"))){if(p&&p.duration>0&&(p.loaded<p.duration||p.duration-p.current>1)||d?.videoDetails?.isLive){if(c&&!c?.debug_info?.startsWith?.("SSAP\, AD")){const t=new URLSearchParams(window.location.search)\,a=d.videoDetails?.videoId\,u=d.playerConfig?.playbackStartConfig?.startSeconds||parseInt(t.get("t")\,10)||0\,g=d.playabilityStatus?.errorScreen\,w=JSON.stringify(g?.playerErrorMessageRenderer?.subreason?.runs||g?.playerInterstitialRenderer?.content?.interstitialViewModel?.description?.commandRuns);return void("UNPLAYABLE"===d?.playabilityStatus?.status&&!g?.playerErrorMessageRenderer?.playerCaptchaViewModel&&w?.includes?.("WEB_PAGE_TYPE_UNKNOWN")&&w?.includes?.("https://support.google.com/youtube/answer/3037019")?(r=r.slice(1)\,r.length>0?n(r[0]):n("")\,o=!1\,i.loadVideoById(a\,u)):0===r.length?(o=!1\,n("")):s(y\,c\,r)&&o?(n(r[0])\,o=!1\,i.loadVideoById(a\,u)):!o&&p.current-u>.1&&p.current-u<5&&location.href.includes("&list=")&&null===i.getPlaylistId?.()&&(e=document.querySelector("yt-playlist-manager")\,l=e?.getPlaylistData?.()\,l&&(e.setPlaylistData?.(l)\,e.setPlayerPlaybackControlData?.({playlistPanelRenderer:l}))))}c&&p.duration>0&&i.seekTo?.(p.duration)}}else r=t};e()\,new MutationObserver((()=>{e()})).observe(document\,{childList:!0\,subtree:!0})}))\,window.Map.prototype.has=new Proxy(window.Map.prototype.has\,{apply:(e\,t\,r)=>("onSnackbarMessage"!==r?.[0]||o||l()\,Reflect.apply(e\,t\,r))})\,window.Array.prototype.push=new Proxy(window.Array.prototype.push\,{apply:(e\,t\,o)=>{let r=o?.[0];return!r||"object"!=typeof r||"Uint8Array"!==r.constructor.name||r.buffer?.byteLength!==r.length||105!==r.length&&104!==r.length||(console.log(r)\,l())\,Reflect.apply(e\,t\,o)}});const i={apply:(e\,t\,o)=>{const r=o[0];return"function"==typeof r&&r.toString().includes("onAbnormalityDetected")&&(o[0]=function(){})\,Reflect.apply(e\,t\,o)}};window.Promise.prototype.then=new Proxy(window.Promise.prototype.then\,i)})();$1, sedCount, 1, excludes, MutationObserver, condition, /serverContract|js_ld/)
 www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="channel"].context.client[?.clientName=="WEB"]+={"clientScreen":"CHANNEL"})
 www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="inline"].playbackContext.contentPlaybackContext+={"isInlinePlaybackNoAd":true})
-www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="lactmilli"]+={"params":"8AUB"})
+www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="oaeb"]+={"params":"oAEBogYBLg"})
 www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="yahi"]+={"params":"YAHI"})
-www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent=/adunit|channel|lactmilli|inline|yahi|eafg|yaf4/].playbackContext.contentPlaybackContext.referer=repl({"regex":"(?:#reloadxhr)?$"\,"replacement":"#reloadxhr"}))
-www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent=/channel|lactmilli|inline/].playbackContext.contentPlaybackContext.lactMilliseconds="${now}")
-www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.createCommentParams].context.client.userAgent=repl({"regex":"/; (adunit|channel|lactmilli|inline|yahi|eafg|yaf4)\b/"\,"replacement":""}))
+www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent=/adunit|channel|inline|yahi|oaeb|eafg|yaf4/].playbackContext.contentPlaybackContext.referer=repl({"regex":"(?:#reloadxhr)?$"\,"replacement":"#reloadxhr"}))
+www.youtube.com##+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.createCommentParams].context.client.userAgent=repl({"regex":"/; (adunit|channel|inline|yahi|oaeb|eafg|yaf4)\b/"\,"replacement":""}))
 www.youtube.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, Request)
 www.youtube.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, fetch)
 www.youtube.com##+js(trusted-replace-xhr-response, /"adPlacements.*?("adSlots"|"adBreakHeartbeatParams")/gms, $1, /\/player(?:\?.+)?$/)
