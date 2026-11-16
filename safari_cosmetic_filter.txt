@@ -1,6 +1,6 @@
 ! Title: Safari Cosmetic (No AdGuard Duplicates)
-! Updated: 2026-11-15 10:33:03
-! Косметических правил: 52150
+! Updated: 2026-11-16 10:49:23
+! Косметических правил: 52202
 
 *###credential_picker_iframe
 *###target.pk-page-ready > #sales-banner
@@ -1171,7 +1171,7 @@
 9gag.com,akinator.com,and-more.co,astro-seek.com,autofrage.net,bab.la,babla.*,badmouth1.com,boardingarea.com,businessua.com,canuckaudiomart.com,collinsdictionary.com,computerfrage.net,dict.cc,dictionnaire.lerobert.com,dictionary.cambridge.org,dnevnik.hr,doviz.com,egitim.net.tr,eurointegration.com.ua,exceljet.net,finanzfrage.net,flatpanelshd.com,football-ukraine.com,footballtransfer.com.ua,footballtransfer.ru,fossbytes.com,freemcserver.net,gadgets360.com,gazetaprawna.pl,gesundheitsfrage.net,gezondnu.nl,girlschannel.net,glianec.com,gutefrage.net,happyinshape.com,helpdeskgeek.com,hoyme.jp,houseandgarden.co,infinityfree.com,issuya.com,iusm.co.kr,lamire.jp,ldoceonline.com,leckerschmecker.me,liveandletsfly.com,logicieleducatif.fr,lootlemon.com,missyusa.com,mamastar.jp,moin.de,motorradfrage.net,motscroises.fr,neoseeker.com,neowin.net,newatlas.com,nextchessmove.com,onlinegdb.com,oxfordlearnersdictionaries.com,palabr.as,perezhilton.com,picrew.me,pinterpoin.com,pons.com,pravda.com.ua,pressian.com,razzball.com,reisefrage.net,reportera.co.kr,rotowire.com,sinemalar.com,singjupost.com,sportanalytic.com,sportlerfrage.net,sportsrec.com,sportsseoul.com,text-compare.com,the-crossword-solver.com,thelayoff.com,torontosun.com,toyokeizai.net,travelingformiles.com,tweaksforgeeks.com,tz.de,ukaudiomart.com,usaudiomart.com,w.grapps.me,watchdocumentaries.com,welt.de,wfmz.com,winfuture.de,worldhistory.org##^script[onload*="error-report.com"]
 9gag.com,animalia.bio,daveockop.com,doviz.com,looopings.nl,pakkotoisto.com,worldjournal.com##+js(rmnt, script, void 0||window\,)
 9gag.com,animalia.bio,daveockop.com,doviz.com,looopings.nl,pakkotoisto.com,worldjournal.com##^script:has-text(void 0||window,)
-9gag.com,aternos.org,automobile-catalog.com,base64decode.org,calculatorsoup.com,culturequizz.com,dictionary.cambridge.org,eponuda.com,euronews.com,fandom.com,gamebanana.com,getnews.jp,hb-nippon.com,index.hr,latlong.net,mamastar.jp,motorbikecatalog.com,myinstants.com,nlab.itmedia.co.jp,optionsprofitcalculator.com,oxfordlearnersdictionaries.com,satkurier.pl,scribd.com,sms24.me,urldecoder.org,welt.de,worldjournal.com##+js(ra, onerror, script[id][onerror], asap, quitAfter, 10)
+9gag.com,aternos.org,automobile-catalog.com,base64decode.org,calculatorsoup.com,culturequizz.com,dictionary.cambridge.org,eponuda.com,euronews.com,fandom.com,gamebanana.com,getnews.jp,hb-nippon.com,index.hr,latlong.net,mamastar.jp,motorbikecatalog.com,myinstants.com,nlab.itmedia.co.jp,okuyami-information.com,optionsprofitcalculator.com,oxfordlearnersdictionaries.com,satkurier.pl,scribd.com,sms24.me,urldecoder.org,welt.de,worldjournal.com##+js(ra, onerror, script[id][onerror], asap, quitAfter, 10)
 9gag.com,augustacrime.com,base64decode.org,calculatorsoup.com,canuckaudiomart.com,costcoinsider.com,crosswordsolver.com,dict.cc,elnacional.cat,girlschannel.net,itavisen.no,kreuzwortraetsel.de,lettersolver.com,livescience.com,lootlemon.com,merinfo.se,motscroises.fr,mrexcel.com,nemzetisport.hu,oeffnungszeitenbuch.de,oraridiapertura24.it,pinterpoin.com,ppatour.com,rotowire.com,the-crossword-solver.com,tvtv.ca,tvtv.us,ukaudiomart.com,urldecoder.org,watchdocumentaries.com,word-grabber.com,wort-suchen.de##+js(rmnt, script, ()=>eval)
 9gag.com,augustacrime.com,base64decode.org,calculatorsoup.com,canuckaudiomart.com,costcoinsider.com,crosswordsolver.com,dict.cc,elnacional.cat,girlschannel.net,itavisen.no,kreuzwortraetsel.de,livescience.com,lootlemon.com,merinfo.se,motscroises.fr,mrexcel.com,nemzetisport.hu,oeffnungszeitenbuch.de,oraridiapertura24.it,pinterpoin.com,ppatour.com,rotowire.com,the-crossword-solver.com,tvtv.ca,tvtv.us,ukaudiomart.com,urldecoder.org,watchdocumentaries.com,word-grabber.com,wort-suchen.de##^script:has-text(()=>eval)
 9hentai.*###ads
@@ -1812,7 +1812,7 @@ adult-sex-gamess.com,hentaigames.app,mobilesexgamesx.com,mysexgamer.com,porngame
 adult-sex-gamess.com,hentaigames.app,mobilesexgamesx.com,mysexgamer.com,porngameshd.com,sexgamescc.com##.a-th:first-child:has(iframe)
 adult-sex-gamess.com,hentaigames.app,mobilesexgamesx.com,mysexgamer.com,porngameshd.com,sexgamescc.com##.alert-danger > .row
 adult-tv-channels.click##+js(set-session-storage-item, adp-closed, 1)
-adult-tv-channels.com,blacktv.top,boomboxradio.ru,cdniptvpotok.com,cdntvmedia.com,euroball.ru,eurotvsport1.ru,hochu.tv,hotelki.tv,klubnichka.live,ontivi.net,live.domatv.net,guljaj.com,kingp2p.top,kinobro.online,magtv.top,mediamaniya.site,myru.top,nsk-tv.narod.ru,ontvtime-tv.top,oxax.tv,pokaz.me,rapp.su,ritsatv.ru,rustv.fun,rutele.top,rutv.pw,seir-sanduk.*,seirsanduk.*,smotret-tv.*,smotrettv.*,smotrim-tv.*,smotreshka-tv.*,smotritv.su,smotrufilm.ru,sportplu-s.ru,telik.live,tennis-live.su,telek.online,tivix.co,tv11.ruvideo.site,tvin.su,tvline.live,tvtut.top,voha.tv,viks.tv,vsetv.click##+js(set, HTMLDivElement.prototype.oncontextmenu, null)
+adult-tv-channels.com,blacktv.top,boomboxradio.ru,cdniptvpotok.com,cdntvmedia.com,euroball.ru,eurotvsport1.ru,hdrezka.*,hello-rezka.*,hochu.tv,hotelki.tv,klubnichka.live,ontivi.net,live.domatv.net,guljaj.com,kingp2p.top,kinobro.online,magtv.top,mediamaniya.site,myru.top,nsk-tv.narod.ru,ontvtime-tv.top,oxax.tv,pokaz.me,rapp.su,ritsatv.ru,rustv.fun,rutele.top,rutv.pw,seir-sanduk.*,seirsanduk.*,smotret-tv.*,smotrettv.*,smotrim-tv.*,smotreshka-tv.*,smotritv.su,smotrufilm.ru,sportplu-s.ru,telik.live,tennis-live.su,telek.online,tivix.co,tv11.ruvideo.site,tvin.su,tvline.live,tvtut.top,voha.tv,viks.tv,vsetv.click##+js(set, HTMLDivElement.prototype.oncontextmenu, null)
 adultasianporn.com##+js(aeld, getexoloader)
 adultasianporn.com##+js(cookie-remover, /^/)
 adultasianporn.com##.banner
@@ -3807,6 +3807,10 @@ appleinsider.ru#?#p > code:-abp-has(> a[href^="https://max.ru/"])
 appleinsider.ru#?#p > code:-abp-has(> a[href^="https://t.me/"])
 appleinsider.ru,hentaiz.org,intent.press,nevasport.ru,podrobnosti.ua,spartak.ru##.social
 appleinsider.ru,znayka.cc##+js(href-sanitizer, a[href*="goto=https"], ?goto)
+applescoop.org##+js(rmnt, script, /probe|adblock|__asPicks/i)
+applescoop.org##.as-ad
+applescoop.org##.as-ad-rail
+applescoop.org##.story-content .ad
 applesencia.com,capitalibre.com,frenomotor.com,placeralplato.com,sportadictos.com,winphonemetro.com,xombit.com,xombitgames.com,xombitmusic.com##.top-button
 applesfera.com,espinof.com,genbeta.com,vidaextra.com,vitonica.com,xatakahome.com,xatakamovil.com,xatakandroid.com##.masthead-nav-social
 applevalleynewsnow.com,channel3000.com,crossroadstoday.com,koamnewsnow.com,kxly.com,myupnow.com,news8000.com,wbkb11.com##+js(rmnt, script, adblockerDisabled, excludes, \,\")
@@ -6100,7 +6104,7 @@ bfm.ru##.social-buttons > a
 bfm.ru##.youtube
 bfm.ru,business-gazeta.ru,calend.ru,city-n.ru,fakty.ua,frankmedia.ru,gordonua.com,gorodkiev.com.ua,hvylya.net,kinogo.biz,kinoukr.com,meteonova.ru,mi100.info,novostivmire.com,sakhaday.ru,seralityt.online,serialstuts.online,sfera.fm,sport.ua,uaserials.com,uaserials.my,usionline.com,vseseriipodriad.ru,womanhit.ru,zaborona.com,zn.ua##.telegram
 bfmtv.com##.footer_social_media
-bg-gledai.*###casing > center
+bg-gledai.*###casing > .adsbygoogle
 bg-gledai.*##+js(acs, document.getElementById, adblock)
 bg-gledai.*##+js(aeld, contextmenu)
 bg-gledai.*##+js(aopr, chp_adblock_browser)
@@ -6155,8 +6159,8 @@ bhol.co.il##.google_preferences
 bhol.co.il##.soci_ul
 bhol.co.il##.whatsapp_con
 bhoomtv.*##+js(rmnt, script, /adblock/i)
-bhoomtv.org,porntv.us,rustv.fun,xxxtv.us##+js(ra, oncontextmenu|onkeydown|onselectstart, body, complete)
-bhoomtv.org,porntv.us,xxxtv.us##+js(rmnt, script, contextmenu)
+bhoomtv.*,porntv.us,rustv.fun,xxxtv.us##+js(ra, oncontextmenu|onkeydown|onselectstart, body, complete)
+bhoomtv.*,porntv.us,xxxtv.us##+js(rmnt, script, contextmenu)
 bhphotovideo.com##.newsletter_PK8HvolxQy
 bhphotovideo.com##[class^="newsletter_"]
 bhub.com.ua##.fatfooter .widget-title
@@ -7980,7 +7984,7 @@ bzwbk.pl##.cookie-btn
 c-classforum.com,c10trucks.com,cactusforums.co.uk,cadenzaforum.com,cadillacforums.com,caferacer.net,caliberforums.com,caliberforumz.com,californiaevforum.com,camaros.net,camarozone.com,campercommunity.com,can-amelectric.com,can-amforum.com,can-amtalk.com,canadianmoneyforum.com,canamspyderforums.com,capriforum.com,capturownersclub.co.uk,caraudioclassifieds.org,carnivalforums.com,carolinafishtalk.com,carolinashootersclub.com,casecoltingersoll.com,catfish1.com,catforum.com,cattleforum.com,cayenneforums.com,cbr250.com,cbr250.net,cbr300forum.com,cbr500riders.com,cbrxx.com,ce02forum.com,celicasupra.com,cfmotoforums.com,challengerforumz.com,challengerlife.com,challengertalk.com,chargerforums.com,chargerforumz.com,checkhookboxing.com,cheftalk.com,cherokeesrt8.com,cherokeetalk.com,chevelles.com,chevroletownersclub.co.uk,chevyblazer.org,chevybolt.org,chevymalibuforum.com,cheyennechat.com,chicagolandfishing.com,chicagolandsportbikes.com,chickenforum.com,chiefmotorcycleforum.com,chihuahua-people.com,chinacarforums.com,chrforums.uk,chromebookforum.com,chryslerminivan.net,cichlid-forum.com,cigarforums.net,civic11forum.com,civinfo.com,cl500forum.com,clarityforum.com,classic-jdm.com,cleaningtalk.com,climbingforums.com,club3g.com,club4g.org,club700xx.com,clubarmada.com,clubcrosstrek.com,clubfrontier.org,clubroadster.net,clubrsx.com,clubsearay.com,clubtitan.org,clubtouareg.com,clubtread.com,clubwrx.net,clubxb.com,clubxterra.org,cmaxownersclub.co.uk,cmaxownersclub.com,cobaltss.com,coffeeforums.co.uk,coloradodiesel.org,coloradoevowners.com,coloradofans.com,coloradofisherman.com,coltforum.com,commanderforums.org,commandertalk.com,contractortalk.com,corollacrossforum.com,corral.net,corsa-c.co.uk,corsaeforums.co.uk,cretaforum.com,cricketforum.com,crossbownation.com,crosstourownersclub.com,crownforums.com,cruzetalk.com,crvownersclub.com,crxcommunity.com,crzforum.com,ct200hforum.com,ctsvowners.com,ctx1300forum.com,ctx700forum.com,cumminsforum.com,customdakotas.com,customfighters.com,custommagnums.com,customtacos.com,cx30talk.com,cx3forum.com,cx500forum.com,cx50forums.com,cx5forum.com,cx70forum.com,cx90forum.com,cyberquadforum.com,cybertrucktalk.com,cycleforums.com,cztalk.com##+js(rmnt, script, html-load.com)
 c-inform.info##.watch
 c-klasse-forum.de###consentBoxWrapper
-c-o-k.ru##div[class*="banner"]
+c-o-k.ru,sia.ru##div[class*="banner"]
 c-s.net.ua##.reg_mess_bg
 c-sharpcorner.com##.cotent-share-icon
 c-span.org##.cspan-ad-still-prebid-placeholder
@@ -8065,13 +8069,17 @@ calendarpedia.com##body > div:not([id]):not([class])[style*="fixed"], body > div
 calendly.com###gdpr-region ~ [data-component="sticker"]
 calendly.com##+js(set-cookie, gdpr_dismissal, true)
 calgaryherald.com#@#.local-branding
+calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(nostif, getComputedStyle)
+calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(rmnt, script, /HTMLIFrameElement|JSON\[|_contentWindow/, excludes, self.__next)
 calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(rmnt, script, /\(\)=>eval|html-load\.com|await eval|:window/)
 calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, , condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
 calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##^script:has-text(/\(\)=>eval|html-load\.com|await eval|:window/)
 calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##^script[data-cfasync="false"][nowprocket]
 calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,intelligencer.ca,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##^script[onload*="error-report.com"]
-calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(rmnt, script, /window\.admiral|adblockerDisabled/, excludes, \,\")
+calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(rmnt, script, /admiral|adblockerDisabled/i, excludes, '/,\\"|self\.__next|pageProps/')
+calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##.pmd-ad-content-placeholder
 calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##^script#admiral-script
+calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,pembrokeobserver.com,recorder.ca,standard-freeholder.com,thegrowthop.com,theprovince.com,thestarphoenix.com,thewhig.com,timminspress.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##^script[id^="pmd-ads-"]
 calgaryherald.com,calgarysun.com,canada.com,canoe.com,driving.ca,edmontonjournal.com,edmontonsun.com,financialpost.com,leaderpost.com,lfpress.com,montrealgazette.com,nationalpost.com,ontariofarmer.com,ottawacitizen.com,ottawasun.com,thegrowthop.com,theprovince.com,thestarphoenix.com,tj.news,torontosun.com,vancouversun.com,windsorstar.com,winnipegsun.com##+js(set, Object.prototype.adService.initialize, noopFunc)
 calgaryherald.com,edmontonjournal.com,montrealgazette.com,ottawacitizen.com,thestarphoenix.com###pn-newsletter-signup
 calgaryherald.com,edmontonjournal.com,montrealgazette.com,ottawacitizen.com,thestarphoenix.com#?#.callout:has-text(inbox)
@@ -16013,6 +16021,7 @@ fcportables.com##+js(rmnt, script, ai_adb)
 fcportables.com##+js(set, adsClasses, undefined)
 fcportables.com##+js(set, gsecs, 0)
 fcportables.com,filecatchers.com##+js(aost, document.createElement, /eval|aabcBoot/)
+fcportables.com,filecatchers.com##+js(no-fetch-if, method:POST body:/detect|trigger/)
 fcportables.com,filecatchers.com##+js(ra, onerror|onload, script[onerror][onload], asap, quitAfter, 10)
 fcsnew.net##+js(rmnt, script, adsBlocked)
 fcutrecht.net###popup-overlay
@@ -17058,6 +17067,11 @@ footballhub.com.ua##.page-container:style(top: 0 !important)
 footballhub.ua##.footer-heading
 footballstream.tv,mlbstream.tv,nbastream.tv,nflstream.tv##+js(acs, decodeURI, decodeURIComponent)
 footballtransfer.com.ua#?#h3:-abp-contains(Вконтакте)
+footbole24.com,kingball.top,sportcsat.com,sportcsat.ru,streame.center,vitalsport1.ru##div[style^="position:"][style*=" top: 0px; left: 0px; width: 100%; height: 100%;"][style*="z-index:"][style*="cursor: pointer;"]
+footbole24.com,kingball.top,sportcsat.com,sportcsat.ru,streame.center,vitalsport1.ru##iframe[src]:style(pointer-events: auto !important)
+footbole24.com,rutv.pw,sportcsat.ru##div[class^="adlook-"][class*="-wrapper"]
+footbole24.com,sportcsat.com##div[style^="position:"][style*=" top: 0px; left: 0px; width: 100%; height: 100%;"][style*="z-index:"][style*="cursor: pointer;"]
+footbole24.com,sportcsat.com##iframe[src]:style(pointer-events: auto !important)
 footboom.com,footboom.kz##+js(abort-on-property-read, admiral)
 footboom.com,footboom.kz##+js(abort-on-property-read, echelon)
 footboom.com,footboom.kz##.b-article-content > h2:has-text(букмекер)
@@ -23017,6 +23031,7 @@ ipicture.ru###buton
 ipill.de###cookie-message ~ .design
 iplark.com##+js(aeld, DOMContentLoaded, adClosedTimestamp)
 iplayer.info##.onesongblock-end
+iplayerhls.com,morencius.com,hanerix.com,vibuxer.com,audinifer.com##+js(set, HTMLDivElement.prototype.oncontextmenu, null)
 iplogger.org###message, .message
 iplookup.flagfox.net##.adsbygoogle
 iplt20.com##.cookie
@@ -24048,9 +24063,11 @@ k33.com##+js(set-local-storage-item, cookies-product, NO)
 k33.com##+js(set-local-storage-item, showCookies, NO)
 k511.me##+js(acs, document.getElementById, undefined)
 k9ofmine.com,kaaltv.com,kanji.tools,karacarrero.com,kateable.com,kateandmeri.com,katerinafaith.com,katesbestrecipes.com,katheats.com,kathleenscravings.com,kathrynskitchenblog.com,katiebirdbakes.com,katieleekitchen.com,katiescucina.com,kawalingpinoy.com,kayakanglermag.com,kayakhelp.com,kch-ent.com,kdnuggets.com,keeperofthehome.org,keepingitrelle.com,keepingitsimpleblog.com,keepingitsimplecrafts.com,keepingitsimpleitalian.com,keepingthepeas.com,keepingupchangs.com,keepinspiring.me,keepthescore.com,keeptradecut.com,kelleynan.com,kellyelko.com,kellyleighcreates.com,kellyscleankitchen.com,kellythekitchenkop.com,kelseyinlondon.com,kelseysfoodreviews.com,kenarry.com,ketoasap.com,ketoconnect.net,ketocookingchristian.com,ketokarma.com,ketovale.com,kevinandamanda.com,keviniscooking.com,keyboardforums.com,keynotesupport.com,keystoneforums.com,keytomylime.com,kicking-carbs.com,kiddingaroundcharlotte.com,kiddingaroundcolumbia.com,kiddingaroundgreenville.com,kidfriendlythingstodo.com,kidgredients.com.au,kidsactivitiesblog.com,kidzcraftcorner.com,kikifoodies.com,killingthyme.net,kimberdawnco.com,kimchimari.com,kimscravings.com,kimspireddiy.com,kindercraze.com,kindergartenworks.com,kindergartenworksheetsandgames.com,kindlyunspoken.com,kingofthegym.com,kingshotcalculator.com,kingshotdata.com,kingshotguides.com,kingshotoptimizer.com,kinsta.cloud,kirbiecravings.com,kirstenhollowaydesigns.com,kissmysmoke.com,kitchen335co.com,kitchenathoskins.com,kitchencents.com,kitchenconfidante.com,kitchendivas.com,kitchenfunwithmy3sons.com,kitchenhabit.com,kitchenknifeforums.com,kitchenlaughter.com,kitchennightmaresupdates.com,kitchennostalgia.com,kitchensanctuary.com,kitchensanity.com,kitchenseer.com,kitchenserf.com,kitchenstewardship.com,kitchenswagger.com,kitchentableclassroom.com,kitchentreaty.com,kitchenwhisperers.com,kitchinsider.com,kittiaroundtheworld.com,kiwifamilies.co.nz,kneadsomesweets.com,knickoftime.net,knicksnation.com,knicksxfactor.com,knifeandsoul.com,knifeinformer.com,knitcrochetcreate.co.uk,knitfarious.com,knitterknotter.com,knitting-news.com,knittingwithchopsticks.com,knotions.com,knowing-jesus.com,knownothingnomads.com,knowyourmobile.com,knowyourproduce.com,kob.com,kojo-designs.com,kommandotech.com,korrashay.com,kosheronabudget.com,kosmofoto.com,kowalskimountain.com,kpople.net,kpreps.com,kr4m.com,krissysoverthemountaincrochet.com,kristendukephotography.com,kristineinbetween.com,krogerkrazy.com,krollskorner.com,kstp.com,kubotaforum.com,kwokspots.com,kyleecooks.com,kylieminteriors.ca,kzookids.com##+js(rmnt, script, /__adblocker|html-load/)
+kaa.lt###fullscreen-ad-trap
 kaa.lt###premium-swipey-bar
 kaa.lt##+js(acs, EventTarget.prototype.addEventListener, window.open)
 kaa.lt##+js(aeld, , /popMagic|shield/)
+kaa.lt##+js(aost, document.createElement, startOrchestrator)
 kaa.lt##+js(nosiif, enforceVideoShield)
 kaa.lt##+js(nowoif, _blank)
 kaa.lt##+js(set, KAA.state.popads, undefined)
@@ -24073,6 +24090,7 @@ kachelmannwetter.com,meteologix.com##.dkpw-billboard-margin
 kachelmannwetter.com,meteologix.com,weather.us##.dkpw-billboard-margin-fixed
 kachelmannwetter.com,meteologix.com,weather.us##.kw-ad-right
 kadets.info##div[id^="post_message_"] + div
+kaembed.*,mfw09.org,streamingunity.*,vixcloud.*##+js(aeld, contextmenu)
 kaembed.*,mfw09.org,streamingunity.*,vixcloud.*##+js(set, HTMLDivElement.prototype.oncontextmenu, null)
 kaembed.net##body > img[id]
 kaembed.net,vidmoly.*##+js(nowoif, !vidmoly)
@@ -24517,8 +24535,6 @@ kingarthurbaking.com###block-recipenewslettersignup
 kingarthurbaking.com##.dynotifyjs-corner
 kingarthurbaking.com##^html > head > link[rel="canonical"]:not([href*="/recipes/"]):upward(2) script:has-text(googletagmanager)
 kingattitude.it##.subscribe-widget
-kingball.top,sportcsat.ru,streame.center,vitalsport1.ru##div[style^="position:"][style*=" top: 0px; left: 0px; width: 100%; height: 100%;"][style*="z-index:"][style*="cursor: pointer;"]
-kingball.top,sportcsat.ru,streame.center,vitalsport1.ru##iframe[src]:style(pointer-events: auto !important)
 kingcomix.com##[href^="//"][rel="nofollow norefferer noopener"]
 kingisepp-today.ru,xn----etbbecbrbp5ahkja1ae7v.xn--p1ai###cntr > .l-outer ~ style + table
 kingisepp-today.ru,xn----etbbecbrbp5ahkja1ae7v.xn--p1ai###fixed_overlay_top
@@ -34402,6 +34418,7 @@ pirateproxy.*##+js(acs, Object.defineProperty, document.body.appendChild)
 pirateproxy.*##+js(nowebrtc)
 pirateproxy.*,thehiddenbay.com###content > div > iframe
 pirateproxy.*,thehiddenbay.com##+js(acs, String.fromCharCode, decodeURIComponent)
+piratewires.com##[aria-label="Subscribe"]
 pirg.org###action
 pirg.org##.-gg\:1.-mb\:3
 pirg.org##.flyout1
@@ -37753,6 +37770,7 @@ rjno1.com##+js(aopr, document.documentElement.clientWidth)
 rjno1.com##body > style + div div[id][style]
 rk.dk###lbmodal-overlay, #lbmodal
 rkn.gov.ru###social_btn
+rknweb.ru##.code-block
 rktbns.de##.arcticmodal-container
 rktbns.de##.arcticmodal-overlay
 rktbns.de##body,html:style(overflow: auto !important; position: initial !important;)
@@ -38269,7 +38287,6 @@ rutube.ru#?#section:-abp-has(> [aria-label="Присоединяйтесь в с
 rutube.ru,rutube.sport##[id*="Player"] div[class*="disclaimer"]
 rutube.ru/play/embed/##div[class*="touch-handlers-layout-module__waiting"] div[class^="spinner-module__spinner_"]
 rutube.sport##[data-qa-selector="share-button"]
-rutv.pw,sportcsat.ru##div[class^="adlook-"][class*="-wrapper"]
 rutv.ru###btns
 ruwest.ru##.blk-socials
 ruwix.com###socialLinx
@@ -39823,6 +39840,10 @@ si-vreme.com###siv_cookieBanner
 si.com##+js(rmnt, script, '"https://html-load.com/loader.min.js"')
 si.com##^script:has-text('"https://html-load.com/loader.min.js"')
 si.com#@#.is-below-header-ad
+sia.ru###left_fixed_block-rand-1
+sia.ru##div[class*="banana"]
+sia.ru##div[style="clear: left; margin-top: 12px; display: inline-flex; align-items: center; gap: 5px;"]
+sia.ru#?#.header:-abp-has(> h3 > a[href="/?section=519"])
 siamblockchain.com##+js(rmnt, script, var Data)
 siamblockchain.com##.ai-viewport-1
 siamblockchain.com##.headerad-desk
@@ -40510,8 +40531,7 @@ socialistworker.co.uk##.gform_fields
 socialitelife.com##.mfp-ready
 sociall.io##mat-dialog-container
 socialmediagirls.com##+js(nowoif)
-socialxup.com##+js(trusted-override-element-method, HTMLAnchorElement.prototype.click, a[target="_blank"])
-socialxup.com##a[href^="/"]:matches-attr("href"="/^\/[0-9A-Z_a-z]+-[0-9A-Z_a-z]+$/")
+socialxup.com##a[href^="/"]:not([data-track], :has(> img[src^="/avatar/"])):matches-attr("href"="/^\/(?=[A-Z_a-z]*[0-9])[0-9A-Z_a-z]+$/"):not(:has-text(/注目|達成|凍結|増加|減少|フォロワー/))
 societapiemonteseautomobili.com##.banner, #banner
 societegenerale.fr###c-message
 societegenerale.rs###sgs_cookie
@@ -40758,9 +40778,40 @@ sovetromantica.com##.mainContainer:style(padding-top: 0 !important)
 sovetromantica.com##.working_button
 sovkusom.ru##[id^="essbsocialfanscounterwidget"]
 sovsekretno.ru##.social_button
+sovsport.ru###match-forecasts
+sovsport.ru##.offers-carousel
+sovsport.ru##[class*="_sidebar"] > div ~ div[class*="_container"]
+sovsport.ru##[href*="/promo"]
+sovsport.ru##[href^="https://np.plat.services/"]
+sovsport.ru##a[class*="_btn"][target="_blank"][style*="background:"]
+sovsport.ru##a[href*="/bets"]
+sovsport.ru##a[href*="/bookmaker"]
+sovsport.ru##a[href*="/predictions"]
+sovsport.ru##a[href*="?offer_id="]
+sovsport.ru##a[href*="bonus"]
+sovsport.ru##a[href*="winline.ru"]
+sovsport.ru##a[href="#match-forecasts"]
+sovsport.ru##div[class$="_bet"]
+sovsport.ru##div[class$="_book"]
+sovsport.ru##div[class*="_advertisement"]
+sovsport.ru##div[class*="_bonus"]
+sovsport.ru##div[class*="_footer-social"]
+sovsport.ru##div[class*="_headerFlex"] div[class*="_wrapper"]
+sovsport.ru##div[class*="_notice"]
+sovsport.ru##div[class*="_predictions"]
+sovsport.ru##div[class*="_seoBlock"]
+sovsport.ru##div[class*="_widget"]:not([class*="_widgetNews"])
+sovsport.ru##div[class*="coefficient"]
+sovsport.ru##div[class*="freeBet"]
+sovsport.ru##div[class*="partnerMark"]
 sovsport.ru##div[class^="share-popover"]
 sovsport.ru##div[class^="social-media-buttons-module"]
-sovsport.ru##div[class^="styles_footer-social-buttons-grid-item"]
+sovsport.ru##section[class*="_advPlayer"]
+sovsport.ru#?#div[class*="_mainPageContent"]:-abp-has(a[href*="/bookmaker"])
+sovsport.ru#?#h2:-abp-contains(/бонусы| ставки | ставок | ставках/i)
+sovsport.ru#?#h3:-abp-contains(/бонусы| ставки | ставок | ставках/i)
+sovsport.ru#?#ul[class*="_mediaList"] > li:-abp-has(a[href*="bonus"])
+sovsport.ru#?#ul[class*="_mediaList"] > li:-abp-has(a[href*="bookmaker"])
 soxprospects.com##.auto-style228
 soxprospects.com##td[style="border: 1px solid #000000; font-family: Arial, Helvetica, sans-serif; font-size: 9pt; background-color: #FFFFFF; text-align: center; padding-left: 6px; padding-top: 6px; padding-bottom: 6px;"]
 soxprospects.com##td[style="border: 1px solid #000000; padding: 4px; font-family: Arial, Helvetica, sans-serif; font-size: 11pt; background-color: #FFFFFF; text-align: center;"]
@@ -43065,6 +43116,7 @@ teletexto.com###priv
 teletorium.pl##.cookies
 televid.top,ontvtime.ru,zhdcdn1.li,freecam.ro##+js(aeld, contextmenu)
 televisa.com##section.Privacy
+televizia.org,webcamromania.ro##+js(aeld, contextmenu, preventDefault)
 televiziebi.tv##+js(edit-object-on-setter, jwpConfig, .advertising)
 televiziebi.tv##.ads-baneri-1
 televiziebi.tv##.avc-asvl
